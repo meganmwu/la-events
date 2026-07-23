@@ -12,16 +12,17 @@ from util import fetch_text, strip_tags
 # also walking the free-filtered version of the same search.
 
 # The bare /events/ browse feed often serves an empty shell to scripts, so we
-# supplement it with keyword searches (which render reliably) for LA-wide reach.
+# supplement it with keyword searches (which render reliably). Keywords are
+# performance-focused to match B-Scene's scope.
 DEFAULT_SEARCHES = [
     "https://www.eventbrite.com/d/ca--los-angeles/events/",
-    "https://www.eventbrite.com/d/ca--los-angeles/usc/",
     "https://www.eventbrite.com/d/ca--los-angeles/concerts/",
+    "https://www.eventbrite.com/d/ca--los-angeles/live-music/",
     "https://www.eventbrite.com/d/ca--los-angeles/comedy/",
-    "https://www.eventbrite.com/d/ca--los-angeles/art/",
-    "https://www.eventbrite.com/d/ca--los-angeles/market/",
-    "https://www.eventbrite.com/d/ca--los-angeles/workshop/",
-    "https://www.eventbrite.com/d/ca--los-angeles/community/",
+    "https://www.eventbrite.com/d/ca--los-angeles/theater/",
+    "https://www.eventbrite.com/d/ca--los-angeles/dance/",
+    "https://www.eventbrite.com/d/ca--los-angeles/open-mic/",
+    "https://www.eventbrite.com/d/ca--los-angeles/usc/",
 ]
 
 # Every Eventbrite event is checked against these — affiliation comes from the

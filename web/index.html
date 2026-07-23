@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Events in L.A.</title>
+  <meta name="description" content="Small shows and community events across Los Angeles, pulled from many sources into one place." />
+  <link rel="stylesheet" href="https://use.typekit.net/fsc4rce.css" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>😝</text></svg>" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <h1>Events in L.A.</h1>
+      <p class="tagline">Events found across the web, in one place.</p>
+      <div class="meta" id="meta"></div>
+    </div>
+  </header>
+
+  <section class="controls">
+    <div class="wrap">
+      <div class="controls-row">
+        <div class="view-toggle" id="view-toggle" role="tablist" aria-label="Date range view">
+          <button data-view="day">Day</button>
+          <button data-view="week" class="active">Week</button>
+        </div>
+        <div class="pager" id="pager">
+          <button id="prev" title="Previous" aria-label="Previous period">‹</button>
+          <button id="today-btn">Today</button>
+          <button id="next" title="Next" aria-label="Next period">›</button>
+          <button id="cal-btn" aria-haspopup="dialog" aria-expanded="false">
+            <span class="period-label" id="period-label"></span>
+            <span class="caret">▾</span>
+          </button>
+          <div id="calendar" class="calendar hidden" role="dialog" aria-label="Pick a date"></div>
+        </div>
+        <input type="search" id="search" placeholder="Search events, artists, venues…" />
+      </div>
+
+      <div class="controls-row chips-row" id="category-chips" aria-label="Event type"></div>
+
+      <div class="controls-row filters-row">
+        <label class="toggle">
+          <input type="checkbox" id="free-only" />
+          <span class="toggle-pill"></span> Free events only
+        </label>
+      </div>
+
+      <div class="controls-row chips-row genre-row hidden" id="genre-chips" aria-label="Music genre"></div>
+    </div>
+  </section>
+
+  <main class="wrap" id="results" aria-live="polite"></main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>
+        Event data belongs to its sources —
+        <a href="https://www.eventbrite.com/d/ca--los-angeles/events/" target="_blank" rel="noopener">Eventbrite</a>,
+        <a href="https://losangeles.ohmyrockness.com/" target="_blank" rel="noopener">Oh My Rockness</a>,
+        <a href="https://cap.ucla.edu/calendar" target="_blank" rel="noopener">CAP UCLA</a>,
+        <a href="https://www.losangelesfunevents.com/" target="_blank" rel="noopener">LA Fun Events</a>.
+        Always check the linked event page for final details.
+      </p>
+    </div>
+  </footer>
+
+  <script src="data/events.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

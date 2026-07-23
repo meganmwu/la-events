@@ -1,7 +1,8 @@
-# LA Local
+# B-Scene
 
-One place to browse small shows & community events across Los Angeles, aggregated
-from sources that each have their own site and UX. Events keep a clear label for
+Discover local shows and performances. B-Scene aggregates music, nightlife,
+arts & theater, and film events across Los Angeles from sources that each
+have their own site and UX. Events keep a clear label for
 where they came from (and a USC / UCLA badge when they're affiliated), with a
 link out to the original event page for details and tickets.
 

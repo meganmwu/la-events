@@ -8,7 +8,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-from categories import CATEGORIES
+from categories import CATEGORIES, PERFORMANCE_CATEGORIES
 from sources import capucla, eventbrite, lafunevents, ohmyrockness
 from util import dedupe_key
 
@@ -92,7 +92,11 @@ def main():
             all_events += old_events
 
     today = date.today().isoformat()
-    upcoming = [e for e in all_events if e.get("date") and e["date"] >= today]
+    upcoming = [
+        e
+        for e in all_events
+        if e.get("date") and e["date"] >= today and e["category"] in PERFORMANCE_CATEGORIES
+    ]
 
     by_key = {}
     for ev in upcoming:
@@ -113,7 +117,7 @@ def main():
     payload = json.dumps(
         {
             "scrapedAt": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-            "categories": CATEGORIES,
+            "categories": {k: v for k, v in CATEGORIES.items() if k in PERFORMANCE_CATEGORIES},
             "counts": counts,
             "events": events,
         },

@@ -2,6 +2,9 @@
 
 import re
 
+# B-Scene is performances only — events outside these buckets are dropped.
+PERFORMANCE_CATEGORIES = ("music", "nightlife", "arts", "film")
+
 CATEGORIES = {
     "music": "Music",
     "nightlife": "Nightlife & Parties",

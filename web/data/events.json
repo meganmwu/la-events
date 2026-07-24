@@ -2295,7 +2295,7 @@
     "PG-14 (mbrs of Matt & Kim)",
     "HLLLYH (ex-The Mae Shi)"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/469266-parts-labor-pg-14-mbrs-of-matt-kim-hlllyh-ex-the-mae-shi-zebulon",
+   "url": "http://ohmyrockness.com/shows/469266-parts-labor-pg-14-mbrs-of-matt-kim-hlllyh-ex-the-mae-shi-zebulon",
    "ticketUrl": "https://dice.fm/event/eomgyd-parts-labor-pg-14-hlllyh-24th-jul-zebulon-los-angeles-tickets",
    "imageUrl": null,
    "date": "2026-07-24",
@@ -2840,7 +2840,7 @@
    "artists": [
     "Ian Sweet"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/469875-ian-sweet-bob-baker-marionette-theater",
+   "url": "http://ohmyrockness.com/shows/469875-ian-sweet-bob-baker-marionette-theater",
    "ticketUrl": "https://dice.fm/event/wwd29p-school-house-rocks-ian-sweet-24th-jul-bob-baker-marionette-theater-los-angeles-tickets",
    "imageUrl": null,
    "date": "2026-07-24",
@@ -3261,11 +3261,15 @@
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Cormega",
+   "title": "Cormega + Big Twins + Da Inphamus Amadeuz + Paws One + DJ Survive",
    "artists": [
-    "Cormega"
+    "Cormega",
+    "Big Twins",
+    "Da Inphamus Amadeuz",
+    "Paws One",
+    "DJ Survive"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/468333-cormega-the-regent-theater",
+   "url": "https://losangeles.ohmyrockness.com/shows/468333-cormega-big-twins-da-inphamus-amadeuz-paws-one-dj-survive-the-regent-theater",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fcormega-the-realness-25th-anniversary-los-angeles-california-07-24-2026%2Fevent%2F090064773F710DA6",
    "imageUrl": null,
    "date": "2026-07-24",
@@ -3279,7 +3283,7 @@
    "genres": [
     "Indie / Alt"
    ],
-   "description": "All Ages",
+   "description": "18+",
    "soldOut": false,
    "id": 127,
    "shortDesc": "Indie / Alt show at The Regent Theater · All Ages — via Oh My Rockness"
@@ -5088,6 +5092,36 @@
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
+   "title": "Gylt + CNTS + Molly Horses + Super Violate",
+   "artists": [
+    "Gylt",
+    "CNTS",
+    "Molly Horses",
+    "Super Violate"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/476045-gylt-cnts-molly-horses-super-violate-non-plus-ultra",
+   "ticketUrl": "https://www.instagram.com/p/DaQ9pGBSSqG/",
+   "imageUrl": null,
+   "date": "2026-07-25",
+   "time": "20:00",
+   "venue": "Non Plus Ultra",
+   "address": ", ,    ",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "",
+   "soldOut": false,
+   "id": 89,
+   "shortDesc": "Indie / Alt show at Non Plus Ultra — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
    "title": "Widespread Panic",
    "artists": [
     "Widespread Panic"
@@ -5150,7 +5184,7 @@
     "Bryce Dessner",
     "Max Richter"
    ],
-   "url": "http://www.ohmyrockness.com/shows/471160-joe-hisaishi-nico-muhly-bryce-dessner-max-richter-the-ford",
+   "url": "https://losangeles.ohmyrockness.com/shows/471160-joe-hisaishi-nico-muhly-bryce-dessner-max-richter-the-ford",
    "ticketUrl": "https://www.theford.com/events/performances/4855/2026-07-25/joe-hisaishi-presents-music-future-vol-13",
    "imageUrl": null,
    "date": "2026-07-25",
@@ -5550,6 +5584,33 @@
    "soldOut": false,
    "id": 215,
    "shortDesc": "Pop show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Finish Ticket",
+   "artists": [
+    "Finish Ticket"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/470013-finish-ticket-permanent-records-roadhouse",
+   "ticketUrl": "https://app.opendate.io/e/finish-ticket-july-25-2026-695620",
+   "imageUrl": null,
+   "date": "2026-07-25",
+   "time": "21:00",
+   "venue": "Permanent Records Roadhouse",
+   "address": "1906 Cypress Ave, Los Angeles, CA 90065",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "21+",
+   "soldOut": false,
+   "id": 104,
+   "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
   },
   {
    "source": "eventbrite",
@@ -6243,6 +6304,33 @@
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
+   "title": "Marcos Valle",
+   "artists": [
+    "Marcos Valle"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/470232-marcos-valle-lodge-room",
+   "ticketUrl": "https://www.lodgeroomhlp.com/shows/marcos-valle/",
+   "imageUrl": null,
+   "date": "2026-07-26",
+   "time": "18:00",
+   "venue": "Lodge Room",
+   "address": "104 N. Ave 56, 2nd Floor, Los Angeles, CA 90042",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 118,
+   "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
    "title": "Gracie and Rachel",
    "artists": [
     "Gracie and Rachel"
@@ -6713,7 +6801,7 @@
     "The Body",
     "Big Brave"
    ],
-   "url": "http://www.ohmyrockness.com/shows/468883-the-body-big-brave-zebulon",
+   "url": "https://losangeles.ohmyrockness.com/shows/468883-the-body-big-brave-zebulon",
    "ticketUrl": "https://dice.fm/event/bbr2vg-the-body-big-brave-26th-jul-zebulon-los-angeles-tickets",
    "imageUrl": null,
    "date": "2026-07-26",
@@ -7068,7 +7156,7 @@
     "Sunday Mourners",
     "Maybellene Ryder"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/472496-scout-gillett-sunday-mourners-maybellene-ryder-oblivion",
+   "url": "http://ohmyrockness.com/shows/472496-scout-gillett-sunday-mourners-maybellene-ryder-oblivion",
    "ticketUrl": "https://dice.fm/event/7dbe37-scout-gillett-sunday-mourners-maybellene-ryder-27th-jul-oblivion-los-angeles-tickets",
    "imageUrl": null,
    "date": "2026-07-27",
@@ -7095,7 +7183,7 @@
    "artists": [
     "Boris Brejcha"
    ],
-   "url": "http://www.ohmyrockness.com/shows/467268-boris-brejcha-pappy-harriet-s",
+   "url": "https://losangeles.ohmyrockness.com/shows/467268-boris-brejcha-pappy-harriet-s",
    "ticketUrl": "https://wl.seetickets.us/event/boris-brejcha/679241?afflky=pappyandharriets",
    "imageUrl": null,
    "date": "2026-07-27",
@@ -7267,7 +7355,7 @@
    "artists": [
     "Chance Peña"
    ],
-   "url": "http://www.ohmyrockness.com/shows/461348-chance-pena-fonda-theatre",
+   "url": "https://losangeles.ohmyrockness.com/shows/461348-chance-pena-fonda-theatre",
    "ticketUrl": "https://www.axs.com/events/1241123/chance-pena-tickets",
    "imageUrl": null,
    "date": "2026-07-27",
@@ -7815,7 +7903,7 @@
     "Santigold",
     "Troy Baker Sound"
    ],
-   "url": "http://ohmyrockness.com/shows/468313-santigold-troy-baker-sound-the-glass-house",
+   "url": "https://losangeles.ohmyrockness.com/shows/468313-santigold-troy-baker-sound-the-glass-house",
    "ticketUrl": "https://dice.fm/event/ww6o2p-santigold-28th-jul-the-glass-house-pomona-tickets",
    "imageUrl": null,
    "date": "2026-07-28",
@@ -8611,12 +8699,12 @@
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "DOMi + JD Beck",
+   "title": "Domi + JD Beck",
    "artists": [
-    "DOMi",
+    "Domi",
     "JD Beck"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/475943-domi-jd-beck-lodge-room",
+   "url": "http://ohmyrockness.com/shows/475943-domi-jd-beck-lodge-room",
    "ticketUrl": "https://www.lodgeroomhlp.com/shows/domi-and-jd-beck-album-release-show/",
    "imageUrl": null,
    "date": "2026-07-29",
@@ -9288,6 +9376,33 @@
    "shortDesc": "WE FOUND NEW MUSIC Artist Discovery Concert Series LOCATION: Bar Lubitsch Free with RSVP 21+. 7:00pm Doors — via Eventbrite"
   },
   {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Sublime",
+   "artists": [
+    "Sublime"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/476051-sublime-the-grammy-museum",
+   "ticketUrl": "https://grammymuseum.org/event/an-evening-with-sublime",
+   "imageUrl": null,
+   "date": "2026-07-30",
+   "time": "19:30",
+   "venue": "The Grammy Museum",
+   "address": "800 W Olympic Blvd., Los Angeles, CA 90015",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 203,
+   "shortDesc": "Indie / Alt show at The Grammy Museum · All Ages — via Oh My Rockness"
+  },
+  {
    "source": "eventbrite",
    "sourceLabel": "Eventbrite",
    "org": null,
@@ -9947,6 +10062,36 @@
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
+   "title": "The Difference + Said and Done + Gaining Ground + Till The End",
+   "artists": [
+    "The Difference",
+    "Said and Done",
+    "Gaining Ground",
+    "Till The End"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/475965-the-difference-said-and-done-gaining-ground-till-the-end-milky-s",
+   "ticketUrl": "https://dice.fm/event/nvp3vl-the-difference-said-and-done-gaining-ground-till-the-end-31st-jul-milkys-los-angeles-tickets",
+   "imageUrl": null,
+   "date": "2026-07-31",
+   "time": "19:00",
+   "venue": "Milky's",
+   "address": "5240 Alhambra Avenue, Los Angeles, CA 90032",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 228,
+   "shortDesc": "Indie / Alt show at Milky's · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
    "title": "h4rtbrkr + derit",
    "artists": [
     "h4rtbrkr",
@@ -10385,7 +10530,7 @@
     "Adi Meyerson",
     "Devin Daniels"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/475110-steve-blum-adi-meyerson-devin-daniels-healing-force-of-the-universe",
+   "url": "http://ohmyrockness.com/shows/475110-steve-blum-adi-meyerson-devin-daniels-healing-force-of-the-universe",
    "ticketUrl": "https://dice.fm/event/eoxyld",
    "imageUrl": null,
    "date": "2026-07-31",
@@ -10696,6 +10841,36 @@
    "soldOut": false,
    "id": 419,
    "shortDesc": "Noche de Rock Indie Pop Rock en Español — via Eventbrite"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "The Bombillas + Al Lover + Boss Harmz (DJ Set) + Atiba (DJ Set)",
+   "artists": [
+    "The Bombillas",
+    "Al Lover",
+    "Boss Harmz (DJ Set)",
+    "Atiba (DJ Set)"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/476044-the-bombillas-al-lover-boss-harmz-dj-set-atiba-dj-set-camille-s-at-the-bellwether",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fdesert-daze-presents-microdazing-the-camilles-at-the-bellwether-tickets%2F14257114%3Fcamefrom%3DCFC_THEBELLWETHER_web%26brand%3Dthebellwether",
+   "imageUrl": null,
+   "date": "2026-07-31",
+   "time": "21:00",
+   "venue": "Camille's at The Bellwether",
+   "address": "333 S. Boylston St, Los Angeles, CA 90017",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Electronic"
+   ],
+   "description": "21+",
+   "soldOut": false,
+   "id": 249,
+   "shortDesc": "Electronic show at Camille's at The Bellwether · 21+ — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
@@ -12718,7 +12893,7 @@
     "Death Cab For Cutie",
     "Nation of Language"
    ],
-   "url": "http://ohmyrockness.com/shows/463922-death-cab-for-cutie-nation-of-language-the-greek-theatre",
+   "url": "https://losangeles.ohmyrockness.com/shows/463922-death-cab-for-cutie-nation-of-language-the-greek-theatre",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fdeath-cab-for-cutie-los-angeles-california-08-02-2026%2Fevent%2F09006435E6A2D26C",
    "imageUrl": null,
    "date": "2026-08-02",
@@ -13742,7 +13917,7 @@
     "Strog",
     "Paer"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/475107-june-swoon-josaleigh-pollett-strog-paer-el-cid",
+   "url": "http://ohmyrockness.com/shows/475107-june-swoon-josaleigh-pollett-strog-paer-el-cid",
    "ticketUrl": "https://dice.fm/event/7dwwov-june-swoon-josaleigh-pollett-strog-and-paer-5th-aug-el-cid-los-angeles-tickets",
    "imageUrl": null,
    "date": "2026-08-05",
@@ -13942,6 +14117,34 @@
    "soldOut": false,
    "id": 545,
    "shortDesc": "Indie / Alt show at Fonda Theatre · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Jay Lee Campbell + Jacob Cummings",
+   "artists": [
+    "Jay Lee Campbell",
+    "Jacob Cummings"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/475966-jay-lee-campbell-jacob-cummings-healing-force-of-the-universe",
+   "ticketUrl": "https://dice.fm/event/6do772",
+   "imageUrl": null,
+   "date": "2026-08-05",
+   "time": "20:00",
+   "venue": "Healing Force of the Universe",
+   "address": "1200 E Walnut Street, Pasadena, CA 91106",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "21+",
+   "soldOut": false,
+   "id": 344,
+   "shortDesc": "Indie / Alt show at Healing Force of the Universe · 21+ — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
@@ -14349,11 +14552,12 @@
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Yard Act",
+   "title": "Yard Act + Bambara",
    "artists": [
-    "Yard Act"
+    "Yard Act",
+    "Bambara"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/469722-yard-act-teragram-ballroom",
+   "url": "https://losangeles.ohmyrockness.com/shows/469722-yard-act-bambara-teragram-ballroom",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fyard-act-los-angeles-california-08-06-2026%2Fevent%2F0900648FD10BA40A",
    "imageUrl": null,
    "date": "2026-08-06",
@@ -14438,7 +14642,7 @@
     "Bliss",
     "Drawing Ghost"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/475049-masha-and-the-fam-bliss-drawing-ghost-the-cat-s-crawl",
+   "url": "http://ohmyrockness.com/shows/475049-masha-and-the-fam-bliss-drawing-ghost-the-cat-s-crawl",
    "ticketUrl": "https://partiful.com/e/WU5xc6Wfil7IpEFbB1Sg?",
    "imageUrl": null,
    "date": "2026-08-06",
@@ -14637,6 +14841,33 @@
    "soldOut": false,
    "id": 571,
    "shortDesc": "Indie / Alt show at Kia Forum · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "YG",
+   "artists": [
+    "YG"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/476052-yg-the-grammy-museum",
+   "ticketUrl": "https://grammymuseum.org/event/the-drop-yg",
+   "imageUrl": null,
+   "date": "2026-08-06",
+   "time": "19:30",
+   "venue": "The Grammy Museum",
+   "address": "800 W Olympic Blvd., Los Angeles, CA 90015",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 367,
+   "shortDesc": "Indie / Alt show at The Grammy Museum · All Ages — via Oh My Rockness"
   },
   {
    "source": "eventbrite",
@@ -15235,11 +15466,13 @@
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Steven G",
+   "title": "Steven G + Tayy Tarantino + Pofsky",
    "artists": [
-    "Steven G"
+    "Steven G",
+    "Tayy Tarantino",
+    "Pofsky"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/472394-steven-g-the-echo",
+   "url": "https://losangeles.ohmyrockness.com/shows/472394-steven-g-tayy-tarantino-pofsky-the-echo",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fsteven-g-los-angeles-california-08-07-2026%2Fevent%2F0900631905E9627A",
    "imageUrl": null,
    "date": "2026-08-07",
@@ -15627,7 +15860,7 @@
     "Landmvrks",
     "Thousand Below"
    ],
-   "url": "http://ohmyrockness.com/shows/465512-poppy-landmvrks-thousand-below-hollywood-palladium",
+   "url": "https://losangeles.ohmyrockness.com/shows/465512-poppy-landmvrks-thousand-below-hollywood-palladium",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fpoppy-constantly-nowhere-tour-hollywood-california-08-07-2026%2Fevent%2F0900644C97F09EC7",
    "imageUrl": null,
    "date": "2026-08-07",
@@ -15823,7 +16056,7 @@
     "Black Cat Coalition",
     "PlusFiction"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/475285-trick-the-riddle-black-cat-coalition-plusfiction-the-smell",
+   "url": "http://ohmyrockness.com/shows/475285-trick-the-riddle-black-cat-coalition-plusfiction-the-smell",
    "ticketUrl": "https://www.thesmell.org/eventtickets/p/friday-august-7-2026",
    "imageUrl": null,
    "date": "2026-08-07",
@@ -18312,6 +18545,172 @@
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Anthony Jeselnik",
+   "artists": [
+    "Anthony Jeselnik"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474267-anthony-jeselnik-largo",
+   "ticketUrl": "https://wl.seetickets.us/event/anthony-jeselnik-and-enemies/695092?afflky=LargoAtTheCoronet",
+   "imageUrl": null,
+   "date": "2026-08-12",
+   "time": "18:00",
+   "venue": "Largo",
+   "address": "432 Fairfax Ave, Los Angeles, CA 90036",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 486,
+   "shortDesc": "Indie / Alt show at Largo · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "hyps + Mooncult + Powder Pink & Sweet",
+   "artists": [
+    "hyps",
+    "Mooncult",
+    "Powder Pink & Sweet"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/475835-hyps-mooncult-powder-pink-sweet-gold-diggers",
+   "ticketUrl": "https://dice.fm/event/xe3973-hyps-mooncult-powder-pink-and-sweet-12th-aug-gold-diggers-los-angeles-tickets",
+   "imageUrl": null,
+   "date": "2026-08-12",
+   "time": "19:00",
+   "venue": "Gold-Diggers",
+   "address": "5632 Santa Monica Blvd, Los Angeles, CA 90038",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "21+",
+   "soldOut": false,
+   "id": 487,
+   "shortDesc": "Indie / Alt show at Gold-Diggers · 21+ — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Lynae Vanee",
+   "artists": [
+    "Lynae Vanee"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474792-lynae-vanee-lodge-room",
+   "ticketUrl": "https://www.lodgeroomhlp.com/shows/lynae-vanee/",
+   "imageUrl": null,
+   "date": "2026-08-12",
+   "time": "19:00",
+   "venue": "Lodge Room",
+   "address": "104 N. Ave 56, 2nd Floor, Los Angeles, CA 90042",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 488,
+   "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "PLAYLUNCH + Sego",
+   "artists": [
+    "PLAYLUNCH",
+    "Sego"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/466329-playlunch-sego-the-echo",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fplaylunch-los-angeles-california-08-12-2026%2Fevent%2F0900645315DE8AF6",
+   "imageUrl": null,
+   "date": "2026-08-12",
+   "time": "19:00",
+   "venue": "The Echo",
+   "address": "1822 Sunset Blvd., Echo Park, CA 90026",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 489,
+   "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Bandalos Chinos",
+   "artists": [
+    "Bandalos Chinos"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/471191-bandalos-chinos-the-observatory",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fbandalos-chinos-santa-ana-california-08-12-2026%2Fevent%2F090064A601AFF34F",
+   "imageUrl": null,
+   "date": "2026-08-12",
+   "time": "19:00",
+   "venue": "The Observatory",
+   "address": "3503 S. Harbor Blvd., Santa Ana, CA 92704",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 490,
+   "shortDesc": "Indie / Alt show at The Observatory · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "RÜFÜS DU SOL + Ben Bohmer",
+   "artists": [
+    "RÜFÜS DU SOL",
+    "Ben Bohmer"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474954-rufus-du-sol-ben-bohmer-kia-forum",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Frufus-du-sol-north-america-2026-inglewood-california-08-12-2026%2Fevent%2F09006455E5F2E3B2",
+   "imageUrl": null,
+   "date": "2026-08-12",
+   "time": "19:30",
+   "venue": "Kia Forum",
+   "address": "3900 W Manchester Blvd, Inglewood, CA 90305",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 491,
+   "shortDesc": "Indie / Alt show at Kia Forum · All Ages — via Oh My Rockness"
+  },
+  {
    "source": "eventbrite",
    "sourceLabel": "Eventbrite",
    "org": null,
@@ -18430,6 +18829,117 @@
    "shortDesc": "Neon Moon is a curated comedy showcase hosted by Steve Furey featuring standout comics and special drop-ins… — via Eventbrite"
   },
   {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Jay Lee Campbell",
+   "artists": [
+    "Jay Lee Campbell"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/475967-jay-lee-campbell-healing-force-of-the-universe",
+   "ticketUrl": "https://dice.fm/event/bb9eeo",
+   "imageUrl": null,
+   "date": "2026-08-12",
+   "time": "20:00",
+   "venue": "Healing Force of the Universe",
+   "address": "1200 E Walnut Street, Pasadena, CA 91106",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "21+",
+   "soldOut": false,
+   "id": 493,
+   "shortDesc": "Indie / Alt show at Healing Force of the Universe · 21+ — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Ani DiFranco + Valerie June",
+   "artists": [
+    "Ani DiFranco",
+    "Valerie June"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/471162-ani-difranco-valerie-june-the-ford",
+   "ticketUrl": "https://www.theford.com/events/performances/4861/2026-08-12/ani-difranco",
+   "imageUrl": null,
+   "date": "2026-08-12",
+   "time": "20:00",
+   "venue": "The Ford",
+   "address": "2580 Cahuenga Blvd East, Hollywood, CA 90068",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 494,
+   "shortDesc": "Indie / Alt show at The Ford · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Jill Scott",
+   "artists": [
+    "Jill Scott"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/467083-jill-scott-youtube-theater",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fjill-scott-to-whom-this-may-inglewood-california-08-12-2026%2Fevent%2F0A006466E756B0D7",
+   "imageUrl": null,
+   "date": "2026-08-12",
+   "time": "20:00",
+   "venue": "YouTube Theater",
+   "address": "1050 S. Prairie Ave., Inglewood, CA 90301",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 495,
+   "shortDesc": "Indie / Alt show at YouTube Theater · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Donzii + Mondo Mundo + Fuedal",
+   "artists": [
+    "Donzii",
+    "Mondo Mundo",
+    "Fuedal"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/473486-donzii-mondo-mundo-fuedal-zebulon",
+   "ticketUrl": "https://dice.fm/event/eo8nv6-donzii-mondo-mundo-fuedal-12th-aug-zebulon-los-angeles-ticketsz",
+   "imageUrl": null,
+   "date": "2026-08-12",
+   "time": "20:00",
+   "venue": "Zebulon",
+   "address": "2478 N Fletcher Drive, Los Angeles, CA 90039",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "21+",
+   "soldOut": false,
+   "id": 496,
+   "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
+  },
+  {
    "source": "eventbrite",
    "sourceLabel": "Eventbrite",
    "org": null,
@@ -18497,6 +19007,232 @@
    "soldOut": false,
    "id": 720,
    "shortDesc": "Get ready to laugh your crust off at Pizza Gate Comedy – great jokes and tasty slices await! — via Eventbrite"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Fury + Forced Order + Soul Search + Illusion + Blood & Tears + Everybody Takes One",
+   "artists": [
+    "Fury",
+    "Forced Order",
+    "Soul Search",
+    "Illusion",
+    "Blood & Tears",
+    "Everybody Takes One"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474995-fury-forced-order-soul-search-illusion-blood-tears-everybody-takes-one-milky-s",
+   "ticketUrl": "https://lfg.soundandfury.la/e/fury-081326",
+   "imageUrl": null,
+   "date": "2026-08-13",
+   "time": "18:00",
+   "venue": "Milky's",
+   "address": "5240 Alhambra Avenue, Los Angeles, CA 90032",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Soul / Funk"
+   ],
+   "description": "",
+   "soldOut": false,
+   "id": 501,
+   "shortDesc": "Soul / Funk show at Milky's — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Tedeschi Trucks Band",
+   "artists": [
+    "Tedeschi Trucks Band"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/464241-tedeschi-trucks-band-santa-barbara-bowl",
+   "ticketUrl": "https://www.axs.com/events/1303197/tedeschi-trucks-band-tickets?skin=sbbowl",
+   "imageUrl": null,
+   "date": "2026-08-13",
+   "time": "18:00",
+   "venue": "Santa Barbara Bowl",
+   "address": "1122 N. Milpas Street, Santa Barbara, CA 93101",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 502,
+   "shortDesc": "Indie / Alt show at Santa Barbara Bowl · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "tig3r Lewis",
+   "artists": [
+    "tig3r Lewis"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474445-tig3r-lewis-moroccan-lounge",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Ftig3r-lewis-los-angeles-california-08-13-2026%2Fevent%2F090064C1DF80E157%3Fbrand%3Dmoroccan%26came_from%3DCFC_Moroccan_web",
+   "imageUrl": null,
+   "date": "2026-08-13",
+   "time": "18:30",
+   "venue": "Moroccan Lounge",
+   "address": "901 E 1st Street, Los Angeles, CA 90012",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 503,
+   "shortDesc": "Indie / Alt show at Moroccan Lounge · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Hole Dweller + Diplodocus + Gargoyle",
+   "artists": [
+    "Hole Dweller",
+    "Diplodocus",
+    "Gargoyle"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474645-hole-dweller-diplodocus-gargoyle-brain-dead-studios",
+   "ticketUrl": "https://dice.fm/event/g53676-sound-and-fury-presents-hole-dweller-diplodocus-gargoyle-13th-aug-brain-dead-studios-los-angeles-tickets",
+   "imageUrl": null,
+   "date": "2026-08-13",
+   "time": "19:00",
+   "venue": "Brain Dead Studios",
+   "address": "611 N Fairfax Ave, Los Angeles, CA 90036",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 504,
+   "shortDesc": "Indie / Alt show at Brain Dead Studios · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Santana + The Doobie Brothers",
+   "artists": [
+    "Santana",
+    "The Doobie Brothers"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/465592-santana-the-doobie-brothers-hollywood-bowl",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fsantana-the-doobie-brothers-oneness-tour-hollywood-california-08-13-2026%2Fevent%2F0B00644BE0465338",
+   "imageUrl": null,
+   "date": "2026-08-13",
+   "time": "19:00",
+   "venue": "Hollywood Bowl",
+   "address": "2301 North Highland Ave., Los Angeles, CA 90078",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 505,
+   "shortDesc": "Indie / Alt show at Hollywood Bowl · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "T.I.",
+   "artists": [
+    "T.I."
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/470589-t-i-hollywood-palladium",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fti-the-king-succession-tour-hollywood-california-08-13-2026%2Fevent%2F090064A11D1C51AF",
+   "imageUrl": null,
+   "date": "2026-08-13",
+   "time": "19:00",
+   "venue": "Hollywood Palladium",
+   "address": "6215 Sunset Blvd, Hollywood, CA 90028",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 506,
+   "shortDesc": "Indie / Alt show at Hollywood Palladium · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Saves The Day + Pity Sex + Downward",
+   "artists": [
+    "Saves The Day",
+    "Pity Sex",
+    "Downward"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/473515-saves-the-day-pity-sex-downward-lodge-room",
+   "ticketUrl": "https://www.lodgeroomhlp.com/shows/sound-and-fury-kickoff/",
+   "imageUrl": null,
+   "date": "2026-08-13",
+   "time": "19:00",
+   "venue": "Lodge Room",
+   "address": "104 N. Ave 56, 2nd Floor, Los Angeles, CA 90042",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 507,
+   "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "jayo",
+   "artists": [
+    "jayo"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474573-jayo-teragram-ballroom",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fjayo-the-antidepressants-tour-2026-los-angeles-california-08-13-2026%2Fevent%2F090064DD9EA179B5%3Fbrand%3Dteragram%26came_from%3DCFC_Teragram_web",
+   "imageUrl": null,
+   "date": "2026-08-13",
+   "time": "19:00",
+   "venue": "Teragram Ballroom",
+   "address": "1234 West 7th Street, Los Angeles, CA 90017",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 508,
+   "shortDesc": "Indie / Alt show at Teragram Ballroom · All Ages — via Oh My Rockness"
   },
   {
    "source": "lafunevents",
@@ -18598,6 +19334,63 @@
    "shortDesc": "Get ready to laugh your socks off with a wild lineup of comedy misfits bringing the funny like never before. — via Eventbrite"
   },
   {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "RÜFÜS DU SOL + Ben Bohmer",
+   "artists": [
+    "RÜFÜS DU SOL",
+    "Ben Bohmer"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474955-rufus-du-sol-ben-bohmer-kia-forum",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Frufus-du-sol-north-america-2026-inglewood-california-08-13-2026%2Fevent%2F09006455E5F7E3C2",
+   "imageUrl": null,
+   "date": "2026-08-13",
+   "time": "19:30",
+   "venue": "Kia Forum",
+   "address": "3900 W Manchester Blvd, Inglewood, CA 90305",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 512,
+   "shortDesc": "Indie / Alt show at Kia Forum · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Quicksand + Bane + Soul Blind",
+   "artists": [
+    "Quicksand",
+    "Bane",
+    "Soul Blind"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/472284-quicksand-bane-soul-blind-the-bellwether",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fquicksand-bane-los-angeles-california-08-13-2026%2Fevent%2F090064B5BE4DF151",
+   "imageUrl": null,
+   "date": "2026-08-13",
+   "time": "19:30",
+   "venue": "The Bellwether",
+   "address": "333 S. Boylston Street, Los Angeles, CA 90025",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Soul / Funk"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 513,
+   "shortDesc": "Soul / Funk show at The Bellwether · All Ages — via Oh My Rockness"
+  },
+  {
    "source": "eventbrite",
    "sourceLabel": "Eventbrite",
    "org": null,
@@ -18619,6 +19412,92 @@
    "soldOut": false,
    "id": 725,
    "shortDesc": "Speed Trap Comedy is a variety showcase featuring LA’s best up-and-coming and headlining comedians and… — via Eventbrite"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Guinga + Anna Paes",
+   "artists": [
+    "Guinga",
+    "Anna Paes"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/473798-guinga-anna-paes-2220-arts-archives",
+   "ticketUrl": "https://dice.fm/event/2w5rx7-guinga-anna-paes-13th-aug-2220-arts-archives-los-angeles-tickets",
+   "imageUrl": null,
+   "date": "2026-08-13",
+   "time": "20:00",
+   "venue": "2220 Arts + Archives",
+   "address": "2220 Beverly Boulevard, Los Angeles, CA 90057",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "21+",
+   "soldOut": false,
+   "id": 515,
+   "shortDesc": "Indie / Alt show at 2220 Arts + Archives · 21+ — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "BOYO + Fime + Cody's Program",
+   "artists": [
+    "BOYO",
+    "Fime",
+    "Cody's Program"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474649-boyo-fime-cody-s-program-gold-diggers",
+   "ticketUrl": "https://dice.fm/event/dko8ee-vlsf-kcrw-presents-boyo-ft-fime-codys-program-13th-aug-gold-diggers-los-angeles-tickets",
+   "imageUrl": null,
+   "date": "2026-08-13",
+   "time": "20:00",
+   "venue": "Gold-Diggers",
+   "address": "5632 Santa Monica Blvd, Los Angeles, CA 90038",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "21+",
+   "soldOut": false,
+   "id": 516,
+   "shortDesc": "Indie / Alt show at Gold-Diggers · 21+ — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Swimming Bell + M.A. Sampson + fr0gluv",
+   "artists": [
+    "Swimming Bell",
+    "M.A. Sampson",
+    "fr0gluv"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/476048-swimming-bell-m-a-sampson-fr0gluv-non-plus-ultra",
+   "ticketUrl": "https://consumer.pxf.io/09VKzJ?subID1=la&u=https://www.eventbrite.com/e/swimming-bell-ma-sampson-seattle-fr0gluv-tickets-1994725715311?aff=ebdsoporgprofile",
+   "imageUrl": null,
+   "date": "2026-08-13",
+   "time": "20:00",
+   "venue": "Non Plus Ultra",
+   "address": ", ,    ",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "",
+   "soldOut": false,
+   "id": 517,
+   "shortDesc": "Indie / Alt show at Non Plus Ultra — via Oh My Rockness"
   },
   {
    "source": "eventbrite",
@@ -19653,6 +20532,34 @@
    "shortDesc": "The hottest comedy show in Hollywood! — via Eventbrite"
   },
   {
+   "source": "lafunevents",
+   "sourceLabel": "LA Fun Events",
+   "org": null,
+   "title": "The Pasadena Singles Party and Social Mixer | Ages 21 and up",
+   "artists": [],
+   "url": "https://www.losangelesfunevents.com/event-details/the-pasadena-singles-party-and-social-mixer-ages-21-and-up-2",
+   "ticketUrl": "https://www.losangelesfunevents.com/event-details/the-pasadena-singles-party-and-social-mixer-ages-21-and-up-2",
+   "imageUrl": {
+    "@type": "ImageObject",
+    "url": "https://static.wixstatic.com/media/7ccd27_97f9f97524e34f5aaeb34f82d2c2d71e~mv2.jpg/v1/fill/w_1324,h_658,al_c,q_85/7ccd27_97f9f97524e34f5aaeb34f82d2c2d71e~mv2.jpg",
+    "width": "1324",
+    "height": "658"
+   },
+   "date": "2026-08-19",
+   "time": "19:00",
+   "venue": "Der Wolf Pasadena",
+   "address": "72 N Fair Oaks Ave, Pasadena, CA 91103, USA",
+   "isFree": false,
+   "priceText": "$10.25–$25.63",
+   "category": "nightlife",
+   "subcategory": "Singles Mixer",
+   "genres": [],
+   "description": "Join 100+ Local Singles for a Singles Party in Pasadena.",
+   "soldOut": false,
+   "id": 545,
+   "shortDesc": "Join 100+ Local Singles for a Singles Party in Pasadena. — via LA Fun Events"
+  },
+  {
    "source": "eventbrite",
    "sourceLabel": "Eventbrite",
    "org": null,
@@ -20441,6 +21348,34 @@
    "soldOut": false,
    "id": 802,
    "shortDesc": "Get ready for a magical night of live tunes and good vibes at the Witch Jam Concert Series 2026! — via Eventbrite"
+  },
+  {
+   "source": "lafunevents",
+   "sourceLabel": "LA Fun Events",
+   "org": null,
+   "title": "Coffee &amp; a Date - Speed Dating Ages 25-38 | Namiko Studio Cafe",
+   "artists": [],
+   "url": "https://www.losangelesfunevents.com/event-details/coffee-a-date-speed-dating-ages-25-38-namiko-studio-cafe",
+   "ticketUrl": "https://www.losangelesfunevents.com/event-details/coffee-a-date-speed-dating-ages-25-38-namiko-studio-cafe",
+   "imageUrl": {
+    "@type": "ImageObject",
+    "url": "https://static.wixstatic.com/media/7ccd27_c1d917d5ea19454faa1f7bf4523a8ef5~mv2.jpg/v1/fill/w_1324,h_656,al_c,q_85/7ccd27_c1d917d5ea19454faa1f7bf4523a8ef5~mv2.jpg",
+    "width": "1324",
+    "height": "656"
+   },
+   "date": "2026-08-23",
+   "time": "14:00",
+   "venue": "Namiko Studio Cafe",
+   "address": "8009 Beverly Blvd, Los Angeles, CA 90048, USA",
+   "isFree": false,
+   "priceText": "$25.63",
+   "category": "nightlife",
+   "subcategory": "Speed Dating",
+   "genres": [],
+   "description": "Sunday Speed Dating with coffee! Join 40+ singles at Namiko Studio Cafe",
+   "soldOut": false,
+   "id": 563,
+   "shortDesc": "Sunday Speed Dating with coffee! Join 40+ singles at Namiko Studio Cafe — via LA Fun Events"
   },
   {
    "source": "eventbrite",

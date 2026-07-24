@@ -43,32 +43,60 @@ body {
 
 /* ---------- header ---------- */
 .site-header {
-  border-bottom: 1px solid var(--line);
+  position: relative;
   background: var(--surface);
+  overflow: hidden;
 }
 
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* Full-bleed step-sequencer grid that spells the wordmark. */
+.hero-grid {
+  display: grid;
+  justify-content: center;
+  gap: var(--hero-gap, 4px);
+}
+
+.hero-cell {
+  width: var(--hero-cell, 16px);
+  height: var(--hero-cell, 16px);
+  background: #fbfaf9;
+  transition: background 0.15s ease-out;
+}
+
+.hero-cell.on { background: var(--ink); }
+.hero-cell.mint { background: var(--accent-fill); }
+.hero-cell.maroon { background: var(--accent2); }
+
+.hero-cell.head { transition: background 0.08s; }
+.hero-cell.head.on,
+.hero-cell.head.mint { background: var(--accent-bright); }
+.hero-cell.head.maroon { background: #a34444; }
+.hero-cell.head.off { background: #e7e5e2; }
+
 .header-inner {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 26px;
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
-  gap: 36px;
-  padding-top: 115px;
-  padding-bottom: 95px;
-}
-
-.header-inner h1 {
-  margin: 0;
-  font-family: var(--font-display);
-  font-weight: 300;
-  font-size: 78px;
-  line-height: 1.05;
-  letter-spacing: -0.01em;
+  gap: 12px;
+  pointer-events: none;
 }
 
 .tagline {
   margin: 0;
-  font-size: 18px;
+  font-size: 13px;
   color: var(--ink-soft);
 }
 
@@ -86,6 +114,7 @@ body {
   backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--line);
   padding: 12px 0;
+  margin-top: 36px;
 }
 
 .controls-row {
@@ -130,13 +159,12 @@ body {
 #cal-btn {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
+  gap: 8px;
   border: 1px solid var(--line);
   background: var(--surface);
   border-radius: 0;
   font: inherit;
-  font-size: 13.5px;
-  padding: 6px 11px;
+  padding: 6px 14px;
   cursor: pointer;
   color: var(--ink);
 }
@@ -258,9 +286,9 @@ body {
 .pager > button:hover { border-color: var(--ink-faint); }
 
 .period-label {
-  font-weight: 600;
-  font-size: 14.5px;
-  margin-left: 4px;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 20px;
   white-space: nowrap;
 }
 
@@ -416,7 +444,6 @@ body {
 }
 
 .card:hover {
-  background: var(--card-hover);
   border-color: var(--accent);
 }
 
@@ -640,8 +667,6 @@ body {
 
 @media (max-width: 640px) {
   .controls { position: static; }
-  .header-inner h1 { font-size: 48px; }
-  .tagline { font-size: 16px; }
-  .header-inner { padding-top: 70px; padding-bottom: 56px; gap: 26px; }
+  .header-inner { bottom: 14px; }
   #search { max-width: none; width: 100%; margin-left: 0; }
 }

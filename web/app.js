@@ -342,7 +342,8 @@ function renderCalendar() {
       class: 'cal-nav',
       'aria-label': 'Previous month',
       text: '‹',
-      onclick: () => {
+      onclick: (ev) => {
+        ev.stopPropagation();
         state.calMonth = shiftDate(monthStart, -1).slice(0, 7);
         renderCalendar();
       },
@@ -355,7 +356,8 @@ function renderCalendar() {
       class: 'cal-nav',
       'aria-label': 'Next month',
       text: '›',
-      onclick: () => {
+      onclick: (ev) => {
+        ev.stopPropagation();
         state.calMonth = shiftDate(monthStart, 31).slice(0, 7);
         renderCalendar();
       },
@@ -423,6 +425,9 @@ function bindControls() {
   });
 
   document.addEventListener('click', (ev) => {
+    // A click that re-rendered the popover leaves its target detached from the
+    // DOM — that's an inside interaction, not an outside click.
+    if (!document.contains(ev.target)) return;
     if (state.calOpen && !ev.target.closest('#cal-btn') && !ev.target.closest('#calendar')) {
       state.calOpen = false;
       renderCalendar();
@@ -464,7 +469,93 @@ function bindControls() {
   });
 }
 
+// ---------- hero sequencer grid ----------
+// Full-bleed grid of "sequencer" cells spelling the wordmark; a playhead
+// column sweeps left to right, pulsing the cells it crosses.
+
+const HERO_GLYPHS = {
+  B: ['XXXX.', 'X...X', 'X...X', 'XXXX.', 'X...X', 'X...X', 'XXXX.'],
+  '-': ['.....', '.....', '.....', '.XXX.', '.....', '.....', '.....'],
+  S: ['.XXXX', 'X....', 'X....', '.XXX.', '....X', '....X', 'XXXX.'],
+  C: ['.XXX.', 'X...X', 'X....', 'X....', 'X....', 'X...X', '.XXX.'],
+  E: ['XXXXX', 'X....', 'X....', 'XXXX.', 'X....', 'X....', 'XXXXX'],
+  N: ['X...X', 'XX..X', 'X.X.X', 'X..XX', 'X...X', 'X...X', 'X...X'],
+};
+const HERO_WORD = 'B-SCENE';
+const GLYPH_W = 5;
+const GLYPH_H = 7;
+const WORD_COLS = HERO_WORD.length * (GLYPH_W + 1) - 1;
+// Extra rows below leave room for the tagline/meta overlaid on the grid.
+const PAD_TOP = 5;
+const PAD_BOTTOM = 9;
+
+let heroTimer = null;
+
+function buildHero() {
+  const grid = $('#hero-grid');
+  if (!grid) return;
+  if (heroTimer) clearInterval(heroTimer);
+
+  const width = document.documentElement.clientWidth;
+  const gap = width < 640 ? 3 : 4;
+  // Fit the word with a little margin, but never let cells get huge.
+  const pitch = Math.min(20, (width - 24) / (WORD_COLS + 4));
+  const cell = Math.max(5, Math.floor(pitch - gap));
+  const cols = Math.ceil(width / (cell + gap)) + 1; // overshoot to bleed off both edges
+  const rows = GLYPH_H + PAD_TOP + PAD_BOTTOM;
+
+  grid.style.setProperty('--hero-cell', `${cell}px`);
+  grid.style.setProperty('--hero-gap', `${gap}px`);
+  grid.style.gridTemplateColumns = `repeat(${cols}, ${cell}px)`;
+
+  const lit = new Set();
+  let x0 = Math.floor((cols - WORD_COLS) / 2);
+  for (const ch of HERO_WORD) {
+    const glyph = HERO_GLYPHS[ch];
+    for (let r = 0; r < GLYPH_H; r++) {
+      for (let c = 0; c < GLYPH_W; c++) {
+        if (glyph[r][c] === 'X') lit.add(`${PAD_TOP + r},${x0 + c}`);
+      }
+    }
+    x0 += GLYPH_W + 1;
+  }
+
+  const cells = [];
+  const frag = document.createDocumentFragment();
+  for (let r = 0; r < rows; r++) {
+    for (let c = 0; c < cols; c++) {
+      const d = document.createElement('div');
+      if (lit.has(`${r},${c}`)) {
+        const roll = Math.random();
+        d.className = `hero-cell ${roll < 0.07 ? 'mint' : roll < 0.12 ? 'maroon' : 'on'}`;
+      } else {
+        d.className = 'hero-cell off';
+      }
+      frag.append(d);
+      cells.push(d);
+    }
+  }
+  grid.replaceChildren(frag);
+
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+  let head = -1;
+  heroTimer = setInterval(() => {
+    head = (head + 1) % (cols + 10); // brief pause off-screen between sweeps
+    for (let i = 0; i < cells.length; i++) {
+      cells[i].classList.toggle('head', i % cols === head);
+    }
+  }, 120);
+}
+
+let heroResizeTimer = null;
+window.addEventListener('resize', () => {
+  clearTimeout(heroResizeTimer);
+  heroResizeTimer = setTimeout(buildHero, 150);
+});
+
 async function init() {
+  buildHero();
   bindControls();
   // Served over HTTP: always fetch fresh JSON (script-tag data can go stale in
   // the browser cache). Opened from disk (file://) fetch is blocked, so fall

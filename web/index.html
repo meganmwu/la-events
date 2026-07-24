@@ -11,8 +11,9 @@
 </head>
 <body>
   <header class="site-header">
+    <div class="hero-grid" id="hero-grid" aria-hidden="true"></div>
     <div class="wrap header-inner">
-      <h1>B-Scene</h1>
+      <h1 class="visually-hidden">B-Scene</h1>
       <p class="tagline">Discover local shows and performances.</p>
       <div class="meta" id="meta"></div>
     </div>
@@ -27,12 +28,12 @@
         </div>
         <div class="pager" id="pager">
           <button id="prev" title="Previous" aria-label="Previous period">‹</button>
-          <button id="today-btn">Today</button>
           <button id="next" title="Next" aria-label="Next period">›</button>
           <button id="cal-btn" aria-haspopup="dialog" aria-expanded="false">
             <span class="period-label" id="period-label"></span>
             <span class="caret">▾</span>
           </button>
+          <button id="today-btn">Today</button>
           <div id="calendar" class="calendar hidden" role="dialog" aria-label="Pick a date"></div>
         </div>
         <input type="search" id="search" placeholder="Search events, artists, venues…" />

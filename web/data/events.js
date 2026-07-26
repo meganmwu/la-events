@@ -1,5 +1,5 @@
 window.EVENTS_DATA = {
- "scrapedAt": "2026-07-25T14:32:23+00:00",
+ "scrapedAt": "2026-07-26T14:31:22+00:00",
  "categories": {
   "music": "Music",
   "nightlife": "Nightlife & Parties",
@@ -7,2153 +7,12 @@ window.EVENTS_DATA = {
   "film": "Film"
  },
  "counts": {
-  "eventbrite": 505,
+  "eventbrite": 446,
   "ohmyrockness": 295,
-  "lafunevents": 14,
+  "lafunevents": 13,
   "capucla": 31
  },
  "events": [
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Rhythm and Roots: The Morning Rave That Gives Back",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/rhythm-and-roots-the-morning-rave-that-gives-back-tickets-1993576782823",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1993576782823",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186212025%2F1829692625663%2F1%2Foriginal.20260605-022836?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a1b791c400cede13f73de6828aac1046",
-   "date": "2026-07-25",
-   "time": "10:00",
-   "venue": "Kama",
-   "address": "11788 West Pico Boulevard, Los Angeles, CA 90064",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Party",
-   "genres": [
-    "Electronic"
-   ],
-   "description": "A monthly morning experience where you donate to local shelters, dance to a live DJ, and stretch your body.",
-   "soldOut": false,
-   "id": 1,
-   "shortDesc": "A monthly morning experience where you donate to local shelters, dance to a live DJ, and stretch your body. — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "LADC Saturday Dance | Free Form Dance | LIVE & ZOOM | 2026",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/ladc-saturday-dance-free-form-dance-live-zoom-2026-tickets-1977354534642",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1977354534642",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F902795583%2F446319295446%2F1%2Foriginal.20241120-071804?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fd1ab07d8cb2f7df62fe93c849eae8ad",
-   "date": "2026-07-25",
-   "time": "10:30",
-   "venue": "Culver City Foshay Lodge № 467, F.& A.M.",
-   "address": "9635 Venice Boulevard, Culver City, CA 90232",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Workshop",
-   "genres": [],
-   "description": "LADC is a non-profit collective of dedicated movers who share a love of music, dance, and embodied inquiry. Every-body is welcome.",
-   "soldOut": false,
-   "id": 2,
-   "shortDesc": "LADC is a non-profit collective of dedicated movers who share a love of music, dance, and embodied inquiry… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Party on the Patio at De La Playa Records & Leisure",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/party-on-the-patio-at-de-la-playa-records-leisure-tickets-922653761237",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=922653761237",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F786173099%2F551380704083%2F1%2Foriginal.20240610-001710?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C390%2C6000%2C3000&s=4d1cf5733e0d3ac40c4074d5593b581b",
-   "date": "2026-07-25",
-   "time": "11:00",
-   "venue": "De La Playa Records & Leisure",
-   "address": "110 South Avenue 56, Los Angeles, CA 90042",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Party",
-   "genres": [
-    "World"
-   ],
-   "description": "Bar Non NA cocktails, food vendors, shop vendors on the patio while DJs livestream immaculate world music sets on via Twitch.",
-   "soldOut": false,
-   "id": 3,
-   "shortDesc": "Bar Non NA cocktails, food vendors, shop vendors on the patio while DJs livestream immaculate world music… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "ONLINE ACTING FOR FILM AND TV & PUBLIC SPEAKING (KIDS & TEENS)",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/online-acting-for-film-and-tv-public-speaking-kids-teens-tickets-1983047741176",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1983047741176",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177431480%2F372624883487%2F1%2Foriginal.20260213-003550?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a219da441a478b41cb5df7a9dfb00ea0",
-   "date": "2026-07-25",
-   "time": "11:30",
-   "venue": "10820 Washington Blvd",
-   "address": "10820 Washington Boulevard, Culver City, CA 90232",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Workshop",
-   "genres": [],
-   "description": "Build confidence, creativity, and acting skills.",
-   "soldOut": false,
-   "id": 4,
-   "shortDesc": "Build confidence, creativity, and acting skills. — via Eventbrite"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Alexisonfire + All Time Low + Amigo the Devil + Arm's Length + Bayside + Bear Vs Shark + Boston Manor + Bowling for Soup + Citizen + Dying Wish + Emery + Flogging Molly + Free Throw + Glassjaw + Grandson + Gym Class Heroes + I Set My Friends On Fire + Jimmy Eat World + Lagwagon + Meet Me @ The Altar + Motion City Soundtrack + MxPx + Norma Jean + Origami Angel + Oxymorrons + Phantom Planet + Save Ferris + Silverstein + Simple Plan + Taking Back Sunday + The Academy Is... + The Aggrolites + The Ataris + The Devil Wears Prada + The Early November + The Starting Line + The Story So Far + The Used + The Wrecks + Thrice + Underoath + Winona Fighter + and more!",
-   "artists": [
-    "Alexisonfire",
-    "All Time Low",
-    "Amigo the Devil",
-    "Arm's Length",
-    "Bayside",
-    "Bear Vs Shark",
-    "Boston Manor",
-    "Bowling for Soup",
-    "Citizen",
-    "Dying Wish",
-    "Emery",
-    "Flogging Molly",
-    "Free Throw",
-    "Glassjaw",
-    "Grandson",
-    "Gym Class Heroes",
-    "I Set My Friends On Fire",
-    "Jimmy Eat World",
-    "Lagwagon",
-    "Meet Me @ The Altar",
-    "Motion City Soundtrack",
-    "MxPx",
-    "Norma Jean",
-    "Origami Angel",
-    "Oxymorrons",
-    "Phantom Planet",
-    "Save Ferris",
-    "Silverstein",
-    "Simple Plan",
-    "Taking Back Sunday",
-    "The Academy Is...",
-    "The Aggrolites",
-    "The Ataris",
-    "The Devil Wears Prada",
-    "The Early November",
-    "The Starting Line",
-    "The Story So Far",
-    "The Used",
-    "The Wrecks",
-    "Thrice",
-    "Underoath",
-    "Winona Fighter",
-    "and more!"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/467204-alexisonfire-all-time-low-amigo-the-devil-arm-s-length-bayside-bear-vs-shark-boston-manor-bowling-for-soup-citizen-dying-wish-emery-flogging-molly-free-throw-glassjaw-grandson-gym-class-heroes-i-set-my-friends-on-fire-jimmy-eat-world-lagwagon-meet-me-the-altar-motion-city-soundtrack-mxpx-norma-jean-origami-angel-oxymorrons-phantom-planet-save-ferris-silverstein-simple-plan-taking-back-sunday-the-academy-is-the-aggrolites-the-ataris-the-devil-wears-prada-the-early-november-the-starting-line-the-story-so-far-the-used-the-wrecks-thrice-underoath-winona-fighter-and-more-long-beach-shoreline-waterfront",
-   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fvanswarpedtourlongbeach.frontgatetickets.com%2F",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "12:00",
-   "venue": "Long Beach Shoreline Waterfront",
-   "address": "386 East Shoreline Drive, Long Beach, CA 90802",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 5,
-   "shortDesc": "Indie / Alt show at Long Beach Shoreline Waterfront · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "The Wizard's Workshop - Free Theatre in the Park for Young Audiences",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/the-wizards-workshop-free-theatre-in-the-park-for-young-audiences-tickets-1993441294574",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1993441294574",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188353620%2F2707789769%2F1%2Foriginal.20260707-084619?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c8c842077c1df90652b23097c8bbca73",
-   "date": "2026-07-25",
-   "time": "12:00",
-   "venue": "Dr. Paul Carlson Park",
-   "address": "10400 Braddock Dr., Culver City, CA 90232",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "Free live theatre for all ages! A funny and thrilling story of a toymaker who tries to bring one of his creations to life.",
-   "soldOut": false,
-   "id": 6,
-   "shortDesc": "Free live theatre for all ages! A funny and thrilling story of a toymaker who tries to bring one of his… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "FREE Improv Workshop with Colin Sweeney",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/free-improv-workshop-with-colin-sweeney-tickets-1992967259723",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1992967259723",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188050655%2F2635030416961%2F1%2Foriginal.20260702-011511?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.011&fp-y=0.491&s=c54517485be55d348f972667207570f8",
-   "date": "2026-07-25",
-   "time": "12:00",
-   "venue": "Westside Comedy Theater",
-   "address": "1323-A 3rd Street, Santa Monica, CA 90401",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Workshop",
-   "genres": [],
-   "description": "Curious about improv? Join one of WCT's co-founders, Colin Sweeney, for an improv workshop!",
-   "soldOut": false,
-   "id": 7,
-   "shortDesc": "Curious about improv? Join one of WCT's co-founders, Colin Sweeney, for an improv workshop! — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "FAT CHANCE BELLY DANCE® Style Mixed Level Classes",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/fat-chance-belly-dance-style-mixed-level-classes-tickets-1990622988946",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1990622988946",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185781731%2F320969297917%2F1%2Foriginal.20260530-233011?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9d74f1ea8d780a4b7dfbdad2cc9d06e0",
-   "date": "2026-07-25",
-   "time": "12:00",
-   "venue": "Get Fit Factory",
-   "address": "Lower Azusa Road, Temple City, CA 91780",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Workshop",
-   "genres": [],
-   "description": "Join certified teacher Mark Bissell in this mixed level FCBD® Style 6 class series. Time to shimmy into summer.",
-   "soldOut": false,
-   "id": 8,
-   "shortDesc": "Join certified teacher Mark Bissell in this mixed level FCBD® Style 6 class series. Time to shimmy into… — via Eventbrite"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Faire Shakes + Clay Finch",
-   "artists": [
-    "Faire Shakes",
-    "Clay Finch"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/474799-faire-shakes-clay-finch-healing-force-of-the-universe",
-   "ticketUrl": "https://dice.fm/event/ry8q5r",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "14:00",
-   "venue": "Healing Force of the Universe",
-   "address": "1200 E Walnut Street, Pasadena, CA 91106",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 9,
-   "shortDesc": "Indie / Alt show at Healing Force of the Universe · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "The Shoebox Museum: A Private Immersive Experience",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/the-shoebox-museum-a-private-immersive-experience-tickets-1993553228371",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1993553228371",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186899359%2F2841494398421%2F1%2Foriginal.20260615-022753?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=78cd0382d3dd198c24c75e240c3f5624",
-   "date": "2026-07-25",
-   "time": "14:45",
-   "venue": "After Hours Theatre Company",
-   "address": "5628 Vineland Avenue, Los Angeles, CA 91601",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Attraction",
-   "genres": [],
-   "description": "An intimate, multisensory, immersive experience about the little things we hold on to.",
-   "soldOut": false,
-   "id": 10,
-   "shortDesc": "An intimate, multisensory, immersive experience about the little things we hold on to. — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "FREE EVENT! Keri Hilson, Paul Wall, Mike Jones, DaniLeigh, Yung Joc & MORE!",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/free-event-keri-hilson-paul-wall-mike-jones-danileigh-yung-joc-more-tickets-1994254592169",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1994254592169",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189042687%2F147741123875%2F1%2Foriginal.20260717-000504?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=166bb17018fabe07843c7a0b398db564",
-   "date": "2026-07-25",
-   "time": "15:00",
-   "venue": "Pershing Square",
-   "address": "532 S Olive St, Los Angeles, CA 90013",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Concert",
-   "genres": [
-    "Hip-Hop / R&B"
-   ],
-   "description": "Free Concert in LA: Keri Hilson, Paul Wall, Mike Jones, DaniLeigh & MORE! Saturday, July 25th at Pershing Square!",
-   "soldOut": false,
-   "id": 11,
-   "shortDesc": "Free Concert in LA: Keri Hilson, Paul Wall, Mike Jones, DaniLeigh & MORE! Saturday, July 25th at Pershing… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Vegan Artists’ Music and Poetry",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/vegan-artists-music-and-poetry-tickets-1993174042215",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1993174042215",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188188535%2F2180921537463%2F1%2Foriginal.20260704-015700?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=42fbfc4d93683da78dd92ea734445763",
-   "date": "2026-07-25",
-   "time": "15:00",
-   "venue": "The Glendale Room",
-   "address": "127 N Artsakh Avenue, Glendale, CA 91206",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "* Join us for an intimate afternoon of poetry, acoustic music and artwork for a great cause! All ticket proceeds will be donated to Viva Re",
-   "soldOut": false,
-   "id": 12,
-   "shortDesc": "* Join us for an intimate afternoon of poetry, acoustic music and artwork for a great cause! All ticket… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Drama Kings and Queens 21st Annual Theatrical Soireè",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/drama-kings-and-queens-21st-annual-theatrical-soiree-tickets-1990751012869",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1990751012869",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185836239%2F2773928202781%2F1%2Foriginal.20260601-044652?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.474&fp-y=0.354&s=baab24af3477f74082faa27e317d86a9",
-   "date": "2026-07-25",
-   "time": "15:00",
-   "venue": "Moss Theater",
-   "address": "3131 Olympic Boulevard, Santa Monica, CA 90404",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Dinner",
-   "genres": [],
-   "description": "Get ready for a night of glam, laughs, and live drama at Drama Kings and Queens’ 21st Annual Soirée!",
-   "soldOut": false,
-   "id": 13,
-   "shortDesc": "Get ready for a night of glam, laughs, and live drama at Drama Kings and Queens’ 21st Annual Soirée! — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Hollywood Rooftop Reserve Day Party w RJ",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/hollywood-rooftop-reserve-day-party-w-rj-tickets-1994711348339",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1994711348339",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189334193%2F208799188278%2F1%2Foriginal.20260721-185746?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a0673c2325e259cd7734a3105a79433d",
-   "date": "2026-07-25",
-   "time": "15:00",
-   "venue": "Andaz West Hollywood, by Hyatt",
-   "address": "8401 Sunset Boulevard, West Hollywood, CA 90069",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Party",
-   "genres": [
-    "Hip-Hop / R&B"
-   ],
-   "description": "Kick back with RJ for chilled vibes and good times at the ultimate Hollywood rooftop day bash!",
-   "soldOut": false,
-   "id": 14,
-   "shortDesc": "Kick back with RJ for chilled vibes and good times at the ultimate Hollywood rooftop day bash! — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Beach Bonfire Experience: Sound Bath, Open Mic & Vibes $1+",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/beach-bonfire-experience-sound-bath-open-mic-vibes-1-registration-1993025492900",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1993025492900",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188096060%2F125672936387%2F1%2Foriginal.20260702-170336?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.508&fp-y=0.602&s=a4d9bd8a796754c11db73d4ec7ba87b3",
-   "date": "2026-07-25",
-   "time": "15:30",
-   "venue": "Dockweiler Beach",
-   "address": "12000 Vista Del Mar, Playa del Rey, CA 90293",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Party",
-   "genres": [],
-   "description": "Ditch your Usual Nightlife! Unplug & Connect at Our Unique Beach Bonfire! ✨ Unwind & Meet other Creatives in LA Under The Stars! #xodohtronu",
-   "soldOut": false,
-   "id": 15,
-   "shortDesc": "Ditch your Usual Nightlife! Unplug & Connect at Our Unique Beach Bonfire! ✨ Unwind & Meet other Creatives in… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Seussical JR",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/seussical-jr-tickets-1991406798341",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1991406798341",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186522616%2F248724631634%2F1%2Foriginal.20260609-182145?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.391&fp-y=0.362&s=8e688877ac7d16f6f331872f41ac2696",
-   "date": "2026-07-25",
-   "time": "16:00",
-   "venue": "Casa 0101",
-   "address": "2102 East 1st Street, Los Angeles, CA 90033",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "Seussical JR. brings the magical world of Dr. Seuss to life in a fun-filled musical adventure!",
-   "soldOut": false,
-   "id": 16,
-   "shortDesc": "Seussical JR. brings the magical world of Dr. Seuss to life in a fun-filled musical adventure! — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Flashback Heart Attack(80's covers) Saturday Daytime Show",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/flashback-heart-attack80s-covers-saturday-daytime-show-tickets-1985406478222",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1985406478222",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180088465%2F543100370665%2F1%2Foriginal.20240305-001647?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C720%2C360&s=7c1640a4bea965602e46cdcd48601d0f",
-   "date": "2026-07-25",
-   "time": "16:00",
-   "venue": "The Lighthouse Cafe",
-   "address": "30 Pier Avenue, Hermosa Beach, CA 90254",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Concert",
-   "genres": [
-    "Rock"
-   ],
-   "description": "Get ready to dance like it's the 80s all over again! 21 and up",
-   "soldOut": false,
-   "id": 17,
-   "shortDesc": "Get ready to dance like it's the 80s all over again! 21 and up — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "DISCOTHEKE - SPECIAL GUESTS ALL PARTY LONG",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/discotheke-special-guests-all-party-long-tickets-1992391773428",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1992391773428",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187660205%2F792480551243%2F1%2Foriginal.20260625-182432?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.676&fp-y=0.438&s=c5581fb7d3afe0f08cc898398cbc9446",
-   "date": "2026-07-25",
-   "time": "16:00",
-   "venue": "APOTHEKE LA",
-   "address": "1746 North Spring Street, Los Angeles, CA 90012",
-   "isFree": true,
-   "priceText": "Free",
-   "category": "music",
-   "subcategory": "Party",
-   "genres": [
-    "Electronic",
-    "Indie / Alt",
-    "Soul / Funk"
-   ],
-   "description": "DISCOTHEKE IS BACK AT APOTHEKE!",
-   "soldOut": false,
-   "id": 18,
-   "shortDesc": "DISCOTHEKE IS BACK AT APOTHEKE! — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Monet Bagneris' From Silence To Song: The Comeback Concert - Santa Monica",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/monet-bagneris-from-silence-to-song-the-comeback-concert-santa-monica-tickets-1993555383818",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1993555383818",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188519547%2F121110408703%2F1%2Foriginal.20260709-075207?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1e2d548ba8200d372d53d634c789eeee",
-   "date": "2026-07-25",
-   "time": "16:30",
-   "venue": "The Recording Club by Tiny Room Studios",
-   "address": "1660 9th Street, Santa Monica, CA 90404",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Concert",
-   "genres": [
-    "Folk / Country"
-   ],
-   "description": "Monet Bagneris LIVE",
-   "soldOut": false,
-   "id": 19,
-   "shortDesc": "Monet Bagneris LIVE — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Legendary Nights - Music Saved My Life! A Tribute to Brenda Holloway!",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/legendary-nights-music-saved-my-life-a-tribute-to-brenda-holloway-tickets-1993443883317",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1993443883317",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188354066%2F278179752210%2F1%2Foriginal.20260707-085949?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9879d428abbce9aa9b8d4b588012e228",
-   "date": "2026-07-25",
-   "time": "17:00",
-   "venue": "BARBARA MORRISON PERFORMING ARTS CENTER",
-   "address": "4305 Degnan Boulevard #101, Los Angeles, CA 90008",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "LEGENDARY NIGHTS: Music Saved My Life Join FA-MLI, Inc. for a powerful evening music, history and culture!",
-   "soldOut": false,
-   "id": 20,
-   "shortDesc": "LEGENDARY NIGHTS: Music Saved My Life Join FA-MLI, Inc. for a powerful evening music, history and culture! — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "2 Hour Salsa Class for Beginners!",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/2-hour-salsa-class-for-beginners-tickets-1994567941405",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1994567941405",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189214204%2F1369196087373%2F1%2Foriginal.20260720-135449?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=dd0d1d8ed589160a82d122c95a540a95",
-   "date": "2026-07-25",
-   "time": "17:00",
-   "venue": "The Exercise Co",
-   "address": "12407 Ventura Blvd., Studio City, CA 91604",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Workshop",
-   "genres": [],
-   "description": "Start Salsa Dancing this coming Saturday with renown salsa instructor Alejandro Sol!",
-   "soldOut": false,
-   "id": 21,
-   "shortDesc": "Start Salsa Dancing this coming Saturday with renown salsa instructor Alejandro Sol! — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Start Today Summer Jam",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/start-today-summer-jam-tickets-1992073972878",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1992073972878",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187134130%2F910041688753%2F1%2Foriginal.20260617-190609?w=640&auto=format%2Ccompress&q=75&sharp=10&s=65510f60b0abbb0447af9adfbac120c4",
-   "date": "2026-07-25",
-   "time": "17:00",
-   "venue": "Coyote Studios",
-   "address": "3501 Union Pacific Avenue, Los Angeles, CA 90023",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Concert",
-   "genres": [
-    "Punk / Hardcore"
-   ],
-   "description": "All Ages Hardcore at Coyote Studios.",
-   "soldOut": false,
-   "id": 22,
-   "shortDesc": "All Ages Hardcore at Coyote Studios. — via Eventbrite"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Mariachi El Bronx + Tijuana Panthers + LeRoy Downs (DJ)",
-   "artists": [
-    "Mariachi El Bronx",
-    "Tijuana Panthers",
-    "LeRoy Downs (DJ)"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/471039-mariachi-el-bronx-tijuana-panthers-leroy-downs-dj-california-plaza",
-   "ticketUrl": "https://events.humanitix.com/kcrw-summer-nights-with-grand-performances-ft-tijuana-panthers-and-mariachi-el-bronx",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "18:00",
-   "venue": "California Plaza",
-   "address": "350 S. Grand Avenue, Los Angeles, CA 90071",
-   "isFree": true,
-   "priceText": "Free",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Latin"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 23,
-   "shortDesc": "Latin show at California Plaza · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Fleur Bleu·e + Mirrorball + Sugar World",
-   "artists": [
-    "Fleur Bleu·e",
-    "Mirrorball",
-    "Sugar World"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/470000-fleur-bleu-e-mirrorball-sugar-world-permanent-records-roadhouse",
-   "ticketUrl": "https://consumer.pxf.io/09VKzJ?subID1=la&u=https://www.eventbrite.com/e/fleur-bleue-mirrorball-sugar-world-tickets-1985163945801?aff=ebdsoporgprofile",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "18:00",
-   "venue": "Permanent Records Roadhouse",
-   "address": "1906 Cypress Ave, Los Angeles, CA 90065",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "21+",
-   "soldOut": false,
-   "id": 24,
-   "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Horse Lords",
-   "artists": [
-    "Horse Lords"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/467734-horse-lords-the-getty",
-   "ticketUrl": "https://www.getty.edu/calendar/off-the-405-horse-lords",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "18:00",
-   "venue": "The Getty",
-   "address": "1200 Getty Center Drive, Los Angeles, CA 90049",
-   "isFree": true,
-   "priceText": "Free",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 25,
-   "shortDesc": "Indie / Alt show at The Getty · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Bonecrusher + Dogface Bastards + Toledo Panic + Odio + Recoil + Street Threat + Go For Broke",
-   "artists": [
-    "Bonecrusher",
-    "Dogface Bastards",
-    "Toledo Panic",
-    "Odio",
-    "Recoil",
-    "Street Threat",
-    "Go For Broke"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/474912-bonecrusher-dogface-bastards-toledo-panic-odio-recoil-street-threat-go-for-broke-the-sardine",
-   "ticketUrl": "https://recessops.com/collections/tickets",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "18:00",
-   "venue": "The Sardine",
-   "address": "1101 S Pacific Avenue, San Pedro, CA 90731",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "21+",
-   "soldOut": false,
-   "id": 26,
-   "shortDesc": "Indie / Alt show at The Sardine · 21+ — via Oh My Rockness"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Live Music Saturday Nights",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/live-music-saturday-nights-tickets-1989996448948",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1989996448948",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185040272%2F2680172162611%2F1%2Foriginal.20260520-142432?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.494&fp-y=0.5&s=6b6bcaf58ad502681ee9f10f9dfcc71b",
-   "date": "2026-07-25",
-   "time": "18:00",
-   "venue": "Sweet Lady Jane Melrose",
-   "address": "8360 Melrose Avenue, Los Angeles, CA 90069",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "Live music comes to Sweet Lady Jane Melrose! Great performances paired with our beloved desserts. Come for the music, stay for the sweets!",
-   "soldOut": false,
-   "id": 27,
-   "shortDesc": "Live music comes to Sweet Lady Jane Melrose! Great performances paired with our beloved desserts. Come for… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Mixtape Theatre Volume 11",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/mixtape-theatre-volume-11-tickets-1993778986620",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1993778986620",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188707459%2F51744066632%2F1%2Foriginal.20260712-191633?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fcaa7ea9fc2d877b28cbfb961d8b960c",
-   "date": "2026-07-25",
-   "time": "18:00",
-   "venue": "The Glendale Room",
-   "address": "127 Artsakh Avenue, Glendale, CA 91206",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "Mixtape Theatre returns for another round of raw but high level performance of theater, poetry and expression through storytelling.",
-   "soldOut": false,
-   "id": 28,
-   "shortDesc": "Mixtape Theatre returns for another round of raw but high level performance of theater, poetry and expression… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Salsa, Sabor, & Sonnets",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/salsa-sabor-sonnets-tickets-1992670081856",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1992670081856",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188392433%2F23841210374%2F1%2Foriginal.20260707-182554?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=571a6f574525023bd6c828df37de39c1",
-   "date": "2026-07-25",
-   "time": "18:00",
-   "venue": "Beyond Baroque",
-   "address": "681 Venice Boulevard, Los Angeles, CA 90291",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Festival",
-   "genres": [
-    "Latin"
-   ],
-   "description": "Help raise funds for Beyond Baroque with a fun night of salsa and poetry!",
-   "soldOut": false,
-   "id": 29,
-   "shortDesc": "Help raise funds for Beyond Baroque with a fun night of salsa and poetry! — via Eventbrite"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "highvyn",
-   "artists": [
-    "highvyn"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/471746-highvyn-moroccan-lounge",
-   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fhighvyn-album-release-show-los-angeles-california-07-25-2026%2Fevent%2F090064AE3363FBFC",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "18:30",
-   "venue": "Moroccan Lounge",
-   "address": "901 E 1st Street, Los Angeles, CA 90012",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "",
-   "soldOut": false,
-   "id": 30,
-   "shortDesc": "Indie / Alt show at Moroccan Lounge — via Oh My Rockness"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "closing shift @ The Viper Room",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/closing-shift-the-viper-room-tickets-1993390786503",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1993390786503",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188384583%2F3007429023520%2F1%2Foriginal.20260707-165559?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.066&fp-y=0.068&s=3b13d1409b20b46046a59d6ddcd994b7",
-   "date": "2026-07-25",
-   "time": "18:30",
-   "venue": "The Viper Room",
-   "address": "8852 Sunset Boulevard, West Hollywood, CA 90069",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Concert",
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "We’ll dance, we’ll vibe, we’ll have a good time.",
-   "soldOut": false,
-   "id": 31,
-   "shortDesc": "We’ll dance, we’ll vibe, we’ll have a good time. — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Yung Fazo and Friends: Melrose Pop Up",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/yung-fazo-and-friends-melrose-pop-up-tickets-1992836939933",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1992836939933",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189146047%2F3006879737244%2F1%2Foriginal.20260719-003901?w=640&auto=format%2Ccompress&q=75&sharp=10&s=011a6fab5a6c03e0b3622a40064c6a51",
-   "date": "2026-07-25",
-   "time": "18:30",
-   "venue": "Open Never Closed",
-   "address": "7527 Melrose Avenue, Los Angeles, CA 90046",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Party",
-   "genres": [
-    "Hip-Hop / R&B",
-    "Pop"
-   ],
-   "description": "Featuring performances from Yung Fazo, Southsidesilhouette, 2facedlon, Yobryy, Vervain, and more. ALL TICKETS ARE GA STANDING ROOM ONLY.",
-   "soldOut": false,
-   "id": 32,
-   "shortDesc": "Featuring performances from Yung Fazo, Southsidesilhouette, 2facedlon, Yobryy, Vervain, and more. ALL TICKETS… — via Eventbrite"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "WU LYF + Bondo",
-   "artists": [
-    "WU LYF",
-    "Bondo"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/470920-wu-lyf-bondo-lodge-room",
-   "ticketUrl": "https://www.lodgeroomhlp.com/shows/wu-lyf/",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "19:00",
-   "venue": "Lodge Room",
-   "address": "104 N. Ave 56, 2nd Floor, Los Angeles, CA 90042",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 33,
-   "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Seko + Sunder + Welcome Strawberry + Double XP",
-   "artists": [
-    "Seko",
-    "Sunder",
-    "Welcome Strawberry",
-    "Double XP"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/472732-seko-sunder-welcome-strawberry-double-xp-oblivion",
-   "ticketUrl": "https://dice.fm/event/8elx3r-seko-sunder-welcome-strawberry-double-xp-25th-jul-oblivion-los-angeles-tickets",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "19:00",
-   "venue": "Oblivion ",
-   "address": "6118 N Figueroa St, Los Angeles, CA 90042",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 34,
-   "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Emperor X + clovers daughter + Citrus Jr.",
-   "artists": [
-    "Emperor X",
-    "clovers daughter",
-    "Citrus Jr."
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/469926-emperor-x-clovers-daughter-citrus-jr-the-echo",
-   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fkcrw-presents-emperor-x-los-angeles-california-07-25-2026%2Fevent%2F0900648FBB408D7A",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "19:00",
-   "venue": "The Echo",
-   "address": "1822 Sunset Blvd., Echo Park, CA 90026",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 35,
-   "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "VEERS + State To State + Miniaturized + Haley Wild",
-   "artists": [
-    "VEERS",
-    "State To State",
-    "Miniaturized",
-    "Haley Wild"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/473630-veers-state-to-state-miniaturized-haley-wild-troubadour",
-   "ticketUrl": "https://wl.eventim.us/event/veersstate-to-state/690530?afflky=TheTroubadour",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "19:00",
-   "venue": "Troubadour",
-   "address": "9081 Santa Monica Blvd., West Hollywood, CA 90069",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 36,
-   "shortDesc": "Indie / Alt show at Troubadour · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "lafunevents",
-   "sourceLabel": "LA Fun Events",
-   "org": null,
-   "title": "Millennials Singles Mixer | Party like it's 2004",
-   "artists": [],
-   "url": "https://www.losangelesfunevents.com/event-details/millennials-singles-mixer-party-like-its-2004-11",
-   "ticketUrl": "https://www.losangelesfunevents.com/event-details/millennials-singles-mixer-party-like-its-2004-11",
-   "imageUrl": {
-    "@type": "ImageObject",
-    "url": "https://static.wixstatic.com/media/7ccd27_2c2f6279ad504c04aa6e20fbce1cb1ee~mv2.jpg/v1/fill/w_916,h_686,al_c,q_85/7ccd27_2c2f6279ad504c04aa6e20fbce1cb1ee~mv2.jpg",
-    "width": "916",
-    "height": "686"
-   },
-   "date": "2026-07-25",
-   "time": "19:00",
-   "venue": "Wearies!",
-   "address": "2819 Pico Blvd, Santa Monica, CA 90405, USA",
-   "isFree": true,
-   "priceText": "Free",
-   "category": "nightlife",
-   "subcategory": "Singles Mixer",
-   "genres": [],
-   "description": "✨ Sip, Spark, and Connect — Where Love, Friendship, and Fun Begin! ✨",
-   "soldOut": false,
-   "id": 37,
-   "shortDesc": "✨ Sip, Spark, and Connect — Where Love, Friendship, and Fun Begin! ✨ — via LA Fun Events"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Out of the (Voice) Box 2026 at N.E.O. Voice Festival",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/out-of-the-voice-box-2026-at-neo-voice-festival-tickets-1979910135513",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1979910135513",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174141863%2F575331085341%2F1%2Foriginal.20260106-203815?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5d217c92dcf2bc28e4208f5faf4310de",
-   "date": "2026-07-25",
-   "time": "19:00",
-   "venue": "First Congregational Church of Los Angeles",
-   "address": "540 South Commonwealth Avenue, Los Angeles, CA 90020",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "The opening concert of the NEO Voice Festival where featured festival participants showcase their new creative projects.",
-   "soldOut": false,
-   "id": 38,
-   "shortDesc": "The opening concert of the NEO Voice Festival where featured festival participants showcase their new… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Camilli Trio Live Chamber Music Concert",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/camilli-trio-live-chamber-music-concert-tickets-1979498165299",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1979498165299",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173824882%2F493313664311%2F1%2Foriginal.20260102-053603?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2400%2C1200&s=2b41d0382582e5e5216f970bf6754e23",
-   "date": "2026-07-25",
-   "time": "19:00",
-   "venue": "Sage Granada Park United Methodist Church",
-   "address": "1850 West Hellman Avenue, Alhambra, CA 91803",
-   "isFree": true,
-   "priceText": "Free",
-   "category": "music",
-   "subcategory": "Concert",
-   "genres": [
-    "Classical"
-   ],
-   "description": "APAC Presents: Camilli Trio live in concert. Free with RSVP, optional donation, plus appetizers and beverages.",
-   "soldOut": false,
-   "id": 39,
-   "shortDesc": "APAC Presents: Camilli Trio live in concert. Free with RSVP, optional donation, plus appetizers and beverages. — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Jazz in July -- a Free Jazz Band Concert Hosted by First Pres. Church",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/jazz-in-july-a-free-jazz-band-concert-hosted-by-first-pres-church-tickets-1992093350838",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1992093350838",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187152390%2F3000954902701%2F1%2Foriginal.20260617-230240?w=640&auto=format%2Ccompress&q=75&sharp=10&s=1f40985a813953bbf9ba76de855c0011",
-   "date": "2026-07-25",
-   "time": "19:00",
-   "venue": "10400 Zelzah Ave",
-   "address": "10400 Zelzah Avenue, Northridge, CA 91326",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Concert",
-   "genres": [
-    "Jazz"
-   ],
-   "description": "Chill out this summer with some smooth free jazz vibes and good company at a cool concert hosted by First Pres. Church.",
-   "soldOut": false,
-   "id": 40,
-   "shortDesc": "Chill out this summer with some smooth free jazz vibes and good company at a cool concert hosted by First… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Summer Glo fest",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/summer-glo-fest-tickets-1993596423569",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1993596423569",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188523874%2F3007642305113%2F1%2Foriginal.png?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=a0b7fb3deb41a1182539d2005b628e00",
-   "date": "2026-07-25",
-   "time": "19:00",
-   "venue": "2131 W Jefferson Blvd",
-   "address": "2131 West Jefferson Boulevard, Los Angeles, CA 90018",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Concert",
-   "genres": [
-    "Hip-Hop / R&B"
-   ],
-   "description": "Get ready to shine bright and dance all night at the ultimate summer glow party!",
-   "soldOut": false,
-   "id": 41,
-   "shortDesc": "Get ready to shine bright and dance all night at the ultimate summer glow party! — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "The Three Clubs event Jhey & The Whee and Camp Friends",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/the-three-clubs-event-jhey-the-whee-and-camp-friends-tickets-1991932034336",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1991932034336",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186959107%2F175279782471%2F1%2Foriginal.20260615-184430?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7ddd53b3bd2feb6624bbaf468f0769af",
-   "date": "2026-07-25",
-   "time": "19:00",
-   "venue": "The Three Clubs",
-   "address": "1123 Vine Street, Los Angeles, CA 90038",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Party",
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "Get ready for a hilarious and rowdy night with Jhey & The Whee, and Camp Friends",
-   "soldOut": false,
-   "id": 42,
-   "shortDesc": "Get ready for a hilarious and rowdy night with Jhey & The Whee, and Camp Friends — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Live Band Karaoke!",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/live-band-karaoke-tickets-1992580121783",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1992580121783",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187651715%2F556455549059%2F1%2Foriginal.20260625-163514?w=640&auto=format%2Ccompress&q=75&sharp=10&s=116a7f658d7177dda2af93a812da231c",
-   "date": "2026-07-25",
-   "time": "19:00",
-   "venue": "Alana's Coffee Roasters",
-   "address": "12511 Venice Boulevard, Los Angeles, CA 90066",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Concert",
-   "genres": [
-    "Rock"
-   ],
-   "description": "What is live band karaoke? Live band karaoke means a professional rock band and you're the lead singer.",
-   "soldOut": false,
-   "id": 43,
-   "shortDesc": "What is live band karaoke? Live band karaoke means a professional rock band and you're the lead singer. — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Spectacular Jazz Singer Kenny Washington, from San Francisco!",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/spectacular-jazz-singer-kenny-washington-from-san-francisco-tickets-1991744971827",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1991744971827",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186735057%2F315260052004%2F1%2Foriginal.20260612-033153?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=67bd989647b8ab954791a8b9ca25223d",
-   "date": "2026-07-25",
-   "time": "19:00",
-   "venue": "Birds Of A Feather Jazz Lounge",
-   "address": "710 West 1st Street, Los Angeles, CA 90012",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Concert",
-   "genres": [
-    "Jazz"
-   ],
-   "description": "Get ready for an unforgettable night with San Francisco’s own jazz legend, Kenny Washington, together with pianist Josh Nelson!",
-   "soldOut": false,
-   "id": 44,
-   "shortDesc": "Get ready for an unforgettable night with San Francisco’s own jazz legend, Kenny Washington, together with… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "The Chris Mitchell Experience: Los Angeles",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/the-chris-mitchell-experience-los-angeles-tickets-1986961731025",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1986961731025",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176363231%2F71039859259%2F1%2Foriginal.20260201-053148?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.419&fp-y=0.92&s=af348e6f777f45de3524f2e406df3f6b",
-   "date": "2026-07-25",
-   "time": "19:00",
-   "venue": "Lore Leimert Park",
-   "address": "4334 Degnan Boulevard, Los Angeles, CA 90008",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "One Night Only – Los Angeles. ChrisMitchellJazz + Energizer Tha DJ, meet & greet access, live performance, real-time vibes. No replays.",
-   "soldOut": false,
-   "id": 45,
-   "shortDesc": "One Night Only – Los Angeles. ChrisMitchellJazz + Energizer Tha DJ, meet & greet access, live performance… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Whiskey N Donuts Comedy Show",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/whiskey-n-donuts-comedy-show-tickets-1993760995809",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1993760995809",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188688061%2F304056140801%2F1%2Foriginal.20260712-044628?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.438&fp-y=0.686&s=a469bcccb0ab57fa931ced2ad67c6ff8",
-   "date": "2026-07-25",
-   "time": "19:00",
-   "venue": "The Good Nite",
-   "address": "10721 Burbank Boulevard, North Hollywood, CA 91601",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "Get ready to laugh loud and sip smooth at the Whiskey N Donuts Comedy Show – hilarious fun with tasty treats!",
-   "soldOut": false,
-   "id": 46,
-   "shortDesc": "Get ready to laugh loud and sip smooth at the Whiskey N Donuts Comedy Show – hilarious fun with tasty treats! — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Laundry & Bourbon",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/laundry-bourbon-tickets-1994480869972",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1994480869972",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189178880%2F2247022689083%2F1%2Foriginal.20260719-222208?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.492&fp-y=0.132&s=706412d25bee20022a65457e64a690ab",
-   "date": "2026-07-25",
-   "time": "19:00",
-   "venue": "4741 Laurel Canyon Blvd",
-   "address": "4741 Laurel Canyon Boulevard, Los Angeles, CA 91607",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "Join us for an added performance of Laundry & Bourbon! Enjoy free bourbon cocktails inspired by the play!",
-   "soldOut": false,
-   "id": 47,
-   "shortDesc": "Join us for an added performance of Laundry & Bourbon! Enjoy free bourbon cocktails inspired by the play! — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Satur-YAY!! Karaoke at Rhythm & Bleu",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/satur-yay-karaoke-at-rhythm-bleu-tickets-1990362294201",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1990362294201",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185402429%2F2997928651196%2F1%2Foriginal.20260526-022153?w=640&auto=format%2Ccompress&q=75&sharp=10&s=273e360a3f2baf2184b72aac355e9dda",
-   "date": "2026-07-25",
-   "time": "19:00",
-   "venue": "Rhythm & Bleu (Formerly Karaoke Bleu)",
-   "address": "2064 Sawtelle Boulevard, Los Angeles, CA 90025",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Party",
-   "genres": [],
-   "description": "Rhythm & Bleu throws open the mic every Saturday night for the best karaoke in Sawtelle Saturdays Are For Singing Every Saturday |7PM -2AM",
-   "soldOut": false,
-   "id": 48,
-   "shortDesc": "Rhythm & Bleu throws open the mic every Saturday night for the best karaoke in Sawtelle Saturdays Are For… — via Eventbrite"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Gretchen Klempa + BABY + Sam Broido",
-   "artists": [
-    "Gretchen Klempa",
-    "BABY",
-    "Sam Broido"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/475106-gretchen-klempa-baby-sam-broido-scribble",
-   "ticketUrl": "https://dice.fm/event/k6ll3q-scribble-presents-hot-summer-night-25th-jul-scribble-los-angeles-tickets",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "19:30",
-   "venue": "Scribble",
-   "address": "5541 York Boulevard, Los Angeles,    90042",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 49,
-   "shortDesc": "Indie / Alt show at Scribble · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Bass Drum of Death + Memo PST",
-   "artists": [
-    "Bass Drum of Death",
-    "Memo PST"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/469372-bass-drum-of-death-memo-pst-zebulon",
-   "ticketUrl": "https://dice.fm/event/xea8qk-bass-drum-of-death-memo-pst-25th-jul-zebulon-los-angeles-tickets",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "19:30",
-   "venue": "Zebulon",
-   "address": "2478 N Fletcher Drive, Los Angeles, CA 90039",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "21+",
-   "soldOut": false,
-   "id": 50,
-   "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "2026 Santa Monica Music Festival - Program 5, Saturday July 25th",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/2026-santa-monica-music-festival-program-5-saturday-july-25th-tickets-1990825856729",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1990825856729",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180316533%2F290215674002%2F1%2Foriginal.20260320-142102?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1675bf95b53b6b64d1fd70a8bec03247",
-   "date": "2026-07-25",
-   "time": "19:30",
-   "venue": "First Presbyterian Church of Santa Monica",
-   "address": "1220 2nd St., Santa Monica, CA 90401",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "Chamber Music by J.S. Bach, Jessie Montgomery, Zoltan Kodály, and Osvaldo Golijov",
-   "soldOut": false,
-   "id": 51,
-   "shortDesc": "Chamber Music by J.S. Bach, Jessie Montgomery, Zoltan Kodály, and Osvaldo Golijov — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Led Zeppelin Tribute and Dinner Show by Led ZepHeadz",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/led-zeppelin-tribute-and-dinner-show-by-led-zepheadz-tickets-1990287287855",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1990287287855",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185328779%2F2160906173853%2F1%2Foriginal.20260524-205244?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.434&s=eb1f9024c52405edebdfb6f8bb67a0c0",
-   "date": "2026-07-25",
-   "time": "19:30",
-   "venue": "Hawg Heaven BBQ & Gastro Pub",
-   "address": "119 East Colorado Boulevard, Pasadena, CA 91105",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Dinner",
-   "genres": [
-    "Rock"
-   ],
-   "description": "Feel the power and magic of Led Zeppelin as Led ZepHeadz delivers iconic riffs and soaring vocals in an electrifying Pasadena dinner show.",
-   "soldOut": false,
-   "id": 52,
-   "shortDesc": "Feel the power and magic of Led Zeppelin as Led ZepHeadz delivers iconic riffs and soaring vocals in an… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "TV Sets Comedy Show",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/tv-sets-comedy-show-tickets-1992178470433",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1992178470433",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187238186%2F2180921537463%2F1%2Foriginal.20240801-004646?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=919e12e5c83d253283eeafa72b33e08e",
-   "date": "2026-07-25",
-   "time": "19:30",
-   "venue": "The Glendale Room",
-   "address": "127 N Artsakh Avenue, Glendale, CA 91206",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "TV Sets is a workshop show for the best comedians from around the country. They come here to get ready for the Late Night TV circuit",
-   "soldOut": false,
-   "id": 53,
-   "shortDesc": "TV Sets is a workshop show for the best comedians from around the country. They come here to get ready for… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Funeral Pro: A comedy show about grief by Aly Dixon",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/funeral-pro-a-comedy-show-about-grief-by-aly-dixon-tickets-1992033440645",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1992033440645",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187082838%2F1389851762003%2F1%2Foriginal.20260617-022941?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e9b6cc1ef1d6c81ebc46ba14d18a22b5",
-   "date": "2026-07-25",
-   "time": "19:30",
-   "venue": "Lyric Hyperion Theater & Cafe",
-   "address": "2106 Hyperion Avenue, Los Angeles, CA 90027",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "Catch Aly Dixon’s Funeral Pro: a comedy show about grief on Saturday 7/25 at 7:30 at Lyric Hyperion",
-   "soldOut": false,
-   "id": 54,
-   "shortDesc": "Catch Aly Dixon’s Funeral Pro: a comedy show about grief on Saturday 7/25 at 7:30 at Lyric Hyperion — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Fuck This Month & Holy Shit Improv",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/fuck-this-month-holy-shit-improv-tickets-1987795189923",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1987795189923",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189356883%2F2083030211513%2F1%2Foriginal.20260722-001813?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=aa5d706b43449b35d37b3dd09df47d4c",
-   "date": "2026-07-25",
-   "time": "19:30",
-   "venue": "The Elysian Theater",
-   "address": "1944 Riverside Drive, Los Angeles, CA 90039",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "Two of LA's Best Teams in One",
-   "soldOut": false,
-   "id": 55,
-   "shortDesc": "Two of LA's Best Teams in One — via Eventbrite"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Gylt + CNTS + Molly Horses + Super Violate",
-   "artists": [
-    "Gylt",
-    "CNTS",
-    "Molly Horses",
-    "Super Violate"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/476045-gylt-cnts-molly-horses-super-violate-non-plus-ultra",
-   "ticketUrl": "https://www.instagram.com/p/DaQ9pGBSSqG/",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "20:00",
-   "venue": "Non Plus Ultra",
-   "address": ", ,    ",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "",
-   "soldOut": false,
-   "id": 56,
-   "shortDesc": "Indie / Alt show at Non Plus Ultra — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Widespread Panic",
-   "artists": [
-    "Widespread Panic"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/467710-widespread-panic-orpheum-theatre",
-   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fwidespread-panic-los-angeles-california-07-25-2026%2Fevent%2F0900646CA6B0927E",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "20:00",
-   "venue": "Orpheum Theatre",
-   "address": "842 S. Broadway, Los Angeles, CA 90014",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 57,
-   "shortDesc": "Indie / Alt show at Orpheum Theatre · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Meatbodies + Paint Thinner",
-   "artists": [
-    "Meatbodies",
-    "Paint Thinner"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/470961-meatbodies-paint-thinner-sid-the-cat-auditorium",
-   "ticketUrl": "https://dice.fm/event/avwkbx-meatbodies-25th-jul-sid-the-cat-auditorium-south-pasadena-tickets",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "20:00",
-   "venue": "Sid The Cat Auditorium",
-   "address": "1022 El Centro Street, South Pasadena, CA 91030",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 58,
-   "shortDesc": "Indie / Alt show at Sid The Cat Auditorium · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Joe Hisaishi + Nico Muhly + Bryce Dessner + Max Richter",
-   "artists": [
-    "Joe Hisaishi",
-    "Nico Muhly",
-    "Bryce Dessner",
-    "Max Richter"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/471160-joe-hisaishi-nico-muhly-bryce-dessner-max-richter-the-ford",
-   "ticketUrl": "https://www.theford.com/events/performances/4855/2026-07-25/joe-hisaishi-presents-music-future-vol-13",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "20:00",
-   "venue": "The Ford",
-   "address": "2580 Cahuenga Blvd East, Hollywood, CA 90068",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 59,
-   "shortDesc": "Indie / Alt show at The Ford · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "AJ McQueen + Mor",
-   "artists": [
-    "AJ McQueen",
-    "Mor"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/472405-aj-mcqueen-mor-the-regent-theater",
-   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Faj-mcqueen-los-angeles-california-07-25-2026%2Fevent%2F090064AFAF74ED57",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "20:00",
-   "venue": "The Regent Theater",
-   "address": "448 S. Main Street, Los Angeles, CA 90013",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 60,
-   "shortDesc": "Indie / Alt show at The Regent Theater · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Elijah Scott + Devora",
-   "artists": [
-    "Elijah Scott",
-    "Devora"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/468181-elijah-scott-devora-the-roxy",
-   "ticketUrl": "https://www.axs.com/events/1382106/elijah-scott-tickets",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "20:00",
-   "venue": "The Roxy",
-   "address": "9009 W Sunset Blvd, West Hollywood, CA 90069",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 61,
-   "shortDesc": "Indie / Alt show at The Roxy · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Best Buds + Girls Dinner + Older",
-   "artists": [
-    "Best Buds",
-    "Girls Dinner",
-    "Older"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/473830-best-buds-girls-dinner-older-the-smell",
-   "ticketUrl": "https://www.thesmell.org/eventtickets/p/saturday-july-25-2026",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "20:00",
-   "venue": "The Smell",
-   "address": "247 South Main Street, Los Angeles, CA 90012",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 62,
-   "shortDesc": "Indie / Alt show at The Smell · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Walk Off The Earth + Crash Adams",
-   "artists": [
-    "Walk Off The Earth",
-    "Crash Adams"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/468196-walk-off-the-earth-crash-adams-united-theater-on-broadway",
-   "ticketUrl": "https://www.axs.com/events/1373063/walk-off-the-earth-tickets",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "20:00",
-   "venue": "United Theater on Broadway ",
-   "address": "929 South Broadway, Los Angeles, CA 90015",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 63,
-   "shortDesc": "Indie / Alt show at United Theater on Broadway  · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Witch Jam Concert Series 2026",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/witch-jam-concert-series-2026-tickets-1990703893935",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1990703893935",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189332830%2F280338614195%2F1%2Foriginal.20260721-184038?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=14567667d24a6bb3dacdfaa493cb3b37",
-   "date": "2026-07-25",
-   "time": "20:00",
-   "venue": "Eagle's Nest Saloon",
-   "address": "15150 Prairie Avenue, Lawndale, CA 90260",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Concert",
-   "genres": [
-    "Metal",
-    "Rock"
-   ],
-   "description": "Get ready to rock out with some wicked tunes and good vibes at the coolest jam session of the summer!",
-   "soldOut": false,
-   "id": 64,
-   "shortDesc": "Get ready to rock out with some wicked tunes and good vibes at the coolest jam session of the summer! — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "TWANG CITY - Joe Wood & The Lonely Ones / John Surge / Lousy Little Gods",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/twang-city-joe-wood-the-lonely-ones-john-surge-lousy-little-gods-tickets-1992946037246",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1992946037246",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188034945%2F132895432417%2F1%2Foriginal.20260701-204324?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a49d324de0578723e0907488815e48da",
-   "date": "2026-07-25",
-   "time": "20:00",
-   "venue": "DiPiazza's",
-   "address": "5205 Pacific Coast Highway, Long Beach, CA 90804",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Concert",
-   "genres": [
-    "Rock",
-    "Folk / Country"
-   ],
-   "description": "A night of rockin' roots music with Joe Wood of TSOL fame and Blue Dog Tavern legend. Plus! John Surge & the Haymakers and Lousy Little Gods",
-   "soldOut": false,
-   "id": 65,
-   "shortDesc": "A night of rockin' roots music with Joe Wood of TSOL fame and Blue Dog Tavern legend. Plus! John Surge & the… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "The Saturday Show ( Stand-Up Comedy)",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/the-saturday-show-stand-up-comedy-tickets-1985205752847",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1985205752847",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F967033753%2F2635030416961%2F1%2Foriginal.20250222-224855?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.0568181818182&fp-y=0.468401486989&s=7f7af1916e901d842334d686e3e0b38b",
-   "date": "2026-07-25",
-   "time": "20:00",
-   "venue": "Westside Comedy Theater",
-   "address": "1323-A 3rd Street, Santa Monica, CA 90401",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "Catch top comics and national headliners Saturday nights at Westside Comedy Theater. Nonstop laughs and fun- You don't want to miss it!",
-   "soldOut": false,
-   "id": 66,
-   "shortDesc": "Catch top comics and national headliners Saturday nights at Westside Comedy Theater. Nonstop laughs and fun-… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Jeff Hodge & Friends Comedy Explosion",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/jeff-hodge-friends-comedy-explosion-tickets-1991878905426",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1991878905426",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F925653803%2F60180079229%2F1%2Foriginal.20250101-023939?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ef87394fd0d8e3836331614ef2bcd151",
-   "date": "2026-07-25",
-   "time": "20:00",
-   "venue": "Yeah Mon Comedy Lounge",
-   "address": "7551 Melrose Ave, Hollywood, CA 90046",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "Get ready to laugh your socks off at the Jeff Hodge & Friends Comedy Explosion - it's gonna be a night full of hilarious jokes and good time",
-   "soldOut": false,
-   "id": 67,
-   "shortDesc": "Get ready to laugh your socks off at the Jeff Hodge & Friends Comedy Explosion - it's gonna be a night full… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Shindig Show at The Starlight Cabaret",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/shindig-show-at-the-starlight-cabaret-tickets-1992246408638",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1992246408638",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187290049%2F281508524641%2F1%2Foriginal.20260619-194115?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4604150b334fccfaaf70a86f1d1c82df",
-   "date": "2026-07-25",
-   "time": "20:00",
-   "venue": "The Starlight Cabaret",
-   "address": "11502 Ventura Boulevard, Los Angeles, CA 91604",
-   "isFree": false,
-   "priceText": "",
-   "category": "film",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "Shindig Show as seen at The Comedy Store, Hollywood Improv comes to the new Starlight Cabaret in Studio City",
-   "soldOut": false,
-   "id": 68,
-   "shortDesc": "Shindig Show as seen at The Comedy Store, Hollywood Improv comes to the new Starlight Cabaret in Studio City — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "HARLOW GOLD: Redux",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/harlow-gold-redux-tickets-1989435085896",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1989435085896",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183768709%2F268897515219%2F1%2Foriginal.20260505-010035?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a540d936c6f91314eed05826a723decb",
-   "date": "2026-07-25",
-   "time": "20:00",
-   "venue": "The Hollywood Roosevelt",
-   "address": "7000 Hollywood Boulevard, Los Angeles, CA 90028",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "This isn't burlesque. This is Harlow Gold. Raw, immersive, unpredictable - and not for the faint of heart.",
-   "soldOut": false,
-   "id": 69,
-   "shortDesc": "This isn't burlesque. This is Harlow Gold. Raw, immersive, unpredictable - and not for the faint of heart. — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "7/25 Fusion Odyssey #31 (Every 4th Saturday) Fusion Dance Social",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/725-fusion-odyssey-31-every-4th-saturday-fusion-dance-social-tickets-1992683518044",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1992683518044",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183019842%2F2765842312%2F1%2Foriginal.20260425-093907?w=640&auto=format%2Ccompress&q=75&sharp=10&s=023b599719bdf4043eeafcf4e13993c5",
-   "date": "2026-07-25",
-   "time": "20:00",
-   "venue": "FlowState.Studio",
-   "address": "456 East Orange Grove Boulevard ##201, Pasadena, CA 91104",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Party",
-   "genres": [],
-   "description": "7/25 Fusion Odyssey #31 (Every 4th Saturday) Fusion Dance Social",
-   "soldOut": false,
-   "id": 70,
-   "shortDesc": "7/25 Fusion Odyssey #31 (Every 4th Saturday) Fusion Dance Social — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "“A Very Asian Time of Our Lives” AAPI Standup Show",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/a-very-asian-time-of-our-lives-aapi-standup-show-tickets-1993468808870",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1993468808870",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188375238%2F2998785588056%2F1%2Foriginal.20260707-151435?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=135e05842387f93a3c913324beb3f84e",
-   "date": "2026-07-25",
-   "time": "20:00",
-   "venue": "Astronaut City Comedy Club and Karaoke Bar",
-   "address": "1037 South Baldwin Avenue, Arcadia, CA 91007",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "The hottest monthly Asian American comedy showcase in all of SoCal held in Arcadia! Free karaoke after the show!",
-   "soldOut": false,
-   "id": 71,
-   "shortDesc": "The hottest monthly Asian American comedy showcase in all of SoCal held in Arcadia! Free karaoke after the… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Saturday Night Standup Comedy Performance at The Hollywood Comedy",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/saturday-night-standup-comedy-performance-at-the-hollywood-comedy-tickets-1993883384878",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1993883384878",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188800260%2F404253396051%2F1%2Foriginal.20260714-011638?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.503&fp-y=0.63&s=755df530f4e397412b94deec9965ec2c",
-   "date": "2026-07-25",
-   "time": "20:30",
-   "venue": "The Hollywood Comedy",
-   "address": "5871 Melrose Avenue, Los Angeles, CA 90038",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "Your Saturday night will be completely hilarious with the best talent at The Hollywood Comedy!",
-   "soldOut": false,
-   "id": 72,
-   "shortDesc": "Your Saturday night will be completely hilarious with the best talent at The Hollywood Comedy! — via Eventbrite"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Pop Club + Big Jesus Trash Can + Max Gardener",
-   "artists": [
-    "Pop Club",
-    "Big Jesus Trash Can",
-    "Max Gardener"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/475650-pop-club-big-jesus-trash-can-max-gardener-permanent-records-roadhouse",
-   "ticketUrl": "https://app.opendate.io/e/pop-club-big-jesus-trash-can-max-gardener-july-24-2026-714306",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "21:00",
-   "venue": "Permanent Records Roadhouse",
-   "address": "1906 Cypress Ave, Los Angeles, CA 90065",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Pop"
-   ],
-   "description": "21+",
-   "soldOut": false,
-   "id": 73,
-   "shortDesc": "Pop show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Finish Ticket",
-   "artists": [
-    "Finish Ticket"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/470013-finish-ticket-permanent-records-roadhouse",
-   "ticketUrl": "https://app.opendate.io/e/finish-ticket-july-25-2026-695620",
-   "imageUrl": null,
-   "date": "2026-07-25",
-   "time": "21:00",
-   "venue": "Permanent Records Roadhouse",
-   "address": "1906 Cypress Ave, Los Angeles, CA 90065",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "21+",
-   "soldOut": false,
-   "id": 74,
-   "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Isabella DiBernardino at The Viper Room",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/isabella-dibernardino-at-the-viper-room-tickets-1993959461425",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1993959461425",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188868399%2F360212567249%2F1%2Foriginal.20260714-203958?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.306&fp-y=0.36&s=ec42054bc8b346eb428cbc4800da7ee3",
-   "date": "2026-07-25",
-   "time": "21:00",
-   "venue": "The Viper Room",
-   "address": "8852 Sunset Boulevard, West Hollywood, CA 90069",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "Come out for a night of music at the famous Viper Room in Los Angeles. Pre-party starts at 9pm. MainStage show is at 10pm.",
-   "soldOut": false,
-   "id": 75,
-   "shortDesc": "Come out for a night of music at the famous Viper Room in Los Angeles. Pre-party starts at 9pm. MainStage… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "ALI SHER & FRIENDS COMEDY SHOW",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/ali-sher-friends-comedy-show-tickets-1993737431327",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1993737431327",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188680148%2F301670171113%2F1%2Foriginal.20260711-221152?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.51&fp-y=0.176&s=7f9dece8622d3eeb66e06b6ea8abf4b9",
-   "date": "2026-07-25",
-   "time": "21:00",
-   "venue": "HaHa Comedy Club",
-   "address": "4712 Lankershim Boulevard, Los Angeles, CA 91602",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "Get ready to laugh out loud with Ali Sher and friends in an epic, night of non-stop comedy!",
-   "soldOut": false,
-   "id": 76,
-   "shortDesc": "Get ready to laugh out loud with Ali Sher and friends in an epic, night of non-stop comedy! — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Open Decks & BOBA",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/open-decks-boba-tickets-1994109977623",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1994109977623",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188973913%2F238743656476%2F1%2Foriginal.20260716-023525?w=640&auto=format%2Ccompress&q=75&sharp=10&s=bf969f99015e6673618d82738ac80364",
-   "date": "2026-07-25",
-   "time": "21:00",
-   "venue": "Amino Avenue Boba & Coffee",
-   "address": "2700 South Figueroa Street #105, Los Angeles, CA 90007",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Concert",
-   "genres": [
-    "Electronic"
-   ],
-   "description": "Join us for music, boba, free kandi, open decks & plurr vibes! Meet fellow EDM lovers.",
-   "soldOut": false,
-   "id": 77,
-   "shortDesc": "Join us for music, boba, free kandi, open decks & plurr vibes! Meet fellow EDM lovers. — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Secreto -West Eight Saturdays (Reggaeton/Hip Hop/Top 40!)(Free Before 11pm)",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/secreto-west-eight-saturdays-reggaetonhip-hoptop-40free-before-11pm-tickets-1992293026072",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1992293026072",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189413004%2F3005797168943%2F1%2Foriginal.20260722-181855?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0633c966ad61371472f41c0767eb18b3",
-   "date": "2026-07-25",
-   "time": "21:30",
-   "venue": "West Eight Los Angeles",
-   "address": "425 West 8th Street, Los Angeles, CA 90014",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Party",
-   "genres": [
-    "Latin",
-    "Hip-Hop / R&B"
-   ],
-   "description": "Secreto Saturdays Music by Oso Mighty and Snailz. Reggaeton, Hip Hop, Top 40 and more. Free before 11pm with ticket!",
-   "soldOut": false,
-   "id": 78,
-   "shortDesc": "Secreto Saturdays Music by Oso Mighty and Snailz. Reggaeton, Hip Hop, Top 40 and more. Free before 11pm with… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Trap mic live",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/trap-mic-live-tickets-1984835901612",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1984835901612",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179439812%2F2833488083801%2F1%2Foriginal.20260309-232740?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.542&fp-y=0.409&s=61582f698100708d698922f5cc4dffda",
-   "date": "2026-07-25",
-   "time": "21:30",
-   "venue": "13653 Oxnard St",
-   "address": "13653 Oxnard Street, Los Angeles, CA 91401",
-   "isFree": false,
-   "priceText": "",
-   "category": "film",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "Trap Mic Live is a late-night underground comedy show hosted by Dior J featuring the next wave of comedians and surprise guests.",
-   "soldOut": false,
-   "id": 79,
-   "shortDesc": "Trap Mic Live is a late-night underground comedy show hosted by Dior J featuring the next wave of comedians… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Good Music Saturdays: R&B & Hip Hop Night",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/good-music-saturdays-rb-hip-hop-night-tickets-1992089432117",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1992089432117",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187149256%2F289795875842%2F1%2Foriginal.20260617-220940?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4594da723ce9c2582e9650e859036082",
-   "date": "2026-07-25",
-   "time": "22:00",
-   "venue": "Mandala Cantina",
-   "address": "8310 3rd Street, Downey, CA 90241",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Party",
-   "genres": [
-    "Hip-Hop / R&B"
-   ],
-   "description": "Get down to the freshest R&B and hip hop vibes every Saturday night with Good Music Saturdays!",
-   "soldOut": false,
-   "id": 80,
-   "shortDesc": "Get down to the freshest R&B and hip hop vibes every Saturday night with Good Music Saturdays! — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "The After Hours Show (Stand-Up Comedy)",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/the-after-hours-show-stand-up-comedy-tickets-1988365287099",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1988365287099",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F968665873%2F496792327685%2F1%2Foriginal.20250225-062714?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.000568181818182&fp-y=0.00468401486989&s=15cbdce1cf7529178fec25d3aab86d58",
-   "date": "2026-07-25",
-   "time": "22:00",
-   "venue": "Westside Comedy Theater",
-   "address": "1323-A 3rd Street, Santa Monica, CA 90401",
-   "isFree": false,
-   "priceText": "",
-   "category": "arts",
-   "subcategory": "Concert",
-   "genres": [],
-   "description": "Don't miss The After Hours Show featuring some of The Westside's favorite standup comics. A little later and a lot more fun! 10PM!",
-   "soldOut": false,
-   "id": 81,
-   "shortDesc": "Don't miss The After Hours Show featuring some of The Westside's favorite standup comics. A little later and… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": "USC",
-   "title": "SATURDAY JULY 25TH LA 2000'S PARTY LOS GLOBOS GET TICKETS HERE",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/saturday-july-25th-la-2000s-party-los-globos-get-tickets-here-tickets-1993848471451",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1993848471451",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188765896%2F319951432387%2F1%2Foriginal.20260713-170618?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e267f492aa031f12a7c27d116da3e28f",
-   "date": "2026-07-25",
-   "time": "22:00",
-   "venue": "3040 W Sunset Blvd",
-   "address": "3040 West Sunset Boulevard, Los Angeles, CA 90026",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Party",
-   "genres": [
-    "Latin",
-    "Electronic",
-    "Hip-Hop / R&B"
-   ],
-   "description": "18+ SATURDAY JULY 25TH LA 2000'S PARTY LOS GLOBOS HIP HOP | REGGEATON| EDM FREE GUEST LIST RSVP TABLES $300 VODKA OR TEQUILA (626)347-0567",
-   "soldOut": false,
-   "id": 82,
-   "shortDesc": "18+ SATURDAY JULY 25TH LA 2000'S PARTY LOS GLOBOS HIP HOP | REGGEATON| EDM FREE GUEST LIST RSVP TABLES $300… — via Eventbrite"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Late Night Picture Show",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/late-night-picture-show-tickets-1246764178219",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1246764178219",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188817290%2F98371456501%2F1%2Foriginal.20260714-090659?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=99adbdf2dfa7ec4a9963a0d719f6876f",
-   "date": "2026-07-25",
-   "time": "23:00",
-   "venue": "The Broadwater Second Stage",
-   "address": "6320 Santa Monica Boulevard, Los Angeles, CA 90038",
-   "isFree": false,
-   "priceText": "",
-   "category": "film",
-   "subcategory": "Screening",
-   "genres": [],
-   "description": "A free movie series. Midnight Movie Vibes. Trivia. Prizes. Snacks.",
-   "soldOut": false,
-   "id": 83,
-   "shortDesc": "A free movie series. Midnight Movie Vibes. Trivia. Prizes. Snacks. — via Eventbrite"
-  },
   {
    "source": "eventbrite",
    "sourceLabel": "Eventbrite",
@@ -2177,7 +36,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Steve Sieck presents \"Then, Now and Next,\" an intimate and engaging performance featuring songs from across his musical journey.",
    "soldOut": false,
-   "id": 84,
+   "id": 1,
    "shortDesc": "Steve Sieck presents \"Then, Now and Next,\" an intimate and engaging performance featuring songs from across… — via Eventbrite"
   },
   {
@@ -2203,7 +62,7 @@ window.EVENTS_DATA = {
    ],
    "description": "A classic RnB and Latin music themed brunch featuring bottomless mimosas and a private dance floor!",
    "soldOut": false,
-   "id": 85,
+   "id": 2,
    "shortDesc": "A classic RnB and Latin music themed brunch featuring bottomless mimosas and a private dance floor! — via Eventbrite"
   },
   {
@@ -2226,7 +85,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Step into the world of Young Hot Ebony, an immersive dance experience with polaroids and exclusive goodies",
    "soldOut": false,
-   "id": 86,
+   "id": 3,
    "shortDesc": "Step into the world of Young Hot Ebony, an immersive dance experience with polaroids and exclusive goodies — via Eventbrite"
   },
   {
@@ -2249,7 +108,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Chamber Music by Hannah Kendall, Eleanor Alberga, Rebecca Clarke, and Olivier Messiaen",
    "soldOut": false,
-   "id": 87,
+   "id": 4,
    "shortDesc": "Chamber Music by Hannah Kendall, Eleanor Alberga, Rebecca Clarke, and Olivier Messiaen — via Eventbrite"
   },
   {
@@ -2275,7 +134,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Come aboard for a chill Sunday afternoon Yacht Rock party with live music from Yachtzee. 21 plus",
    "soldOut": false,
-   "id": 88,
+   "id": 5,
    "shortDesc": "Come aboard for a chill Sunday afternoon Yacht Rock party with live music from Yachtzee. 21 plus — via Eventbrite"
   },
   {
@@ -2300,7 +159,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Come hear 4 stellar Singer-Songwriter Bands from LA College of Music! Great brews and food trucks!",
    "soldOut": false,
-   "id": 89,
+   "id": 6,
    "shortDesc": "Come hear 4 stellar Singer-Songwriter Bands from LA College of Music! Great brews and food trucks! — via Eventbrite"
   },
   {
@@ -2323,7 +182,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Who lives in a pineapple under the sea and became the hottest star on Broadway? Why, it's SpongeBob SquarePants!",
    "soldOut": false,
-   "id": 90,
+   "id": 7,
    "shortDesc": "Who lives in a pineapple under the sea and became the hottest star on Broadway? Why, it's SpongeBob… — via Eventbrite"
   },
   {
@@ -2346,7 +205,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Free Concert in LA: Too Short, Xzibit, Layzie Bone, RJ, & MORE! Sunday, July 26th at Pershing Square!",
    "soldOut": false,
-   "id": 91,
+   "id": 8,
    "shortDesc": "Free Concert in LA: Too Short, Xzibit, Layzie Bone, RJ, & MORE! Sunday, July 26th at Pershing Square! — via Eventbrite"
   },
   {
@@ -2371,7 +230,7 @@ window.EVENTS_DATA = {
    ],
    "description": "The ultimate R&B sing along party happening every Sunday in the city of Downey! 2 Rooms, Full kitchen, your perfect Sunday destination",
    "soldOut": false,
-   "id": 92,
+   "id": 9,
    "shortDesc": "The ultimate R&B sing along party happening every Sunday in the city of Downey! 2 Rooms, Full kitchen, your… — via Eventbrite"
   },
   {
@@ -2398,7 +257,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Join us on the roof for the vibes you need! We've got a patio, food, free treats & surprises! Get your tix or VIP booths now!",
    "soldOut": false,
-   "id": 93,
+   "id": 10,
    "shortDesc": "Join us on the roof for the vibes you need! We've got a patio, food, free treats & surprises! Get your tix or… — via Eventbrite"
   },
   {
@@ -2421,7 +280,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Open mic + improv jam. Tell a story and watch improvisers take it way past your wildest imagination. Fun, supportive, and open to anyone.",
    "soldOut": false,
-   "id": 94,
+   "id": 11,
    "shortDesc": "Open mic + improv jam. Tell a story and watch improvisers take it way past your wildest imagination. Fun… — via Eventbrite"
   },
   {
@@ -2449,7 +308,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 95,
+   "id": 12,
    "shortDesc": "Indie / Alt show at Plummer Park · All Ages — via Oh My Rockness"
   },
   {
@@ -2475,7 +334,7 @@ window.EVENTS_DATA = {
    ],
    "description": "L.A. DJ crew spinning Reggaeton, Dembow, Latin House, Hip-Hop and more global club sounds!",
    "soldOut": false,
-   "id": 96,
+   "id": 13,
    "shortDesc": "L.A. DJ crew spinning Reggaeton, Dembow, Latin House, Hip-Hop and more global club sounds! — via Eventbrite"
   },
   {
@@ -2500,7 +359,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Aviation-themed open-air salsa, bachata & merengue dance social",
    "soldOut": false,
-   "id": 97,
+   "id": 14,
    "shortDesc": "Aviation-themed open-air salsa, bachata & merengue dance social — via Eventbrite"
   },
   {
@@ -2525,7 +384,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Free Manhattan Beach concert featuring Kenny Metcalf as Elton, with hits like Rocket Man and Bennie and the Jets.",
    "soldOut": false,
-   "id": 98,
+   "id": 15,
    "shortDesc": "Free Manhattan Beach concert featuring Kenny Metcalf as Elton, with hits like Rocket Man and Bennie and the… — via Eventbrite"
   },
   {
@@ -2550,7 +409,7 @@ window.EVENTS_DATA = {
    ],
    "description": "One Good Thing About Music “When It Hits You Feel No Pain” . Join Us For A Afternoon Of Strictly Reggae Music. + Jamaican Food &Vendors.",
    "soldOut": false,
-   "id": 99,
+   "id": 16,
    "shortDesc": "One Good Thing About Music “When It Hits You Feel No Pain” . Join Us For A Afternoon Of Strictly Reggae… — via Eventbrite"
   },
   {
@@ -2573,7 +432,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Family atmosphere: Salsa, Cumbia, Merengue, Bachata, Reggaeton and R&B. Food and full bar + nonalcoholic options sold for your enjoyment. Le",
    "soldOut": false,
-   "id": 100,
+   "id": 17,
    "shortDesc": "Family atmosphere: Salsa, Cumbia, Merengue, Bachata, Reggaeton and R&B. Food and full bar + nonalcoholic… — via Eventbrite"
   },
   {
@@ -2598,7 +457,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Spicy, Hawt, Caliente and Sexy!",
    "soldOut": false,
-   "id": 101,
+   "id": 18,
    "shortDesc": "Spicy, Hawt, Caliente and Sexy! — via Eventbrite"
   },
   {
@@ -2621,7 +480,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A weekly open mic hosted by Eli Lloyd, Jazz Lewis, Leonard Smith Jr, Laney Serface, and Nick Murhling. Show up at 5:30pm, put your name in t",
    "soldOut": false,
-   "id": 102,
+   "id": 19,
    "shortDesc": "A weekly open mic hosted by Eli Lloyd, Jazz Lewis, Leonard Smith Jr, Laney Serface, and Nick Murhling. Show… — via Eventbrite"
   },
   {
@@ -2648,7 +507,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 103,
+   "id": 20,
    "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
   },
   {
@@ -2675,7 +534,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 104,
+   "id": 21,
    "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
   },
   {
@@ -2703,7 +562,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Penmar after dark — come for the vibes, stay for the chemistry.",
    "soldOut": false,
-   "id": 105,
+   "id": 22,
    "shortDesc": "Penmar after dark — come for the vibes, stay for the chemistry. — via LA Fun Events"
   },
   {
@@ -2726,7 +585,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "ITS GOING DOWN! We Are Back! The night you all have been waiting for! COZY CONCERT 9! We have 8 talented artists ready to take the stage!",
    "soldOut": false,
-   "id": 106,
+   "id": 23,
    "shortDesc": "ITS GOING DOWN! We Are Back! The night you all have been waiting for! COZY CONCERT 9! We have 8 talented… — via Eventbrite"
   },
   {
@@ -2751,7 +610,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Playhouse Village sizzles this summer with free outdoor concerts at Playhouse Village Park every Sunday in June and July.",
    "soldOut": false,
-   "id": 107,
+   "id": 24,
    "shortDesc": "Playhouse Village sizzles this summer with free outdoor concerts at Playhouse Village Park every Sunday in… — via Eventbrite"
   },
   {
@@ -2774,7 +633,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Hey Los Angeles fam!",
    "soldOut": false,
-   "id": 108,
+   "id": 25,
    "shortDesc": "Hey Los Angeles fam! — via Eventbrite"
   },
   {
@@ -2797,7 +656,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "The graduation show for Improv 201 & 401 class.",
    "soldOut": false,
-   "id": 109,
+   "id": 26,
    "shortDesc": "The graduation show for Improv 201 & 401 class. — via Eventbrite"
   },
   {
@@ -2820,7 +679,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Back in Silverlake for a Summer Time Pop-Up Dance Party",
    "soldOut": false,
-   "id": 110,
+   "id": 27,
    "shortDesc": "Back in Silverlake for a Summer Time Pop-Up Dance Party — via Eventbrite"
   },
   {
@@ -2843,7 +702,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join FREE 3rd Street Promenade, Santa Monica! Connect, social dance every Sundays! Reserve ONLY *No refunds for mistaken orders/donations*",
    "soldOut": false,
-   "id": 111,
+   "id": 28,
    "shortDesc": "Join FREE 3rd Street Promenade, Santa Monica! Connect, social dance every Sundays! Reserve ONLY *No refunds… — via Eventbrite"
   },
   {
@@ -2866,7 +725,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "FREE 6PM by Cabo Cantina-Third Street Promenade. JOiN the 2nd half FREE 8PM to 10PM! Reserve ONLY *No refunds for mistaken orders/donations.",
    "soldOut": false,
-   "id": 112,
+   "id": 29,
    "shortDesc": "FREE 6PM by Cabo Cantina-Third Street Promenade. JOiN the 2nd half FREE 8PM to 10PM! Reserve ONLY *No refunds… — via Eventbrite"
   },
   {
@@ -2889,7 +748,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "the congregation (returns!) after good praise & high demand. Hosted by PAGES Matam! w/ Matthew Cuban, Jessica YELLAWOMAN Gallion, & Beth May",
    "soldOut": false,
-   "id": 113,
+   "id": 30,
    "shortDesc": "the congregation (returns!) after good praise & high demand. Hosted by PAGES Matam! w/ Matthew Cuban, Jessica… — via Eventbrite"
   },
   {
@@ -2912,7 +771,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Get ready for a night of standup comedy featuring amazing comedians featured on SNL, Adult Swim, Netflix, HBO, Comedy Central & more!",
    "soldOut": false,
-   "id": 114,
+   "id": 31,
    "shortDesc": "Get ready for a night of standup comedy featuring amazing comedians featured on SNL, Adult Swim, Netflix… — via Eventbrite"
   },
   {
@@ -2942,7 +801,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 115,
+   "id": 32,
    "shortDesc": "Indie / Alt show at Gold-Diggers · 21+ — via Oh My Rockness"
   },
   {
@@ -2970,7 +829,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 116,
+   "id": 33,
    "shortDesc": "Classical show at Hollywood Bowl · All Ages — via Oh My Rockness"
   },
   {
@@ -2999,7 +858,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 117,
+   "id": 34,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -3031,7 +890,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 118,
+   "id": 35,
    "shortDesc": "Indie / Alt show at Silverlake Lounge · 21+ — via Oh My Rockness"
   },
   {
@@ -3058,7 +917,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 119,
+   "id": 36,
    "shortDesc": "Indie / Alt show at The Airliner · 21+ — via Oh My Rockness"
   },
   {
@@ -3085,7 +944,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 120,
+   "id": 37,
    "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
   },
   {
@@ -3113,7 +972,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 121,
+   "id": 38,
    "shortDesc": "Indie / Alt show at The Observatory · All Ages — via Oh My Rockness"
   },
   {
@@ -3141,7 +1000,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 122,
+   "id": 39,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -3164,7 +1023,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Dearly beloved we are gathered here tonight…WAIT I OBJECT!",
    "soldOut": false,
-   "id": 123,
+   "id": 40,
    "shortDesc": "Dearly beloved we are gathered here tonight…WAIT I OBJECT! — via Eventbrite"
   },
   {
@@ -3187,7 +1046,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us for a star-studded event blending fashion, music, and art, plus a lively panel discussion you won't want to miss! Every Sunday",
    "soldOut": false,
-   "id": 124,
+   "id": 41,
    "shortDesc": "Join us for a star-studded event blending fashion, music, and art, plus a lively panel discussion you won't… — via Eventbrite"
   },
   {
@@ -3210,7 +1069,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "L(it) Girl Presents - The Witching Hour: Join us for a bewitching evening of poetry. $10 to watch. $5 to sign up.",
    "soldOut": false,
-   "id": 125,
+   "id": 42,
    "shortDesc": "L(it) Girl Presents - The Witching Hour: Join us for a bewitching evening of poetry. $10 to watch. $5 to sign… — via Eventbrite"
   },
   {
@@ -3233,7 +1092,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Chateau Sundays at Comedy Chateau Free tickets & parking, full bar, food + comedy mixed with open mic. New lineup weekly!",
    "soldOut": false,
-   "id": 126,
+   "id": 43,
    "shortDesc": "Chateau Sundays at Comedy Chateau Free tickets & parking, full bar, food + comedy mixed with open mic. New… — via Eventbrite"
   },
   {
@@ -3256,7 +1115,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Having a serious hyper fixation? Need a laugh? Comics Con: A Fan Girlie Comedy Show is the comedy show for you!",
    "soldOut": false,
-   "id": 127,
+   "id": 44,
    "shortDesc": "Having a serious hyper fixation? Need a laugh? Comics Con: A Fan Girlie Comedy Show is the comedy show for… — via Eventbrite"
   },
   {
@@ -3279,7 +1138,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "LA’s Biggest and BLACKEST improvisers come together for the HOTTEST Comedy show in town",
    "soldOut": false,
-   "id": 128,
+   "id": 45,
    "shortDesc": "LA’s Biggest and BLACKEST improvisers come together for the HOTTEST Comedy show in town — via Eventbrite"
   },
   {
@@ -3302,7 +1161,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A premiere long-form improv show where the LA's best comedians turn real stories into hilarious, totally unscripted scenes.",
    "soldOut": false,
-   "id": 129,
+   "id": 46,
    "shortDesc": "A premiere long-form improv show where the LA's best comedians turn real stories into hilarious, totally… — via Eventbrite"
   },
   {
@@ -3325,7 +1184,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "2-3 Improv Teams with a Stand-Up Comedian, Humorous Performer, etc. Last Sunday of every month. Always friendly always uncensored.",
    "soldOut": false,
-   "id": 130,
+   "id": 47,
    "shortDesc": "2-3 Improv Teams with a Stand-Up Comedian, Humorous Performer, etc. Last Sunday of every month. Always… — via Eventbrite"
   },
   {
@@ -3348,7 +1207,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Wild, fearless, and laugh-’til-you-cry. See tomorrow’s comedy legends wreck the stage with brand-new bits—anything can happen.",
    "soldOut": false,
-   "id": 131,
+   "id": 48,
    "shortDesc": "Wild, fearless, and laugh-’til-you-cry. See tomorrow’s comedy legends wreck the stage with brand-new… — via Eventbrite"
   },
   {
@@ -3371,7 +1230,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Come see 2 of our hilarious Sketch Comedy teams do 2 funny shows!",
    "soldOut": false,
-   "id": 132,
+   "id": 49,
    "shortDesc": "Come see 2 of our hilarious Sketch Comedy teams do 2 funny shows! — via Eventbrite"
   },
   {
@@ -3394,7 +1253,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A night of character-based comedy from LA's best up and coming sketch comedians!",
    "soldOut": false,
-   "id": 133,
+   "id": 50,
    "shortDesc": "A night of character-based comedy from LA's best up and coming sketch comedians! — via Eventbrite"
   },
   {
@@ -3417,7 +1276,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Get a coffee and tell your tale. The clock is the boss!",
    "soldOut": false,
-   "id": 134,
+   "id": 51,
    "shortDesc": "Get a coffee and tell your tale. The clock is the boss! — via Eventbrite"
   },
   {
@@ -3440,7 +1299,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Skin Tag is a queer-run open mic established in 2021 and hosted by Cigi Farmer, Chelsea Morgan, Jessy Morner-Ritt and Taylor Ortega.",
    "soldOut": false,
-   "id": 135,
+   "id": 52,
    "shortDesc": "Skin Tag is a queer-run open mic established in 2021 and hosted by Cigi Farmer, Chelsea Morgan, Jessy… — via Eventbrite"
   },
   {
@@ -3469,7 +1328,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 136,
+   "id": 53,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -3496,7 +1355,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 137,
+   "id": 54,
    "shortDesc": "Indie / Alt show at Pappy & Harriet's · All Ages — via Oh My Rockness"
   },
   {
@@ -3526,7 +1385,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 138,
+   "id": 55,
    "shortDesc": "Indie / Alt show at The Glass House · All Ages — via Oh My Rockness"
   },
   {
@@ -3549,7 +1408,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Looking for acting classes in Hollywood? Join us at HG Theater in the heart of 90028 for a high-energy, no-pressure acting class!",
    "soldOut": false,
-   "id": 139,
+   "id": 56,
    "shortDesc": "Looking for acting classes in Hollywood? Join us at HG Theater in the heart of 90028 for a high-energy… — via Eventbrite"
   },
   {
@@ -3572,7 +1431,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "10-min sets. Real crowd. Livestreamed on YouTube and other platforms. Professional recordings available. M/W/F @ 7PM. Sign up 6:30 @ LASC.",
    "soldOut": false,
-   "id": 140,
+   "id": 57,
    "shortDesc": "10-min sets. Real crowd. Livestreamed on YouTube and other platforms. Professional recordings available… — via Eventbrite"
   },
   {
@@ -3595,7 +1454,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Singers & Bands! Come & jam at the BEST Open Mic Night in Hollywood at the Hang On to the Dream Theatre!",
    "soldOut": false,
-   "id": 141,
+   "id": 58,
    "shortDesc": "Singers & Bands! Come & jam at the BEST Open Mic Night in Hollywood at the Hang On to the Dream Theatre! — via Eventbrite"
   },
   {
@@ -3618,7 +1477,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Celebrate the Season at the CLI Summer Formal Food, live performances, awards, and an open mic featuring students, alumni, and faculty.",
    "soldOut": false,
-   "id": 142,
+   "id": 59,
    "shortDesc": "Celebrate the Season at the CLI Summer Formal Food, live performances, awards, and an open mic featuring… — via Eventbrite"
   },
   {
@@ -3641,7 +1500,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Golden State Comedy is back for a night of stand-up comedy at The Offbeat Bar in Highland Park",
    "soldOut": false,
-   "id": 143,
+   "id": 60,
    "shortDesc": "Golden State Comedy is back for a night of stand-up comedy at The Offbeat Bar in Highland Park — via Eventbrite"
   },
   {
@@ -3668,7 +1527,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 144,
+   "id": 61,
    "shortDesc": "Indie / Alt show at Fonda Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -3698,7 +1557,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 145,
+   "id": 62,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -3723,7 +1582,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Get ready to show off your star power at The Hollywood Idol Contest - where you can shine like a true star! Win a prize and more!",
    "soldOut": false,
-   "id": 146,
+   "id": 63,
    "shortDesc": "Get ready to show off your star power at The Hollywood Idol Contest - where you can shine like a true star!… — via Eventbrite"
   },
   {
@@ -3746,7 +1605,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "The stars are out tonight at the World Famous Laugh Factory. Roll out the red carpet and enjoy a lineup of comedy’s best.",
    "soldOut": false,
-   "id": 147,
+   "id": 64,
    "shortDesc": "The stars are out tonight at the World Famous Laugh Factory. Roll out the red carpet and enjoy a lineup of… — via Eventbrite"
   },
   {
@@ -3771,7 +1630,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Lessons and Dancing every Monday in Downtown Los Angeles",
    "soldOut": false,
-   "id": 148,
+   "id": 65,
    "shortDesc": "Lessons and Dancing every Monday in Downtown Los Angeles — via Eventbrite"
   },
   {
@@ -3794,7 +1653,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us for a comedy open mic at Jam in the Van in LA on July 27th at 8PM!",
    "soldOut": false,
-   "id": 149,
+   "id": 66,
    "shortDesc": "Join us for a comedy open mic at Jam in the Van in LA on July 27th at 8PM! — via Eventbrite"
   },
   {
@@ -3817,7 +1676,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Get ready for LAs best open mic with the look and feel of a show. Free to watch and sign up via bucket for a set. $4 for 4 minutes.",
    "soldOut": false,
-   "id": 150,
+   "id": 67,
    "shortDesc": "Get ready for LAs best open mic with the look and feel of a show. Free to watch and sign up via bucket for a… — via Eventbrite"
   },
   {
@@ -3840,7 +1699,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A feedback-optional open mic to work out new bits, old bits, and in-between bits.",
    "soldOut": false,
-   "id": 151,
+   "id": 68,
    "shortDesc": "A feedback-optional open mic to work out new bits, old bits, and in-between bits. — via Eventbrite"
   },
   {
@@ -3863,7 +1722,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Come check out one of L.A.'s longest running (and most fun) comedy open mics!",
    "soldOut": false,
-   "id": 152,
+   "id": 69,
    "shortDesc": "Come check out one of L.A.'s longest running (and most fun) comedy open mics! — via Eventbrite"
   },
   {
@@ -3890,7 +1749,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 153,
+   "id": 70,
    "shortDesc": "Indie / Alt show at Sid The Cat Auditorium · All Ages — via Oh My Rockness"
   },
   {
@@ -3913,7 +1772,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Transform your night at The Higher Mic! Join us for a $5 open mic featuring talent, laughs, and unforgettable vibes. Secure your spot NOW!",
    "soldOut": false,
-   "id": 154,
+   "id": 71,
    "shortDesc": "Transform your night at The Higher Mic! Join us for a $5 open mic featuring talent, laughs, and unforgettable… — via Eventbrite"
   },
   {
@@ -3940,7 +1799,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 155,
+   "id": 72,
    "shortDesc": "Indie / Alt show at Gold-Diggers · 21+ — via Oh My Rockness"
   },
   {
@@ -3967,7 +1826,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 156,
+   "id": 73,
    "shortDesc": "Indie / Alt show at Hollywood Forever · All Ages — via Oh My Rockness"
   },
   {
@@ -3994,7 +1853,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 157,
+   "id": 74,
    "shortDesc": "Indie / Alt show at The Bellwether · All Ages — via Oh My Rockness"
   },
   {
@@ -4021,7 +1880,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 158,
+   "id": 75,
    "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
   },
   {
@@ -4044,7 +1903,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Pasadena's Premier Salsa & Bachata Nite Out",
    "soldOut": false,
-   "id": 159,
+   "id": 76,
    "shortDesc": "Pasadena's Premier Salsa & Bachata Nite Out — via Eventbrite"
   },
   {
@@ -4067,7 +1926,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Learn to dance Salsa, Bachata, Cumbia, Cha Cha Cha, Merengue, Banda, Hustle, Swing, and Rockabilly Jive at the VFW San Fernando.",
    "soldOut": false,
-   "id": 160,
+   "id": 77,
    "shortDesc": "Learn to dance Salsa, Bachata, Cumbia, Cha Cha Cha, Merengue, Banda, Hustle, Swing, and Rockabilly Jive at… — via Eventbrite"
   },
   {
@@ -4090,7 +1949,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Get ready to crack up all night with the funniest crew in town at this free laugh fest!",
    "soldOut": false,
-   "id": 161,
+   "id": 78,
    "shortDesc": "Get ready to crack up all night with the funniest crew in town at this free laugh fest! — via Eventbrite"
   },
   {
@@ -4113,7 +1972,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us for a Twin Peaks themed astrology panel discussion in the PRS Lecture Room!",
    "soldOut": false,
-   "id": 162,
+   "id": 79,
    "shortDesc": "Join us for a Twin Peaks themed astrology panel discussion in the PRS Lecture Room! — via Eventbrite"
   },
   {
@@ -4142,7 +2001,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 163,
+   "id": 80,
    "shortDesc": "Indie / Alt show at The Greek Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -4165,7 +2024,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Weekly open mic for comedians, poets, singers & creatives. Every Tuesday at LA Cigar Lounge. Your voice matters. 7:30–10 PM. ✨",
    "soldOut": false,
-   "id": 164,
+   "id": 81,
    "shortDesc": "Weekly open mic for comedians, poets, singers & creatives. Every Tuesday at LA Cigar Lounge. Your voice… — via Eventbrite"
   },
   {
@@ -4188,7 +2047,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Discover raw talent or be the showstopper at The Santa Monica Open Mic every TUESDAY at Kavahana's Non-Alcoholic Bar from 7.30-10:00 PM",
    "soldOut": false,
-   "id": 165,
+   "id": 82,
    "shortDesc": "Discover raw talent or be the showstopper at The Santa Monica Open Mic every TUESDAY at Kavahana's… — via Eventbrite"
   },
   {
@@ -4216,7 +2075,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 166,
+   "id": 83,
    "shortDesc": "Indie / Alt show at Aviator Nation Dreamland · 21+ — via Oh My Rockness"
   },
   {
@@ -4244,7 +2103,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 167,
+   "id": 84,
    "shortDesc": "Indie / Alt show at The Glass House · All Ages — via Oh My Rockness"
   },
   {
@@ -4277,7 +2136,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 168,
+   "id": 85,
    "shortDesc": "Electronic show at The Regent Theater · 21+ — via Oh My Rockness"
   },
   {
@@ -4304,7 +2163,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 169,
+   "id": 86,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -4327,7 +2186,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "An Old School Hip-Hop comedy show / Audience Sing-A-Long",
    "soldOut": false,
-   "id": 170,
+   "id": 87,
    "shortDesc": "An Old School Hip-Hop comedy show / Audience Sing-A-Long — via Eventbrite"
   },
   {
@@ -4350,7 +2209,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us for a night of salsa and bachata dancing at Hello Stranger in the heart of LITTLE TOKYO.",
    "soldOut": false,
-   "id": 171,
+   "id": 88,
    "shortDesc": "Join us for a night of salsa and bachata dancing at Hello Stranger in the heart of LITTLE TOKYO. — via Eventbrite"
   },
   {
@@ -4373,7 +2232,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A weekly standup showdown where we crown the new sheriff in town",
    "soldOut": false,
-   "id": 172,
+   "id": 89,
    "shortDesc": "A weekly standup showdown where we crown the new sheriff in town — via Eventbrite"
   },
   {
@@ -4398,7 +2257,7 @@ window.EVENTS_DATA = {
    ],
    "description": "To attend, grab your ticket through my artist https://new.hotelcafe.com/event/lucas-flood-presents-not-another-showcase-16/",
    "soldOut": false,
-   "id": 173,
+   "id": 90,
    "shortDesc": "To attend, grab your ticket through my artist… — via Eventbrite"
   },
   {
@@ -4425,7 +2284,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Open Mic Every Tuesday! Signups 8:30pm, late-night happy hour, live music, pizza & cocktails.",
    "soldOut": false,
-   "id": 174,
+   "id": 91,
    "shortDesc": "Open Mic Every Tuesday! Signups 8:30pm, late-night happy hour, live music, pizza & cocktails. — via Eventbrite"
   },
   {
@@ -4448,7 +2307,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "The best open mic in Los Angeles! The Tuesday Open Mic is a weekly open mic. Hop onstage and perform your best 3 minutes!",
    "soldOut": false,
-   "id": 175,
+   "id": 92,
    "shortDesc": "The best open mic in Los Angeles! The Tuesday Open Mic is a weekly open mic. Hop onstage and perform your… — via Eventbrite"
   },
   {
@@ -4473,7 +2332,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Reggaeton Nights every Tuesday at Sunset Rooftop",
    "soldOut": false,
-   "id": 176,
+   "id": 93,
    "shortDesc": "Reggaeton Nights every Tuesday at Sunset Rooftop — via Eventbrite"
   },
   {
@@ -4496,7 +2355,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A queer mic for everyone.",
    "soldOut": false,
-   "id": 177,
+   "id": 94,
    "shortDesc": "A queer mic for everyone. — via Eventbrite"
   },
   {
@@ -4519,8 +2378,35 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "(This is a THEATER Department Tour. Please check other dates for Film Department Tours.)",
    "soldOut": false,
-   "id": 178,
+   "id": 95,
    "shortDesc": "(This is a THEATER Department Tour. Please check other dates for Film Department Tours.) — via Eventbrite"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "India Shawn",
+   "artists": [
+    "India Shawn"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/473276-india-shawn-blue-note-los-angeles",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Findia-shawn-blue-note-los-angeles-tickets%2F14967153",
+   "imageUrl": null,
+   "date": "2026-07-29",
+   "time": "17:00",
+   "venue": "Blue Note Los Angeles",
+   "address": "6372 Sunset Blvd, Los Angeles, CA 90028",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 96,
+   "shortDesc": "Indie / Alt show at Blue Note Los Angeles · All Ages — via Oh My Rockness"
   },
   {
    "source": "eventbrite",
@@ -4542,7 +2428,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Unproblematic Favs is a weekly workout room for seasoned standup comics, hosted by Babs Gray and Robyn Morrison.",
    "soldOut": false,
-   "id": 179,
+   "id": 97,
    "shortDesc": "Unproblematic Favs is a weekly workout room for seasoned standup comics, hosted by Babs Gray and Robyn… — via Eventbrite"
   },
   {
@@ -4571,7 +2457,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 180,
+   "id": 98,
    "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
   },
   {
@@ -4598,7 +2484,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 181,
+   "id": 99,
    "shortDesc": "Indie / Alt show at Moroccan Lounge · 21+ — via Oh My Rockness"
   },
   {
@@ -4623,7 +2509,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Free, family-friendly, and full of great music! Energetic bands and timeless favorites, all in a lively outdoor setting.",
    "soldOut": false,
-   "id": 182,
+   "id": 100,
    "shortDesc": "Free, family-friendly, and full of great music! Energetic bands and timeless favorites, all in a lively… — via Eventbrite"
   },
   {
@@ -4653,7 +2539,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 183,
+   "id": 101,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -4680,7 +2566,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 184,
+   "id": 102,
    "shortDesc": "Indie / Alt show at The Bellwether · All Ages — via Oh My Rockness"
   },
   {
@@ -4708,7 +2594,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 185,
+   "id": 103,
    "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
   },
   {
@@ -4736,7 +2622,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Week Day Speed Dating is Finally here! Join 60+ singles at Happy Rabbit Bar &amp; Lounge",
    "soldOut": false,
-   "id": 186,
+   "id": 104,
    "shortDesc": "Week Day Speed Dating is Finally here! Join 60+ singles at Happy Rabbit Bar &amp; Lounge — via LA Fun Events"
   },
   {
@@ -4759,7 +2645,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "An Evening of Classic Cinema Night at The Hollywood Roosevelt Cinegrill Theater hosted by Film Critic and Wine Maker José Ignacio Cuenca.",
    "soldOut": false,
-   "id": 187,
+   "id": 105,
    "shortDesc": "An Evening of Classic Cinema Night at The Hollywood Roosevelt Cinegrill Theater hosted by Film Critic and… — via Eventbrite"
   },
   {
@@ -4782,7 +2668,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Looking for acting classes in Hollywood? Join us at HG Theater in the heart of Hollywood 90028 for a high-energy, no-pressure acting class!",
    "soldOut": false,
-   "id": 188,
+   "id": 106,
    "shortDesc": "Looking for acting classes in Hollywood? Join us at HG Theater in the heart of Hollywood 90028 for a… — via Eventbrite"
   },
   {
@@ -4805,7 +2691,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Movie Lovers! Join us every Wednesday for \"Indie Movie Night\" as we feature films by independent filmmakers from around the world!",
    "soldOut": false,
-   "id": 189,
+   "id": 107,
    "shortDesc": "Movie Lovers! Join us every Wednesday for \"Indie Movie Night\" as we feature films by independent filmmakers… — via Eventbrite"
   },
   {
@@ -4828,7 +2714,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us for a night of salsa and bachata dancing at the beautiful and upscale restaurant, Sendero at The Ritz-Carlton in the heart of DTLA",
    "soldOut": false,
-   "id": 190,
+   "id": 108,
    "shortDesc": "Join us for a night of salsa and bachata dancing at the beautiful and upscale restaurant, Sendero at The… — via Eventbrite"
   },
   {
@@ -4851,7 +2737,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "10-min sets. Real crowd. Livestreamed on YouTube and other platforms. Professional recordings available. M/W/F @ 7PM. Sign up 6:30 @ LASC.",
    "soldOut": false,
-   "id": 191,
+   "id": 109,
    "shortDesc": "10-min sets. Real crowd. Livestreamed on YouTube and other platforms. Professional recordings available… — via Eventbrite"
   },
   {
@@ -4874,7 +2760,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Comedy, confessions, & a singles mixer. Submit your dating drama, let comedians roast it, then flirt with the singles in the audience after.",
    "soldOut": false,
-   "id": 192,
+   "id": 110,
    "shortDesc": "Comedy, confessions, & a singles mixer. Submit your dating drama, let comedians roast it, then flirt with the… — via Eventbrite"
   },
   {
@@ -4897,7 +2783,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "All YM Programs combine for a Stake Hosted Activity",
    "soldOut": false,
-   "id": 193,
+   "id": 111,
    "shortDesc": "All YM Programs combine for a Stake Hosted Activity — via Eventbrite"
   },
   {
@@ -4920,7 +2806,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Jason Hemmens Presents SAX ON SUNSET Soulful Sax. Hollywood Nights. Every Wednesday • Sunset Rooftop Hollywood",
    "soldOut": false,
-   "id": 194,
+   "id": 112,
    "shortDesc": "Jason Hemmens Presents SAX ON SUNSET Soulful Sax. Hollywood Nights. Every Wednesday • Sunset Rooftop Hollywood — via Eventbrite"
   },
   {
@@ -4947,7 +2833,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 195,
+   "id": 113,
    "shortDesc": "Indie / Alt show at The Grammy Museum · All Ages — via Oh My Rockness"
   },
   {
@@ -4973,7 +2859,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Dress up in glam for a night of dirty pop at The Woodbridge. Featuring a special SECRET headliner with SALTER, Lev UFO, and Jack Pavlina!",
    "soldOut": false,
-   "id": 196,
+   "id": 114,
    "shortDesc": "Dress up in glam for a night of dirty pop at The Woodbridge. Featuring a special SECRET headliner with… — via Eventbrite"
   },
   {
@@ -4996,7 +2882,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A night of storyteller in a friendly and comfortable environment with light refreshments.",
    "soldOut": false,
-   "id": 197,
+   "id": 115,
    "shortDesc": "A night of storyteller in a friendly and comfortable environment with light refreshments. — via Eventbrite"
   },
   {
@@ -5019,7 +2905,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A stand up comedy show hosted by Sarah Bebb and Melody Robins",
    "soldOut": false,
-   "id": 198,
+   "id": 116,
    "shortDesc": "A stand up comedy show hosted by Sarah Bebb and Melody Robins — via Eventbrite"
   },
   {
@@ -5046,7 +2932,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 199,
+   "id": 117,
    "shortDesc": "Indie / Alt show at Healing Force of the Universe · All Ages — via Oh My Rockness"
   },
   {
@@ -5074,7 +2960,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 200,
+   "id": 118,
    "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
   },
   {
@@ -5103,7 +2989,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 201,
+   "id": 119,
    "shortDesc": "Indie / Alt show at The Smell · All Ages — via Oh My Rockness"
   },
   {
@@ -5130,7 +3016,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 202,
+   "id": 120,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -5153,7 +3039,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "The loud kids in the back grew up to teach—and do stand-up. Meet the Unteachables, educating America one joke at a time.",
    "soldOut": false,
-   "id": 203,
+   "id": 121,
    "shortDesc": "The loud kids in the back grew up to teach—and do stand-up. Meet the Unteachables, educating America one joke… — via Eventbrite"
   },
   {
@@ -5176,7 +3062,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Fusion partner dancing lessons and dance every Wednesday!",
    "soldOut": false,
-   "id": 204,
+   "id": 122,
    "shortDesc": "Fusion partner dancing lessons and dance every Wednesday! — via Eventbrite"
   },
   {
@@ -5201,7 +3087,7 @@ window.EVENTS_DATA = {
    ],
    "description": "The Jazz Wave Presents: Izaak Weatherwax Live at The Famous (Glendale, CA)",
    "soldOut": false,
-   "id": 205,
+   "id": 123,
    "shortDesc": "The Jazz Wave Presents: Izaak Weatherwax Live at The Famous (Glendale, CA) — via Eventbrite"
   },
   {
@@ -5224,35 +3110,8 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "RSVP on guest list for a table.",
    "soldOut": false,
-   "id": 206,
+   "id": 124,
    "shortDesc": "RSVP on guest list for a table. — via Eventbrite"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "India Shawn",
-   "artists": [
-    "India Shawn"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/473277-india-shawn-blue-note-los-angeles",
-   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Findia-shawn-blue-note-los-angeles-tickets%2F14967163",
-   "imageUrl": null,
-   "date": "2026-07-29",
-   "time": "21:00",
-   "venue": "Blue Note Los Angeles",
-   "address": "6372 Sunset Blvd, Los Angeles, CA 90028",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 207,
-   "shortDesc": "Indie / Alt show at Blue Note Los Angeles · All Ages — via Oh My Rockness"
   },
   {
    "source": "eventbrite",
@@ -5274,7 +3133,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Come see 2 of our hilarious sketch comedy teams do 2 funny shows!",
    "soldOut": false,
-   "id": 208,
+   "id": 125,
    "shortDesc": "Come see 2 of our hilarious sketch comedy teams do 2 funny shows! — via Eventbrite"
   },
   {
@@ -5303,7 +3162,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 209,
+   "id": 126,
    "shortDesc": "Indie / Alt show at Moroccan Lounge · 21+ — via Oh My Rockness"
   },
   {
@@ -5326,7 +3185,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Sketch Comedy Open-Mic",
    "soldOut": false,
-   "id": 210,
+   "id": 127,
    "shortDesc": "Sketch Comedy Open-Mic — via Eventbrite"
   },
   {
@@ -5353,7 +3212,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 211,
+   "id": 128,
    "shortDesc": "Indie / Alt show at Sid The Cat Auditorium · All Ages — via Oh My Rockness"
   },
   {
@@ -5381,7 +3240,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 212,
+   "id": 129,
    "shortDesc": "Indie / Alt show at House Of Blues Anaheim · All Ages — via Oh My Rockness"
   },
   {
@@ -5410,7 +3269,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 213,
+   "id": 130,
    "shortDesc": "Indie / Alt show at Moroccan Lounge · All Ages — via Oh My Rockness"
   },
   {
@@ -5435,7 +3294,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Spend a perfect summer evening at Visionarium Live Italian in South Pasadena with the return of Gregory Porée!",
    "soldOut": false,
-   "id": 214,
+   "id": 131,
    "shortDesc": "Spend a perfect summer evening at Visionarium Live Italian in South Pasadena with the return of Gregory Porée! — via Eventbrite"
   },
   {
@@ -5458,7 +3317,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us for our Ivy Midsummer Mixer, presented by Harvardwood, Penntertainment, Yale in Hollywood, and Cornell in Hollywood!",
    "soldOut": false,
-   "id": 215,
+   "id": 132,
    "shortDesc": "Join us for our Ivy Midsummer Mixer, presented by Harvardwood, Penntertainment, Yale in Hollywood, and… — via Eventbrite"
   },
   {
@@ -5485,7 +3344,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 216,
+   "id": 133,
    "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
   },
   {
@@ -5514,7 +3373,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 217,
+   "id": 134,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -5543,7 +3402,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 218,
+   "id": 135,
    "shortDesc": "Electronic show at Skirball Cultural Center · All Ages — via Oh My Rockness"
   },
   {
@@ -5570,7 +3429,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 219,
+   "id": 136,
    "shortDesc": "Indie / Alt show at The Bellwether · All Ages — via Oh My Rockness"
   },
   {
@@ -5598,7 +3457,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 220,
+   "id": 137,
    "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
   },
   {
@@ -5627,7 +3486,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 221,
+   "id": 138,
    "shortDesc": "Indie / Alt show at The Smell · All Ages — via Oh My Rockness"
   },
   {
@@ -5655,7 +3514,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Meet fun, local singles (ages 25–40) at South Bay’s hottest speed dating night — because great connections deserve SoCal vibes.",
    "soldOut": false,
-   "id": 222,
+   "id": 139,
    "shortDesc": "Meet fun, local singles (ages 25–40) at South Bay’s hottest speed dating night — because great connections… — via LA Fun Events"
   },
   {
@@ -5678,7 +3537,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Chill out at Summer in San Gabriel with live tunes and movies under the stars at the park! Bring the kids to see Zootopia 2!",
    "soldOut": false,
-   "id": 223,
+   "id": 140,
    "shortDesc": "Chill out at Summer in San Gabriel with live tunes and movies under the stars at the park! Bring the kids to… — via Eventbrite"
   },
   {
@@ -5701,7 +3560,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "An Evening of R&B and Neo Soul, featuring four (4) solo vocalists, with a live band, an opening set by DJ Butterbaby – and FREE drinks!!",
    "soldOut": false,
-   "id": 224,
+   "id": 141,
    "shortDesc": "An Evening of R&B and Neo Soul, featuring four (4) solo vocalists, with a live band, an opening set by DJ… — via Eventbrite"
   },
   {
@@ -5726,7 +3585,7 @@ window.EVENTS_DATA = {
    ],
    "description": "WE FOUND NEW MUSIC Artist Discovery Concert Series LOCATION: Bar Lubitsch Free with RSVP 21+. 7:00pm Doors",
    "soldOut": false,
-   "id": 225,
+   "id": 142,
    "shortDesc": "WE FOUND NEW MUSIC Artist Discovery Concert Series LOCATION: Bar Lubitsch Free with RSVP 21+. 7:00pm Doors — via Eventbrite"
   },
   {
@@ -5751,7 +3610,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Put down your phone. Pick up a wristband. A 2000s reggaetón dating party with real connections, dancing & one welcome drink.",
    "soldOut": false,
-   "id": 226,
+   "id": 143,
    "shortDesc": "Put down your phone. Pick up a wristband. A 2000s reggaetón dating party with real connections, dancing & one… — via Eventbrite"
   },
   {
@@ -5774,7 +3633,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us for a soulful evening of music, poetry, & local talent under the sky at SATARA.",
    "soldOut": false,
-   "id": 227,
+   "id": 144,
    "shortDesc": "Join us for a soulful evening of music, poetry, & local talent under the sky at SATARA. — via Eventbrite"
   },
   {
@@ -5801,7 +3660,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 228,
+   "id": 145,
    "shortDesc": "Indie / Alt show at The Grammy Museum · All Ages — via Oh My Rockness"
   },
   {
@@ -5827,7 +3686,7 @@ window.EVENTS_DATA = {
    ],
    "description": "An exploration of Japanese, South Indian, Latin & Jazz Fusion. First U.S. reunion of John Kaizan Neptune & Giridhar Udupa.",
    "soldOut": false,
-   "id": 229,
+   "id": 146,
    "shortDesc": "An exploration of Japanese, South Indian, Latin & Jazz Fusion. First U.S. reunion of John Kaizan Neptune &… — via Eventbrite"
   },
   {
@@ -5850,7 +3709,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Got a \"hot take\" related to dating or relationships? Tell it to a live audience! Join us and see if your take wins the big prize.",
    "soldOut": false,
-   "id": 230,
+   "id": 147,
    "shortDesc": "Got a \"hot take\" related to dating or relationships? Tell it to a live audience! Join us and see if your take… — via Eventbrite"
   },
   {
@@ -5873,7 +3732,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Queer Diaspora & 7th House co-present a rare, exuberant program drawn from the pioneering years of LA's underground queer cinema!",
    "soldOut": false,
-   "id": 231,
+   "id": 148,
    "shortDesc": "Queer Diaspora & 7th House co-present a rare, exuberant program drawn from the pioneering years of LA's… — via Eventbrite"
   },
   {
@@ -5902,7 +3761,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 232,
+   "id": 149,
    "shortDesc": "Indie / Alt show at Alex's Bar · 21+ — via Oh My Rockness"
   },
   {
@@ -5930,7 +3789,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 233,
+   "id": 150,
    "shortDesc": "Indie / Alt show at The Belasco · All Ages — via Oh My Rockness"
   },
   {
@@ -5957,7 +3816,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 234,
+   "id": 151,
    "shortDesc": "Indie / Alt show at The Greek Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -5984,7 +3843,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 235,
+   "id": 152,
    "shortDesc": "Indie / Alt show at The Roxy · All Ages — via Oh My Rockness"
   },
   {
@@ -6012,7 +3871,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 236,
+   "id": 153,
    "shortDesc": "Indie / Alt show at Troubadour · All Ages — via Oh My Rockness"
   },
   {
@@ -6041,7 +3900,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 237,
+   "id": 154,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -6064,7 +3923,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Los Angeles' best comedians performing longer sets right here in Santa Monica, come discover your next favorite comedian!",
    "soldOut": false,
-   "id": 238,
+   "id": 155,
    "shortDesc": "Los Angeles' best comedians performing longer sets right here in Santa Monica, come discover your next… — via Eventbrite"
   },
   {
@@ -6092,7 +3951,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 239,
+   "id": 156,
    "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
   },
   {
@@ -6115,7 +3974,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Get ready for Choreographer's Carnival's a mind-blowing event that will leave you breathless!",
    "soldOut": false,
-   "id": 240,
+   "id": 157,
    "shortDesc": "Get ready for Choreographer's Carnival's a mind-blowing event that will leave you breathless! — via Eventbrite"
   },
   {
@@ -6140,7 +3999,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Multi artist lineup hosted by producer Justinsanity, with rap battle and song contest. 50% off all August services from featured businesses.",
    "soldOut": false,
-   "id": 241,
+   "id": 158,
    "shortDesc": "Multi artist lineup hosted by producer Justinsanity, with rap battle and song contest. 50% off all August… — via Eventbrite"
   },
   {
@@ -6163,7 +4022,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Come hang out, meet cool people, and show off your talent at a chill open mic and networking night!",
    "soldOut": false,
-   "id": 242,
+   "id": 159,
    "shortDesc": "Come hang out, meet cool people, and show off your talent at a chill open mic and networking night! — via Eventbrite"
   },
   {
@@ -6190,7 +4049,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 243,
+   "id": 160,
    "shortDesc": "Indie / Alt show at Pappy & Harriet's · All Ages — via Oh My Rockness"
   },
   {
@@ -6218,7 +4077,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 244,
+   "id": 161,
    "shortDesc": "Indie / Alt show at House Of Blues Anaheim · All Ages — via Oh My Rockness"
   },
   {
@@ -6245,7 +4104,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 245,
+   "id": 162,
    "shortDesc": "Indie / Alt show at Largo · All Ages — via Oh My Rockness"
   },
   {
@@ -6275,7 +4134,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 246,
+   "id": 163,
    "shortDesc": "Indie / Alt show at Kia Forum · All Ages — via Oh My Rockness"
   },
   {
@@ -6302,7 +4161,7 @@ window.EVENTS_DATA = {
    ],
    "description": "",
    "soldOut": false,
-   "id": 247,
+   "id": 164,
    "shortDesc": "Indie / Alt show at Moroccan Lounge — via Oh My Rockness"
   },
   {
@@ -6325,7 +4184,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us for an evening of music and meditation with Gurudev Sri Sri Ravi Shankar at the beautiful Art of living LA center.",
    "soldOut": false,
-   "id": 248,
+   "id": 165,
    "shortDesc": "Join us for an evening of music and meditation with Gurudev Sri Sri Ravi Shankar at the beautiful Art of… — via Eventbrite"
   },
   {
@@ -6354,7 +4213,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 249,
+   "id": 166,
    "shortDesc": "Indie / Alt show at Gold-Diggers · 21+ — via Oh My Rockness"
   },
   {
@@ -6381,7 +4240,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 250,
+   "id": 167,
    "shortDesc": "Indie / Alt show at Hollywood Palladium · All Ages — via Oh My Rockness"
   },
   {
@@ -6393,7 +4252,7 @@ window.EVENTS_DATA = {
     "The Hotelier",
     "Weatherbox"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/465725-the-hotelier-weatherbox-lodge-room",
+   "url": "https://www.ohmyrockness.com/shows/465725-the-hotelier-weatherbox-lodge-room",
    "ticketUrl": "https://www.lodgeroomhlp.com/shows/the-hotelier/",
    "imageUrl": null,
    "date": "2026-07-31",
@@ -6409,7 +4268,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 251,
+   "id": 168,
    "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
   },
   {
@@ -6439,7 +4298,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 252,
+   "id": 169,
    "shortDesc": "Indie / Alt show at Milky's · All Ages — via Oh My Rockness"
   },
   {
@@ -6467,7 +4326,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 253,
+   "id": 170,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -6494,7 +4353,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 254,
+   "id": 171,
    "shortDesc": "Indie / Alt show at The Bellwether · All Ages — via Oh My Rockness"
   },
   {
@@ -6521,7 +4380,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 255,
+   "id": 172,
    "shortDesc": "Indie / Alt show at The Wiltern · All Ages — via Oh My Rockness"
   },
   {
@@ -6549,7 +4408,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 256,
+   "id": 173,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -6577,7 +4436,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "✨Santa Monica’s hottest College Night is calling — nonstop vibes, and Friday plans you don’t want to miss.✨",
    "soldOut": false,
-   "id": 257,
+   "id": 174,
    "shortDesc": "✨Santa Monica’s hottest College Night is calling — nonstop vibes, and Friday plans you don’t want to miss.✨ — via LA Fun Events"
   },
   {
@@ -6602,7 +4461,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Dive into the early days of The Beatles with rare stories, tunes, and vibes in one epic in-person event!",
    "soldOut": false,
-   "id": 258,
+   "id": 175,
    "shortDesc": "Dive into the early days of The Beatles with rare stories, tunes, and vibes in one epic in-person event! — via Eventbrite"
   },
   {
@@ -6628,7 +4487,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Experience Noz toka, a talented ensemble that seamlessly blends music with Latin rhythms, sophisticated vocals, and saxophone sounds.",
    "soldOut": false,
-   "id": 259,
+   "id": 176,
    "shortDesc": "Experience Noz toka, a talented ensemble that seamlessly blends music with Latin rhythms, sophisticated… — via Eventbrite"
   },
   {
@@ -6651,7 +4510,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "After a week of an intensive comedy camp bootcamp, our young comics are ready to take the stage!",
    "soldOut": false,
-   "id": 260,
+   "id": 177,
    "shortDesc": "After a week of an intensive comedy camp bootcamp, our young comics are ready to take the stage! — via Eventbrite"
   },
   {
@@ -6674,7 +4533,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Beth Lapides hosts special guests \"Hilarious!\" NPR",
    "soldOut": false,
-   "id": 261,
+   "id": 178,
    "shortDesc": "Beth Lapides hosts special guests \"Hilarious!\" NPR — via Eventbrite"
   },
   {
@@ -6697,7 +4556,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Santa Monica’s hottest College Night is calling — nonstop vibes, and Friday plans you don’t want to miss.",
    "soldOut": false,
-   "id": 262,
+   "id": 179,
    "shortDesc": "Santa Monica’s hottest College Night is calling — nonstop vibes, and Friday plans you don’t want to miss. — via Eventbrite"
   },
   {
@@ -6722,7 +4581,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Celebrate the release of Jordan Levy's new single \"Get To Your Heart\" at the Viper Room on July 31st!",
    "soldOut": false,
-   "id": 263,
+   "id": 180,
    "shortDesc": "Celebrate the release of Jordan Levy's new single \"Get To Your Heart\" at the Viper Room on July 31st! — via Eventbrite"
   },
   {
@@ -6745,7 +4604,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Charles Phoenix hosts a celebration of the remarkable past, flourishing present, & bright beautiful future of LA's beloved puppet palace!",
    "soldOut": false,
-   "id": 264,
+   "id": 181,
    "shortDesc": "Charles Phoenix hosts a celebration of the remarkable past, flourishing present, & bright beautiful future of… — via Eventbrite"
   },
   {
@@ -6768,7 +4627,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Catch an intimate, in-person staged reading of One Night in Miami—where history and drama collide live!",
    "soldOut": false,
-   "id": 265,
+   "id": 182,
    "shortDesc": "Catch an intimate, in-person staged reading of One Night in Miami—where history and drama collide live! — via Eventbrite"
   },
   {
@@ -6791,7 +4650,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A Night of Stand-Up Comedy & Live Jazz at The Hollywood Roosevelt!",
    "soldOut": false,
-   "id": 266,
+   "id": 183,
    "shortDesc": "A Night of Stand-Up Comedy & Live Jazz at The Hollywood Roosevelt! — via Eventbrite"
   },
   {
@@ -6814,7 +4673,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "getting struck by lightning is painful, but nothing hurts more than emotional trauma... ok, maybe decapitation.",
    "soldOut": false,
-   "id": 267,
+   "id": 184,
    "shortDesc": "getting struck by lightning is painful, but nothing hurts more than emotional trauma... ok, maybe… — via Eventbrite"
   },
   {
@@ -6844,7 +4703,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 268,
+   "id": 185,
    "shortDesc": "Indie / Alt show at Alex's Bar · 21+ — via Oh My Rockness"
   },
   {
@@ -6871,7 +4730,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 269,
+   "id": 186,
    "shortDesc": "Indie / Alt show at Echoplex · All Ages — via Oh My Rockness"
   },
   {
@@ -6900,7 +4759,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 270,
+   "id": 187,
    "shortDesc": "Indie / Alt show at Healing Force of the Universe · All Ages — via Oh My Rockness"
   },
   {
@@ -6927,7 +4786,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 271,
+   "id": 188,
    "shortDesc": "Indie / Alt show at Teragram Ballroom · All Ages — via Oh My Rockness"
   },
   {
@@ -6955,7 +4814,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 272,
+   "id": 189,
    "shortDesc": "Indie / Alt show at The Belasco · All Ages — via Oh My Rockness"
   },
   {
@@ -6982,7 +4841,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 273,
+   "id": 190,
    "shortDesc": "Indie / Alt show at The Roxy · All Ages — via Oh My Rockness"
   },
   {
@@ -7007,7 +4866,7 @@ window.EVENTS_DATA = {
    ],
    "description": "A cozy indoor evening of song and storytelling at Electric Lodge.",
    "soldOut": false,
-   "id": 274,
+   "id": 191,
    "shortDesc": "A cozy indoor evening of song and storytelling at Electric Lodge. — via Eventbrite"
   },
   {
@@ -7030,7 +4889,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live music, local artists, real stories. Proceeds go to Urban Uplift’s community programs.",
    "soldOut": false,
-   "id": 275,
+   "id": 192,
    "shortDesc": "Live music, local artists, real stories. Proceeds go to Urban Uplift’s community programs. — via Eventbrite"
   },
   {
@@ -7055,7 +4914,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Thee Heart Tones return to the South Bay for a special night of soul at The View Music Bar, Along with The Messenger",
    "soldOut": false,
-   "id": 276,
+   "id": 193,
    "shortDesc": "Thee Heart Tones return to the South Bay for a special night of soul at The View Music Bar, Along with The… — via Eventbrite"
   },
   {
@@ -7078,7 +4937,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "$3 standup comedy at HAHA Comedy Club",
    "soldOut": false,
-   "id": 277,
+   "id": 194,
    "shortDesc": "$3 standup comedy at HAHA Comedy Club — via Eventbrite"
   },
   {
@@ -7101,7 +4960,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Get ready to laugh out loud with Spanky Hayes and friends roasting Obama live on stage!",
    "soldOut": false,
-   "id": 278,
+   "id": 195,
    "shortDesc": "Get ready to laugh out loud with Spanky Hayes and friends roasting Obama live on stage! — via Eventbrite"
   },
   {
@@ -7124,7 +4983,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Come laugh your heart out at Comedy Cantina, the funniest night at A Mi Hacienda – good vibes & great jokes!",
    "soldOut": false,
-   "id": 279,
+   "id": 196,
    "shortDesc": "Come laugh your heart out at Comedy Cantina, the funniest night at A Mi Hacienda – good vibes & great jokes! — via Eventbrite"
   },
   {
@@ -7147,7 +5006,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Long Beach’s funniest comics take the stage! Featuring a special drag performance from the famous Natasha Hundreds!",
    "soldOut": false,
-   "id": 280,
+   "id": 197,
    "shortDesc": "Long Beach’s funniest comics take the stage! Featuring a special drag performance from the famous Natasha… — via Eventbrite"
   },
   {
@@ -7170,7 +5029,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Come out and enjoy a great night of free comedy with amazing comics in the heart of Monterey Park!",
    "soldOut": false,
-   "id": 281,
+   "id": 198,
    "shortDesc": "Come out and enjoy a great night of free comedy with amazing comics in the heart of Monterey Park! — via Eventbrite"
   },
   {
@@ -7193,7 +5052,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Noche de Rock Indie Pop Rock en Español",
    "soldOut": false,
-   "id": 282,
+   "id": 199,
    "shortDesc": "Noche de Rock Indie Pop Rock en Español — via Eventbrite"
   },
   {
@@ -7223,7 +5082,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 283,
+   "id": 200,
    "shortDesc": "Electronic show at Camille's at The Bellwether · 21+ — via Oh My Rockness"
   },
   {
@@ -7254,7 +5113,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 284,
+   "id": 201,
    "shortDesc": "Indie / Alt show at The Regent Theater · All Ages — via Oh My Rockness"
   },
   {
@@ -7280,7 +5139,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Come watch Spanish Magazine LIVE in Los Angeles at the legendary Molly Malone’s! $15 online only/$20 at the door",
    "soldOut": false,
-   "id": 285,
+   "id": 202,
    "shortDesc": "Come watch Spanish Magazine LIVE in Los Angeles at the legendary Molly Malone’s! $15 online only/$20 at the… — via Eventbrite"
   },
   {
@@ -7303,7 +5162,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A dark comedy show for people with trauma by people with trauma!",
    "soldOut": false,
-   "id": 286,
+   "id": 203,
    "shortDesc": "A dark comedy show for people with trauma by people with trauma! — via Eventbrite"
   },
   {
@@ -7328,7 +5187,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Club 90s Presents",
    "soldOut": false,
-   "id": 287,
+   "id": 204,
    "shortDesc": "Club 90s Presents — via Eventbrite"
   },
   {
@@ -7353,7 +5212,7 @@ window.EVENTS_DATA = {
    ],
    "description": "The only all reggaeton & perreo experience in Los Angeles returns for a summer perreo @ Globe Theater in DTLA on Friday July31st -- 21+",
    "soldOut": false,
-   "id": 288,
+   "id": 205,
    "shortDesc": "The only all reggaeton & perreo experience in Los Angeles returns for a summer perreo @ Globe Theater in DTLA… — via Eventbrite"
   },
   {
@@ -7376,7 +5235,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A comedian takes five shots of whiskey in a row and tries to perform an improvised play with five sober comedians. What could go wrong?!",
    "soldOut": false,
-   "id": 289,
+   "id": 206,
    "shortDesc": "A comedian takes five shots of whiskey in a row and tries to perform an improvised play with five sober… — via Eventbrite"
   },
   {
@@ -7402,7 +5261,7 @@ window.EVENTS_DATA = {
    ],
    "description": "18+ USC VS UCLA CANT ESCAPE SUMMER PARTY LA MUSIC HIP HOP & REGGEATON EVERYONE IN FREE WITH RSVP INFO (626)347-0567 AD (3040 SUNSET LA)",
    "soldOut": false,
-   "id": 290,
+   "id": 207,
    "shortDesc": "18+ USC VS UCLA CANT ESCAPE SUMMER PARTY LA MUSIC HIP HOP & REGGEATON EVERYONE IN FREE WITH RSVP INFO… — via Eventbrite"
   },
   {
@@ -7428,7 +5287,7 @@ window.EVENTS_DATA = {
    ],
    "description": "18+ ASIAN FRIDAY ASIAN USC VS UCLA SUMMER PARTY LOS GLOBOS PARTY HIP HOP| EDM FREE GUEST LIST TABLES $300 INFO (626)347-0567",
    "soldOut": false,
-   "id": 291,
+   "id": 208,
    "shortDesc": "18+ ASIAN FRIDAY ASIAN USC VS UCLA SUMMER PARTY LOS GLOBOS PARTY HIP HOP| EDM FREE GUEST LIST TABLES $300… — via Eventbrite"
   },
   {
@@ -7454,7 +5313,7 @@ window.EVENTS_DATA = {
    ],
    "description": "18+ FRIDAY JULY 31ST USC VS UCLA PARTY LOS GLOBOS HIP HOP| REGGEATON | EDM FREE GUEST LIST RSVP TABLES $300 VODKA OR TEQUILA (626)347-0567",
    "soldOut": false,
-   "id": 292,
+   "id": 209,
    "shortDesc": "18+ FRIDAY JULY 31ST USC VS UCLA PARTY LOS GLOBOS HIP HOP| REGGEATON | EDM FREE GUEST LIST RSVP TABLES $300… — via Eventbrite"
   },
   {
@@ -7480,7 +5339,7 @@ window.EVENTS_DATA = {
    ],
    "description": "An ALL AGES day of education and music featuring FOUR of the world's most iconic drummers and an all-star band!",
    "soldOut": false,
-   "id": 293,
+   "id": 210,
    "shortDesc": "An ALL AGES day of education and music featuring FOUR of the world's most iconic drummers and an all-star… — via Eventbrite"
   },
   {
@@ -7503,7 +5362,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "M. Night Shyamalan's masterpiece with one of his best twists-THE SIXTH SENSE on 35mm at the historic Palace Theater, downtown Los Angeles",
    "soldOut": false,
-   "id": 294,
+   "id": 211,
    "shortDesc": "M. Night Shyamalan's masterpiece with one of his best twists-THE SIXTH SENSE on 35mm at the historic Palace… — via Eventbrite"
   },
   {
@@ -7526,7 +5385,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Two M. Night Shyamalan masterpieces with his best twists-THE SIXTH SENSE and UNBREAKABLE. Both on 35mm at one of dtla's movie palaces.",
    "soldOut": false,
-   "id": 295,
+   "id": 212,
    "shortDesc": "Two M. Night Shyamalan masterpieces with his best twists-THE SIXTH SENSE and UNBREAKABLE. Both on 35mm at one… — via Eventbrite"
   },
   {
@@ -7551,7 +5410,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Free Concert in LA: DeLaGhetto, Ken-Y, Frankie J, Angel y Khriz & MORE! Saturday, August 1st at Pershing Square!",
    "soldOut": false,
-   "id": 296,
+   "id": 213,
    "shortDesc": "Free Concert in LA: DeLaGhetto, Ken-Y, Frankie J, Angel y Khriz & MORE! Saturday, August 1st at Pershing… — via Eventbrite"
   },
   {
@@ -7574,7 +5433,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Possibly M. Night Shyamalan's greatest movie UNBREAKABLE on 35mm at one of dtla's movie palaces.",
    "soldOut": false,
-   "id": 297,
+   "id": 214,
    "shortDesc": "Possibly M. Night Shyamalan's greatest movie UNBREAKABLE on 35mm at one of dtla's movie palaces. — via Eventbrite"
   },
   {
@@ -7599,7 +5458,7 @@ window.EVENTS_DATA = {
    ],
    "description": "An afternoon/evening of live music, dinner, and connection in a private home/garden NEAR El Camino College. Address Emailed With Tickets.",
    "soldOut": false,
-   "id": 298,
+   "id": 215,
    "shortDesc": "An afternoon/evening of live music, dinner, and connection in a private home/garden NEAR El Camino College… — via Eventbrite"
   },
   {
@@ -7622,7 +5481,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Have a baby? Date nights non-existent? We have an adult comedy show for parents that you can bring your baby to!",
    "soldOut": false,
-   "id": 299,
+   "id": 216,
    "shortDesc": "Have a baby? Date nights non-existent? We have an adult comedy show for parents that you can bring your baby… — via Eventbrite"
   },
   {
@@ -7651,7 +5510,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 300,
+   "id": 217,
    "shortDesc": "Indie / Alt show at 1720 · All Ages — via Oh My Rockness"
   },
   {
@@ -7676,7 +5535,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Michelob Ultra Pequeños Musical, Vallarta Show, Banda Zarape y El Kaballito",
    "soldOut": false,
-   "id": 301,
+   "id": 218,
    "shortDesc": "Michelob Ultra Pequeños Musical, Vallarta Show, Banda Zarape y El Kaballito — via Eventbrite"
   },
   {
@@ -7699,7 +5558,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Scheele's Green, the brain child of actors and comedians Adam Frost-Venrick and Conor Copley",
    "soldOut": false,
-   "id": 302,
+   "id": 219,
    "shortDesc": "Scheele's Green, the brain child of actors and comedians Adam Frost-Venrick and Conor Copley — via Eventbrite"
   },
   {
@@ -7722,7 +5581,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Westside School of Ballet present its 4th Annual Adult Dancer Showcase, founded by Rebecca Witjas",
    "soldOut": false,
-   "id": 303,
+   "id": 220,
    "shortDesc": "Westside School of Ballet present its 4th Annual Adult Dancer Showcase, founded by Rebecca Witjas — via Eventbrite"
   },
   {
@@ -7751,7 +5610,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 304,
+   "id": 221,
    "shortDesc": "Indie / Alt show at California Plaza · All Ages — via Oh My Rockness"
   },
   {
@@ -7779,7 +5638,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 305,
+   "id": 222,
    "shortDesc": "Indie / Alt show at House Of Blues Anaheim · All Ages — via Oh My Rockness"
   },
   {
@@ -7806,7 +5665,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 306,
+   "id": 223,
    "shortDesc": "Indie / Alt show at Largo · All Ages — via Oh My Rockness"
   },
   {
@@ -7829,7 +5688,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Get ready to groove with Caleb Crump & crew at Line Dancing With Itching To Dance® Sat, Aug 1, 2026 Hilton Garden Inn Marina Del Rey 6PM-9",
    "soldOut": false,
-   "id": 307,
+   "id": 224,
    "shortDesc": "Get ready to groove with Caleb Crump & crew at Line Dancing With Itching To Dance® Sat, Aug 1, 2026 Hilton… — via Eventbrite"
   },
   {
@@ -7856,7 +5715,7 @@ window.EVENTS_DATA = {
    ],
    "description": "",
    "soldOut": false,
-   "id": 308,
+   "id": 225,
    "shortDesc": "Indie / Alt show at Moroccan Lounge — via Oh My Rockness"
   },
   {
@@ -7887,7 +5746,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 309,
+   "id": 226,
    "shortDesc": "Indie / Alt show at The Smell · All Ages — via Oh My Rockness"
   },
   {
@@ -7910,7 +5769,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Grab your family, a picnic dinner, and a blanket or low-profile beach chairs and make your way to Burton Chace Park for FREE Summer Concerts",
    "soldOut": false,
-   "id": 310,
+   "id": 227,
    "shortDesc": "Grab your family, a picnic dinner, and a blanket or low-profile beach chairs and make your way to Burton… — via Eventbrite"
   },
   {
@@ -7933,7 +5792,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Come vibe with us at Hope On Union Open Mic for a night of raw talent and good times!",
    "soldOut": false,
-   "id": 311,
+   "id": 228,
    "shortDesc": "Come vibe with us at Hope On Union Open Mic for a night of raw talent and good times! — via Eventbrite"
   },
   {
@@ -7962,7 +5821,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 312,
+   "id": 229,
    "shortDesc": "Indie / Alt show at Gold-Diggers · 21+ — via Oh My Rockness"
   },
   {
@@ -7992,7 +5851,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 313,
+   "id": 230,
    "shortDesc": "Indie / Alt show at Oblivion  · 21+ — via Oh My Rockness"
   },
   {
@@ -8019,7 +5878,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 314,
+   "id": 231,
    "shortDesc": "Indie / Alt show at Santa Barbara Bowl · All Ages — via Oh My Rockness"
   },
   {
@@ -8046,7 +5905,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 315,
+   "id": 232,
    "shortDesc": "Indie / Alt show at The Paramount · All Ages — via Oh My Rockness"
   },
   {
@@ -8074,7 +5933,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 316,
+   "id": 233,
    "shortDesc": "Indie / Alt show at The Wiltern · All Ages — via Oh My Rockness"
   },
   {
@@ -8101,7 +5960,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 317,
+   "id": 234,
    "shortDesc": "Indie / Alt show at Troubadour · All Ages — via Oh My Rockness"
   },
   {
@@ -8129,7 +5988,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Meet mature, fun-loving singles in a laidback social setting.",
    "soldOut": false,
-   "id": 318,
+   "id": 235,
    "shortDesc": "Meet mature, fun-loving singles in a laidback social setting. — via LA Fun Events"
   },
   {
@@ -8154,7 +6013,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Now in its 26th year, the Marina del Rey Summer Concert Series returns with free concerts at beautiful Burton Chace Park.",
    "soldOut": false,
-   "id": 319,
+   "id": 236,
    "shortDesc": "Now in its 26th year, the Marina del Rey Summer Concert Series returns with free concerts at beautiful Burton… — via Eventbrite"
   },
   {
@@ -8177,7 +6036,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Not a phone or a computer on in the place (including yours). Just people and laughter. Come get present and do a little fighting back.",
    "soldOut": false,
-   "id": 320,
+   "id": 237,
    "shortDesc": "Not a phone or a computer on in the place (including yours). Just people and laughter. Come get present and… — via Eventbrite"
   },
   {
@@ -8200,7 +6059,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us for Vince Royale’s 1st Comedy Special Screening brought to you by Laugh After Dark plus a fun animated film by Joshua Higuera",
    "soldOut": false,
-   "id": 321,
+   "id": 238,
    "shortDesc": "Join us for Vince Royale’s 1st Comedy Special Screening brought to you by Laugh After Dark plus a fun… — via Eventbrite"
   },
   {
@@ -8223,7 +6082,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Get ready to laugh and sip while you create your own quirky Peeps masterpiece!",
    "soldOut": false,
-   "id": 322,
+   "id": 239,
    "shortDesc": "Get ready to laugh and sip while you create your own quirky Peeps masterpiece! — via Eventbrite"
   },
   {
@@ -8246,7 +6105,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "The Coen Brothers' great LA comedy on a movie palace big screen. & if you get the pass, afterparty at Maude's apt upstairs-actual location!",
    "soldOut": false,
-   "id": 323,
+   "id": 240,
    "shortDesc": "The Coen Brothers' great LA comedy on a movie palace big screen. & if you get the pass, afterparty at Maude's… — via Eventbrite"
   },
   {
@@ -8273,7 +6132,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 324,
+   "id": 241,
    "shortDesc": "Indie / Alt show at Aviator Nation Dreamland · 21+ — via Oh My Rockness"
   },
   {
@@ -8302,7 +6161,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 325,
+   "id": 242,
    "shortDesc": "Indie / Alt show at Pacific Electric · All Ages — via Oh My Rockness"
   },
   {
@@ -8329,7 +6188,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 326,
+   "id": 243,
    "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
   },
   {
@@ -8357,7 +6216,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 327,
+   "id": 244,
    "shortDesc": "Indie / Alt show at The Ford · All Ages — via Oh My Rockness"
   },
   {
@@ -8384,7 +6243,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 328,
+   "id": 245,
    "shortDesc": "Indie / Alt show at The Greek Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -8411,7 +6270,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 329,
+   "id": 246,
    "shortDesc": "Indie / Alt show at The Roxy · All Ages — via Oh My Rockness"
   },
   {
@@ -8439,7 +6298,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 330,
+   "id": 247,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -8462,7 +6321,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "The Crow's favorite show curates elevated comedy with comics from HBO, Netflix, Comedy Central, and late night TV.",
    "soldOut": false,
-   "id": 331,
+   "id": 248,
    "shortDesc": "The Crow's favorite show curates elevated comedy with comics from HBO, Netflix, Comedy Central, and late… — via Eventbrite"
   },
   {
@@ -8485,7 +6344,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "An immersive cabaret hidden inside the Hollywood Roosevelt. Wonderland reimagined with glamour, danger, and a bite.",
    "soldOut": false,
-   "id": 332,
+   "id": 249,
    "shortDesc": "An immersive cabaret hidden inside the Hollywood Roosevelt. Wonderland reimagined with glamour, danger, and a… — via Eventbrite"
   },
   {
@@ -8510,7 +6369,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Admission ticket only. Skate rentals must be purchased at the window ($8.00) if you don't bring your own skates.",
    "soldOut": false,
-   "id": 333,
+   "id": 250,
    "shortDesc": "Admission ticket only. Skate rentals must be purchased at the window ($8.00) if you don't bring your own… — via Eventbrite"
   },
   {
@@ -8537,7 +6396,7 @@ window.EVENTS_DATA = {
    ],
    "description": "18+",
    "soldOut": false,
-   "id": 334,
+   "id": 251,
    "shortDesc": "Soul / Funk show at Teragram Ballroom · 18+ — via Oh My Rockness"
   },
   {
@@ -8565,7 +6424,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 335,
+   "id": 252,
    "shortDesc": "Indie / Alt show at The Regent Theater · All Ages — via Oh My Rockness"
   },
   {
@@ -8588,7 +6447,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Club Soulside - 100 percent Vinyl dance party!!!!!! ( No Cover )",
    "soldOut": false,
-   "id": 336,
+   "id": 253,
    "shortDesc": "Club Soulside - 100 percent Vinyl dance party!!!!!! ( No Cover ) — via Eventbrite"
   },
   {
@@ -8613,7 +6472,7 @@ window.EVENTS_DATA = {
    ],
    "description": "SAT. AUG. 1st: Elvis VS. The Rolling Stones Tribute Dance Party @ Club 96 TEARS @ La Bufadora Bar in Los Angeles w/ DJ perksandkisses! 21+",
    "soldOut": false,
-   "id": 337,
+   "id": 254,
    "shortDesc": "SAT. AUG. 1st: Elvis VS. The Rolling Stones Tribute Dance Party @ Club 96 TEARS @ La Bufadora Bar in Los… — via Eventbrite"
   },
   {
@@ -8640,7 +6499,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Secreto Saturdays! DJ set by Lenny G and A1. 2000s Reggaeton, Hip Hop, Top 40 and more. Free before 11pm with ticket!",
    "soldOut": false,
-   "id": 338,
+   "id": 255,
    "shortDesc": "Secreto Saturdays! DJ set by Lenny G and A1. 2000s Reggaeton, Hip Hop, Top 40 and more. Free before 11pm with… — via Eventbrite"
   },
   {
@@ -8667,7 +6526,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 339,
+   "id": 256,
    "shortDesc": "Indie / Alt show at The Love Song · 21+ — via Oh My Rockness"
   },
   {
@@ -8692,7 +6551,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Afrobeats & more with your favorite Dj's & guests.",
    "soldOut": false,
-   "id": 340,
+   "id": 257,
    "shortDesc": "Afrobeats & more with your favorite Dj's & guests. — via Eventbrite"
   },
   {
@@ -8717,7 +6576,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Free Before 10:30PM With RSVP | Peaches And Cream - R&B And Hip Hop Throwback Party",
    "soldOut": false,
-   "id": 341,
+   "id": 258,
    "shortDesc": "Free Before 10:30PM With RSVP | Peaches And Cream - R&B And Hip Hop Throwback Party — via Eventbrite"
   },
   {
@@ -8740,7 +6599,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join the premier of Alexandria II's monthly Ecstatic Dance & connect with your body, inner child, & free style movement. All ages welcome.",
    "soldOut": false,
-   "id": 342,
+   "id": 259,
    "shortDesc": "Join the premier of Alexandria II's monthly Ecstatic Dance & connect with your body, inner child, & free… — via Eventbrite"
   },
   {
@@ -8763,7 +6622,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Come enjoy free coffee, free donuts, and Sunday brunch time improv with a warm and supportive community. All experience levels welcome!",
    "soldOut": false,
-   "id": 343,
+   "id": 260,
    "shortDesc": "Come enjoy free coffee, free donuts, and Sunday brunch time improv with a warm and supportive community. All… — via Eventbrite"
   },
   {
@@ -8786,7 +6645,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Dance, Fitness, Community, and SOCA!!!",
    "soldOut": false,
-   "id": 344,
+   "id": 261,
    "shortDesc": "Dance, Fitness, Community, and SOCA!!! — via Eventbrite"
   },
   {
@@ -8809,7 +6668,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us for an exclusive Acting & Modeling Etiquette, designed to elevate your presence and professionalism in the entertainment industry",
    "soldOut": false,
-   "id": 345,
+   "id": 262,
    "shortDesc": "Join us for an exclusive Acting & Modeling Etiquette, designed to elevate your presence and professionalism… — via Eventbrite"
   },
   {
@@ -8832,7 +6691,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us for an epic tribute to the King of Pop, Michael Jackson, by the talented REMJ - it's gonna be a day to remember! 21 and over.",
    "soldOut": false,
-   "id": 346,
+   "id": 263,
    "shortDesc": "Join us for an epic tribute to the King of Pop, Michael Jackson, by the talented REMJ - it's gonna be a day… — via Eventbrite"
   },
   {
@@ -8855,7 +6714,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us for an afternoon of passionate and sizzling Flamenco & Tango Dance and Live Music at Electric Lodge in Venice Beach.",
    "soldOut": false,
-   "id": 347,
+   "id": 264,
    "shortDesc": "Join us for an afternoon of passionate and sizzling Flamenco & Tango Dance and Live Music at Electric Lodge… — via Eventbrite"
   },
   {
@@ -8878,7 +6737,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Sunday Jump is an arts organization at Pilipino Workers Center in LA’s Historic Filipinotown. Open mics are 1st Sundays, 5-7 pm. May - Nov.",
    "soldOut": false,
-   "id": 348,
+   "id": 265,
    "shortDesc": "Sunday Jump is an arts organization at Pilipino Workers Center in LA’s Historic Filipinotown. Open mics are… — via Eventbrite"
   },
   {
@@ -8905,7 +6764,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 349,
+   "id": 266,
    "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · All Ages — via Oh My Rockness"
   },
   {
@@ -8928,7 +6787,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Hey Los Angeles fam!",
    "soldOut": false,
-   "id": 350,
+   "id": 267,
    "shortDesc": "Hey Los Angeles fam! — via Eventbrite"
   },
   {
@@ -8953,7 +6812,7 @@ window.EVENTS_DATA = {
    ],
    "description": "\"West Coast EDM Music Awards\" ​Presented By: \"MG Management Grp ​ A DJ Competition, you dont want to miss Come compete ,or attend to enjoy",
    "soldOut": false,
-   "id": 351,
+   "id": 268,
    "shortDesc": "\"West Coast EDM Music Awards\" ​Presented By: \"MG Management Grp ​ A DJ Competition, you dont want to miss… — via Eventbrite"
   },
   {
@@ -8976,7 +6835,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Stand-up comedy featuring some of the best Jewish comedians in Los Angeles!",
    "soldOut": false,
-   "id": 352,
+   "id": 269,
    "shortDesc": "Stand-up comedy featuring some of the best Jewish comedians in Los Angeles! — via Eventbrite"
   },
   {
@@ -9003,7 +6862,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 353,
+   "id": 270,
    "shortDesc": "Indie / Alt show at Gold-Diggers · 21+ — via Oh My Rockness"
   },
   {
@@ -9032,7 +6891,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 354,
+   "id": 271,
    "shortDesc": "Classical show at Hollywood Bowl · All Ages — via Oh My Rockness"
   },
   {
@@ -9062,7 +6921,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 355,
+   "id": 272,
    "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
   },
   {
@@ -9089,7 +6948,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 356,
+   "id": 273,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -9116,7 +6975,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 357,
+   "id": 274,
    "shortDesc": "Indie / Alt show at Santa Barbara Bowl · All Ages — via Oh My Rockness"
   },
   {
@@ -9143,7 +7002,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 358,
+   "id": 275,
    "shortDesc": "Indie / Alt show at The Observatory · All Ages — via Oh My Rockness"
   },
   {
@@ -9170,7 +7029,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 359,
+   "id": 276,
    "shortDesc": "Indie / Alt show at The Wiltern · All Ages — via Oh My Rockness"
   },
   {
@@ -9193,7 +7052,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Elevate your night at Higher Note: Open Music Mic Night! Unleash your talent and connect with fellow music lovers. Sign up now to shine!",
    "soldOut": false,
-   "id": 360,
+   "id": 277,
    "shortDesc": "Elevate your night at Higher Note: Open Music Mic Night! Unleash your talent and connect with fellow music… — via Eventbrite"
   },
   {
@@ -9216,7 +7075,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Here's your chance to see some of L.A. and beyond's up-and-coming stars, but more importantly have a great f*cking time!",
    "soldOut": false,
-   "id": 361,
+   "id": 278,
    "shortDesc": "Here's your chance to see some of L.A. and beyond's up-and-coming stars, but more importantly have a great… — via Eventbrite"
   },
   {
@@ -9239,7 +7098,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "The graduation show for Stand Up 201 class.",
    "soldOut": false,
-   "id": 362,
+   "id": 279,
    "shortDesc": "The graduation show for Stand Up 201 class. — via Eventbrite"
   },
   {
@@ -9262,7 +7121,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us for a fun morning of line dancing and delicious brunch at our event, Line Dancing Brunch!",
    "soldOut": false,
-   "id": 363,
+   "id": 280,
    "shortDesc": "Join us for a fun morning of line dancing and delicious brunch at our event, Line Dancing Brunch! — via Eventbrite"
   },
   {
@@ -9290,7 +7149,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 364,
+   "id": 281,
    "shortDesc": "Indie / Alt show at The Greek Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -9320,7 +7179,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 365,
+   "id": 282,
    "shortDesc": "Indie / Alt show at Non Plus Ultra · All Ages — via Oh My Rockness"
   },
   {
@@ -9347,7 +7206,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 366,
+   "id": 283,
    "shortDesc": "Indie / Alt show at Pacific Electric · All Ages — via Oh My Rockness"
   },
   {
@@ -9377,7 +7236,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 367,
+   "id": 284,
    "shortDesc": "Indie / Alt show at The Haven · All Ages — via Oh My Rockness"
   },
   {
@@ -9405,7 +7264,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 368,
+   "id": 285,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -9431,7 +7290,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Metalcore mayhem coming to The Slipper Clutch!",
    "soldOut": false,
-   "id": 369,
+   "id": 286,
    "shortDesc": "Metalcore mayhem coming to The Slipper Clutch! — via Eventbrite"
   },
   {
@@ -9454,7 +7313,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Get ready to belt out your favorite tunes live hosted by Grammy nominated singer / kevin McCall",
    "soldOut": false,
-   "id": 370,
+   "id": 287,
    "shortDesc": "Get ready to belt out your favorite tunes live hosted by Grammy nominated singer / kevin McCall — via Eventbrite"
   },
   {
@@ -9482,7 +7341,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 371,
+   "id": 288,
    "shortDesc": "Indie / Alt show at The Smell · All Ages — via Oh My Rockness"
   },
   {
@@ -9505,7 +7364,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "June 7, 2026 at 8:30pm| The Glendale Room | Great booked lineup + open mic!",
    "soldOut": false,
-   "id": 372,
+   "id": 289,
    "shortDesc": "June 7, 2026 at 8:30pm| The Glendale Room | Great booked lineup + open mic! — via Eventbrite"
   },
   {
@@ -9528,7 +7387,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "It's PACK MIC! Every Sunday at 10:30 pm, sign up and do some standup!",
    "soldOut": false,
-   "id": 373,
+   "id": 290,
    "shortDesc": "It's PACK MIC! Every Sunday at 10:30 pm, sign up and do some standup! — via Eventbrite"
   },
   {
@@ -9551,7 +7410,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Build Confidence, Creativity & Performance Skills in a Real North Hollywood Theater!",
    "soldOut": false,
-   "id": 374,
+   "id": 291,
    "shortDesc": "Build Confidence, Creativity & Performance Skills in a Real North Hollywood Theater! — via Eventbrite"
   },
   {
@@ -9574,7 +7433,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Train Like a Working Actor in a Real North Hollywood Theater! (Ages 13-17)",
    "soldOut": false,
-   "id": 375,
+   "id": 292,
    "shortDesc": "Train Like a Working Actor in a Real North Hollywood Theater! (Ages 13-17) — via Eventbrite"
   },
   {
@@ -9601,7 +7460,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 376,
+   "id": 293,
    "shortDesc": "Indie / Alt show at Pappy & Harriet's · All Ages — via Oh My Rockness"
   },
   {
@@ -9624,7 +7483,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Develop a musical theater ballad through focused coaching and live performance. Open to ages 16+",
    "soldOut": false,
-   "id": 377,
+   "id": 294,
    "shortDesc": "Develop a musical theater ballad through focused coaching and live performance. Open to ages 16+ — via Eventbrite"
   },
   {
@@ -9652,7 +7511,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 378,
+   "id": 295,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -9679,7 +7538,7 @@ window.EVENTS_DATA = {
    ],
    "description": "",
    "soldOut": false,
-   "id": 379,
+   "id": 296,
    "shortDesc": "Indie / Alt show at The Echo — via Oh My Rockness"
   },
   {
@@ -9707,7 +7566,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Speed Dating is back! Join up to 60 singles at Long Beach Beer Lab for the most efficient speed dating in Long Beach!",
    "soldOut": false,
-   "id": 380,
+   "id": 297,
    "shortDesc": "Speed Dating is back! Join up to 60 singles at Long Beach Beer Lab for the most efficient speed dating in… — via LA Fun Events"
   },
   {
@@ -9735,7 +7594,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 381,
+   "id": 298,
    "shortDesc": "Indie / Alt show at The Grammy Museum · All Ages — via Oh My Rockness"
   },
   {
@@ -9763,7 +7622,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 382,
+   "id": 299,
    "shortDesc": "Indie / Alt show at The Greek Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -9788,7 +7647,7 @@ window.EVENTS_DATA = {
    ],
    "description": "DANNY AVILA - Blues Guitar Superstar with SAMMY AVILA on keys - in Tarzana!",
    "soldOut": false,
-   "id": 383,
+   "id": 300,
    "shortDesc": "DANNY AVILA - Blues Guitar Superstar with SAMMY AVILA on keys - in Tarzana! — via Eventbrite"
   },
   {
@@ -9811,7 +7670,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "See Gianmarco Soresi perform new material about musical theater in this show geared towards theater aficionados.",
    "soldOut": false,
-   "id": 384,
+   "id": 301,
    "shortDesc": "See Gianmarco Soresi perform new material about musical theater in this show geared towards theater… — via Eventbrite"
   },
   {
@@ -9836,7 +7695,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Show off your skills & compete for $500 in cash prizes at the coolest open mic night around!",
    "soldOut": false,
-   "id": 385,
+   "id": 302,
    "shortDesc": "Show off your skills & compete for $500 in cash prizes at the coolest open mic night around! — via Eventbrite"
   },
   {
@@ -9863,7 +7722,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 386,
+   "id": 303,
    "shortDesc": "Indie / Alt show at Pappy & Harriet's · All Ages — via Oh My Rockness"
   },
   {
@@ -9891,7 +7750,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 387,
+   "id": 304,
    "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
   },
   {
@@ -9916,7 +7775,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Relax with a live jazz trio under the stars. The perfect cozy Tuesday hang at SoGo Sushi's Highland Park location on York Blvd!",
    "soldOut": false,
-   "id": 388,
+   "id": 305,
    "shortDesc": "Relax with a live jazz trio under the stars. The perfect cozy Tuesday hang at SoGo Sushi's Highland Park… — via Eventbrite"
   },
   {
@@ -9943,7 +7802,7 @@ window.EVENTS_DATA = {
    ],
    "description": "",
    "soldOut": false,
-   "id": 389,
+   "id": 306,
    "shortDesc": "Indie / Alt show at Moroccan Lounge — via Oh My Rockness"
   },
   {
@@ -9972,7 +7831,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 390,
+   "id": 307,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -10000,7 +7859,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 391,
+   "id": 308,
    "shortDesc": "Indie / Alt show at Teragram Ballroom · All Ages — via Oh My Rockness"
   },
   {
@@ -10028,7 +7887,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Speed Dating is back! Join 60 singles at The Cantiki for the most efficient speed dating in  North Hollywood!",
    "soldOut": false,
-   "id": 392,
+   "id": 309,
    "shortDesc": "Speed Dating is back! Join 60 singles at The Cantiki for the most efficient speed dating in North Hollywood! — via LA Fun Events"
   },
   {
@@ -10055,7 +7914,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 393,
+   "id": 310,
    "shortDesc": "Indie / Alt show at The Grammy Museum · All Ages — via Oh My Rockness"
   },
   {
@@ -10083,7 +7942,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 394,
+   "id": 311,
    "shortDesc": "Indie / Alt show at The Greek Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -10106,7 +7965,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "O﻿pen Screen is a very special type of open mic night for film and video.",
    "soldOut": false,
-   "id": 395,
+   "id": 312,
    "shortDesc": "O﻿pen Screen is a very special type of open mic night for film and video. — via Eventbrite"
   },
   {
@@ -10133,7 +7992,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 396,
+   "id": 313,
    "shortDesc": "Indie / Alt show at Fonda Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -10160,7 +8019,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 397,
+   "id": 314,
    "shortDesc": "Indie / Alt show at Hollywood Forever · All Ages — via Oh My Rockness"
   },
   {
@@ -10187,7 +8046,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 398,
+   "id": 315,
    "shortDesc": "Indie / Alt show at The Regent Theater · All Ages — via Oh My Rockness"
   },
   {
@@ -10215,7 +8074,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 399,
+   "id": 316,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -10238,7 +8097,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "An LA comedy show hosted by Lilliana Winkworth and Maggie Cannan about the things that make you sad.",
    "soldOut": false,
-   "id": 400,
+   "id": 317,
    "shortDesc": "An LA comedy show hosted by Lilliana Winkworth and Maggie Cannan about the things that make you sad. — via Eventbrite"
   },
   {
@@ -10261,7 +8120,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Established comedians take the stage and battle against local open micers.",
    "soldOut": false,
-   "id": 401,
+   "id": 318,
    "shortDesc": "Established comedians take the stage and battle against local open micers. — via Eventbrite"
   },
   {
@@ -10284,7 +8143,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Bryan Stoops (Edinburgh Fringe) visits from Queens & brings a cultivated lineup of some of the best comedians in L.A. to The Zebra Room.",
    "soldOut": false,
-   "id": 402,
+   "id": 319,
    "shortDesc": "Bryan Stoops (Edinburgh Fringe) visits from Queens & brings a cultivated lineup of some of the best comedians… — via Eventbrite"
   },
   {
@@ -10314,7 +8173,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 403,
+   "id": 320,
    "shortDesc": "Indie / Alt show at El Cid · 21+ — via Oh My Rockness"
   },
   {
@@ -10341,7 +8200,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 404,
+   "id": 321,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -10368,7 +8227,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 405,
+   "id": 322,
    "shortDesc": "Indie / Alt show at Sid The Cat Auditorium · All Ages — via Oh My Rockness"
   },
   {
@@ -10391,7 +8250,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live out our collective Actor's Nightmare! Throw your name in the hat and take our stage every 1st Weds.",
    "soldOut": false,
-   "id": 406,
+   "id": 323,
    "shortDesc": "Live out our collective Actor's Nightmare! Throw your name in the hat and take our stage every 1st Weds. — via Eventbrite"
   },
   {
@@ -10414,7 +8273,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Welcome to an Echo Park open mic event experience for musicians! We serve a need for our beloved community members to play songs together (:",
    "soldOut": false,
-   "id": 407,
+   "id": 324,
    "shortDesc": "Welcome to an Echo Park open mic event experience for musicians! We serve a need for our beloved community… — via Eventbrite"
   },
   {
@@ -10442,7 +8301,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 408,
+   "id": 325,
    "shortDesc": "Indie / Alt show at The Greek Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -10469,7 +8328,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 409,
+   "id": 326,
    "shortDesc": "Indie / Alt show at Aviator Nation Dreamland · 21+ — via Oh My Rockness"
   },
   {
@@ -10496,7 +8355,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 410,
+   "id": 327,
    "shortDesc": "Indie / Alt show at Fonda Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -10524,7 +8383,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 411,
+   "id": 328,
    "shortDesc": "Indie / Alt show at Healing Force of the Universe · 21+ — via Oh My Rockness"
   },
   {
@@ -10552,7 +8411,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 412,
+   "id": 329,
    "shortDesc": "Indie / Alt show at Hollywood Bowl · All Ages — via Oh My Rockness"
   },
   {
@@ -10579,7 +8438,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 413,
+   "id": 330,
    "shortDesc": "Indie / Alt show at The Glass House · All Ages — via Oh My Rockness"
   },
   {
@@ -10608,7 +8467,7 @@ window.EVENTS_DATA = {
    ],
    "description": "18+",
    "soldOut": false,
-   "id": 414,
+   "id": 331,
    "shortDesc": "Indie / Alt show at The Regent Theater · 18+ — via Oh My Rockness"
   },
   {
@@ -10635,7 +8494,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 415,
+   "id": 332,
    "shortDesc": "Indie / Alt show at The Wiltern · All Ages — via Oh My Rockness"
   },
   {
@@ -10662,7 +8521,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 416,
+   "id": 333,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -10685,7 +8544,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Gianmarco Soresi is back at The Crow!",
    "soldOut": false,
-   "id": 417,
+   "id": 334,
    "shortDesc": "Gianmarco Soresi is back at The Crow! — via Eventbrite"
   },
   {
@@ -10712,7 +8571,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 418,
+   "id": 335,
    "shortDesc": "Indie / Alt show at The Sardine · 21+ — via Oh My Rockness"
   },
   {
@@ -10737,7 +8596,7 @@ window.EVENTS_DATA = {
    ],
    "description": "The Maraschinos join the Girlactic Music Festival line up 2026! Live at The Whisky a Go Go!",
    "soldOut": false,
-   "id": 419,
+   "id": 336,
    "shortDesc": "The Maraschinos join the Girlactic Music Festival line up 2026! Live at The Whisky a Go Go! — via Eventbrite"
   },
   {
@@ -10762,7 +8621,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Plum will rock the Whisky with special guests: LA’s incredible YOYOKA SOMA on drums & NYC’s amazingly rad YAFFA BOTIER on guitar!",
    "soldOut": false,
-   "id": 420,
+   "id": 337,
    "shortDesc": "Plum will rock the Whisky with special guests: LA’s incredible YOYOKA SOMA on drums & NYC’s amazingly rad… — via Eventbrite"
   },
   {
@@ -10787,7 +8646,7 @@ window.EVENTS_DATA = {
    ],
    "description": "the first music festival of it’s kind happening with 100% all girl bands!",
    "soldOut": false,
-   "id": 421,
+   "id": 338,
    "shortDesc": "the first music festival of it’s kind happening with 100% all girl bands! — via Eventbrite"
   },
   {
@@ -10812,7 +8671,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Because Therapy Starts When The Playlist Drops. Leave the mom guilt behind and find the version of you that still knows every lyric.",
    "soldOut": false,
-   "id": 422,
+   "id": 339,
    "shortDesc": "Because Therapy Starts When The Playlist Drops. Leave the mom guilt behind and find the version of you that… — via Eventbrite"
   },
   {
@@ -10839,7 +8698,7 @@ window.EVENTS_DATA = {
    ],
    "description": "",
    "soldOut": false,
-   "id": 423,
+   "id": 340,
    "shortDesc": "Indie / Alt show at Moroccan Lounge — via Oh My Rockness"
   },
   {
@@ -10868,7 +8727,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 424,
+   "id": 341,
    "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
   },
   {
@@ -10897,7 +8756,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 425,
+   "id": 342,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -10926,7 +8785,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 426,
+   "id": 343,
    "shortDesc": "Electronic show at Skirball Cultural Center · All Ages — via Oh My Rockness"
   },
   {
@@ -10954,7 +8813,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 427,
+   "id": 344,
    "shortDesc": "Indie / Alt show at Teragram Ballroom · All Ages — via Oh My Rockness"
   },
   {
@@ -10983,7 +8842,7 @@ window.EVENTS_DATA = {
    ],
    "description": "18+",
    "soldOut": false,
-   "id": 428,
+   "id": 345,
    "shortDesc": "Indie / Alt show at The Airliner · 18+ — via Oh My Rockness"
   },
   {
@@ -11010,7 +8869,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 429,
+   "id": 346,
    "shortDesc": "Indie / Alt show at The Belasco · All Ages — via Oh My Rockness"
   },
   {
@@ -11039,7 +8898,7 @@ window.EVENTS_DATA = {
    ],
    "description": "",
    "soldOut": false,
-   "id": 430,
+   "id": 347,
    "shortDesc": "Indie / Alt show at The Cat's Crawl — via Oh My Rockness"
   },
   {
@@ -11066,7 +8925,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 431,
+   "id": 348,
    "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
   },
   {
@@ -11093,7 +8952,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 432,
+   "id": 349,
    "shortDesc": "Indie / Alt show at Troubadour · All Ages — via Oh My Rockness"
   },
   {
@@ -11121,7 +8980,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Meet mature, fun-loving singles in a laidback social setting.",
    "soldOut": false,
-   "id": 433,
+   "id": 350,
    "shortDesc": "Meet mature, fun-loving singles in a laidback social setting. — via LA Fun Events"
   },
   {
@@ -11146,7 +9005,7 @@ window.EVENTS_DATA = {
    ],
    "description": "WE FOUND NEW MUSIC Artist Discovery Concert Series LOCATION: Bar Lubitsch Free with RSVP 21+. 7:00pm Doors",
    "soldOut": false,
-   "id": 434,
+   "id": 351,
    "shortDesc": "WE FOUND NEW MUSIC Artist Discovery Concert Series LOCATION: Bar Lubitsch Free with RSVP 21+. 7:00pm Doors — via Eventbrite"
   },
   {
@@ -11169,7 +9028,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "BLAQ JOKES is a raw, real, and hilarious comedy show spotlighting Black voices, truth, & laughter. #BLAQJOKES #ComedyForTheCulture",
    "soldOut": false,
-   "id": 435,
+   "id": 352,
    "shortDesc": "BLAQ JOKES is a raw, real, and hilarious comedy show spotlighting Black voices, truth, & laughter. #BLAQJOKES… — via Eventbrite"
   },
   {
@@ -11192,7 +9051,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Step into a night of magic, music, comedy, burlesque, drag, and more in a one-of-a-kind modern vaudeville cabaret.",
    "soldOut": false,
-   "id": 436,
+   "id": 353,
    "shortDesc": "Step into a night of magic, music, comedy, burlesque, drag, and more in a one-of-a-kind modern vaudeville… — via Eventbrite"
   },
   {
@@ -11220,7 +9079,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 437,
+   "id": 354,
    "shortDesc": "Indie / Alt show at Kia Forum · All Ages — via Oh My Rockness"
   },
   {
@@ -11247,7 +9106,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 438,
+   "id": 355,
    "shortDesc": "Indie / Alt show at The Grammy Museum · All Ages — via Oh My Rockness"
   },
   {
@@ -11270,7 +9129,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Comedians Nick Stargu and Chad Opitz present a night of experimental comedy and music at Roguelike Tavern with special guests",
    "soldOut": false,
-   "id": 439,
+   "id": 356,
    "shortDesc": "Comedians Nick Stargu and Chad Opitz present a night of experimental comedy and music at Roguelike Tavern… — via Eventbrite"
   },
   {
@@ -11293,7 +9152,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "An evening celebrating Andy Beta's book COSMIC MUSIC: THE LIFE, ART, AND TRANSCENDENCE OF ALICE COLTRANE with conversation and screening",
    "soldOut": false,
-   "id": 440,
+   "id": 357,
    "shortDesc": "An evening celebrating Andy Beta's book COSMIC MUSIC: THE LIFE, ART, AND TRANSCENDENCE OF ALICE COLTRANE with… — via Eventbrite"
   },
   {
@@ -11316,7 +9175,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live comedy show featuring the graduates of Bobbie Oliver's Tao of Comedy workshops at Tao Comedy Studio. In-person or on Zoom!",
    "soldOut": false,
-   "id": 441,
+   "id": 358,
    "shortDesc": "Live comedy show featuring the graduates of Bobbie Oliver's Tao of Comedy workshops at Tao Comedy Studio… — via Eventbrite"
   },
   {
@@ -11339,7 +9198,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "",
    "soldOut": false,
-   "id": 442,
+   "id": 359,
    "shortDesc": "Concert at Rockwell Lounge — via Eventbrite"
   },
   {
@@ -11362,7 +9221,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Start your Afro-Fusion journey with Nigerian international dancer NK. Learn the fundamentals in a fun, welcoming environment.",
    "soldOut": false,
-   "id": 443,
+   "id": 360,
    "shortDesc": "Start your Afro-Fusion journey with Nigerian international dancer NK. Learn the fundamentals in a fun… — via Eventbrite"
   },
   {
@@ -11391,7 +9250,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 444,
+   "id": 361,
    "shortDesc": "Indie / Alt show at Alex's Bar · 21+ — via Oh My Rockness"
   },
   {
@@ -11419,7 +9278,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 445,
+   "id": 362,
    "shortDesc": "Indie / Alt show at Fonda Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -11446,7 +9305,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 446,
+   "id": 363,
    "shortDesc": "Indie / Alt show at Hollywood Forever · All Ages — via Oh My Rockness"
   },
   {
@@ -11471,7 +9330,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Mixmag LAB is recording live in L.A. with What So Not",
    "soldOut": false,
-   "id": 447,
+   "id": 364,
    "shortDesc": "Mixmag LAB is recording live in L.A. with What So Not — via Eventbrite"
   },
   {
@@ -11494,7 +9353,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Love short form improv? Well, this is the show for you! Watch our hosts and some of LA's best performers make you laugh!",
    "soldOut": false,
-   "id": 448,
+   "id": 365,
    "shortDesc": "Love short form improv? Well, this is the show for you! Watch our hosts and some of LA's best performers make… — via Eventbrite"
   },
   {
@@ -11517,7 +9376,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Watch silent cinema in motion . Answer an intimate question. You may even be invited into the open dance mic",
    "soldOut": false,
-   "id": 449,
+   "id": 366,
    "shortDesc": "Watch silent cinema in motion . Answer an intimate question. You may even be invited into the open dance mic — via Eventbrite"
   },
   {
@@ -11540,7 +9399,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Come to the Pack Theater for a great hour of comedy and fun with A Very Special Episode and Drunkards and Dragons!",
    "soldOut": false,
-   "id": 450,
+   "id": 367,
    "shortDesc": "Come to the Pack Theater for a great hour of comedy and fun with A Very Special Episode and Drunkards and… — via Eventbrite"
   },
   {
@@ -11563,7 +9422,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A night of poetry and art that confronts, resists silence, and reimagines the world.",
    "soldOut": false,
-   "id": 451,
+   "id": 368,
    "shortDesc": "A night of poetry and art that confronts, resists silence, and reimagines the world. — via Eventbrite"
   },
   {
@@ -11588,7 +9447,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Jensen Live in concert, Thursday, August 6th",
    "soldOut": false,
-   "id": 452,
+   "id": 369,
    "shortDesc": "Jensen Live in concert, Thursday, August 6th — via Eventbrite"
   },
   {
@@ -11611,7 +9470,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "10 Comics Compete for CA$H Prizes and BOOKED on an Upcoming Show!",
    "soldOut": false,
-   "id": 453,
+   "id": 370,
    "shortDesc": "10 Comics Compete for CA$H Prizes and BOOKED on an Upcoming Show! — via Eventbrite"
   },
   {
@@ -11634,7 +9493,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A monthly comedy pop-up showcasing comedians who are doing JUST FINE. Comedians from Comedy Central & Netflix!",
    "soldOut": false,
-   "id": 454,
+   "id": 371,
    "shortDesc": "A monthly comedy pop-up showcasing comedians who are doing JUST FINE. Comedians from Comedy Central & Netflix! — via Eventbrite"
   },
   {
@@ -11657,7 +9516,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Hahas and Tatas the monthly comedy and exotic dancer event is back at Plan B Club in West Los Angeles!",
    "soldOut": false,
-   "id": 455,
+   "id": 372,
    "shortDesc": "Hahas and Tatas the monthly comedy and exotic dancer event is back at Plan B Club in West Los Angeles! — via Eventbrite"
   },
   {
@@ -11682,7 +9541,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Angel Meet & Greet Tickets include up to 3 personal items signed & a photo with the band (VENUE TICKETS ARE REQUIRED & SOLD SEPARATELY)",
    "soldOut": false,
-   "id": 456,
+   "id": 373,
    "shortDesc": "Angel Meet & Greet Tickets include up to 3 personal items signed & a photo with the band (VENUE TICKETS ARE… — via Eventbrite"
   },
   {
@@ -11705,7 +9564,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Kremstock returns! Get ready for the ultimate live music escape where massive wntertainment, radiant energy, and unforgettable memories!",
    "soldOut": false,
-   "id": 457,
+   "id": 374,
    "shortDesc": "Kremstock returns! Get ready for the ultimate live music escape where massive wntertainment, radiant energy… — via Eventbrite"
   },
   {
@@ -11728,7 +9587,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Kpop Dance Class",
    "soldOut": false,
-   "id": 458,
+   "id": 375,
    "shortDesc": "Kpop Dance Class — via Eventbrite"
   },
   {
@@ -11757,7 +9616,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 459,
+   "id": 376,
    "shortDesc": "Indie / Alt show at Fox Theater Pomona · All Ages — via Oh My Rockness"
   },
   {
@@ -11786,7 +9645,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 460,
+   "id": 377,
    "shortDesc": "Indie / Alt show at Gold-Diggers · 21+ — via Oh My Rockness"
   },
   {
@@ -11813,7 +9672,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 461,
+   "id": 378,
    "shortDesc": "Indie / Alt show at Hollywood Bowl · All Ages — via Oh My Rockness"
   },
   {
@@ -11840,7 +9699,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 462,
+   "id": 379,
    "shortDesc": "Indie / Alt show at Teragram Ballroom · All Ages — via Oh My Rockness"
   },
   {
@@ -11869,7 +9728,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 463,
+   "id": 380,
    "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
   },
   {
@@ -11896,7 +9755,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 464,
+   "id": 381,
    "shortDesc": "Indie / Alt show at The Observatory · All Ages — via Oh My Rockness"
   },
   {
@@ -11923,7 +9782,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 465,
+   "id": 382,
    "shortDesc": "Indie / Alt show at The Wiltern · All Ages — via Oh My Rockness"
   },
   {
@@ -11952,7 +9811,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 466,
+   "id": 383,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -11977,7 +9836,7 @@ window.EVENTS_DATA = {
    ],
    "description": "From the passionate landscapes of Spain to the doomed romance of Verona, with a few delicious detours along the way.",
    "soldOut": false,
-   "id": 467,
+   "id": 384,
    "shortDesc": "From the passionate landscapes of Spain to the doomed romance of Verona, with a few delicious detours along… — via Eventbrite"
   },
   {
@@ -12000,7 +9859,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Launch Party for GRAMMY® Winner Darlene Koldenhoven's new Album & Book.",
    "soldOut": false,
-   "id": 468,
+   "id": 385,
    "shortDesc": "Launch Party for GRAMMY® Winner Darlene Koldenhoven's new Album & Book. — via Eventbrite"
   },
   {
@@ -12023,7 +9882,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Welcome to The Magic Mic Show, the open mic magic show. Think of comedy, but magic!",
    "soldOut": false,
-   "id": 469,
+   "id": 386,
    "shortDesc": "Welcome to The Magic Mic Show, the open mic magic show. Think of comedy, but magic! — via Eventbrite"
   },
   {
@@ -12046,7 +9905,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "After a week of an intensive comedy camp bootcamp, our young comics are ready to take the stage!",
    "soldOut": false,
-   "id": 470,
+   "id": 387,
    "shortDesc": "After a week of an intensive comedy camp bootcamp, our young comics are ready to take the stage! — via Eventbrite"
   },
   {
@@ -12071,7 +9930,7 @@ window.EVENTS_DATA = {
    ],
    "description": "First Fridays at the Sol is where grown folks come to listen to live jazz, dance and have a great time in an incredible venue.",
    "soldOut": false,
-   "id": 471,
+   "id": 388,
    "shortDesc": "First Fridays at the Sol is where grown folks come to listen to live jazz, dance and have a great time in an… — via Eventbrite"
   },
   {
@@ -12099,7 +9958,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 472,
+   "id": 389,
    "shortDesc": "Indie / Alt show at Kia Forum · All Ages — via Oh My Rockness"
   },
   {
@@ -12126,7 +9985,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 473,
+   "id": 390,
    "shortDesc": "Indie / Alt show at The Mint · 21+ — via Oh My Rockness"
   },
   {
@@ -12149,7 +10008,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Killer Comedians… Horrible Title. We have improv teams, stand-up comedians, and who knows what other surprises!",
    "soldOut": false,
-   "id": 474,
+   "id": 391,
    "shortDesc": "Killer Comedians… Horrible Title. We have improv teams, stand-up comedians, and who knows what other… — via Eventbrite"
   },
   {
@@ -12172,7 +10031,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Leo Season is HERE! Join us for a night of stand-up comedy, birthday vibes & big laughs. Friday, August 7 at LTE Studios. Doors 7:30 PM.",
    "soldOut": false,
-   "id": 475,
+   "id": 392,
    "shortDesc": "Leo Season is HERE! Join us for a night of stand-up comedy, birthday vibes & big laughs. Friday, August 7 at… — via Eventbrite"
   },
   {
@@ -12201,7 +10060,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 476,
+   "id": 393,
    "shortDesc": "Indie / Alt show at Healing Force of the Universe · All Ages — via Oh My Rockness"
   },
   {
@@ -12228,7 +10087,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 477,
+   "id": 394,
    "shortDesc": "Indie / Alt show at Hollywood Forever · All Ages — via Oh My Rockness"
   },
   {
@@ -12257,7 +10116,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 478,
+   "id": 395,
    "shortDesc": "Indie / Alt show at Hollywood Palladium · All Ages — via Oh My Rockness"
   },
   {
@@ -12285,7 +10144,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 479,
+   "id": 396,
    "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
   },
   {
@@ -12312,7 +10171,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 480,
+   "id": 397,
    "shortDesc": "Indie / Alt show at The Belasco · All Ages — via Oh My Rockness"
   },
   {
@@ -12340,7 +10199,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 481,
+   "id": 398,
    "shortDesc": "Indie / Alt show at The Ford · All Ages — via Oh My Rockness"
   },
   {
@@ -12368,7 +10227,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 482,
+   "id": 399,
    "shortDesc": "Indie / Alt show at The Glass House · All Ages — via Oh My Rockness"
   },
   {
@@ -12397,7 +10256,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 483,
+   "id": 400,
    "shortDesc": "Indie / Alt show at The Novo  · All Ages — via Oh My Rockness"
   },
   {
@@ -12424,7 +10283,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 484,
+   "id": 401,
    "shortDesc": "Indie / Alt show at The Roxy · All Ages — via Oh My Rockness"
   },
   {
@@ -12453,7 +10312,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 485,
+   "id": 402,
    "shortDesc": "Indie / Alt show at The Smell · All Ages — via Oh My Rockness"
   },
   {
@@ -12476,7 +10335,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "An intimate summer evening of live music, good company, and one complimentary drink at Trulove in Culver City.",
    "soldOut": false,
-   "id": 486,
+   "id": 403,
    "shortDesc": "An intimate summer evening of live music, good company, and one complimentary drink at Trulove in Culver City. — via Eventbrite"
   },
   {
@@ -12499,7 +10358,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Oberonis: Latino Shakespeare Company's inaugural show proudly presents: A bilingual retelling of a classic romantic comedy",
    "soldOut": false,
-   "id": 487,
+   "id": 404,
    "shortDesc": "Oberonis: Latino Shakespeare Company's inaugural show proudly presents: A bilingual retelling of a classic… — via Eventbrite"
   },
   {
@@ -12522,7 +10381,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Mambo lovers, we've got you covered on the 1st Friday of the month!",
    "soldOut": false,
-   "id": 488,
+   "id": 405,
    "shortDesc": "Mambo lovers, we've got you covered on the 1st Friday of the month! — via Eventbrite"
   },
   {
@@ -12549,7 +10408,7 @@ window.EVENTS_DATA = {
    ],
    "description": "18+",
    "soldOut": false,
-   "id": 489,
+   "id": 406,
    "shortDesc": "Indie / Alt show at 1720 · 18+ — via Oh My Rockness"
   },
   {
@@ -12580,7 +10439,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 490,
+   "id": 407,
    "shortDesc": "Indie / Alt show at Milky's · All Ages — via Oh My Rockness"
   },
   {
@@ -12606,7 +10465,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Are u ready 2 travel back in time?",
    "soldOut": false,
-   "id": 491,
+   "id": 408,
    "shortDesc": "Are u ready 2 travel back in time? — via Eventbrite"
   },
   {
@@ -12629,7 +10488,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Standout comedians from The Crow’s Door Girlz Program take the stage!",
    "soldOut": false,
-   "id": 492,
+   "id": 409,
    "shortDesc": "Standout comedians from The Crow’s Door Girlz Program take the stage! — via Eventbrite"
   },
   {
@@ -12657,7 +10516,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 493,
+   "id": 410,
    "shortDesc": "Indie / Alt show at Moroccan Lounge · 21+ — via Oh My Rockness"
   },
   {
@@ -12686,7 +10545,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 494,
+   "id": 411,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -12711,7 +10570,7 @@ window.EVENTS_DATA = {
    ],
    "description": "FRIDAY NIGHT DANCE PARTY! **FREE ALL NIGHT w/ RSVP**",
    "soldOut": false,
-   "id": 495,
+   "id": 412,
    "shortDesc": "FRIDAY NIGHT DANCE PARTY! **FREE ALL NIGHT w/ RSVP** — via Eventbrite"
   },
   {
@@ -12734,7 +10593,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Marie Antoinette Ball",
    "soldOut": false,
-   "id": 496,
+   "id": 413,
    "shortDesc": "Marie Antoinette Ball — via Eventbrite"
   },
   {
@@ -12757,7 +10616,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us on our campus in North Hollywood, CA on Saturday, August 8th to learn about Gnomon and explore our facilities!",
    "soldOut": false,
-   "id": 497,
+   "id": 414,
    "shortDesc": "Join us on our campus in North Hollywood, CA on Saturday, August 8th to learn about Gnomon and explore our… — via Eventbrite"
   },
   {
@@ -12783,7 +10642,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Get ready to swing into your Saturday with an afternoon of big band jazz, outrageous energy, and iconic tunes.",
    "soldOut": false,
-   "id": 498,
+   "id": 415,
    "shortDesc": "Get ready to swing into your Saturday with an afternoon of big band jazz, outrageous energy, and iconic tunes. — via Eventbrite"
   },
   {
@@ -12810,7 +10669,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 499,
+   "id": 416,
    "shortDesc": "Indie / Alt show at Level 8 · 21+ — via Oh My Rockness"
   },
   {
@@ -12833,7 +10692,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Come join us for a fun Saturday Day Show with Forever Rod, where we'll be rocking out to all the classic hits! 21 Plus.",
    "soldOut": false,
-   "id": 500,
+   "id": 417,
    "shortDesc": "Come join us for a fun Saturday Day Show with Forever Rod, where we'll be rocking out to all the classic… — via Eventbrite"
   },
   {
@@ -12856,7 +10715,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Powerful panels and gospel inspiration unite for voter action. Register, get informed, and make your voice count.",
    "soldOut": false,
-   "id": 501,
+   "id": 418,
    "shortDesc": "Powerful panels and gospel inspiration unite for voter action. Register, get informed, and make your voice… — via Eventbrite"
   },
   {
@@ -12881,7 +10740,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Kelly McGarry presents The Speeks live at the Viper Room. Tickets: $15 presale, $20 at the door. 21+",
    "soldOut": false,
-   "id": 502,
+   "id": 419,
    "shortDesc": "Kelly McGarry presents The Speeks live at the Viper Room. Tickets: $15 presale, $20 at the door. 21+ — via Eventbrite"
   },
   {
@@ -12911,7 +10770,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 503,
+   "id": 420,
    "shortDesc": "Indie / Alt show at Alex Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -12940,7 +10799,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 504,
+   "id": 421,
    "shortDesc": "Indie / Alt show at California Plaza · All Ages — via Oh My Rockness"
   },
   {
@@ -12969,7 +10828,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 505,
+   "id": 422,
    "shortDesc": "Indie / Alt show at Pappy & Harriet's · All Ages — via Oh My Rockness"
   },
   {
@@ -12998,7 +10857,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 506,
+   "id": 423,
    "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
   },
   {
@@ -13023,7 +10882,7 @@ window.EVENTS_DATA = {
    ],
    "description": "DAVY KNOWLES - Famed Blues Guitarist From The Isle Of Mann - in Arcadia!",
    "soldOut": false,
-   "id": 507,
+   "id": 424,
    "shortDesc": "DAVY KNOWLES - Famed Blues Guitarist From The Isle Of Mann - in Arcadia! — via Eventbrite"
   },
   {
@@ -13046,7 +10905,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us in Whittier for a vibrant celebration of stories, art, and culture brought to life!",
    "soldOut": false,
-   "id": 508,
+   "id": 425,
    "shortDesc": "Join us in Whittier for a vibrant celebration of stories, art, and culture brought to life! — via Eventbrite"
   },
   {
@@ -13075,7 +10934,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 509,
+   "id": 426,
    "shortDesc": "Indie / Alt show at The Greek Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -13098,7 +10957,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us in Whittier for a fun night of dancing with a free salsa class, great music, and a welcoming community, no partner needed!",
    "soldOut": false,
-   "id": 510,
+   "id": 427,
    "shortDesc": "Join us in Whittier for a fun night of dancing with a free salsa class, great music, and a welcoming… — via Eventbrite"
   },
   {
@@ -13128,7 +10987,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 511,
+   "id": 428,
    "shortDesc": "Indie / Alt show at 1720 · All Ages — via Oh My Rockness"
   },
   {
@@ -13155,7 +11014,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 512,
+   "id": 429,
    "shortDesc": "Indie / Alt show at Burton Chace Park · All Ages — via Oh My Rockness"
   },
   {
@@ -13182,7 +11041,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 513,
+   "id": 430,
    "shortDesc": "Indie / Alt show at Hollywood Bowl · All Ages — via Oh My Rockness"
   },
   {
@@ -13210,7 +11069,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 514,
+   "id": 431,
    "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
   },
   {
@@ -13239,7 +11098,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 515,
+   "id": 432,
    "shortDesc": "Indie / Alt show at Riverside Municipal Auditorium · All Ages — via Oh My Rockness"
   },
   {
@@ -13267,7 +11126,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 516,
+   "id": 433,
    "shortDesc": "Indie / Alt show at Sid The Cat Auditorium · All Ages — via Oh My Rockness"
   },
   {
@@ -13296,7 +11155,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 517,
+   "id": 434,
    "shortDesc": "Indie / Alt show at Teragram Ballroom · All Ages — via Oh My Rockness"
   },
   {
@@ -13324,7 +11183,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 518,
+   "id": 435,
    "shortDesc": "Indie / Alt show at The Observatory · All Ages — via Oh My Rockness"
   },
   {
@@ -13353,7 +11212,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 519,
+   "id": 436,
    "shortDesc": "Indie / Alt show at The Smell · All Ages — via Oh My Rockness"
   },
   {
@@ -13378,7 +11237,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Get ready to groove with Monsieur Periné is bringing their iconic sound to Marina del Rey for this free waterfront concert this summer!",
    "soldOut": false,
-   "id": 520,
+   "id": 437,
    "shortDesc": "Get ready to groove with Monsieur Periné is bringing their iconic sound to Marina del Rey for this free… — via Eventbrite"
   },
   {
@@ -13403,7 +11262,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Expect a powerful mix of classic hits and electric vibes, perfect for a summer night under the stars.",
    "soldOut": false,
-   "id": 521,
+   "id": 438,
    "shortDesc": "Expect a powerful mix of classic hits and electric vibes, perfect for a summer night under the stars. — via Eventbrite"
   },
   {
@@ -13426,7 +11285,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Industry Mixer & Artist Showcase: Come enjoy live performances, vendors, music, and positive energy.",
    "soldOut": false,
-   "id": 522,
+   "id": 439,
    "shortDesc": "Industry Mixer & Artist Showcase: Come enjoy live performances, vendors, music, and positive energy. — via Eventbrite"
   },
   {
@@ -13453,7 +11312,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Welcome to Nu People's first hosted community show! Music, Comedy, Art, and Love!",
    "soldOut": false,
-   "id": 523,
+   "id": 440,
    "shortDesc": "Welcome to Nu People's first hosted community show! Music, Comedy, Art, and Love! — via Eventbrite"
   },
   {
@@ -13476,7 +11335,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Witness the comedy magic/gold of live comedy being animated in REAL TIME with some of the best comics and animators around!",
    "soldOut": false,
-   "id": 524,
+   "id": 441,
    "shortDesc": "Witness the comedy magic/gold of live comedy being animated in REAL TIME with some of the best comics and… — via Eventbrite"
   },
   {
@@ -13499,7 +11358,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Boogie down to Melrose every month for LA's funniest comics, grooviest DJs, and free drinks!",
    "soldOut": false,
-   "id": 525,
+   "id": 442,
    "shortDesc": "Boogie down to Melrose every month for LA's funniest comics, grooviest DJs, and free drinks! — via Eventbrite"
   },
   {
@@ -13522,7 +11381,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Four infamous Hollywood murder cases. Four craft cocktails. One unforgettable immersive experience.",
    "soldOut": false,
-   "id": 526,
+   "id": 443,
    "shortDesc": "Four infamous Hollywood murder cases. Four craft cocktails. One unforgettable immersive experience. — via Eventbrite"
   },
   {
@@ -13562,7 +11421,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 527,
+   "id": 444,
    "shortDesc": "Indie / Alt show at The Broad · All Ages — via Oh My Rockness"
   },
   {
@@ -13585,7 +11444,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Santa Monica's favorite show is back! Free Don Julio drinks, amazing magic, and some of the best comedians in LA.",
    "soldOut": false,
-   "id": 528,
+   "id": 445,
    "shortDesc": "Santa Monica's favorite show is back! Free Don Julio drinks, amazing magic, and some of the best comedians in… — via Eventbrite"
   },
   {
@@ -13608,7 +11467,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Improv based on your bad month",
    "soldOut": false,
-   "id": 529,
+   "id": 446,
    "shortDesc": "Improv based on your bad month — via Eventbrite"
   },
   {
@@ -13631,7 +11490,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "The world is rough enough. let's escape with laughter! 2nd Saturday of every month at 7:30 pm come see LA s top comics take you on a journey",
    "soldOut": false,
-   "id": 530,
+   "id": 447,
    "shortDesc": "The world is rough enough. let's escape with laughter! 2nd Saturday of every month at 7:30 pm come see LA s… — via Eventbrite"
   },
   {
@@ -13654,7 +11513,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Improv comedy based off your favorite Broadway hits! Live singers perform Broadway songs then make comedy 7:30pm at the WGIS theater",
    "soldOut": false,
-   "id": 531,
+   "id": 448,
    "shortDesc": "Improv comedy based off your favorite Broadway hits! Live singers perform Broadway songs then make comedy… — via Eventbrite"
   },
   {
@@ -13683,7 +11542,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 532,
+   "id": 449,
    "shortDesc": "Indie / Alt show at Alex's Bar · 21+ — via Oh My Rockness"
   },
   {
@@ -13710,7 +11569,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 533,
+   "id": 450,
    "shortDesc": "Indie / Alt show at Fonda Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -13738,7 +11597,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 534,
+   "id": 451,
    "shortDesc": "Indie / Alt show at Pacific Electric · All Ages — via Oh My Rockness"
   },
   {
@@ -13767,7 +11626,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 535,
+   "id": 452,
    "shortDesc": "Indie / Alt show at The Glass House · All Ages — via Oh My Rockness"
   },
   {
@@ -13795,7 +11654,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 536,
+   "id": 453,
    "shortDesc": "Indie / Alt show at The Observatory · All Ages — via Oh My Rockness"
   },
   {
@@ -13822,7 +11681,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 537,
+   "id": 454,
    "shortDesc": "Indie / Alt show at The Roxy · All Ages — via Oh My Rockness"
   },
   {
@@ -13850,7 +11709,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 538,
+   "id": 455,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -13873,7 +11732,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Your favorite stand-up comedy headliners at fanaticSalon Theater for a night of laughs and good hangs",
    "soldOut": false,
-   "id": 539,
+   "id": 456,
    "shortDesc": "Your favorite stand-up comedy headliners at fanaticSalon Theater for a night of laughs and good hangs — via Eventbrite"
   },
   {
@@ -13896,7 +11755,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Admission ticket only. Skate rentals must be purchased at the window ($8.00) if you don't bring your own skates.",
    "soldOut": false,
-   "id": 540,
+   "id": 457,
    "shortDesc": "Admission ticket only. Skate rentals must be purchased at the window ($8.00) if you don't bring your own… — via Eventbrite"
   },
   {
@@ -13921,7 +11780,7 @@ window.EVENTS_DATA = {
    ],
    "description": "FESTIVAL OF THE LION: FREE concert featuring THE ORPHICS, plus Real Estate/Mortgage networking, art & community. Presented by MATT ROTHl",
    "soldOut": false,
-   "id": 541,
+   "id": 458,
    "shortDesc": "FESTIVAL OF THE LION: FREE concert featuring THE ORPHICS, plus Real Estate/Mortgage networking, art &… — via Eventbrite"
   },
   {
@@ -13934,8 +11793,8 @@ window.EVENTS_DATA = {
     "Sugar World",
     "The Freebies"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/475652-queen-serene-sugar-world-the-freebies-permanent-records-roadhouse",
-   "ticketUrl": "https://dice.fm/partner/tickets/event/mxdyvr-queen-serene-8th-aug-permanent-records-roadhouse-los-angeles-tickets",
+   "url": "https://losangeles.ohmyrockness.com/shows/471511-queen-serene-sugar-world-the-freebies-permanent-records-roadhouse",
+   "ticketUrl": "https://dice.fm/event/mxdyvr-queen-serene-8th-aug-permanent-records-roadhouse-los-angeles-tickets",
    "imageUrl": null,
    "date": "2026-08-08",
    "time": "21:00",
@@ -13950,7 +11809,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 542,
+   "id": 459,
    "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
   },
   {
@@ -13977,7 +11836,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 543,
+   "id": 460,
    "shortDesc": "Indie / Alt show at The Regent Theater · All Ages — via Oh My Rockness"
   },
   {
@@ -14000,7 +11859,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A new two-person musical about our gory obsession with murderers / their victims from J. Elijah Cho and Marcelina Chavira.",
    "soldOut": false,
-   "id": 544,
+   "id": 461,
    "shortDesc": "A new two-person musical about our gory obsession with murderers / their victims from J. Elijah Cho and… — via Eventbrite"
   },
   {
@@ -14023,7 +11882,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Come join us for a fun and free dance class where you can let loose and groove to the music with others!",
    "soldOut": false,
-   "id": 545,
+   "id": 462,
    "shortDesc": "Come join us for a fun and free dance class where you can let loose and groove to the music with others! — via Eventbrite"
   },
   {
@@ -14050,7 +11909,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 546,
+   "id": 463,
    "shortDesc": "Indie / Alt show at Malibu Pier · All Ages — via Oh My Rockness"
   },
   {
@@ -14073,7 +11932,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Los Angeles, get ready. The vibes are about to be unmatched as 450 performs live at the Caribbean Heritage Day Party!",
    "soldOut": false,
-   "id": 547,
+   "id": 464,
    "shortDesc": "Los Angeles, get ready. The vibes are about to be unmatched as 450 performs live at the Caribbean Heritage… — via Eventbrite"
   },
   {
@@ -14096,7 +11955,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Free Concert in LA: MC Magic, Baby Bash, Frankie J, Lil Rob, Amanda Perez & MORE! Sunday, August 9th at Pershing Square!",
    "soldOut": false,
-   "id": 548,
+   "id": 465,
    "shortDesc": "Free Concert in LA: MC Magic, Baby Bash, Frankie J, Lil Rob, Amanda Perez & MORE! Sunday, August 9th at… — via Eventbrite"
   },
   {
@@ -14119,7 +11978,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Featured Poet Karen Kevorkian + Open Mic",
    "soldOut": false,
-   "id": 549,
+   "id": 466,
    "shortDesc": "Featured Poet Karen Kevorkian + Open Mic — via Eventbrite"
   },
   {
@@ -14142,7 +12001,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Hey Los Angeles fam!",
    "soldOut": false,
-   "id": 550,
+   "id": 467,
    "shortDesc": "Hey Los Angeles fam! — via Eventbrite"
   },
   {
@@ -14165,7 +12024,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Each month features a different creative project and theme, making every Craft Comedy Night a new experience.",
    "soldOut": false,
-   "id": 551,
+   "id": 468,
    "shortDesc": "Each month features a different creative project and theme, making every Craft Comedy Night a new experience. — via Eventbrite"
   },
   {
@@ -14192,7 +12051,7 @@ window.EVENTS_DATA = {
    ],
    "description": "",
    "soldOut": false,
-   "id": 552,
+   "id": 469,
    "shortDesc": "Indie / Alt show at Moroccan Lounge — via Oh My Rockness"
   },
   {
@@ -14219,7 +12078,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 553,
+   "id": 470,
    "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
   },
   {
@@ -14247,7 +12106,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 554,
+   "id": 471,
    "shortDesc": "Indie / Alt show at The Observatory · All Ages — via Oh My Rockness"
   },
   {
@@ -14274,7 +12133,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 555,
+   "id": 472,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -14300,7 +12159,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Bloodbather headlining with support from The Requiem, One World (R)evolution, Deliverance, Fatalist, On Water, and Moribund",
    "soldOut": false,
-   "id": 556,
+   "id": 473,
    "shortDesc": "Bloodbather headlining with support from The Requiem, One World (R)evolution, Deliverance, Fatalist, On… — via Eventbrite"
   },
   {
@@ -14327,7 +12186,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 557,
+   "id": 474,
    "shortDesc": "Indie / Alt show at El Rey Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -14355,7 +12214,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 558,
+   "id": 475,
    "shortDesc": "Indie / Alt show at Teragram Ballroom · All Ages — via Oh My Rockness"
   },
   {
@@ -14382,7 +12241,7 @@ window.EVENTS_DATA = {
    ],
    "description": "",
    "soldOut": false,
-   "id": 559,
+   "id": 476,
    "shortDesc": "Indie / Alt show at Moroccan Lounge — via Oh My Rockness"
   },
   {
@@ -14409,7 +12268,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 560,
+   "id": 477,
    "shortDesc": "Indie / Alt show at Moroccan Lounge · 21+ — via Oh My Rockness"
   },
   {
@@ -14432,7 +12291,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Rehearse and perform both comedy and drama in one immersive week. August 10 - August 13. Live Show August 16",
    "soldOut": false,
-   "id": 561,
+   "id": 478,
    "shortDesc": "Rehearse and perform both comedy and drama in one immersive week. August 10 - August 13. Live Show August 16 — via Eventbrite"
   },
   {
@@ -14460,7 +12319,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 562,
+   "id": 479,
    "shortDesc": "Indie / Alt show at Fonda Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -14487,7 +12346,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 563,
+   "id": 480,
    "shortDesc": "Indie / Alt show at Hollywood Forever · All Ages — via Oh My Rockness"
   },
   {
@@ -14516,7 +12375,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 564,
+   "id": 481,
    "shortDesc": "Indie / Alt show at Sid The Cat Auditorium · All Ages — via Oh My Rockness"
   },
   {
@@ -14543,7 +12402,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 565,
+   "id": 482,
    "shortDesc": "Indie / Alt show at Crypto.com Arena · All Ages — via Oh My Rockness"
   },
   {
@@ -14570,7 +12429,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 566,
+   "id": 483,
    "shortDesc": "Indie / Alt show at Hollywood Bowl · All Ages — via Oh My Rockness"
   },
   {
@@ -14598,7 +12457,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 567,
+   "id": 484,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -14624,7 +12483,7 @@ window.EVENTS_DATA = {
    ],
    "description": "DAVY KNOWLES - Blues-Rock Guitar Great from The Isle Of Mann - in Tarzana!",
    "soldOut": false,
-   "id": 568,
+   "id": 485,
    "shortDesc": "DAVY KNOWLES - Blues-Rock Guitar Great from The Isle Of Mann - in Tarzana! — via Eventbrite"
   },
   {
@@ -14647,7 +12506,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "See some of the funniest comics in the country EVERY MONDAY in Eagle Rock. Tacos, drinks, lots of laughs - join in the fun!",
    "soldOut": false,
-   "id": 569,
+   "id": 486,
    "shortDesc": "See some of the funniest comics in the country EVERY MONDAY in Eagle Rock. Tacos, drinks, lots of laughs -… — via Eventbrite"
   },
   {
@@ -14675,7 +12534,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 570,
+   "id": 487,
    "shortDesc": "Indie / Alt show at Moroccan Lounge · All Ages — via Oh My Rockness"
   },
   {
@@ -14702,7 +12561,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 571,
+   "id": 488,
    "shortDesc": "Indie / Alt show at 2220 Arts + Archives · 21+ — via Oh My Rockness"
   },
   {
@@ -14729,7 +12588,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 572,
+   "id": 489,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -14758,7 +12617,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 573,
+   "id": 490,
    "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
   },
   {
@@ -14785,7 +12644,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 574,
+   "id": 491,
    "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
   },
   {
@@ -14797,7 +12656,7 @@ window.EVENTS_DATA = {
     "Away With Words",
     "My Precious Solitude"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/475824-away-with-words-my-precious-solitude-the-smell",
+   "url": "https://www.ohmyrockness.com/shows/475824-away-with-words-my-precious-solitude-the-smell",
    "ticketUrl": "https://dice.fm/event/3orkap-minty-boi-pres-away-with-words-in-los-angeles-11th-aug-the-smell-los-angeles-tickets",
    "imageUrl": null,
    "date": "2026-08-11",
@@ -14813,7 +12672,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 575,
+   "id": 492,
    "shortDesc": "Indie / Alt show at The Smell · All Ages — via Oh My Rockness"
   },
   {
@@ -14841,7 +12700,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 576,
+   "id": 493,
    "shortDesc": "Indie / Alt show at Kia Forum · All Ages — via Oh My Rockness"
   },
   {
@@ -14868,7 +12727,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 577,
+   "id": 494,
    "shortDesc": "Indie / Alt show at Crypto.com Arena · All Ages — via Oh My Rockness"
   },
   {
@@ -14895,7 +12754,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 578,
+   "id": 495,
    "shortDesc": "Indie / Alt show at YouTube Theater · All Ages — via Oh My Rockness"
   },
   {
@@ -14922,7 +12781,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 579,
+   "id": 496,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -14949,7 +12808,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 580,
+   "id": 497,
    "shortDesc": "Indie / Alt show at Largo · All Ages — via Oh My Rockness"
   },
   {
@@ -14976,7 +12835,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 581,
+   "id": 498,
    "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
   },
   {
@@ -15002,7 +12861,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Enjoy an intimate evening of live Pop & R&B with Amanda Chloe, authentic Italian cuisine, fine wine, and a unique atmosphere.",
    "soldOut": false,
-   "id": 582,
+   "id": 499,
    "shortDesc": "Enjoy an intimate evening of live Pop & R&B with Amanda Chloe, authentic Italian cuisine, fine wine, and a… — via Eventbrite"
   },
   {
@@ -15031,7 +12890,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 583,
+   "id": 500,
    "shortDesc": "Indie / Alt show at Gold-Diggers · 21+ — via Oh My Rockness"
   },
   {
@@ -15058,7 +12917,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 584,
+   "id": 501,
    "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
   },
   {
@@ -15086,7 +12945,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 585,
+   "id": 502,
    "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
   },
   {
@@ -15113,7 +12972,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 586,
+   "id": 503,
    "shortDesc": "Indie / Alt show at The Observatory · All Ages — via Oh My Rockness"
   },
   {
@@ -15136,7 +12995,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Come jam with local talent and show off your skills at a chill open mic night hosted by Altadena Musicians!",
    "soldOut": false,
-   "id": 587,
+   "id": 504,
    "shortDesc": "Come jam with local talent and show off your skills at a chill open mic night hosted by Altadena Musicians! — via Eventbrite"
   },
   {
@@ -15159,7 +13018,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Step into the enchanting Forest of Arden as Bardfly Theatre Co. returns to The Velvet Martini Lounge.",
    "soldOut": false,
-   "id": 588,
+   "id": 505,
    "shortDesc": "Step into the enchanting Forest of Arden as Bardfly Theatre Co. returns to The Velvet Martini Lounge. — via Eventbrite"
   },
   {
@@ -15182,7 +13041,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A bi-monthly variety show inspired by a new book at every show. August's book: The Night Circus by Erin Morgenstern.",
    "soldOut": false,
-   "id": 589,
+   "id": 506,
    "shortDesc": "A bi-monthly variety show inspired by a new book at every show. August's book: The Night Circus by Erin… — via Eventbrite"
   },
   {
@@ -15210,7 +13069,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 590,
+   "id": 507,
    "shortDesc": "Indie / Alt show at Kia Forum · All Ages — via Oh My Rockness"
   },
   {
@@ -15233,7 +13092,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Neon Moon is a curated comedy showcase hosted by Steve Furey featuring standout comics and special drop-ins. A dynamic night of live comedy!",
    "soldOut": false,
-   "id": 591,
+   "id": 508,
    "shortDesc": "Neon Moon is a curated comedy showcase hosted by Steve Furey featuring standout comics and special drop-ins… — via Eventbrite"
   },
   {
@@ -15260,7 +13119,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 592,
+   "id": 509,
    "shortDesc": "Indie / Alt show at Healing Force of the Universe · 21+ — via Oh My Rockness"
   },
   {
@@ -15288,7 +13147,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 593,
+   "id": 510,
    "shortDesc": "Indie / Alt show at The Ford · All Ages — via Oh My Rockness"
   },
   {
@@ -15315,7 +13174,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 594,
+   "id": 511,
    "shortDesc": "Indie / Alt show at YouTube Theater · All Ages — via Oh My Rockness"
   },
   {
@@ -15328,7 +13187,7 @@ window.EVENTS_DATA = {
     "Mondo Mundo",
     "Fuedal"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/473486-donzii-mondo-mundo-fuedal-zebulon",
+   "url": "https://www.ohmyrockness.com/shows/473486-donzii-mondo-mundo-fuedal-zebulon",
    "ticketUrl": "https://dice.fm/event/eo8nv6-donzii-mondo-mundo-fuedal-12th-aug-zebulon-los-angeles-ticketsz",
    "imageUrl": null,
    "date": "2026-08-12",
@@ -15344,7 +13203,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 595,
+   "id": 512,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -15367,7 +13226,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Glendale's longest running open mic comedy night Free to watch . $5 for 5 mins",
    "soldOut": false,
-   "id": 596,
+   "id": 513,
    "shortDesc": "Glendale's longest running open mic comedy night Free to watch . $5 for 5 mins — via Eventbrite"
   },
   {
@@ -15390,7 +13249,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Come see some of LA’s best comedians at the Third Pancake Comedy show free admission but please RSVP Doors open at 7:30 please check in by 8",
    "soldOut": false,
-   "id": 597,
+   "id": 514,
    "shortDesc": "Come see some of LA’s best comedians at the Third Pancake Comedy show free admission but please RSVP Doors… — via Eventbrite"
   },
   {
@@ -15413,7 +13272,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Get ready to laugh your crust off at Pizza Gate Comedy – great jokes and tasty slices await!",
    "soldOut": false,
-   "id": 598,
+   "id": 515,
    "shortDesc": "Get ready to laugh your crust off at Pizza Gate Comedy – great jokes and tasty slices await! — via Eventbrite"
   },
   {
@@ -15445,7 +13304,7 @@ window.EVENTS_DATA = {
    ],
    "description": "",
    "soldOut": false,
-   "id": 599,
+   "id": 516,
    "shortDesc": "Soul / Funk show at Milky's — via Oh My Rockness"
   },
   {
@@ -15472,7 +13331,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 600,
+   "id": 517,
    "shortDesc": "Indie / Alt show at Santa Barbara Bowl · All Ages — via Oh My Rockness"
   },
   {
@@ -15499,7 +13358,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 601,
+   "id": 518,
    "shortDesc": "Indie / Alt show at Moroccan Lounge · All Ages — via Oh My Rockness"
   },
   {
@@ -15528,7 +13387,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 602,
+   "id": 519,
    "shortDesc": "Indie / Alt show at Brain Dead Studios · All Ages — via Oh My Rockness"
   },
   {
@@ -15556,7 +13415,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 603,
+   "id": 520,
    "shortDesc": "Indie / Alt show at Hollywood Bowl · All Ages — via Oh My Rockness"
   },
   {
@@ -15567,7 +13426,7 @@ window.EVENTS_DATA = {
    "artists": [
     "T.I."
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/470589-t-i-hollywood-palladium",
+   "url": "http://ohmyrockness.com/shows/470589-t-i-hollywood-palladium",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fti-the-king-succession-tour-hollywood-california-08-13-2026%2Fevent%2F090064A11D1C51AF",
    "imageUrl": null,
    "date": "2026-08-13",
@@ -15583,7 +13442,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 604,
+   "id": 521,
    "shortDesc": "Indie / Alt show at Hollywood Palladium · All Ages — via Oh My Rockness"
   },
   {
@@ -15612,7 +13471,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 605,
+   "id": 522,
    "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
   },
   {
@@ -15639,7 +13498,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 606,
+   "id": 523,
    "shortDesc": "Indie / Alt show at Teragram Ballroom · All Ages — via Oh My Rockness"
   },
   {
@@ -15667,7 +13526,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 607,
+   "id": 524,
    "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
   },
   {
@@ -15695,7 +13554,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Singles events in WEST LA is back! Join  up to 60 singles at ROSEGOLD SALOON",
    "soldOut": false,
-   "id": 608,
+   "id": 525,
    "shortDesc": "Singles events in WEST LA is back! Join up to 60 singles at ROSEGOLD SALOON — via LA Fun Events"
   },
   {
@@ -15720,7 +13579,7 @@ window.EVENTS_DATA = {
    ],
    "description": "We’re taking it to the max with a groovy summer music series! Boogie down with us in the neighborhood!",
    "soldOut": false,
-   "id": 609,
+   "id": 526,
    "shortDesc": "We’re taking it to the max with a groovy summer music series! Boogie down with us in the neighborhood! — via Eventbrite"
   },
   {
@@ -15743,7 +13602,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Queer Sounds is a music showcase featuring incredible local queer musicians. Cocktails, rooftop patio, community. @queersoundss",
    "soldOut": false,
-   "id": 610,
+   "id": 527,
    "shortDesc": "Queer Sounds is a music showcase featuring incredible local queer musicians. Cocktails, rooftop patio… — via Eventbrite"
   },
   {
@@ -15766,7 +13625,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Get ready to laugh your socks off with a wild lineup of comedy misfits bringing the funny like never before.",
    "soldOut": false,
-   "id": 611,
+   "id": 528,
    "shortDesc": "Get ready to laugh your socks off with a wild lineup of comedy misfits bringing the funny like never before. — via Eventbrite"
   },
   {
@@ -15794,7 +13653,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 612,
+   "id": 529,
    "shortDesc": "Indie / Alt show at Kia Forum · All Ages — via Oh My Rockness"
   },
   {
@@ -15823,7 +13682,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 613,
+   "id": 530,
    "shortDesc": "Soul / Funk show at The Bellwether · All Ages — via Oh My Rockness"
   },
   {
@@ -15850,7 +13709,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 614,
+   "id": 531,
    "shortDesc": "Indie / Alt show at The Grammy Museum · All Ages — via Oh My Rockness"
   },
   {
@@ -15873,7 +13732,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Speed Trap Comedy is a variety showcase featuring LA’s best up-and-coming and headlining comedians and musicians",
    "soldOut": false,
-   "id": 615,
+   "id": 532,
    "shortDesc": "Speed Trap Comedy is a variety showcase featuring LA’s best up-and-coming and headlining comedians and… — via Eventbrite"
   },
   {
@@ -15901,7 +13760,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 616,
+   "id": 533,
    "shortDesc": "Indie / Alt show at 2220 Arts + Archives · 21+ — via Oh My Rockness"
   },
   {
@@ -15930,7 +13789,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 617,
+   "id": 534,
    "shortDesc": "Indie / Alt show at Gold-Diggers · 21+ — via Oh My Rockness"
   },
   {
@@ -15959,7 +13818,7 @@ window.EVENTS_DATA = {
    ],
    "description": "",
    "soldOut": false,
-   "id": 618,
+   "id": 535,
    "shortDesc": "Indie / Alt show at Non Plus Ultra — via Oh My Rockness"
   },
   {
@@ -15987,7 +13846,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 619,
+   "id": 536,
    "shortDesc": "Indie / Alt show at The Ford · All Ages — via Oh My Rockness"
   },
   {
@@ -16014,7 +13873,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 620,
+   "id": 537,
    "shortDesc": "Indie / Alt show at The Glass House · All Ages — via Oh My Rockness"
   },
   {
@@ -16041,7 +13900,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 621,
+   "id": 538,
    "shortDesc": "Indie / Alt show at The Novo  · All Ages — via Oh My Rockness"
   },
   {
@@ -16068,7 +13927,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 622,
+   "id": 539,
    "shortDesc": "Indie / Alt show at The Regent Theater · All Ages — via Oh My Rockness"
   },
   {
@@ -16081,7 +13940,7 @@ window.EVENTS_DATA = {
     "VEAUX",
     "Dreamfone"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/469797-emarosa-veaux-dreamfone-the-roxy",
+   "url": "https://www.ohmyrockness.com/shows/469797-emarosa-veaux-dreamfone-the-roxy",
    "ticketUrl": "https://www.axs.com/events/1415134/emarosa-tickets",
    "imageUrl": null,
    "date": "2026-08-13",
@@ -16097,7 +13956,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 623,
+   "id": 540,
    "shortDesc": "Indie / Alt show at The Roxy · All Ages — via Oh My Rockness"
   },
   {
@@ -16128,7 +13987,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 624,
+   "id": 541,
    "shortDesc": "Indie / Alt show at The Smell · All Ages — via Oh My Rockness"
   },
   {
@@ -16155,7 +14014,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 625,
+   "id": 542,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -16178,7 +14037,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Rhoda and Daniel let their questionable playlists take over. LA’s top improv teams dive in blind, chasing whatever unhinged track drops next",
    "soldOut": false,
-   "id": 626,
+   "id": 543,
    "shortDesc": "Rhoda and Daniel let their questionable playlists take over. LA’s top improv teams dive in blind, chasing… — via Eventbrite"
   },
   {
@@ -16201,7 +14060,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Improv comedy based on your terrible month featuring some of the best comedians in Los Angeles",
    "soldOut": false,
-   "id": 627,
+   "id": 544,
    "shortDesc": "Improv comedy based on your terrible month featuring some of the best comedians in Los Angeles — via Eventbrite"
   },
   {
@@ -16230,8 +14089,124 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 628,
+   "id": 545,
    "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Chico Detour + Agua + The Reflectors",
+   "artists": [
+    "Chico Detour",
+    "Agua",
+    "The Reflectors"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/475304-chico-detour-agua-the-reflectors-permanent-records-roadhouse",
+   "ticketUrl": "https://dice.fm/event/8eq77v-chico-detour-14th-aug-permanent-records-roadhouse-los-angeles-tickets",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "18:00",
+   "venue": "Permanent Records Roadhouse",
+   "address": "1906 Cypress Ave, Los Angeles, CA 90065",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "21+",
+   "soldOut": false,
+   "id": 546,
+   "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Cold World + Big Boy + One Step Closer + Crush Your Soul + The Difference",
+   "artists": [
+    "Cold World",
+    "Big Boy",
+    "One Step Closer",
+    "Crush Your Soul",
+    "The Difference"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/470342-cold-world-big-boy-one-step-closer-crush-your-soul-the-difference-the-belasco",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fsound-and-fury-presents-cold-world-los-angeles-california-08-14-2026%2Fevent%2F0900649BD283E633",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "18:00",
+   "venue": "The Belasco",
+   "address": "1050 South Hill Street, Los Angeles, CA 90015",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Soul / Funk"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 547,
+   "shortDesc": "Soul / Funk show at The Belasco · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Earlybirds Club",
+   "artists": [
+    "Earlybirds Club"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/475565-earlybirds-club-the-bellwether",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fearlybirds-club-camilles-at-the-bellwether-tickets%2F14195554",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "18:00",
+   "venue": "The Bellwether",
+   "address": "333 S. Boylston Street, Los Angeles, CA 90025",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 548,
+   "shortDesc": "Indie / Alt show at The Bellwether · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "TOTO + Christopher Cross + The Romantics",
+   "artists": [
+    "TOTO",
+    "Christopher Cross",
+    "The Romantics"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/468058-toto-christopher-cross-the-romantics-long-beach-amphitheater",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Ftoto-christopher-cross-the-romantics-long-beach-california-08-14-2026%2Fevent%2F0B006385C43A5001",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "18:45",
+   "venue": "Long Beach Amphitheater",
+   "address": "1051 Queens Highway, Long Beach, CA 90802",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 549,
+   "shortDesc": "Indie / Alt show at Long Beach Amphitheater · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
@@ -16257,7 +14232,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 629,
+   "id": 550,
    "shortDesc": "Indie / Alt show at Echoplex · All Ages — via Oh My Rockness"
   },
   {
@@ -16284,7 +14259,7 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 630,
+   "id": 551,
    "shortDesc": "Indie / Alt show at Gold-Diggers · 21+ — via Oh My Rockness"
   },
   {
@@ -16312,8 +14287,177 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 631,
+   "id": 552,
    "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Kinsey Lee + Valley Queen",
+   "artists": [
+    "Kinsey Lee",
+    "Valley Queen"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474469-kinsey-lee-valley-queen-oblivion",
+   "ticketUrl": "https://dice.fm/event/k6lv2q-kinsey-lee-valley-queen-14th-aug-oblivion-los-angeles-tickets",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "19:00",
+   "venue": "Oblivion ",
+   "address": "6118 N Figueroa St, Los Angeles, CA 90042",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 553,
+   "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Interpol + julie",
+   "artists": [
+    "Interpol",
+    "julie"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/470748-interpol-julie-santa-barbara-bowl",
+   "ticketUrl": "https://www.axs.com/events/1425585/interpol-tickets?skin=goldenvoice",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "19:00",
+   "venue": "Santa Barbara Bowl",
+   "address": "1122 N. Milpas Street, Santa Barbara, CA 93101",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 554,
+   "shortDesc": "Indie / Alt show at Santa Barbara Bowl · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Karol G",
+   "artists": [
+    "Karol G"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/469709-karol-g-sofi-stadium",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fkarol-g-viajando-por-el-mundo-inglewood-california-08-14-2026%2Fevent%2F0A0064904B5EEA09",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "19:00",
+   "venue": "SoFi Stadium",
+   "address": ", Inglewood, CA 90301",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 555,
+   "shortDesc": "Indie / Alt show at SoFi Stadium · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Iwrotehaikusaboutcannibalisminyouryearbook + Loma Prieta + Nuvolascura + Clay Birds",
+   "artists": [
+    "Iwrotehaikusaboutcannibalisminyouryearbook",
+    "Loma Prieta",
+    "Nuvolascura",
+    "Clay Birds"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474572-iwrotehaikusaboutcannibalisminyouryearbook-loma-prieta-nuvolascura-clay-birds-teragram-ballroom",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fiwrotehaikusaboutcannibalisminyouryearbook-los-angeles-california-08-14-2026%2Fevent%2F090064DD9AB0713F%3Fbrand%3Dteragram%26came_from%3DCFC_Teragram_web",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "19:00",
+   "venue": "Teragram Ballroom",
+   "address": "1234 West 7th Street, Los Angeles, CA 90017",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 556,
+   "shortDesc": "Indie / Alt show at Teragram Ballroom · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Goose",
+   "artists": [
+    "Goose"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/464170-goose-the-greek-theatre",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fan-evening-with-goose-los-angeles-california-08-14-2026%2Fevent%2F09006437A956DDFC",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "19:00",
+   "venue": "The Greek Theatre",
+   "address": "2700 North Vermont, in Griffith Park, Los Angeles, CA 90027",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 557,
+   "shortDesc": "Indie / Alt show at The Greek Theatre · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Star 69 + Wormwood Star + F.G.S.",
+   "artists": [
+    "Star 69",
+    "Wormwood Star",
+    "F.G.S."
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474019-star-69-wormwood-star-f-g-s-zebulon",
+   "ticketUrl": "https://dice.fm/event/eoxlo2-star-69-wormwood-star-fgs-dj-sandoval-14th-aug-zebulon-los-angeles-tickets",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "19:00",
+   "venue": "Zebulon",
+   "address": "2478 N Fletcher Drive, Los Angeles, CA 90039",
+   "isFree": true,
+   "priceText": "Free",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "21+",
+   "soldOut": false,
+   "id": 558,
+   "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
    "source": "lafunevents",
@@ -16340,7 +14484,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join Local Singles for a Singles Party at Long Beach Beer Lab (Wrigley).",
    "soldOut": false,
-   "id": 632,
+   "id": 559,
    "shortDesc": "Join Local Singles for a Singles Party at Long Beach Beer Lab (Wrigley). — via LA Fun Events"
   },
   {
@@ -16363,7 +14507,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Renowned flutist Sabina Shu-Chun Chiang, along with violist Shu-Ching Hsu, harpist Chao-Pei Chen, and pianist Shunwen Wu performing!",
    "soldOut": false,
-   "id": 633,
+   "id": 560,
    "shortDesc": "Renowned flutist Sabina Shu-Chun Chiang, along with violist Shu-Ching Hsu, harpist Chao-Pei Chen, and pianist… — via Eventbrite"
   },
   {
@@ -16390,7 +14534,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Avis Harrell brings powerful vocals and captivating stage presence bring together a beautiful blend of Jazz, R&B, Pop, Motown, and more...",
    "soldOut": false,
-   "id": 634,
+   "id": 561,
    "shortDesc": "Avis Harrell brings powerful vocals and captivating stage presence bring together a beautiful blend of Jazz… — via Eventbrite"
   },
   {
@@ -16413,7 +14557,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "An improv experience delving into ONE WORLD where everything is connected, shaping all scenes in hilarious and unpredictable ways!",
    "soldOut": false,
-   "id": 635,
+   "id": 562,
    "shortDesc": "An improv experience delving into ONE WORLD where everything is connected, shaping all scenes in hilarious… — via Eventbrite"
   },
   {
@@ -16436,8 +14580,94 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Village Well's monthly open mic night!",
    "soldOut": false,
-   "id": 636,
+   "id": 563,
    "shortDesc": "Village Well's monthly open mic night! — via Eventbrite"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Pocket Change",
+   "artists": [
+    "Pocket Change"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474907-pocket-change-one-colorado-courtyard",
+   "ticketUrl": "https://www.onecolorado.com/events/one-colorado-sunset-sessions/",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "19:30",
+   "venue": "One Colorado Courtyard",
+   "address": "24 East Union Street, Pasadena, CA 91103",
+   "isFree": true,
+   "priceText": "Free",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 564,
+   "shortDesc": "Indie / Alt show at One Colorado Courtyard · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Rushadicus",
+   "artists": [
+    "Rushadicus"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474011-rushadicus-scribble",
+   "ticketUrl": "https://dice.fm/event/g53gl5-rushadicus-album-release-show-14th-aug-scribble-los-angeles-tickets",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "19:30",
+   "venue": "Scribble",
+   "address": "5541 York Boulevard, Los Angeles,    90042",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 565,
+   "shortDesc": "Indie / Alt show at Scribble · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Gun Outfit + The Spatulas + Chronophage + Guiding Light + Semi Trucks + Muscle Beach",
+   "artists": [
+    "Gun Outfit",
+    "The Spatulas",
+    "Chronophage",
+    "Guiding Light",
+    "Semi Trucks",
+    "Muscle Beach"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/473828-gun-outfit-the-spatulas-chronophage-guiding-light-semi-trucks-muscle-beach-the-smell",
+   "ticketUrl": "https://www.thesmell.org/eventtickets/p/friday-august-14-2026",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "19:30",
+   "venue": "The Smell",
+   "address": "247 South Main Street, Los Angeles, CA 90012",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 566,
+   "shortDesc": "Indie / Alt show at The Smell · All Ages — via Oh My Rockness"
   },
   {
    "source": "eventbrite",
@@ -16459,7 +14689,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A boutique comedy show with hysterical comics, food + drink and free parking!",
    "soldOut": false,
-   "id": 637,
+   "id": 567,
    "shortDesc": "A boutique comedy show with hysterical comics, food + drink and free parking! — via Eventbrite"
   },
   {
@@ -16482,7 +14712,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Welcome to Mike Carlson’s magic kingdom of Improv Comedy!",
    "soldOut": false,
-   "id": 638,
+   "id": 568,
    "shortDesc": "Welcome to Mike Carlson’s magic kingdom of Improv Comedy! — via Eventbrite"
   },
   {
@@ -16509,7 +14739,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 639,
+   "id": 569,
    "shortDesc": "Indie / Alt show at 1720 · All Ages — via Oh My Rockness"
   },
   {
@@ -16537,7 +14767,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 640,
+   "id": 570,
    "shortDesc": "Indie / Alt show at Healing Force of the Universe · All Ages — via Oh My Rockness"
   },
   {
@@ -16565,7 +14795,7 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 641,
+   "id": 571,
    "shortDesc": "Indie / Alt show at Hollywood Bowl · All Ages — via Oh My Rockness"
   },
   {
@@ -16592,8 +14822,118 @@ window.EVENTS_DATA = {
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 642,
+   "id": 572,
    "shortDesc": "Indie / Alt show at Kia Forum · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Momma + Rocket + Dan English",
+   "artists": [
+    "Momma",
+    "Rocket",
+    "Dan English"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/470481-momma-rocket-dan-english-the-bellwether",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fmomma-los-angeles-california-08-14-2026%2Fevent%2F0900649CED2D20A4",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "20:00",
+   "venue": "The Bellwether",
+   "address": "333 S. Boylston Street, Los Angeles, CA 90025",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 573,
+   "shortDesc": "Indie / Alt show at The Bellwether · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Will Swinton",
+   "artists": [
+    "Will Swinton"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474241-will-swinton-the-echo",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fwill-swinton-will-swinton-live-los-angeles-california-08-14-2026%2Fevent%2F090064D1F3433CD6",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "20:00",
+   "venue": "The Echo",
+   "address": "1822 Sunset Blvd., Echo Park, CA 90026",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 574,
+   "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Just Surrender",
+   "artists": [
+    "Just Surrender"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/467652-just-surrender-the-roxy",
+   "ticketUrl": "https://www.axs.com/events/1364336/just-surrender-tickets",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "20:00",
+   "venue": "The Roxy",
+   "address": "9009 W Sunset Blvd, West Hollywood, CA 90069",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 575,
+   "shortDesc": "Indie / Alt show at The Roxy · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Krooked Kings",
+   "artists": [
+    "Krooked Kings"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/470935-krooked-kings-troubadour",
+   "ticketUrl": "https://wl.seetickets.us/event/krooked-kings/690539?afflky=TheTroubadour",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "20:00",
+   "venue": "Troubadour",
+   "address": "9081 Santa Monica Blvd., West Hollywood, CA 90069",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 576,
+   "shortDesc": "Indie / Alt show at Troubadour · All Ages — via Oh My Rockness"
   },
   {
    "source": "eventbrite",
@@ -16615,7 +14955,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A monthly stand up comedy show where we collect anonymous confessions from the audience, and the comedians work them into their act!",
    "soldOut": false,
-   "id": 643,
+   "id": 577,
    "shortDesc": "A monthly stand up comedy show where we collect anonymous confessions from the audience, and the comedians… — via Eventbrite"
   },
   {
@@ -16638,7 +14978,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "The Crow hosts a gay as f*ck comedy show, which is interrupted by a token straight.",
    "soldOut": false,
-   "id": 644,
+   "id": 578,
    "shortDesc": "The Crow hosts a gay as f*ck comedy show, which is interrupted by a token straight. — via Eventbrite"
   },
   {
@@ -16661,7 +15001,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Two original romantic comedies filled with secrets, shenanigans and slapstick!",
    "soldOut": false,
-   "id": 645,
+   "id": 579,
    "shortDesc": "Two original romantic comedies filled with secrets, shenanigans and slapstick! — via Eventbrite"
   },
   {
@@ -16684,7 +15024,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Grab a partner and dance the night away with other like minded couples. Ask about the afterparty!",
    "soldOut": false,
-   "id": 646,
+   "id": 580,
    "shortDesc": "Grab a partner and dance the night away with other like minded couples. Ask about the afterparty! — via Eventbrite"
   },
   {
@@ -16698,7 +15038,7 @@ window.EVENTS_DATA = {
     "Béton Armé",
     "Paranoiac"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/474994-warthog-home-front-beton-arme-paranoiac-first-street-billiards",
+   "url": "https://www.ohmyrockness.com/shows/474994-warthog-home-front-beton-arme-paranoiac-first-street-billiards",
    "ticketUrl": "https://lfg.soundandfury.la/e/warthog-081426/tickets",
    "imageUrl": null,
    "date": "2026-08-14",
@@ -16714,8 +15054,94 @@ window.EVENTS_DATA = {
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 647,
+   "id": 581,
    "shortDesc": "Indie / Alt show at First Street Billiards · 21+ — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Janelane + American Culture + Smere",
+   "artists": [
+    "Janelane",
+    "American Culture",
+    "Smere"
+   ],
+   "url": "https://www.ohmyrockness.com/shows/473819-janelane-american-culture-smere-permanent-records-roadhouse",
+   "ticketUrl": "https://app.opendate.io/e/janelane-american-culture-smere-august-14-2026-717484",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "21:00",
+   "venue": "Permanent Records Roadhouse",
+   "address": "1906 Cypress Ave, Los Angeles, CA 90065",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "21+",
+   "soldOut": false,
+   "id": 582,
+   "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "BossMan Dlow + Yung Mlami + Bally Baby",
+   "artists": [
+    "BossMan Dlow",
+    "Yung Mlami",
+    "Bally Baby"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/472346-bossman-dlow-yung-mlami-bally-baby-the-novo",
+   "ticketUrl": "https://www.axs.com/events/1464791/bossman-dlow-tickets?skin=goldenvoice",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "21:00",
+   "venue": "The Novo ",
+   "address": "800 West Olympic Blvd, Suite A335, Los Angeles, CA 90015",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 583,
+   "shortDesc": "Indie / Alt show at The Novo  · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Moodymann + DJ Rashida",
+   "artists": [
+    "Moodymann",
+    "DJ Rashida"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/476046-moodymann-dj-rashida-the-regent-theater",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fmoodymann-and-dj-rashida-play-prince-los-angeles-california-08-14-2026%2Fevent%2F090064BA38058214",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "21:00",
+   "venue": "The Regent Theater",
+   "address": "448 S. Main Street, Los Angeles, CA 90013",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "18+",
+   "soldOut": false,
+   "id": 584,
+   "shortDesc": "Indie / Alt show at The Regent Theater · 18+ — via Oh My Rockness"
   },
   {
    "source": "eventbrite",
@@ -16739,8 +15165,63 @@ window.EVENTS_DATA = {
    ],
    "description": "Prepárate para una noche llena de los mejores éxitos de Juan Gabriel con música en vivo que te hará cantar y bailar toda la noche.",
    "soldOut": false,
-   "id": 648,
+   "id": 585,
    "shortDesc": "Prepárate para una noche llena de los mejores éxitos de Juan Gabriel con música en vivo que te hará cantar y… — via Eventbrite"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Xkylar",
+   "artists": [
+    "Xkylar"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474446-xkylar-moroccan-lounge",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fxkylar-los-angeles-california-08-14-2026%2Fevent%2F090064C9C40E1A9D%3Fbrand%3Dmoroccan%26came_from%3DCFC_Moroccan_web",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "21:30",
+   "venue": "Moroccan Lounge",
+   "address": "901 E 1st Street, Los Angeles, CA 90012",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "18+",
+   "soldOut": false,
+   "id": 586,
+   "shortDesc": "Indie / Alt show at Moroccan Lounge · 18+ — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Ink & Dagger + Le Shok",
+   "artists": [
+    "Ink & Dagger",
+    "Le Shok"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474996-ink-dagger-le-shok-milky-s",
+   "ticketUrl": "https://lfg.soundandfury.la/e/ink-and-dagger-081426",
+   "imageUrl": null,
+   "date": "2026-08-14",
+   "time": "22:00",
+   "venue": "Milky's",
+   "address": "5240 Alhambra Avenue, Los Angeles, CA 90032",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 587,
+   "shortDesc": "Indie / Alt show at Milky's · All Ages — via Oh My Rockness"
   },
   {
    "source": "eventbrite",
@@ -16764,7 +15245,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Join us for the official book launch event for Priscilla's new guided journal. All poets welcome! Come ready to picnic, journal, and dance!",
    "soldOut": false,
-   "id": 649,
+   "id": 588,
    "shortDesc": "Join us for the official book launch event for Priscilla's new guided journal. All poets welcome! Come ready… — via Eventbrite"
   },
   {
@@ -16787,7 +15268,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A FREE collaborative community event that combines live entertainment, community networking, nonprofit resource exhibits, and opportunities",
    "soldOut": false,
-   "id": 650,
+   "id": 589,
    "shortDesc": "A FREE collaborative community event that combines live entertainment, community networking, nonprofit… — via Eventbrite"
   },
   {
@@ -16812,7 +15293,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Enjoy an afternoon filled with rich jazz vocals, unforgettable harmonies, and nostalgic melodies that celebrate the golden age of Hollywood.",
    "soldOut": false,
-   "id": 651,
+   "id": 590,
    "shortDesc": "Enjoy an afternoon filled with rich jazz vocals, unforgettable harmonies, and nostalgic melodies that… — via Eventbrite"
   },
   {
@@ -16837,7 +15318,7 @@ window.EVENTS_DATA = {
    ],
    "description": "CHRIS O'LEARY BAND - Blues Harmonica Master - in Arcadia!",
    "soldOut": false,
-   "id": 652,
+   "id": 591,
    "shortDesc": "CHRIS O'LEARY BAND - Blues Harmonica Master - in Arcadia! — via Eventbrite"
   },
   {
@@ -16860,7 +15341,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Get ready for laughs! This silly, high-energy show is fun for the whole family. Your kids will love it, and might even get to jump on stage!",
    "soldOut": false,
-   "id": 653,
+   "id": 592,
    "shortDesc": "Get ready for laughs! This silly, high-energy show is fun for the whole family. Your kids will love it, and… — via Eventbrite"
   },
   {
@@ -16886,7 +15367,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Chiggalicious performing live original rock music!",
    "soldOut": false,
-   "id": 654,
+   "id": 593,
    "shortDesc": "Chiggalicious performing live original rock music! — via Eventbrite"
   },
   {
@@ -16911,7 +15392,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Join Grammy® winning ensemble Opium Moon for a special concert and celebration for the release of their new album \"The Time Has Come\".",
    "soldOut": false,
-   "id": 655,
+   "id": 594,
    "shortDesc": "Join Grammy® winning ensemble Opium Moon for a special concert and celebration for the release of their new… — via Eventbrite"
   },
   {
@@ -16936,7 +15417,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Now in its 26th year, the Marina del Rey Summer Concert Series returns with exciting concerts at beautiful Burton Chace Park.",
    "soldOut": false,
-   "id": 656,
+   "id": 595,
    "shortDesc": "Now in its 26th year, the Marina del Rey Summer Concert Series returns with exciting concerts at beautiful… — via Eventbrite"
   },
   {
@@ -16961,7 +15442,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Get hyped for Stunna Girl Live in LA—Really Her bringing all-ages vibes and fire performances in person!",
    "soldOut": false,
-   "id": 657,
+   "id": 596,
    "shortDesc": "Get hyped for Stunna Girl Live in LA—Really Her bringing all-ages vibes and fire performances in person! — via Eventbrite"
   },
   {
@@ -16986,7 +15467,7 @@ window.EVENTS_DATA = {
    ],
    "description": "STUNNA GIRL LIVE IN CONCERT - LOS ANGELES @ DON QUIXOTE (ALL AGES 16+) 7PM",
    "soldOut": false,
-   "id": 658,
+   "id": 597,
    "shortDesc": "STUNNA GIRL LIVE IN CONCERT - LOS ANGELES @ DON QUIXOTE (ALL AGES 16+) 7PM — via Eventbrite"
   },
   {
@@ -17009,7 +15490,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "New sketch comedy/original songs written and performed by Critical Booby!",
    "soldOut": false,
-   "id": 659,
+   "id": 598,
    "shortDesc": "New sketch comedy/original songs written and performed by Critical Booby! — via Eventbrite"
   },
   {
@@ -17032,8 +15513,37 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "UCB's veteran team Cardinal Redbird and indie darling Nooni split the hour and your sides during this hilarious show!",
    "soldOut": false,
-   "id": 660,
+   "id": 599,
    "shortDesc": "UCB's veteran team Cardinal Redbird and indie darling Nooni split the hour and your sides during this… — via Eventbrite"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Chevy Metal + The Alive + The Anti Groupies",
+   "artists": [
+    "Chevy Metal",
+    "The Alive",
+    "The Anti Groupies"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/473616-chevy-metal-the-alive-the-anti-groupies-alex-s-bar",
+   "ticketUrl": "https://dice.fm/event/6dayq3-iron-nail-productions-alexs-bar-present-chevy-metal-the-alive-the-anti-groupies-15th-aug-alexs-bar-long-beach-tickets",
+   "imageUrl": null,
+   "date": "2026-08-15",
+   "time": "20:00",
+   "venue": "Alex's Bar",
+   "address": "2913 E. Anaheim St., Long Beach, CA 90804",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Metal"
+   ],
+   "description": "21+",
+   "soldOut": false,
+   "id": 600,
+   "shortDesc": "Metal show at Alex's Bar · 21+ — via Oh My Rockness"
   },
   {
    "source": "eventbrite",
@@ -17055,7 +15565,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "cab·a·ret at the crow (noun) Live theater with singers, magicians, drag & comics. Broadway show tunes meets stand-up comedy. A must-see!",
    "soldOut": false,
-   "id": 661,
+   "id": 601,
    "shortDesc": "cab·a·ret at the crow (noun) Live theater with singers, magicians, drag & comics. Broadway show tunes meets… — via Eventbrite"
   },
   {
@@ -17078,7 +15588,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Steak is an improv team that wants to explore all that improv has to offer. Each show will be a different form, opening, guests, etc.",
    "soldOut": false,
-   "id": 662,
+   "id": 602,
    "shortDesc": "Steak is an improv team that wants to explore all that improv has to offer. Each show will be a different… — via Eventbrite"
   },
   {
@@ -17103,7 +15613,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Now in its 26th year, the Marina del Rey Summer Concert Series returns with exciting concerts at beautiful Burton Chace Park.",
    "soldOut": false,
-   "id": 663,
+   "id": 603,
    "shortDesc": "Now in its 26th year, the Marina del Rey Summer Concert Series returns with exciting concerts at beautiful… — via Eventbrite"
   },
   {
@@ -17128,7 +15638,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Last Nite returns to L.A.",
    "soldOut": false,
-   "id": 664,
+   "id": 604,
    "shortDesc": "Last Nite returns to L.A. — via Eventbrite"
   },
   {
@@ -17153,7 +15663,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Come dressed in your best orange and white fit and enjoy: Delicious Ala Carte Brunch Menu Bottomless Mimosas Live Music & More",
    "soldOut": false,
-   "id": 665,
+   "id": 605,
    "shortDesc": "Come dressed in your best orange and white fit and enjoy: Delicious Ala Carte Brunch Menu Bottomless Mimosas… — via Eventbrite"
   },
   {
@@ -17178,7 +15688,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Come dressed in your best orange and white fit and enjoy: Delicious Ala Carte Brunch Menu Bottomless Mimosas Live Music & More",
    "soldOut": false,
-   "id": 666,
+   "id": 606,
    "shortDesc": "Come dressed in your best orange and white fit and enjoy: Delicious Ala Carte Brunch Menu Bottomless Mimosas… — via Eventbrite"
   },
   {
@@ -17201,7 +15711,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "All levels, immersive spoken word and poetry writing experience. Featured artists, guided workshop & community.",
    "soldOut": false,
-   "id": 667,
+   "id": 607,
    "shortDesc": "All levels, immersive spoken word and poetry writing experience. Featured artists, guided workshop &… — via Eventbrite"
   },
   {
@@ -17226,7 +15736,7 @@ window.EVENTS_DATA = {
    ],
    "description": "What to expect: A night full of fine women plus open mic karaoke, a bounce house, jumbo games, photo booth, bartender and a comedy set!",
    "soldOut": false,
-   "id": 668,
+   "id": 608,
    "shortDesc": "What to expect: A night full of fine women plus open mic karaoke, a bounce house, jumbo games, photo booth… — via Eventbrite"
   },
   {
@@ -17249,7 +15759,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us Sunday, August 16, at the historic Saban Theatre for the Red Carpet Premiere of Frequency and an intimate Q&A with Dr Joe Dispenza.",
    "soldOut": false,
-   "id": 669,
+   "id": 609,
    "shortDesc": "Join us Sunday, August 16, at the historic Saban Theatre for the Red Carpet Premiere of Frequency and an… — via Eventbrite"
   },
   {
@@ -17277,7 +15787,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Speed Dating is back! Join 60 singles at Der Wolf for the most efficient speed dating in Pasadena!",
    "soldOut": false,
-   "id": 670,
+   "id": 610,
    "shortDesc": "Speed Dating is back! Join 60 singles at Der Wolf for the most efficient speed dating in Pasadena! — via LA Fun Events"
   },
   {
@@ -17300,7 +15810,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Hey Los Angeles fam!",
    "soldOut": false,
-   "id": 671,
+   "id": 611,
    "shortDesc": "Hey Los Angeles fam! — via Eventbrite"
   },
   {
@@ -17323,7 +15833,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Come witness the first transmission of We've All Been There live at The Broadwater Main Stage.",
    "soldOut": false,
-   "id": 672,
+   "id": 612,
    "shortDesc": "Come witness the first transmission of We've All Been There live at The Broadwater Main Stage. — via Eventbrite"
   },
   {
@@ -17346,7 +15856,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Come see 2 of our hilarious Sketch Comedy teams do 2 funny shows!",
    "soldOut": false,
-   "id": 673,
+   "id": 613,
    "shortDesc": "Come see 2 of our hilarious Sketch Comedy teams do 2 funny shows! — via Eventbrite"
   },
   {
@@ -17369,7 +15879,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A NEW KARAOKE MUSICAL AT EL CONDOR RESTAURANT",
    "soldOut": false,
-   "id": 674,
+   "id": 614,
    "shortDesc": "A NEW KARAOKE MUSICAL AT EL CONDOR RESTAURANT — via Eventbrite"
   },
   {
@@ -17392,7 +15902,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A comedy and storytelling community for women with open mic, hosted by Tergel Purevdorj and Amy Jin. Stories. Community. Connection.",
    "soldOut": false,
-   "id": 675,
+   "id": 615,
    "shortDesc": "A comedy and storytelling community for women with open mic, hosted by Tergel Purevdorj and Amy Jin. Stories… — via Eventbrite"
   },
   {
@@ -17415,7 +15925,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Catch the laughs as The Group Rep brings Neil Simon’s classic comedy, The Sunshine Boys, to life in a staged reading fundraiser.",
    "soldOut": false,
-   "id": 676,
+   "id": 616,
    "shortDesc": "Catch the laughs as The Group Rep brings Neil Simon’s classic comedy, The Sunshine Boys, to life in a staged… — via Eventbrite"
   },
   {
@@ -17438,7 +15948,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "The hottest comedy show in Hollywood!",
    "soldOut": false,
-   "id": 677,
+   "id": 617,
    "shortDesc": "The hottest comedy show in Hollywood! — via Eventbrite"
   },
   {
@@ -17461,7 +15971,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "LOS ANGELES ENTERTAINMENT INDUSTRY NETWORKING EVENT. You Have To Get Tickets Here Online In Advance. Tickets Not Available At Venue Door",
    "soldOut": false,
-   "id": 678,
+   "id": 618,
    "shortDesc": "LOS ANGELES ENTERTAINMENT INDUSTRY NETWORKING EVENT. You Have To Get Tickets Here Online In Advance. Tickets… — via Eventbrite"
   },
   {
@@ -17484,7 +15994,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Step back to the roaring '20s for a night of mystery, murder and cocktails at the Hollywood Murder Speakeasy!",
    "soldOut": false,
-   "id": 679,
+   "id": 619,
    "shortDesc": "Step back to the roaring '20s for a night of mystery, murder and cocktails at the Hollywood Murder Speakeasy! — via Eventbrite"
   },
   {
@@ -17512,7 +16022,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join 100+ Local Singles for a Singles Party in Pasadena.",
    "soldOut": false,
-   "id": 680,
+   "id": 620,
    "shortDesc": "Join 100+ Local Singles for a Singles Party in Pasadena. — via LA Fun Events"
   },
   {
@@ -17535,7 +16045,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A new monthly film screening series, to be held on the third Wednesday of every month, in the beautiful 300-seat Barnsdall Gallery Theatre.",
    "soldOut": false,
-   "id": 681,
+   "id": 621,
    "shortDesc": "A new monthly film screening series, to be held on the third Wednesday of every month, in the beautiful… — via Eventbrite"
   },
   {
@@ -17558,7 +16068,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Hop on stage at Open Mic Night and show off your talent in a fun, chill crowd!",
    "soldOut": false,
-   "id": 682,
+   "id": 622,
    "shortDesc": "Hop on stage at Open Mic Night and show off your talent in a fun, chill crowd! — via Eventbrite"
   },
   {
@@ -17581,7 +16091,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Welcome to The Nest, an open and supportive community for artists to step center stage, express themselves and share their art!",
    "soldOut": false,
-   "id": 683,
+   "id": 623,
    "shortDesc": "Welcome to The Nest, an open and supportive community for artists to step center stage, express themselves… — via Eventbrite"
   },
   {
@@ -17604,7 +16114,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "The stars are out tonight at the World Famous Laugh Factory. ✨ Roll out the red carpet for comedy’s #1 All Stars, it's all in the name.",
    "soldOut": false,
-   "id": 684,
+   "id": 624,
    "shortDesc": "The stars are out tonight at the World Famous Laugh Factory. ✨ Roll out the red carpet for comedy’s #1 All… — via Eventbrite"
   },
   {
@@ -17629,7 +16139,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Closing out the summer season with one of Visionarium’s most loved jazz acts—RC & Noir return once again for an unforgettable evening",
    "soldOut": false,
-   "id": 685,
+   "id": 625,
    "shortDesc": "Closing out the summer season with one of Visionarium’s most loved jazz acts—RC & Noir return once again for… — via Eventbrite"
   },
   {
@@ -17652,7 +16162,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "An open-mic in West LA by women, for women.",
    "soldOut": false,
-   "id": 686,
+   "id": 626,
    "shortDesc": "An open-mic in West LA by women, for women. — via Eventbrite"
   },
   {
@@ -17675,7 +16185,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Enjoy a FREE poetry workshop on vintage typewriters followed by an open mic, live music and giveaways – Tequila provided by Lealia Tequila",
    "soldOut": false,
-   "id": 687,
+   "id": 627,
    "shortDesc": "Enjoy a FREE poetry workshop on vintage typewriters followed by an open mic, live music and giveaways –… — via Eventbrite"
   },
   {
@@ -17698,7 +16208,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A monthly standup show featuring the best comics from around the country with surprise drop-ins!",
    "soldOut": false,
-   "id": 688,
+   "id": 628,
    "shortDesc": "A monthly standup show featuring the best comics from around the country with surprise drop-ins! — via Eventbrite"
   },
   {
@@ -17721,7 +16231,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "MoviePass writes, directs, and stars in a TOTALLY new (Oscar-worthy) fully improvised movie each show just for you based on your suggestion!",
    "soldOut": false,
-   "id": 689,
+   "id": 629,
    "shortDesc": "MoviePass writes, directs, and stars in a TOTALLY new (Oscar-worthy) fully improvised movie each show just… — via Eventbrite"
   },
   {
@@ -17744,7 +16254,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A monthly comedy show by girlies for girlies featuring (mostly) girlies.",
    "soldOut": false,
-   "id": 690,
+   "id": 630,
    "shortDesc": "A monthly comedy show by girlies for girlies featuring (mostly) girlies. — via Eventbrite"
   },
   {
@@ -17767,7 +16277,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "(This is a FILM Department Tour. Please check other dates for Theater Department Tours.)",
    "soldOut": false,
-   "id": 691,
+   "id": 631,
    "shortDesc": "(This is a FILM Department Tour. Please check other dates for Theater Department Tours.) — via Eventbrite"
   },
   {
@@ -17790,7 +16300,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "We write the jokes, you get the laughs!",
    "soldOut": false,
-   "id": 692,
+   "id": 632,
    "shortDesc": "We write the jokes, you get the laughs! — via Eventbrite"
   },
   {
@@ -17813,7 +16323,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": ": A murder mystery completely made up on the spot.",
    "soldOut": false,
-   "id": 693,
+   "id": 633,
    "shortDesc": ": A murder mystery completely made up on the spot. — via Eventbrite"
   },
   {
@@ -17836,7 +16346,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "",
    "soldOut": false,
-   "id": 694,
+   "id": 634,
    "shortDesc": "Screening at LOOK Dine-In Cinemas, Glendale - Theater 8 — via Eventbrite"
   },
   {
@@ -17859,7 +16369,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "An comedy show inspired by an influential guest! Past guests, director include Curry Barker and Cooper Tomlinson from Obsession.",
    "soldOut": false,
-   "id": 695,
+   "id": 635,
    "shortDesc": "An comedy show inspired by an influential guest! Past guests, director include Curry Barker and Cooper… — via Eventbrite"
   },
   {
@@ -17882,7 +16392,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Come check out Glendale Room's newest comedy show Take Off Comedy on April 17th! Featuring some of the best comedians from Netflix & HBO",
    "soldOut": false,
-   "id": 696,
+   "id": 636,
    "shortDesc": "Come check out Glendale Room's newest comedy show Take Off Comedy on April 17th! Featuring some of the best… — via Eventbrite"
   },
   {
@@ -17905,7 +16415,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Laugh for a Good Cause at LA's newest comedy benefit show! Want something fun to do solo? Night with friends? Date night? Look no further!",
    "soldOut": false,
-   "id": 697,
+   "id": 637,
    "shortDesc": "Laugh for a Good Cause at LA's newest comedy benefit show! Want something fun to do solo? Night with friends?… — via Eventbrite"
   },
   {
@@ -17928,7 +16438,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "2 Dog Minimum is the first standup comedy show for the dogs! Comics performing with their dogs.",
    "soldOut": false,
-   "id": 698,
+   "id": 638,
    "shortDesc": "2 Dog Minimum is the first standup comedy show for the dogs! Comics performing with their dogs. — via Eventbrite"
   },
   {
@@ -17951,7 +16461,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Get your Mambo fix every 3rd Friday at Mambito!",
    "soldOut": false,
-   "id": 699,
+   "id": 639,
    "shortDesc": "Get your Mambo fix every 3rd Friday at Mambito! — via Eventbrite"
   },
   {
@@ -17974,7 +16484,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Awaken your frequency at INSIGHT Psychedelic Music Festival! ✨ Aug 21-22 in LA. 3 stages, 24 artists, Expo & community. Get tix now!",
    "soldOut": false,
-   "id": 700,
+   "id": 640,
    "shortDesc": "Awaken your frequency at INSIGHT Psychedelic Music Festival! ✨ Aug 21-22 in LA. 3 stages, 24 artists, Expo &… — via Eventbrite"
   },
   {
@@ -17997,7 +16507,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "GO is an improvisational dance system created and taught by Rosanna Gamson for all bodies. Come to a safe space for discovery and growth.",
    "soldOut": false,
-   "id": 701,
+   "id": 641,
    "shortDesc": "GO is an improvisational dance system created and taught by Rosanna Gamson for all bodies. Come to a safe… — via Eventbrite"
   },
   {
@@ -18020,7 +16530,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "This experience is an interactive celebration of faith, community and worship.",
    "soldOut": false,
-   "id": 702,
+   "id": 642,
    "shortDesc": "This experience is an interactive celebration of faith, community and worship. — via Eventbrite"
   },
   {
@@ -18043,7 +16553,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Free Concert in LA: Lisa LIsa, Debbie Deb, Rockell, Nocera, Timmy T & MORE! Saturday, August 22nd at Pershing Square!",
    "soldOut": false,
-   "id": 703,
+   "id": 643,
    "shortDesc": "Free Concert in LA: Lisa LIsa, Debbie Deb, Rockell, Nocera, Timmy T & MORE! Saturday, August 22nd at Pershing… — via Eventbrite"
   },
   {
@@ -18066,7 +16576,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join Radio Royalty at Pan American Park on Saturday, Aug. 22, 4–7 PM for a FREE concert featuring your favorite 80s, 90s & 2000s hits!",
    "soldOut": false,
-   "id": 704,
+   "id": 644,
    "shortDesc": "Join Radio Royalty at Pan American Park on Saturday, Aug. 22, 4–7 PM for a FREE concert featuring your… — via Eventbrite"
   },
   {
@@ -18089,7 +16599,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Celebrating Diversity, Inclusion, and Excellence in Media, Fashion, and the Arts.",
    "soldOut": false,
-   "id": 705,
+   "id": 645,
    "shortDesc": "Celebrating Diversity, Inclusion, and Excellence in Media, Fashion, and the Arts. — via Eventbrite"
   },
   {
@@ -18115,7 +16625,7 @@ window.EVENTS_DATA = {
    ],
    "description": "ARTUR MENEZES - Famed Blues-Rock Guitarist - in Arcadia!",
    "soldOut": false,
-   "id": 706,
+   "id": 646,
    "shortDesc": "ARTUR MENEZES - Famed Blues-Rock Guitarist - in Arcadia! — via Eventbrite"
   },
   {
@@ -18138,7 +16648,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "",
    "soldOut": false,
-   "id": 707,
+   "id": 647,
    "shortDesc": "Dinner at LOOK Dine-In Cinemas, Glendale - Theater 9 — via Eventbrite"
   },
   {
@@ -18161,7 +16671,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Acclaimed poets read from their most recent work.",
    "soldOut": false,
-   "id": 708,
+   "id": 648,
    "shortDesc": "Acclaimed poets read from their most recent work. — via Eventbrite"
   },
   {
@@ -18184,7 +16694,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Pack a picnic with friends/family and enjoy an enchanting evening of orchestral music under the stars at Bellflower Caruthers Park!",
    "soldOut": false,
-   "id": 709,
+   "id": 649,
    "shortDesc": "Pack a picnic with friends/family and enjoy an enchanting evening of orchestral music under the stars at… — via Eventbrite"
   },
   {
@@ -18207,7 +16717,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "APAC Presents: Matt Barber performs Sinatra & Friends live. Free with RSVP, optional donation, plus appetizers and beverages.",
    "soldOut": false,
-   "id": 710,
+   "id": 650,
    "shortDesc": "APAC Presents: Matt Barber performs Sinatra & Friends live. Free with RSVP, optional donation, plus… — via Eventbrite"
   },
   {
@@ -18230,7 +16740,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "After nearly a decade away, United Pursuits returns for a handful of shows in Southern California.",
    "soldOut": false,
-   "id": 711,
+   "id": 651,
    "shortDesc": "After nearly a decade away, United Pursuits returns for a handful of shows in Southern California. — via Eventbrite"
   },
   {
@@ -18256,7 +16766,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Get ready for a magical night of live tunes and good vibes at the Witch Jam Concert Series 2026!",
    "soldOut": false,
-   "id": 712,
+   "id": 652,
    "shortDesc": "Get ready for a magical night of live tunes and good vibes at the Witch Jam Concert Series 2026! — via Eventbrite"
   },
   {
@@ -18284,7 +16794,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Sunday Speed Dating with coffee! Join 40+ singles at Namiko Studio Cafe",
    "soldOut": false,
-   "id": 713,
+   "id": 653,
    "shortDesc": "Sunday Speed Dating with coffee! Join 40+ singles at Namiko Studio Cafe — via LA Fun Events"
   },
   {
@@ -18307,7 +16817,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "",
    "soldOut": false,
-   "id": 714,
+   "id": 654,
    "shortDesc": "Screening at LOOK Dine-In Cinemas, Glendale - Theater 10 — via Eventbrite"
   },
   {
@@ -18332,7 +16842,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Sapphic Disco is a Queer/Lesbian/Sapphic-based club. Priority is to cultivate a positive, loving, and inclusive environment through dance.",
    "soldOut": false,
-   "id": 715,
+   "id": 655,
    "shortDesc": "Sapphic Disco is a Queer/Lesbian/Sapphic-based club. Priority is to cultivate a positive, loving, and… — via Eventbrite"
   },
   {
@@ -18355,7 +16865,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Get ready to celebrate 100 years of Ballet Russe magic with stunning performances and timeless dancing from the Pacific Ballet Theatre.",
    "soldOut": false,
-   "id": 716,
+   "id": 656,
    "shortDesc": "Get ready to celebrate 100 years of Ballet Russe magic with stunning performances and timeless dancing from… — via Eventbrite"
   },
   {
@@ -18378,7 +16888,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Hey Los Angeles fam!",
    "soldOut": false,
-   "id": 717,
+   "id": 657,
    "shortDesc": "Hey Los Angeles fam! — via Eventbrite"
   },
   {
@@ -18401,7 +16911,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Two-time Emmy winner and longtime Conan writer Brian Kiley headlines the San Gabriel Valley Comedy Festival in Arcadia on August 23, 2026.",
    "soldOut": false,
-   "id": 718,
+   "id": 658,
    "shortDesc": "Two-time Emmy winner and longtime Conan writer Brian Kiley headlines the San Gabriel Valley Comedy Festival… — via Eventbrite"
   },
   {
@@ -18424,7 +16934,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Nationally touring comedian Tony Vinh brings his uniquely Asian American perspective to the San Gabriel Valley Comedy Festival 2026.",
    "soldOut": false,
-   "id": 719,
+   "id": 659,
    "shortDesc": "Nationally touring comedian Tony Vinh brings his uniquely Asian American perspective to the San Gabriel… — via Eventbrite"
   },
   {
@@ -18447,7 +16957,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "From Conan, Colbert, Comedy Central, and Adult Swim, Ahmed Bharoocha brings his sharp, hilarious stand-up to the SGV Comedy Fest in Arcadia.",
    "soldOut": false,
-   "id": 720,
+   "id": 660,
    "shortDesc": "From Conan, Colbert, Comedy Central, and Adult Swim, Ahmed Bharoocha brings his sharp, hilarious stand-up to… — via Eventbrite"
   },
   {
@@ -18470,7 +16980,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "From Netflix's The Standups and BoJack Horseman, Aparna Nancherla brings her acclaimed comedy to Arcadia, California.",
    "soldOut": false,
-   "id": 721,
+   "id": 661,
    "shortDesc": "From Netflix's The Standups and BoJack Horseman, Aparna Nancherla brings her acclaimed comedy to Arcadia… — via Eventbrite"
   },
   {
@@ -18493,7 +17003,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "2025 San Gabriel Valley Comedy Festival Audience Award winner Alex Durazzo returns to Arcadia as a headliner.",
    "soldOut": false,
-   "id": 722,
+   "id": 662,
    "shortDesc": "2025 San Gabriel Valley Comedy Festival Audience Award winner Alex Durazzo returns to Arcadia as a headliner. — via Eventbrite"
   },
   {
@@ -18516,7 +17026,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "The stars are out tonight at the World Famous Laugh Factory. ✨ Roll out the red carpet for comedy’s #1 All Stars, it's all in the name.",
    "soldOut": false,
-   "id": 723,
+   "id": 663,
    "shortDesc": "The stars are out tonight at the World Famous Laugh Factory. ✨ Roll out the red carpet for comedy’s #1 All… — via Eventbrite"
   },
   {
@@ -18539,7 +17049,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A monthly live stand-up comedy show featuring LA's finest and funniest set between the stacks of Culver City's coziest bookstore",
    "soldOut": false,
-   "id": 724,
+   "id": 664,
    "shortDesc": "A monthly live stand-up comedy show featuring LA's finest and funniest set between the stacks of Culver… — via Eventbrite"
   },
   {
@@ -18562,7 +17072,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A mashup of comics hosted by Maggie Hyde!",
    "soldOut": false,
-   "id": 725,
+   "id": 665,
    "shortDesc": "A mashup of comics hosted by Maggie Hyde! — via Eventbrite"
   },
   {
@@ -18585,7 +17095,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Comedy Mayhem is a new monthly showcase bringing together the city’s most exciting stars! Elite lineups. Big names. Intimate room.",
    "soldOut": false,
-   "id": 726,
+   "id": 666,
    "shortDesc": "Comedy Mayhem is a new monthly showcase bringing together the city’s most exciting stars! Elite lineups. Big… — via Eventbrite"
   },
   {
@@ -18610,7 +17120,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Join us for an unforgettable evening of live music, authentic Italian food, handcrafted drinks, and an international musical experience!",
    "soldOut": false,
-   "id": 727,
+   "id": 667,
    "shortDesc": "Join us for an unforgettable evening of live music, authentic Italian food, handcrafted drinks, and an… — via Eventbrite"
   },
   {
@@ -18633,7 +17143,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us for an unforgettable evening under the stars!",
    "soldOut": false,
-   "id": 728,
+   "id": 668,
    "shortDesc": "Join us for an unforgettable evening under the stars! — via Eventbrite"
   },
   {
@@ -18658,7 +17168,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Catch the Daniel Paik Trio live for a night of smooth jazz vibes and killer tunes!",
    "soldOut": false,
-   "id": 729,
+   "id": 669,
    "shortDesc": "Catch the Daniel Paik Trio live for a night of smooth jazz vibes and killer tunes! — via Eventbrite"
   },
   {
@@ -18681,7 +17191,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Romeo and Juliet.... but gay! Come see Shakespeare's most staged production in a new form-- a site-specific, immersive, queer adaptation.",
    "soldOut": false,
-   "id": 730,
+   "id": 670,
    "shortDesc": "Romeo and Juliet.... but gay! Come see Shakespeare's most staged production in a new form-- a site-specific… — via Eventbrite"
   },
   {
@@ -18704,7 +17214,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "LA's Only* College Comedy Show! Featuring 4 college comics and 4 pro comics.",
    "soldOut": false,
-   "id": 731,
+   "id": 671,
    "shortDesc": "LA's Only* College Comedy Show! Featuring 4 college comics and 4 pro comics. — via Eventbrite"
   },
   {
@@ -18727,7 +17237,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A choreo-performance experiment that lives somewhere between personal agency and collective will.",
    "soldOut": false,
-   "id": 732,
+   "id": 672,
    "shortDesc": "A choreo-performance experiment that lives somewhere between personal agency and collective will. — via Eventbrite"
   },
   {
@@ -18750,7 +17260,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Perfect for beginners, this hands-on class introduces the fundamentals of linoleum block printing!",
    "soldOut": false,
-   "id": 733,
+   "id": 673,
    "shortDesc": "Perfect for beginners, this hands-on class introduces the fundamentals of linoleum block printing! — via Eventbrite"
   },
   {
@@ -18775,7 +17285,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 734,
+   "id": 674,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -18801,7 +17311,7 @@ window.EVENTS_DATA = {
    ],
    "description": "ALBERT CASTIGLIA - BLUES ROCK GREAT - IN ARCADIA",
    "soldOut": false,
-   "id": 735,
+   "id": 675,
    "shortDesc": "ALBERT CASTIGLIA - BLUES ROCK GREAT - IN ARCADIA — via Eventbrite"
   },
   {
@@ -18824,7 +17334,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "We were recognized as the best open mic in the nation. Don't miss this show hosted by Mason Granger in LA! wanpoetry.com",
    "soldOut": false,
-   "id": 736,
+   "id": 676,
    "shortDesc": "We were recognized as the best open mic in the nation. Don't miss this show hosted by Mason Granger in LA!… — via Eventbrite"
   },
   {
@@ -18847,7 +17357,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Brian Stone conducts The Westside Chamber Orchestra at St. Paul's Lutheran Church, Santa Monica. Free admission.",
    "soldOut": false,
-   "id": 737,
+   "id": 677,
    "shortDesc": "Brian Stone conducts The Westside Chamber Orchestra at St. Paul's Lutheran Church, Santa Monica. Free… — via Eventbrite"
   },
   {
@@ -18872,7 +17382,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Join us for an evening of music with Clinamen and the Intelligence (solo)!",
    "soldOut": false,
-   "id": 738,
+   "id": 678,
    "shortDesc": "Join us for an evening of music with Clinamen and the Intelligence (solo)! — via Eventbrite"
   },
   {
@@ -18895,7 +17405,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Get ready to vibe with epic moves and wild stories at the LEGENDS & LORE ADULT DANCE SHOW—live and hype!",
    "soldOut": false,
-   "id": 739,
+   "id": 679,
    "shortDesc": "Get ready to vibe with epic moves and wild stories at the LEGENDS & LORE ADULT DANCE SHOW—live and hype! — via Eventbrite"
   },
   {
@@ -18920,7 +17430,7 @@ window.EVENTS_DATA = {
    ],
    "description": "03 Greedo takes over the historic Globe Theatre in DTLA on August 29 for the biggest hip hop concert of the year with more artists TBA.",
    "soldOut": false,
-   "id": 740,
+   "id": 680,
    "shortDesc": "03 Greedo takes over the historic Globe Theatre in DTLA on August 29 for the biggest hip hop concert of the… — via Eventbrite"
   },
   {
@@ -18945,7 +17455,7 @@ window.EVENTS_DATA = {
    ],
    "description": "UNDRGRND PRESENTS: 03 GREEDO - LIVE PERFORMANCE - GLOBE THEATRE 18+",
    "soldOut": false,
-   "id": 741,
+   "id": 681,
    "shortDesc": "UNDRGRND PRESENTS: 03 GREEDO - LIVE PERFORMANCE - GLOBE THEATRE 18+ — via Eventbrite"
   },
   {
@@ -18970,7 +17480,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Get ready to jam with Shybully live at The JAXX Theatre",
    "soldOut": false,
-   "id": 742,
+   "id": 682,
    "shortDesc": "Get ready to jam with Shybully live at The JAXX Theatre — via Eventbrite"
   },
   {
@@ -18995,7 +17505,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Step into a magical world of music, dancing, and family fun - a fairy tale-themed family club experience that is fun for the WHOLE FAMILY!",
    "soldOut": false,
-   "id": 743,
+   "id": 683,
    "shortDesc": "Step into a magical world of music, dancing, and family fun - a fairy tale-themed family club experience that… — via Eventbrite"
   },
   {
@@ -19018,7 +17528,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us for a panel exploring the role that record collections play in capturing these everyday rituals of musical fandom.",
    "soldOut": false,
-   "id": 744,
+   "id": 684,
    "shortDesc": "Join us for a panel exploring the role that record collections play in capturing these everyday rituals of… — via Eventbrite"
   },
   {
@@ -19043,7 +17553,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Discover emerging artists, live performances, and the future of music and culture in Los Angeles.",
    "soldOut": false,
-   "id": 745,
+   "id": 685,
    "shortDesc": "Discover emerging artists, live performances, and the future of music and culture in Los Angeles. — via Eventbrite"
   },
   {
@@ -19066,7 +17576,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Hey Los Angeles fam!",
    "soldOut": false,
-   "id": 746,
+   "id": 686,
    "shortDesc": "Hey Los Angeles fam! — via Eventbrite"
   },
   {
@@ -19091,7 +17601,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Join us for an evening of music in the PRS library with Lina Tullgren, Frances Chang and Dustin Wong!",
    "soldOut": false,
-   "id": 747,
+   "id": 687,
    "shortDesc": "Join us for an evening of music in the PRS library with Lina Tullgren, Frances Chang and Dustin Wong! — via Eventbrite"
   },
   {
@@ -19114,7 +17624,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Where Filipino Storytelling Meets Hollywood’s Global Stage!",
    "soldOut": false,
-   "id": 748,
+   "id": 688,
    "shortDesc": "Where Filipino Storytelling Meets Hollywood’s Global Stage! — via Eventbrite"
   },
   {
@@ -19137,7 +17647,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Experience a private, pre-concert performance, Q&A and Meet and Greet with Roger Clyne & The Peacemakers. All sales final.",
    "soldOut": false,
-   "id": 749,
+   "id": 689,
    "shortDesc": "Experience a private, pre-concert performance, Q&A and Meet and Greet with Roger Clyne & The Peacemakers. All… — via Eventbrite"
   },
   {
@@ -19162,7 +17672,7 @@ window.EVENTS_DATA = {
    ],
    "description": "This popstar is back on stage opening at the Whisky a Go Go!! Can't wait to dance my little heart out with you guys!",
    "soldOut": false,
-   "id": 750,
+   "id": 690,
    "shortDesc": "This popstar is back on stage opening at the Whisky a Go Go!! Can't wait to dance my little heart out with… — via Eventbrite"
   },
   {
@@ -19185,7 +17695,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Laugh with LA's best up-and-coming comedians! Featuring viral talent from TikTok, and credits from Netflix, Comedy Central, HBO, and more!",
    "soldOut": false,
-   "id": 751,
+   "id": 691,
    "shortDesc": "Laugh with LA's best up-and-coming comedians! Featuring viral talent from TikTok, and credits from Netflix… — via Eventbrite"
   },
   {
@@ -19208,7 +17718,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Looking for something to do on Saturday afternoon in SUMMER of 2026??? Join us for Walking Tour of Theatre Arts District on Hollywood Blvd!",
    "soldOut": false,
-   "id": 752,
+   "id": 692,
    "shortDesc": "Looking for something to do on Saturday afternoon in SUMMER of 2026??? Join us for Walking Tour of Theatre… — via Eventbrite"
   },
   {
@@ -19233,7 +17743,7 @@ window.EVENTS_DATA = {
    ],
    "description": "MARK HUMMEL, ANSON FUNDERBURGH & JUNIOR WATSON - 3 Blues Legends - Arcadia!",
    "soldOut": false,
-   "id": 753,
+   "id": 693,
    "shortDesc": "MARK HUMMEL, ANSON FUNDERBURGH & JUNIOR WATSON - 3 Blues Legends - Arcadia! — via Eventbrite"
   },
   {
@@ -19256,7 +17766,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "LGBTQ+ comedy legends and red-hot rising stars share the stage in this stand-up show full of laughter and queer joy hosted by Justin Matson.",
    "soldOut": false,
-   "id": 754,
+   "id": 694,
    "shortDesc": "LGBTQ+ comedy legends and red-hot rising stars share the stage in this stand-up show full of laughter and… — via Eventbrite"
   },
   {
@@ -19279,7 +17789,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Sketch comedy from one of our favorite teams, Pregame!",
    "soldOut": false,
-   "id": 755,
+   "id": 695,
    "shortDesc": "Sketch comedy from one of our favorite teams, Pregame! — via Eventbrite"
   },
   {
@@ -19306,7 +17816,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Afrobeats Day Party ( Beverly Hills ) LABOR DAY WEEKEND",
    "soldOut": false,
-   "id": 756,
+   "id": 696,
    "shortDesc": "Afrobeats Day Party ( Beverly Hills ) LABOR DAY WEEKEND — via Eventbrite"
   },
   {
@@ -19331,7 +17841,7 @@ window.EVENTS_DATA = {
    ],
    "description": "A solo organ performance by Sarah Davachi featuring music from her new album \"The Will of Tongues\"",
    "soldOut": false,
-   "id": 757,
+   "id": 697,
    "shortDesc": "A solo organ performance by Sarah Davachi featuring music from her new album \"The Will of Tongues\" — via Eventbrite"
   },
   {
@@ -19354,7 +17864,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Improv comedy based on your terrible month featuring some of the best comedians in Los Angeles",
    "soldOut": false,
-   "id": 758,
+   "id": 698,
    "shortDesc": "Improv comedy based on your terrible month featuring some of the best comedians in Los Angeles — via Eventbrite"
   },
   {
@@ -19379,7 +17889,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Glee: The Dance Party",
    "soldOut": false,
-   "id": 759,
+   "id": 699,
    "shortDesc": "Glee: The Dance Party — via Eventbrite"
   },
   {
@@ -19404,7 +17914,7 @@ window.EVENTS_DATA = {
    ],
    "description": "KIRK FLETCHER - MODERN DAY BLUES GUITAR MASTER - in Arcadia!",
    "soldOut": false,
-   "id": 760,
+   "id": 700,
    "shortDesc": "KIRK FLETCHER - MODERN DAY BLUES GUITAR MASTER - in Arcadia! — via Eventbrite"
   },
   {
@@ -19427,7 +17937,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Four infamous Hollywood murder cases. Four craft cocktails. One unforgettable immersive experience.",
    "soldOut": false,
-   "id": 761,
+   "id": 701,
    "shortDesc": "Four infamous Hollywood murder cases. Four craft cocktails. One unforgettable immersive experience. — via Eventbrite"
   },
   {
@@ -19452,7 +17962,7 @@ window.EVENTS_DATA = {
    ],
    "description": "¡Prepárate para la fiesta más perreante de LOS ANGELES! Mexican Independence Weekend!",
    "soldOut": false,
-   "id": 762,
+   "id": 702,
    "shortDesc": "¡Prepárate para la fiesta más perreante de LOS ANGELES! Mexican Independence Weekend! — via Eventbrite"
   },
   {
@@ -19475,7 +17985,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Palabras Literary Salon celebrates BIPOC poets + writers for intercultural community building.",
    "soldOut": false,
-   "id": 763,
+   "id": 703,
    "shortDesc": "Palabras Literary Salon celebrates BIPOC poets + writers for intercultural community building. — via Eventbrite"
   },
   {
@@ -19500,7 +18010,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Want 50% off these TICKETS text 323-377-5291",
    "soldOut": false,
-   "id": 764,
+   "id": 704,
    "shortDesc": "Want 50% off these TICKETS text 323-377-5291 — via Eventbrite"
   },
   {
@@ -19523,7 +18033,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Build mini-floats, giant puppets, silly noisemakers, doodads, and anything else you can create, followed by a joyful parade across the USC.",
    "soldOut": false,
-   "id": 765,
+   "id": 705,
    "shortDesc": "Build mini-floats, giant puppets, silly noisemakers, doodads, and anything else you can create, followed by a… — via Eventbrite"
   },
   {
@@ -19546,7 +18056,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "An open-mic in West LA by women, for women.",
    "soldOut": false,
-   "id": 766,
+   "id": 706,
    "shortDesc": "An open-mic in West LA by women, for women. — via Eventbrite"
   },
   {
@@ -19569,7 +18079,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A staged reading of Oliver Mayer’s new adaptation of The Visions of Simone Machard, the classic play by Lion Feuchtwanger and Bertolt Brecht",
    "soldOut": false,
-   "id": 767,
+   "id": 707,
    "shortDesc": "A staged reading of Oliver Mayer’s new adaptation of The Visions of Simone Machard, the classic play by Lion… — via Eventbrite"
   },
   {
@@ -19592,7 +18102,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us at Dance MDR for Line Dancing Night at Burton Chace Park. This event is free to the public. Everyone is welcome!",
    "soldOut": false,
-   "id": 768,
+   "id": 708,
    "shortDesc": "Join us at Dance MDR for Line Dancing Night at Burton Chace Park. This event is free to the public. Everyone… — via Eventbrite"
   },
   {
@@ -19615,7 +18125,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Are you a trivia nerd or just love comedy? Or even both??",
    "soldOut": false,
-   "id": 769,
+   "id": 709,
    "shortDesc": "Are you a trivia nerd or just love comedy? Or even both?? — via Eventbrite"
   },
   {
@@ -19640,7 +18150,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Loe Shimmy takes over Globe Theatre LA Thursday, June 18 for one of the craziest nights of the summer — expect raw energy and a packed room",
    "soldOut": false,
-   "id": 770,
+   "id": 710,
    "shortDesc": "Loe Shimmy takes over Globe Theatre LA Thursday, June 18 for one of the craziest nights of the summer —… — via Eventbrite"
   },
   {
@@ -19665,7 +18175,7 @@ window.EVENTS_DATA = {
    ],
    "description": "LOE SHIMMY @ THE GLOBE THEATER",
    "soldOut": false,
-   "id": 771,
+   "id": 711,
    "shortDesc": "LOE SHIMMY @ THE GLOBE THEATER — via Eventbrite"
   },
   {
@@ -19690,7 +18200,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Mario Baro Live! Thursday, Sep 17th",
    "soldOut": false,
-   "id": 772,
+   "id": 712,
    "shortDesc": "Mario Baro Live! Thursday, Sep 17th — via Eventbrite"
   },
   {
@@ -19715,7 +18225,7 @@ window.EVENTS_DATA = {
    ],
    "description": "BROADRAVE",
    "soldOut": false,
-   "id": 773,
+   "id": 713,
    "shortDesc": "BROADRAVE — via Eventbrite"
   },
   {
@@ -19738,7 +18248,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us for a fun-filled Sunday with ABBA LA, a fantastic tribute band honoring the iconic music of ABBA. 21 and up.",
    "soldOut": false,
-   "id": 774,
+   "id": 714,
    "shortDesc": "Join us for a fun-filled Sunday with ABBA LA, a fantastic tribute band honoring the iconic music of ABBA. 21… — via Eventbrite"
   },
   {
@@ -19761,7 +18271,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "An Evening with Ke Huy Quan discussing his memoir, \"Never Say Die\"",
    "soldOut": false,
-   "id": 775,
+   "id": 715,
    "shortDesc": "An Evening with Ke Huy Quan discussing his memoir, \"Never Say Die\" — via Eventbrite"
   },
   {
@@ -19784,7 +18294,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Please join us for the event of the year for theatre educators in California! In collaboration with Pasadena Playhouse!",
    "soldOut": false,
-   "id": 776,
+   "id": 716,
    "shortDesc": "Please join us for the event of the year for theatre educators in California! In collaboration with Pasadena… — via Eventbrite"
   },
   {
@@ -19810,7 +18320,7 @@ window.EVENTS_DATA = {
    ],
    "description": "\"The Otherness are a highly melodic pop-rock machine, like the Beach Boys with switchblades.\" (John Robb, Louder Than War, UK).",
    "soldOut": false,
-   "id": 777,
+   "id": 717,
    "shortDesc": "\"The Otherness are a highly melodic pop-rock machine, like the Beach Boys with switchblades.\" (John Robb… — via Eventbrite"
   },
   {
@@ -19833,7 +18343,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "“Centering Creativity as a Means for Collective Healing and Radical Imagination\"",
    "soldOut": false,
-   "id": 778,
+   "id": 718,
    "shortDesc": "“Centering Creativity as a Means for Collective Healing and Radical Imagination\" — via Eventbrite"
   },
   {
@@ -19856,7 +18366,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "EUROTRASH",
    "soldOut": false,
-   "id": 779,
+   "id": 719,
    "shortDesc": "EUROTRASH — via Eventbrite"
   },
   {
@@ -19879,7 +18389,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Please join us for the event of the year for theatre educators in California! In collaboration with Pasadena Playhouse!",
    "soldOut": false,
-   "id": 780,
+   "id": 720,
    "shortDesc": "Please join us for the event of the year for theatre educators in California! In collaboration with Pasadena… — via Eventbrite"
   },
   {
@@ -19905,7 +18415,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Get ready to rock out and keep it mysterious at the Plead the Fifth Concert—your vibe, your secret!",
    "soldOut": false,
-   "id": 781,
+   "id": 721,
    "shortDesc": "Get ready to rock out and keep it mysterious at the Plead the Fifth Concert—your vibe, your secret! — via Eventbrite"
   },
   {
@@ -19930,7 +18440,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Yung Kriss presents HVO Fest: A next-level night of music, faith, and energy—bigger production, elevated experience, unforgettable moments.",
    "soldOut": false,
-   "id": 782,
+   "id": 722,
    "shortDesc": "Yung Kriss presents HVO Fest: A next-level night of music, faith, and energy—bigger production, elevated… — via Eventbrite"
   },
   {
@@ -19955,7 +18465,7 @@ window.EVENTS_DATA = {
    ],
    "description": "APAC Presents: Mark Carter Jazz Project live in concert. Free with RSVP. Smooth jazz, classic grooves, and great vibes.",
    "soldOut": false,
-   "id": 783,
+   "id": 723,
    "shortDesc": "APAC Presents: Mark Carter Jazz Project live in concert. Free with RSVP. Smooth jazz, classic grooves, and… — via Eventbrite"
   },
   {
@@ -19980,7 +18490,7 @@ window.EVENTS_DATA = {
    ],
    "description": "The MCS Live Music Tour is highlighting some of the most talented artists blowing up with hit records coming to a city near you.",
    "soldOut": false,
-   "id": 784,
+   "id": 724,
    "shortDesc": "The MCS Live Music Tour is highlighting some of the most talented artists blowing up with hit records coming… — via Eventbrite"
   },
   {
@@ -20003,7 +18513,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Pulitzer-winning Dinner with Friends. Arrive early for wine & mingling before this intimate, unforgettable theatrical experience.",
    "soldOut": false,
-   "id": 785,
+   "id": 725,
    "shortDesc": "Pulitzer-winning Dinner with Friends. Arrive early for wine & mingling before this intimate, unforgettable… — via Eventbrite"
   },
   {
@@ -20026,7 +18536,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "The Hollywood Rush: An electric, off-the-cuff night of theater written, directed, and acted in a single day.",
    "soldOut": false,
-   "id": 786,
+   "id": 726,
    "shortDesc": "The Hollywood Rush: An electric, off-the-cuff night of theater written, directed, and acted in a single day. — via Eventbrite"
   },
   {
@@ -20049,7 +18559,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A night of storytelling and stand-up comedy, live on stage in West LA",
    "soldOut": false,
-   "id": 787,
+   "id": 727,
    "shortDesc": "A night of storytelling and stand-up comedy, live on stage in West LA — via Eventbrite"
   },
   {
@@ -20072,7 +18582,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "An industry opening night blending film, culture, short screenings, DJs, art, and a high-energy turn-up with creatives and tastemakers.",
    "soldOut": false,
-   "id": 788,
+   "id": 728,
    "shortDesc": "An industry opening night blending film, culture, short screenings, DJs, art, and a high-energy turn-up with… — via Eventbrite"
   },
   {
@@ -20097,7 +18607,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Screening",
    "soldOut": false,
-   "id": 789,
+   "id": 729,
    "shortDesc": "Screening at The Nimoy — via CAP UCLA"
   },
   {
@@ -20124,7 +18634,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Live performance",
    "soldOut": false,
-   "id": 790,
+   "id": 730,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -20149,7 +18659,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Kick back and jam to 90s rock all night, then dance it out with a live DJ spinning beats! 21 Plus.",
    "soldOut": false,
-   "id": 791,
+   "id": 731,
    "shortDesc": "Kick back and jam to 90s rock all night, then dance it out with a live DJ spinning beats! 21 Plus. — via Eventbrite"
   },
   {
@@ -20172,7 +18682,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "A workshop for comedians to get clear on what they want from comedy — and what to do (and stop doing) to move forward.",
    "soldOut": false,
-   "id": 792,
+   "id": 732,
    "shortDesc": "A workshop for comedians to get clear on what they want from comedy — and what to do (and stop doing) to move… — via Eventbrite"
   },
   {
@@ -20195,7 +18705,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Showcasing fresh short films and scripts, this LA fest is where storytellers and cinephiles unite in person!",
    "soldOut": false,
-   "id": 793,
+   "id": 733,
    "shortDesc": "Showcasing fresh short films and scripts, this LA fest is where storytellers and cinephiles unite in person! — via Eventbrite"
   },
   {
@@ -20218,7 +18728,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Celebrate the magic of movies at the Golden Bloody Globes Film Festival & Awards—where film meets fierce fun live!",
    "soldOut": false,
-   "id": 794,
+   "id": 734,
    "shortDesc": "Celebrate the magic of movies at the Golden Bloody Globes Film Festival & Awards—where film meets fierce fun… — via Eventbrite"
   },
   {
@@ -20241,7 +18751,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join us for a Sunday Day Party with Motley Inc.—good vibes, great music, and awesome company!",
    "soldOut": false,
-   "id": 795,
+   "id": 735,
    "shortDesc": "Join us for a Sunday Day Party with Motley Inc.—good vibes, great music, and awesome company! — via Eventbrite"
   },
   {
@@ -20266,7 +18776,7 @@ window.EVENTS_DATA = {
    ],
    "description": "A performance exploring the shared musical heritage of the Mediterranean.",
    "soldOut": false,
-   "id": 796,
+   "id": 736,
    "shortDesc": "A performance exploring the shared musical heritage of the Mediterranean. — via Eventbrite"
   },
   {
@@ -20289,7 +18799,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Scuffed Realtor: LIVE- with Nick Rochefort and Alex Schultz.Nick and Alex are bringing your favorite hub for viewer submitted house reviews,",
    "soldOut": false,
-   "id": 797,
+   "id": 737,
    "shortDesc": "Scuffed Realtor: LIVE- with Nick Rochefort and Alex Schultz.Nick and Alex are bringing your favorite hub for… — via Eventbrite"
   },
   {
@@ -20314,7 +18824,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Chill out with smooth tunes and good vibes at this not-to-be-missed event!",
    "soldOut": false,
-   "id": 798,
+   "id": 738,
    "shortDesc": "Chill out with smooth tunes and good vibes at this not-to-be-missed event! — via Eventbrite"
   },
   {
@@ -20339,7 +18849,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 799,
+   "id": 739,
    "shortDesc": "Live performance at Royce Hall — via CAP UCLA"
   },
   {
@@ -20362,7 +18872,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Spotlight Dance Show — where dancers from every corner of the art form come together to create pure onstage magic.",
    "soldOut": false,
-   "id": 800,
+   "id": 740,
    "shortDesc": "Spotlight Dance Show — where dancers from every corner of the art form come together to create pure onstage… — via Eventbrite"
   },
   {
@@ -20385,7 +18895,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Join Rep Club for a discussion on 'It's Only Dancing' by NYT bestselling author Jasmine Guillory",
    "soldOut": false,
-   "id": 801,
+   "id": 741,
    "shortDesc": "Join Rep Club for a discussion on 'It's Only Dancing' by NYT bestselling author Jasmine Guillory — via Eventbrite"
   },
   {
@@ -20408,7 +18918,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Past Festival performers will come back to the LAWTF stage to perform their solo pieces again.",
    "soldOut": false,
-   "id": 802,
+   "id": 742,
    "shortDesc": "Past Festival performers will come back to the LAWTF stage to perform their solo pieces again. — via Eventbrite"
   },
   {
@@ -20433,7 +18943,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 803,
+   "id": 743,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -20456,7 +18966,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "RiverOaks Annual Chorus",
    "soldOut": false,
-   "id": 804,
+   "id": 744,
    "shortDesc": "RiverOaks Annual Chorus — via Eventbrite"
   },
   {
@@ -20481,7 +18991,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 805,
+   "id": 745,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -20506,7 +19016,7 @@ window.EVENTS_DATA = {
    ],
    "description": "I Love Funk Festival in Downtown Los Angeles at Pershing Square on Saturday, October 24th!",
    "soldOut": false,
-   "id": 806,
+   "id": 746,
    "shortDesc": "I Love Funk Festival in Downtown Los Angeles at Pershing Square on Saturday, October 24th! — via Eventbrite"
   },
   {
@@ -20531,7 +19041,7 @@ window.EVENTS_DATA = {
    ],
    "description": "APAC Presents: Sheng-Ching Hsu performs live violin works. Free with RSVP, optional donation, plus appetizers and beverages.",
    "soldOut": false,
-   "id": 807,
+   "id": 747,
    "shortDesc": "APAC Presents: Sheng-Ching Hsu performs live violin works. Free with RSVP, optional donation, plus appetizers… — via Eventbrite"
   },
   {
@@ -20556,7 +19066,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Join us for an unforgettable evening of the iconic film music of the legendary composer Ennio Morricone.",
    "soldOut": false,
-   "id": 808,
+   "id": 748,
    "shortDesc": "Join us for an unforgettable evening of the iconic film music of the legendary composer Ennio Morricone. — via Eventbrite"
   },
   {
@@ -20581,7 +19091,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Screening",
    "soldOut": false,
-   "id": 809,
+   "id": 749,
    "shortDesc": "Screening at The Nimoy — via CAP UCLA"
   },
   {
@@ -20604,7 +19114,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Get ready to watch the ballroom dance industry's elite professional dancers at the LA Dance Festival!",
    "soldOut": false,
-   "id": 810,
+   "id": 750,
    "shortDesc": "Get ready to watch the ballroom dance industry's elite professional dancers at the LA Dance Festival! — via Eventbrite"
   },
   {
@@ -20629,7 +19139,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Join us for an interactive performance that invites you to listen with deeper attention to some of classical music's powerful melodies.",
    "soldOut": false,
-   "id": 811,
+   "id": 751,
    "shortDesc": "Join us for an interactive performance that invites you to listen with deeper attention to some of classical… — via Eventbrite"
   },
   {
@@ -20652,7 +19162,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Stake Conference",
    "soldOut": false,
-   "id": 812,
+   "id": 752,
    "shortDesc": "Stake Conference — via Eventbrite"
   },
   {
@@ -20679,7 +19189,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Live performance",
    "soldOut": false,
-   "id": 813,
+   "id": 753,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -20702,7 +19212,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Unleash your Gifts! End Time demonstration in the Arts! Join us for Creative Arts Productions, Classes & Workshops. Dance & Worship Conf!",
    "soldOut": false,
-   "id": 814,
+   "id": 754,
    "shortDesc": "Unleash your Gifts! End Time demonstration in the Arts! Join us for Creative Arts Productions, Classes &… — via Eventbrite"
   },
   {
@@ -20727,7 +19237,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 815,
+   "id": 755,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -20750,7 +19260,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "The Experimentals are back again with an evening of improvised comedy!",
    "soldOut": false,
-   "id": 816,
+   "id": 756,
    "shortDesc": "The Experimentals are back again with an evening of improvised comedy! — via Eventbrite"
   },
   {
@@ -20775,7 +19285,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 817,
+   "id": 757,
    "shortDesc": "Live performance at Royce Hall — via CAP UCLA"
   },
   {
@@ -20800,7 +19310,7 @@ window.EVENTS_DATA = {
    ],
    "description": "The band OURS returns to celebrate the 25th anniversary of “Distorted Lullabies” with their fans! Released on vinyl for the very first time!",
    "soldOut": false,
-   "id": 818,
+   "id": 758,
    "shortDesc": "The band OURS returns to celebrate the 25th anniversary of “Distorted Lullabies” with their fans! Released on… — via Eventbrite"
   },
   {
@@ -20825,7 +19335,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Get ready for a night of unforgettable tunes and dreamy classical music by LA Dream Orchestra and Daniel Suk, conductor",
    "soldOut": false,
-   "id": 819,
+   "id": 759,
    "shortDesc": "Get ready for a night of unforgettable tunes and dreamy classical music by LA Dream Orchestra and Daniel Suk… — via Eventbrite"
   },
   {
@@ -20852,7 +19362,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Live performance",
    "soldOut": false,
-   "id": 820,
+   "id": 760,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -20877,7 +19387,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 821,
+   "id": 761,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -20900,7 +19410,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Please join us for our annual Mar Vista Ward Christmas celebration! Breakfast for dinner, please come in your PJs!",
    "soldOut": false,
-   "id": 822,
+   "id": 762,
    "shortDesc": "Please join us for our annual Mar Vista Ward Christmas celebration! Breakfast for dinner, please come in your… — via Eventbrite"
   },
   {
@@ -20925,7 +19435,7 @@ window.EVENTS_DATA = {
    ],
    "description": "Maestro Adel Eskander brings you the most prolific singers and musicians for an unforgettable night of music from Egypt and beyond.",
    "soldOut": false,
-   "id": 823,
+   "id": 763,
    "shortDesc": "Maestro Adel Eskander brings you the most prolific singers and musicians for an unforgettable night of music… — via Eventbrite"
   },
   {
@@ -20950,7 +19460,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Screening",
    "soldOut": false,
-   "id": 824,
+   "id": 764,
    "shortDesc": "Screening at The Nimoy — via CAP UCLA"
   },
   {
@@ -20975,7 +19485,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 825,
+   "id": 765,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -20998,7 +19508,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "APAC Presents: The New Randy Van Horne Singers – Holiday Concert Free Sing-A-Long, Optional Donation, Appetizers and Beverages",
    "soldOut": false,
-   "id": 826,
+   "id": 766,
    "shortDesc": "APAC Presents: The New Randy Van Horne Singers – Holiday Concert Free Sing-A-Long, Optional Donation… — via Eventbrite"
   },
   {
@@ -21023,7 +19533,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 827,
+   "id": 767,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -21048,7 +19558,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 828,
+   "id": 768,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -21073,7 +19583,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 829,
+   "id": 769,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -21098,7 +19608,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 830,
+   "id": 770,
    "shortDesc": "Live performance at Freud Playhouse — via CAP UCLA"
   },
   {
@@ -21123,7 +19633,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 831,
+   "id": 771,
    "shortDesc": "Live performance at Freud Playhouse — via CAP UCLA"
   },
   {
@@ -21148,7 +19658,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 832,
+   "id": 772,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -21173,7 +19683,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 833,
+   "id": 773,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -21198,7 +19708,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 834,
+   "id": 774,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -21223,7 +19733,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 835,
+   "id": 775,
    "shortDesc": "Live performance at Royce Hall — via CAP UCLA"
   },
   {
@@ -21248,7 +19758,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 836,
+   "id": 776,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -21273,7 +19783,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 837,
+   "id": 777,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -21298,7 +19808,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 838,
+   "id": 778,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -21321,7 +19831,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Get ready to glam up and indulge in a night of opulence at the Luxury Gala 2026! this year with more fun, more celebrities, more",
    "soldOut": false,
-   "id": 839,
+   "id": 779,
    "shortDesc": "Get ready to glam up and indulge in a night of opulence at the Luxury Gala 2026! this year with more fun… — via Eventbrite"
   },
   {
@@ -21346,7 +19856,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 840,
+   "id": 780,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -21371,7 +19881,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 841,
+   "id": 781,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -21396,7 +19906,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 842,
+   "id": 782,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -21421,7 +19931,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 843,
+   "id": 783,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -21446,7 +19956,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 844,
+   "id": 784,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -21469,7 +19979,7 @@ window.EVENTS_DATA = {
    "genres": [],
    "description": "Open Your Mic is an all inclusive artistic showcase for poets, spoken word artists, singers, rappers, comedians, dancers and more.",
    "soldOut": false,
-   "id": 845,
+   "id": 785,
    "shortDesc": "Open Your Mic is an all inclusive artistic showcase for poets, spoken word artists, singers, rappers… — via Eventbrite"
   }
  ]

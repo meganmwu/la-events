@@ -5,6 +5,7 @@
   --ink-soft: #5f5a52;
   --ink-faint: #8d8779;
   --line: #e6e4e0;
+  --card-line: rgba(28, 26, 23, 0.35); /* dashed lattice lines between cards */
   --accent: #0d9668; /* deep mint — text accents on white */
   --accent-fill: #9bedcb; /* pastel mint — filled chips/badges, dark text on top */
   --accent-bright: #2ee6a0; /* bright mint — hover borders */
@@ -430,12 +431,17 @@ body {
 .card-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
-  gap: 14px;
+  gap: 0;
+  /* Lattice: container draws the top/left edges, cards draw right/bottom,
+     so every dashed line renders exactly once (no overlapping dash moiré). */
+  border-top: 1px dashed var(--card-line);
+  border-left: 1px dashed var(--card-line);
 }
 
 .card {
   background: var(--surface);
-  border: 1px solid var(--line);
+  border-right: 1px dashed var(--card-line);
+  border-bottom: 1px dashed var(--card-line);
   border-radius: 0;
   overflow: hidden;
   display: flex;
@@ -444,7 +450,8 @@ body {
 }
 
 .card:hover {
-  border-color: var(--accent);
+  outline: 1px dashed var(--accent);
+  outline-offset: -1px;
 }
 
 .card { cursor: pointer; }

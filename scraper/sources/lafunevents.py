@@ -1,3 +1,4 @@
+import html
 import json
 import re
 
@@ -98,7 +99,9 @@ def scrape():
             seen.add(key)
 
             location = ld.get("location") or {}
-            text = f"{ld.get('name', '')} {ld.get('description', '')}"
+            name = html.unescape(ld.get("name") or "")
+            description = html.unescape(ld.get("description") or "")
+            text = f"{name} {description}"
             is_free, price_text = _price_info(ld.get("offers") or {})
             category = _category(text)
             events.append(
@@ -106,7 +109,7 @@ def scrape():
                     "source": "lafunevents",
                     "sourceLabel": "LA Fun Events",
                     "org": None,
-                    "title": ld.get("name", "").strip(),
+                    "title": name.strip(),
                     "artists": [],
                     "url": url,
                     "ticketUrl": url,
@@ -122,7 +125,7 @@ def scrape():
                     "category": category,
                     "subcategory": _subcategory(text),
                     "genres": tag_genres(text=text) if category == "music" else [],
-                    "description": (ld.get("description") or "").strip(),
+                    "description": description.strip(),
                     "soldOut": False,
                 }
             )

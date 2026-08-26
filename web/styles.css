@@ -1,17 +1,95 @@
-:root {
+/* ==========================================================================
+   Themes. Default (no data-theme attr) is the dark "Fuchsia" palette.
+   Every color the UI uses is declared here so a theme is a self-contained
+   block — add a new palette by copying one and swapping values.
+   ========================================================================== */
+
+:root,
+:root[data-theme="fuchsia"] {
+  /* Dark · Celadon + Hot Fuchsia + Majorelle Blue + Periwinkle */
+  --bg: #0a0a0c;
+  --surface: #0a0a0c;
+  --surface-raised: #131318;
+  --ink: #f4f2f7;
+  --ink-soft: #a9a5b5;
+  --ink-faint: #7d7989;
+  --line: #26242c;
+  --card-line: rgba(220, 214, 247, 0.28); /* periwinkle dashes */
+  --accent: #ff1053; /* hot fuchsia — times, links, hover outlines */
+  --accent-bright: #ff4d80; /* playhead pulse */
+  --accent-fill: #a7d49b; /* celadon — filled chips/badges */
+  --on-accent-fill: #0a0a0c;
+  --on-accent-fill-soft: rgba(10, 10, 12, 0.55);
+  --accent-soft: rgba(255, 16, 83, 0.14);
+  --accent2: #c3b1ff; /* periwinkle/majorelle — category tags */
+  --accent2-soft: rgba(98, 60, 234, 0.28);
+  --free: #a7d49b;
+  --free-soft: rgba(167, 212, 155, 0.16);
+  --usc: #990000;
+  --ucla: #2774ae;
+  --chip-bg: #17171b;
+  --chip-hover: #202027;
+  --hero-off: #131317; /* sequencer cells at rest */
+  --hero-head-off: #201f27; /* unlit cell under the playhead */
+  --hero-head-alt: #d9a7ff;
+  --overlay: rgba(0, 0, 0, 0.74);
+  --btn-primary-hover: #ffffff;
+  --shadow: 0 2px 6px rgba(0, 0, 0, 0.5), 0 14px 40px rgba(0, 0, 0, 0.45);
+  --font-display: "expressway", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --radius: 0;
+}
+
+:root[data-theme="aqua"] {
+  /* Dark · Petal Frost + Pearl Aqua + Purple (X11) */
+  --bg: #0a0a0c;
+  --surface: #0a0a0c;
+  --surface-raised: #141019;
+  --ink: #f5f1f7;
+  --ink-soft: #ada6b6;
+  --ink-faint: #7f7889;
+  --line: #2a2331;
+  --card-line: rgba(253, 207, 243, 0.26); /* petal frost dashes */
+  --accent: #97ead2; /* pearl aqua */
+  --accent-bright: #b6f7e5;
+  --accent-fill: #97ead2;
+  --on-accent-fill: #0a0a0c;
+  --on-accent-fill-soft: rgba(10, 10, 12, 0.55);
+  --accent-soft: rgba(151, 234, 210, 0.14);
+  --accent2: #fdcff3; /* petal frost on purple */
+  --accent2-soft: rgba(164, 44, 214, 0.34);
+  --free: #97ead2;
+  --free-soft: rgba(151, 234, 210, 0.15);
+  --usc: #990000;
+  --ucla: #2774ae;
+  --chip-bg: #1a1520;
+  --chip-hover: #241d2c;
+  --hero-off: #16111c;
+  --hero-head-off: #241c2d;
+  --hero-head-alt: #a42cd6;
+  --overlay: rgba(0, 0, 0, 0.74);
+  --btn-primary-hover: #ffffff;
+  --shadow: 0 2px 6px rgba(0, 0, 0, 0.5), 0 14px 40px rgba(0, 0, 0, 0.45);
+  --font-display: "expressway", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --radius: 0;
+}
+
+:root[data-theme="light"] {
+  /* Light · original mint + adobo maroon */
   --bg: #ffffff;
   --surface: #ffffff;
+  --surface-raised: #ffffff;
   --ink: #1c1a17;
   --ink-soft: #5f5a52;
   --ink-faint: #8d8779;
   --line: #e6e4e0;
-  --card-line: rgba(28, 26, 23, 0.35); /* dashed lattice lines between cards */
-  --accent: #0d9668; /* deep mint — text accents on white */
-  --accent-fill: #9bedcb; /* pastel mint — filled chips/badges, dark text on top */
-  --accent-bright: #2ee6a0; /* bright mint — hover borders */
+  --card-line: rgba(28, 26, 23, 0.35);
+  --accent: #0d9668;
+  --accent-bright: #2ee6a0;
+  --accent-fill: #9bedcb;
+  --on-accent-fill: #1c1a17;
+  --on-accent-fill-soft: rgba(0, 0, 0, 0.45);
   --accent-soft: #e6f9f0;
-  --accent-wash: #f4fcf8; /* washed-out mint — card hover background */
-  --accent2: #7c2d2d; /* adobo maroon */
+  --accent2: #7c2d2d;
   --accent2-soft: #f6e9e6;
   --free: #1c7c43;
   --free-soft: #e2f3e8;
@@ -19,9 +97,13 @@
   --ucla: #2774ae;
   --chip-bg: #f1f1f1;
   --chip-hover: #e6e6e6;
-  --card-hover: #f8f8f8;
-  --font-display: "expressway", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --hero-off: #fbfaf9;
+  --hero-head-off: #e7e5e2;
+  --hero-head-alt: #a34444;
+  --overlay: rgba(20, 18, 14, 0.5);
+  --btn-primary-hover: #000000;
   --shadow: 0 1px 2px rgba(40, 30, 10, 0.06), 0 6px 18px rgba(40, 30, 10, 0.05);
+  --font-display: "expressway", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --radius: 0;
 }
 
@@ -68,7 +150,7 @@ body {
 .hero-cell {
   width: var(--hero-cell, 16px);
   height: var(--hero-cell, 16px);
-  background: #fbfaf9;
+  background: var(--hero-off);
   transition: background 0.15s ease-out;
 }
 
@@ -79,8 +161,8 @@ body {
 .hero-cell.head { transition: background 0.08s; }
 .hero-cell.head.on,
 .hero-cell.head.mint { background: var(--accent-bright); }
-.hero-cell.head.maroon { background: #a34444; }
-.hero-cell.head.off { background: #e7e5e2; }
+.hero-cell.head.maroon { background: var(--hero-head-alt); }
+.hero-cell.head.off { background: var(--hero-head-off); }
 
 .header-inner {
   position: absolute;
@@ -180,7 +262,7 @@ body {
   top: calc(100% + 8px);
   left: 0;
   z-index: 30;
-  background: var(--surface);
+  background: var(--surface-raised);
   border: 1px solid var(--line);
   border-radius: 0;
   box-shadow: var(--shadow);
@@ -332,10 +414,10 @@ body {
 .chip.active {
   background: var(--accent-fill);
   border-color: var(--accent-fill);
-  color: var(--ink);
+  color: var(--on-accent-fill);
 }
 
-.chip.active .count { color: rgba(0, 0, 0, 0.45); }
+.chip.active .count { color: var(--on-accent-fill-soft); }
 
 .genre-row .chip.active {
   background: var(--ink);
@@ -418,7 +500,7 @@ body {
 .day-heading.today-heading::before {
   content: "Today";
   background: var(--accent-fill);
-  color: var(--ink);
+  color: var(--on-accent-fill);
   font-size: 11px;
   font-weight: 700;
   text-transform: uppercase;
@@ -545,7 +627,7 @@ body {
   position: fixed;
   inset: 0;
   z-index: 100;
-  background: rgba(20, 18, 14, 0.5);
+  background: var(--overlay);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -554,7 +636,7 @@ body {
 
 .modal {
   position: relative;
-  background: var(--surface);
+  background: var(--surface-raised);
   border: 1px solid var(--line);
   width: min(560px, 100%);
   max-height: 85vh;
@@ -569,7 +651,7 @@ body {
   width: 34px;
   height: 34px;
   border: 1px solid var(--line);
-  background: var(--surface);
+  background: var(--surface-raised);
   color: var(--ink);
   font-size: 20px;
   line-height: 1;
@@ -651,7 +733,7 @@ body {
   color: var(--bg);
 }
 
-.btn-primary:hover { background: #000; }
+.btn-primary:hover { background: var(--btn-primary-hover); }
 
 .empty {
   text-align: center;
@@ -661,6 +743,57 @@ body {
 }
 
 .empty strong { color: var(--ink-soft); }
+
+/* ---------- theme switcher (palette experiment) ---------- */
+.theme-switcher {
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 12px;
+  background: var(--surface-raised);
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow);
+}
+
+.theme-switcher-label {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-faint);
+}
+
+.theme-options {
+  display: flex;
+  gap: 6px;
+}
+
+.theme-option {
+  display: flex;
+  padding: 3px;
+  border: 1px solid var(--line);
+  background: transparent;
+  cursor: pointer;
+  line-height: 0;
+}
+
+.theme-option:hover { border-color: var(--ink-faint); }
+
+.theme-option[aria-pressed="true"] { border-color: var(--accent); }
+
+.theme-option .sw {
+  width: 12px;
+  height: 18px;
+  display: block;
+}
+
+@media (max-width: 640px) {
+  .theme-switcher { right: 10px; bottom: 10px; padding: 6px 8px; }
+  .theme-switcher-label { display: none; }
+}
 
 /* ---------- footer ---------- */
 .site-footer {

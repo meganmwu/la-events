@@ -8,6 +8,13 @@
   <link rel="stylesheet" href="https://use.typekit.net/fsc4rce.css" />
   <link rel="stylesheet" href="styles.css" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>😝</text></svg>" />
+  <script>
+    // Apply the saved theme before first paint so there's no flash.
+    try {
+      var t = localStorage.getItem('bscene-theme');
+      if (t) document.documentElement.setAttribute('data-theme', t);
+    } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site-header">
@@ -66,6 +73,12 @@
       </p>
     </div>
   </footer>
+
+  <!-- Palette experiment: lets the team preview themes side by side. -->
+  <div class="theme-switcher" id="theme-switcher" role="group" aria-label="Color theme">
+    <span class="theme-switcher-label">Theme</span>
+    <div class="theme-options" id="theme-options"></div>
+  </div>
 
   <script src="data/events.js"></script>
   <script src="app.js"></script>

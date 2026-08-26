@@ -17,6 +17,14 @@
   </script>
 </head>
 <body>
+  <nav class="experience-bar">
+    <div class="experience-tabs" id="experience-tabs" role="tablist" aria-label="Experience">
+      <button data-experience="fun" class="active">Just for fun</button>
+      <button data-experience="demo">Demo</button>
+    </div>
+  </nav>
+
+  <div id="experience-fun">
   <header class="site-header">
     <div class="hero-grid" id="hero-grid" aria-hidden="true"></div>
     <div class="wrap header-inner">
@@ -73,6 +81,41 @@
       </p>
     </div>
   </footer>
+  </div>
+
+  <section id="experience-demo" class="hidden">
+    <div class="demo-toolbar">
+      <div class="demo-title">
+        <strong>Shows tonight</strong>
+      </div>
+      <div class="demo-datenav">
+        <button id="demo-prev" aria-label="Previous night">‹</button>
+        <span class="demo-date-label" id="demo-date-label"></span>
+        <button id="demo-next" aria-label="Next night">›</button>
+      </div>
+    </div>
+
+    <div class="demo-split">
+      <div class="demo-list" id="demo-list"></div>
+      <div class="demo-map" id="demo-map">
+        <svg id="demo-map-svg" class="demo-map-svg" aria-hidden="true">
+          <path class="map-ocean" />
+          <g class="map-freeways"></g>
+          <g class="map-streets"></g>
+          <path class="map-coast" />
+          <path class="map-walk" hidden />
+          <g class="map-places"></g>
+        </svg>
+        <div class="demo-pins" id="demo-pins"></div>
+        <div class="demo-infobox hidden" id="demo-infobox"></div>
+        <div class="demo-map-controls">
+          <button class="demo-map-btn" id="demo-zoom-in" aria-label="Zoom in">+</button>
+          <button class="demo-map-btn" id="demo-zoom-out" aria-label="Zoom out">−</button>
+          <button class="demo-map-btn" id="demo-zoom-fit" aria-label="Fit all shows">⤢</button>
+        </div>
+      </div>
+    </div>
+  </section>
 
   <!-- Palette experiment: lets the team preview themes side by side. -->
   <div class="theme-switcher" id="theme-switcher" role="group" aria-label="Color theme">
@@ -82,5 +125,7 @@
 
   <script src="data/events.js"></script>
   <script src="app.js"></script>
+  <script src="data/demo-shows.js"></script>
+  <script src="demo.js"></script>
 </body>
 </html>

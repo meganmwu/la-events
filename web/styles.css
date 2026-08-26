@@ -6,6 +6,11 @@
 
 :root,
 :root[data-theme="fuchsia"] {
+  --map-land: #101014;
+  --map-water: #08080a;
+  --map-line: #2b2933;
+  --map-label: #55525f;
+
   /* Dark · Celadon + Hot Fuchsia + Majorelle Blue + Periwinkle */
   --bg: #0a0a0c;
   --surface: #0a0a0c;
@@ -40,6 +45,11 @@
 }
 
 :root[data-theme="aqua"] {
+  --map-land: #130f18;
+  --map-water: #08080a;
+  --map-line: #2e2637;
+  --map-label: #5a5266;
+
   /* Dark · Petal Frost + Pearl Aqua + Purple (X11) */
   --bg: #0a0a0c;
   --surface: #0a0a0c;
@@ -74,6 +84,11 @@
 }
 
 :root[data-theme="light"] {
+  --map-land: #f6f5f3;
+  --map-water: #eceae6;
+  --map-line: #dcd9d3;
+  --map-label: #a6a199;
+
   /* Light · original mint + adobo maroon */
   --bg: #ffffff;
   --surface: #ffffff;
@@ -743,6 +758,465 @@ body {
 }
 
 .empty strong { color: var(--ink-soft); }
+
+/* ==========================================================================
+   Experience switcher + "Demo" experience (map & list discovery)
+   ========================================================================== */
+
+.experience-bar {
+  position: sticky;
+  top: 0;
+  z-index: 60;
+  background: var(--bg);
+  border-bottom: 1px solid var(--line);
+  padding: 8px 20px;
+}
+
+.experience-tabs {
+  display: inline-flex;
+  border: 1px solid var(--line);
+}
+
+.experience-tabs button {
+  border: 0;
+  background: transparent;
+  color: var(--ink-soft);
+  font: inherit;
+  font-size: 13px;
+  padding: 6px 16px;
+  cursor: pointer;
+}
+
+.experience-tabs button.active {
+  background: var(--ink);
+  color: var(--bg);
+}
+
+/* The main experience's controls stick below the experience bar. */
+.controls { top: 41px; }
+
+.demo-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 12px 20px;
+  border-bottom: 1px solid var(--line);
+  flex-wrap: wrap;
+}
+
+.demo-title {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: 22px;
+}
+
+.demo-title strong { font-weight: 300; }
+
+.demo-note {
+  font-family: "owners", sans-serif;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-faint);
+  border: 1px dashed var(--card-line);
+  padding: 2px 7px;
+}
+
+.demo-datenav {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.demo-datenav button {
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--ink);
+  font: inherit;
+  font-size: 13.5px;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+.demo-datenav button:hover:not(:disabled) { border-color: var(--ink-faint); }
+.demo-datenav button:disabled { opacity: 0.35; cursor: default; }
+
+.demo-date-label {
+  min-width: 190px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+/* ---------- split layout ---------- */
+.demo-split {
+  display: grid;
+  grid-template-columns: 380px 1fr;
+  height: calc(100vh - 41px - 58px);
+  min-height: 520px;
+}
+
+.demo-list {
+  border-right: 1px dashed var(--card-line);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+.demo-list-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 12px 16px;
+  border-bottom: 1px dashed var(--card-line);
+  position: sticky;
+  top: 0;
+  background: var(--bg);
+  z-index: 2;
+}
+
+.demo-list-count { font-size: 13px; font-weight: 700; }
+.demo-list-hint { font-size: 11px; color: var(--ink-faint); }
+
+.demo-row {
+  display: block;
+  width: 100%;
+  text-align: left;
+  border: 0;
+  border-bottom: 1px dashed var(--card-line);
+  background: transparent;
+  color: var(--ink);
+  font: inherit;
+  padding: 12px 16px;
+  cursor: pointer;
+}
+
+.demo-row.active,
+.demo-row:hover {
+  background: var(--chip-bg);
+  outline: 1px dashed var(--accent);
+  outline-offset: -1px;
+}
+
+.demo-row-time {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--accent);
+  margin-bottom: 4px;
+}
+
+.demo-row-price { color: var(--ink-faint); font-weight: 400; }
+.demo-row-price.free { color: var(--free); font-weight: 700; }
+
+.demo-row-artist {
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 1.2;
+}
+
+.demo-row-venue { font-size: 12.5px; color: var(--ink-soft); margin-top: 2px; }
+.demo-row-tags { margin-top: 7px; }
+
+/* ---------- map ---------- */
+.demo-map {
+  position: relative;
+  overflow: hidden;
+  background: var(--map-land);
+  cursor: grab;
+  touch-action: none;
+}
+
+.demo-map.dragging { cursor: grabbing; }
+
+.demo-map-svg { position: absolute; inset: 0; width: 100%; height: 100%; }
+
+.map-ocean { fill: var(--map-water); stroke: none; }
+.map-coast { fill: none; stroke: var(--map-line); stroke-width: 1.5; }
+.map-freeway { fill: none; stroke: var(--map-line); stroke-width: 1; opacity: 0.85; }
+.map-street { fill: none; stroke: var(--map-line); stroke-width: 0.6; opacity: 0.5; }
+.map-walk {
+  fill: none;
+  stroke: var(--accent2);
+  stroke-width: 1.5;
+  stroke-dasharray: 4 4;
+  opacity: 0.9;
+}
+
+.map-place {
+  fill: var(--map-label);
+  font-size: 10px;
+  font-family: "owners", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  text-anchor: middle;
+  pointer-events: none;
+}
+
+.demo-pins { position: absolute; inset: 0; pointer-events: none; }
+
+.demo-pin {
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin: -7px 0 0 -7px;
+  width: 14px;
+  height: 14px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  pointer-events: auto;
+}
+
+.demo-pin.offscreen { display: none; }
+
+.demo-pin-dot {
+  display: block;
+  width: 10px;
+  height: 10px;
+  margin: 2px;
+  background: var(--ink);
+  border: 1px solid var(--bg);
+  transition: background 0.1s, transform 0.1s;
+}
+
+.demo-pin.active .demo-pin-dot,
+.demo-pin:focus-visible .demo-pin-dot {
+  background: var(--accent);
+  transform: scale(1.7);
+}
+
+.demo-pin.selected .demo-pin-dot {
+  background: var(--accent);
+  transform: scale(1.9);
+}
+
+.demo-pin.dimmed .demo-pin-dot { opacity: 0.28; }
+
+.demo-row-dist { color: var(--ink-faint); font-weight: 400; margin-left: auto; }
+
+/* "You are here" marker */
+.demo-pin-me {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: -6px 0 0 -6px;
+  pointer-events: none;
+  z-index: 2;
+}
+
+/* Round and accent-coloured, unlike the square neutral venue pins. */
+.demo-pin-me-dot {
+  position: relative;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: 2px solid var(--bg);
+  box-shadow: 0 0 0 1px var(--accent);
+}
+
+.demo-pin-label {
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin: -7px 0 0 14px;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  white-space: nowrap;
+  padding: 2px 6px;
+  pointer-events: none;
+  z-index: 3;
+}
+
+/* Dark ink on the accent reads in every palette — white fails on the light
+   accents (aqua, mint). */
+.demo-pin-label-venue {
+  color: var(--on-accent-fill);
+  background: var(--accent);
+  border: 1px solid var(--accent);
+}
+
+.demo-pin-meetup-label {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent2);
+  background: var(--surface-raised);
+  border: 1px solid var(--accent2-soft);
+  padding: 2px 6px;
+  white-space: nowrap;
+}
+
+.demo-infobox {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 5;
+  width: 230px;
+  padding: 10px 12px;
+  background: var(--surface-raised);
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow);
+  pointer-events: none;
+}
+
+.demo-info-top {
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--accent);
+  margin-bottom: 4px;
+}
+
+.demo-info-price { color: var(--ink-faint); font-weight: 400; }
+
+.demo-info-artist {
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: 17px;
+  line-height: 1.2;
+}
+
+.demo-info-venue { font-size: 12px; color: var(--ink-soft); margin-top: 2px; }
+.demo-info-genre { font-size: 11px; color: var(--ink-faint); margin-top: 4px; }
+
+.demo-map-controls {
+  position: absolute;
+  right: 12px;
+  top: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  z-index: 6;
+}
+
+.demo-map-btn {
+  width: 30px;
+  height: 30px;
+  border: 1px solid var(--line);
+  background: var(--surface-raised);
+  color: var(--ink);
+  font: inherit;
+  font-size: 14px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.demo-map-btn:hover { background: var(--chip-bg); }
+
+/* ---------- detail pane ---------- */
+.demo-back {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  width: 100%;
+  text-align: left;
+  border: 0;
+  border-bottom: 1px dashed var(--card-line);
+  background: var(--bg);
+  color: var(--accent);
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 12px 16px;
+  cursor: pointer;
+}
+
+.demo-detail-body { padding: 16px; }
+
+.demo-detail-eyebrow { display: flex; gap: 6px; align-items: center; margin-bottom: 8px; }
+
+.demo-detail-artist {
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 1.12;
+}
+
+.demo-detail-title {
+  margin: 4px 0 0;
+  font-size: 15px;
+  color: var(--ink-soft);
+  font-style: italic;
+}
+
+.demo-facts {
+  margin: 16px 0 0;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 6px 14px;
+  font-size: 13px;
+}
+
+.demo-facts dt {
+  color: var(--ink-faint);
+  text-transform: uppercase;
+  font-size: 10px;
+  letter-spacing: 0.06em;
+  padding-top: 3px;
+}
+
+.demo-facts dd { margin: 0; }
+
+.demo-ticket-row { margin-top: 16px; }
+.demo-ticket-row .btn { width: 100%; text-align: center; cursor: pointer; }
+
+.demo-section { margin-top: 22px; }
+
+.demo-section-title {
+  margin: 0 0 8px;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-faint);
+  font-weight: 700;
+}
+
+.demo-para {
+  margin: 0 0 10px;
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: var(--ink-soft);
+}
+
+.demo-meetup {
+  border: 1px dashed var(--card-line);
+  padding: 14px;
+}
+
+.demo-meetup-name {
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.demo-meetup-meta { font-size: 12.5px; color: var(--accent2); margin: 2px 0 8px; }
+
+@media (max-width: 860px) {
+  .demo-split {
+    grid-template-columns: 1fr;
+    grid-template-rows: 300px 1fr;
+    height: auto;
+  }
+  .demo-split .demo-map { order: -1; min-height: 300px; }
+  .demo-list { border-right: 0; max-height: 60vh; }
+}
 
 /* ---------- theme switcher (palette experiment) ---------- */
 .theme-switcher {

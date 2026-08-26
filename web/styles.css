@@ -880,7 +880,6 @@ body {
 }
 
 .demo-list-count { font-size: 13px; font-weight: 700; }
-.demo-list-hint { font-size: 11px; color: var(--ink-faint); }
 
 .demo-row {
   display: block;

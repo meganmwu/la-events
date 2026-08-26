@@ -416,7 +416,6 @@
     listEl.replaceChildren(
       el('div', { class: 'demo-list-head' }, [
         el('span', { class: 'demo-list-count', text: `${state.shows.length} shows` }),
-        el('span', { class: 'demo-list-hint', text: 'Hover to locate · click for details' }),
       ]),
       el('div', { class: 'demo-rows' }, rows)
     );

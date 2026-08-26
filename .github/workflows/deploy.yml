@@ -14,11 +14,18 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: false
+  # A newer run supersedes an older one. GitHub's Pages template uses `false`
+  # here, but that let a run stuck in "waiting" hold this group for 20 days and
+  # silently starve every daily scrape queued behind it. Deploys take seconds,
+  # so losing one to a newer run costs nothing next to that failure mode.
+  cancel-in-progress: true
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    # Generous enough for a scrape that hits Eventbrite's rate-limit backoffs
+    # (~25 min worst case), short enough that a hang can't camp on the lock.
+    timeout-minutes: 45
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

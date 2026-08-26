@@ -79,12 +79,12 @@ def scrape():
     seen = set()
     for url in urls:
         try:
-            html = fetch_text(url)
+            page_html = fetch_text(url)
         except Exception as err:  # noqa: BLE001
             print(f"  lafunevents {url} failed: {err}")
             continue
         for block in re.findall(
-            r'<script type="application/ld\+json">(.*?)</script>', html, re.S
+            r'<script type="application/ld\+json">(.*?)</script>', page_html, re.S
         ):
             try:
                 ld = json.loads(block)

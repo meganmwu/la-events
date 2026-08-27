@@ -8,13 +8,6 @@
   <link rel="stylesheet" href="https://use.typekit.net/fsc4rce.css" />
   <link rel="stylesheet" href="styles.css" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>😝</text></svg>" />
-  <script>
-    // Apply the saved theme before first paint so there's no flash.
-    try {
-      var t = localStorage.getItem('bscene-theme');
-      if (t) document.documentElement.setAttribute('data-theme', t);
-    } catch (e) {}
-  </script>
 </head>
 <body>
   <nav class="experience-bar">
@@ -85,14 +78,15 @@
 
   <section id="experience-demo" class="hidden">
     <div class="demo-toolbar">
-      <div class="demo-title">
-        <strong>Shows tonight</strong>
-      </div>
       <div class="demo-datenav">
-        <button id="demo-prev" aria-label="Previous night">‹</button>
-        <span class="demo-date-label" id="demo-date-label"></span>
-        <button id="demo-next" aria-label="Next night">›</button>
+        <button id="demo-prev" aria-label="Previous night"></button>
+        <button id="demo-next" aria-label="Next night"></button>
+        <button class="demo-date-btn" id="demo-date-btn" aria-haspopup="dialog" aria-expanded="false">
+          <span class="demo-date-label" id="demo-date-label"></span>
+        </button>
+        <div class="demo-calendar hidden" id="demo-calendar" role="dialog" aria-label="Pick a date"></div>
       </div>
+      <button class="demo-avatar-btn demo-me-btn" id="demo-profile-btn" aria-label="Your profile"></button>
     </div>
 
     <div class="demo-split">
@@ -116,12 +110,6 @@
       </div>
     </div>
   </section>
-
-  <!-- Palette experiment: lets the team preview themes side by side. -->
-  <div class="theme-switcher" id="theme-switcher" role="group" aria-label="Color theme">
-    <span class="theme-switcher-label">Theme</span>
-    <div class="theme-options" id="theme-options"></div>
-  </div>
 
   <script src="data/events.js"></script>
   <script src="app.js"></script>

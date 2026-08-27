@@ -309,7 +309,8 @@ def build():
     return shows
 
 
-# The three shows supplied as reference, dropped in verbatim on Sat Sep 5.
+# The three shows supplied as reference, with their real posters. Times and
+# venues here follow the posters rather than the generator.
 FEATURED = [
     {
         "date": "2026-09-05",
@@ -318,28 +319,31 @@ FEATURED = [
         "artist": "Orchestra Nova LA",
         "title": "Symphony on Shuffle",
         "genre": "Classical",
-        "venue": "The Ebell Club",
-        "neighborhood": "Mid-Wilshire",
-        "lat": 34.0620,
-        "lng": -118.3110,
+        "venue": "Mount Olive Lutheran Church",
+        "neighborhood": "Santa Monica",
+        "lat": 34.0184,
+        "lng": -118.4695,
         "size": "midsize",
         "price": 0,
         "priceText": "Free",
+        "poster": "img/posters/symphony-on-shuffle.png",
         "description": (
-            "From fanfares to finales, no two moments are the same — experience Orchestra "
+            "From fanfares to finales, no two moments are the same \u2014 experience Orchestra "
             "Nova LA on shuffle as KUSC's Rich Capparela spins a vibrant mix of symphonic "
             "favorites and surprises.\n\n"
+            "Ivan Shulman, music director. Special guest and emcee: Rich Capparela, Los "
+            "Angeles' esteemed classical music DJ.\n\n"
             "FREE ADMISSION. Suggested donation: $20.\n\n"
-            "Doors open at 7:30PM. OPEN SEATING — arriving early is strongly recommended. "
+            "Doors open at 7:30PM. OPEN SEATING \u2014 arriving early is strongly recommended. "
             "All concerts are first come, first served. Your RSVP helps us determine seating "
             "capacity but is not required and does not guarantee a seat."
         ),
-        "meetup": {"name": "The Wilshire Deli", "cuisine": "Sandwiches", "walk": 4},
+        "meetup": {"name": "Ocean Ave Oyster Bar", "cuisine": "Seafood", "walk": 6},
     },
     {
         "date": "2026-09-05",
-        "time": "21:00",
-        "doors": "20:00",
+        "time": "20:00",
+        "doors": "19:30",
         "artist": "Mellow Transit",
         "genre": "Funk / Soul",
         "venue": "Barney's Beanery",
@@ -349,6 +353,7 @@ FEATURED = [
         "size": "intimate",
         "price": 30,
         "priceText": "$30",
+        "poster": "img/posters/mellow-transit.png",
         "description": (
             "Mellow Transit is a Los Angeles-based funk and jazz collective blending "
             "deep-pocket grooves, soulful vocals, and improvisational energy into a sound "
@@ -359,22 +364,25 @@ FEATURED = [
             "arrangements and extended grooves that leave plenty of room for improvisation.\n\n"
             "At the center of the group is Maya Rivers, a 27-year-old vocalist and songwriter "
             "originally from Oakland, California. Known for her smoky alto and charismatic "
-            "stage presence, Rivers grew up singing in her family's church before studying jazz "
-            "at Cal State Long Beach. She relocated to Los Angeles after college and quickly "
-            "became a fixture on the local session and jazz circuit.\n\n"
+            "stage presence, Rivers grew up singing in her family\u2019s church before studying "
+            "jazz at Cal State Long Beach. She relocated to Los Angeles after college and "
+            "quickly became a fixture on the local session and jazz circuit.\n\n"
             "She is joined by Andre Coleman on trumpet, Julian Park on saxophone, Nico Alvarez "
             "on guitar, Marcus Bell on bass, and Theo Grant on drums.\n\n"
-            "The band's debut EP, After Midnight on Pico, was released independently in 2024 and "
-            "has developed a small but devoted following among LA's jazz, funk, and R&B "
-            "communities. They are currently working on a first full-length album, expected "
-            "later this year."
+            "The Mellow Transit\u2019s debut EP, After Midnight on Pico, was released "
+            "independently in 2024 and has developed a small but devoted following among LA\u2019s "
+            "jazz, funk, and R&B communities. The band is currently working on its first "
+            "full-length album, expected later this year.\n\n"
+            "Catch The Mellow Transit live at Barney\u2019s Beanery in Westwood on Saturday, "
+            "September 5 for an evening of funky grooves, soulful vocals, and jazz-inspired "
+            "improvisation."
         ),
         "meetup": {"name": "Broxton Burgers", "cuisine": "Burgers", "walk": 3},
     },
     {
         "date": "2026-09-05",
-        "time": "20:30",
-        "doors": "19:30",
+        "time": "22:00",
+        "doors": "21:00",
         "artist": "Strand Luck",
         "genre": "Dream Pop",
         "venue": "Molly Malone's",
@@ -383,7 +391,8 @@ FEATURED = [
         "lng": -118.3620,
         "size": "intimate",
         "price": 15,
-        "priceText": "$15",
+        "priceText": "$15 adv / $20 day of",
+        "poster": "img/posters/strand-luck.png",
         "description": (
             "Strand Luck is a Los Angeles-based indie duo bringing together dreamy guitars, "
             "hypnotic grooves, and a distinctly nostalgic alternative-pop sound. With roots "
@@ -391,21 +400,97 @@ FEATURED = [
             "effortlessly between dream pop, indie rock, post-punk, and dance-inspired "
             "production.\n\n"
             "Their music balances hazy, atmospheric textures with infectious rhythms and "
-            "emotionally charged songwriting. Their debut single, “Love Me Now,” was written in "
-            "Cape Town while one member of the band was recovering from major surgery, setting "
-            "the tone for a project built around intimacy, experimentation, and a little bit of "
-            "chaos. Their 2026 debut album, Sylvie, expands that sound with a collection of "
-            "shimmering guitars, pulsing basslines, dreamy vocals, and left-of-center pop "
-            "hooks.\n\n"
-            "Now based in Los Angeles, Strand Luck has become a fixture of the city's "
-            "independent music scene, performing everywhere from intimate clubs to packed local "
-            "showcases. Their sound is nostalgic without feeling retro — somewhere between a "
-            "late-night dance floor, a hazy 1990s indie record, and the soundtrack to a summer "
-            "you don't quite remember."
+            "emotionally charged songwriting. Their debut single, \u201cLove Me Now,\u201d was written "
+            "in Cape Town while one member of the band was recovering from major surgery, "
+            "setting the tone for a project built around intimacy, experimentation, and a "
+            "little bit of chaos. Their 2026 debut album, Sylvie, expands that sound with a "
+            "collection of shimmering guitars, pulsing basslines, dreamy vocals, and "
+            "left-of-center pop hooks.\n\n"
+            "Now based in Los Angeles, Strand Luck has become a fixture of the city\u2019s "
+            "independent music scene, performing everywhere from intimate clubs to packed "
+            "local showcases. Their sound is nostalgic without feeling retro \u2014 somewhere "
+            "between a late-night dance floor, a hazy 1990s indie record, and the soundtrack "
+            "to a summer you don't quite remember.\n\n"
+            "Catch Strand Luck live at Molly Malone\u2019s in Fairfax on Saturday night. 21+."
         ),
         "meetup": {"name": "Third Street Ramen", "cuisine": "Ramen", "walk": 5},
     },
 ]
+
+
+
+FRIEND_NAMES = [
+    "Dani Okafor", "Priya Raman", "Marcus Lee", "Sofia Delgado", "Theo Brennan",
+    "Nina Castellanos", "Jules Whitfield", "Ravi Menon", "Camille Ferrante",
+    "Omar Haddad", "Bea Solomon", "Wes Nakamura",
+]
+
+
+def build_artist_images():
+    """Stable artist -> filler image mapping (cycled, so every artist has one)."""
+    art_dir = Path(__file__).parent.parent / "web" / "img" / "artists"
+    files = sorted(
+        (f.name for f in art_dir.glob("artist-*") if f.suffix.lower() in {".jpg", ".jpeg", ".png"}),
+        key=lambda n: int("".join(c for c in n.split(".")[0] if c.isdigit()) or 0),
+    )
+    if not files:
+        return {}
+    names = list(dict.fromkeys(ARTISTS + [a for a, _ in FORMAL_ARTISTS] + [f["artist"] for f in FEATURED]))
+    return {name: f"img/artists/{files[i % len(files)]}" for i, name in enumerate(sorted(names))}
+
+
+def build_profile(rng, shows):
+    """A fake account: past attendance, upcoming RSVPs, friends, follows."""
+    # The catalogue only covers upcoming nights, so invent a listening history.
+    attended = []
+    for i in range(7):
+        venue, hood, lat, lng, _size = rng.choice(VENUES)
+        day = START - timedelta(days=rng.randint(3, 210))
+        attended.append(
+            {
+                "id": f"past-{i + 1}",
+                "date": day.isoformat(),
+                "artist": rng.choice(ARTISTS),
+                "genre": rng.choice(GENRES),
+                "venue": venue,
+                "neighborhood": hood,
+            }
+        )
+    attended.sort(key=lambda a: a["date"], reverse=True)
+
+    upcoming_pool = [s for s in shows if s["date"] <= (START + timedelta(days=12)).isoformat()]
+    going = [s["id"] for s in rng.sample(upcoming_pool, 1)]
+
+    friends = []
+    for name in rng.sample(FRIEND_NAMES, 8):
+        # Some friends were at shows I went to; others just share the app.
+        shared = rng.sample(attended, rng.randint(0, 4)) if rng.random() < 0.7 else []
+        friends.append(
+            {
+                "name": name,
+                "handle": name.split()[0].lower() + name.split()[-1][0].lower(),
+                "sharedCount": len(shared),
+                "sharedShows": [s["id"] for s in shared],
+                "lastTogether": max((s["date"] for s in shared), default=None),
+            }
+        )
+    friends.sort(key=lambda f: (-f["sharedCount"], f["name"]))
+
+    following = rng.sample([a for a in ARTISTS], 5)
+
+    return {
+        "name": "Tessa P.",
+        "handle": "tessap",
+        "image": "img/profile/tessa.jpeg",
+        # Fake card on file so the demo checkout can be one click. Not a real
+        # number — the UI only ever displays it, never accepts card input.
+        "payment": {"brand": "Visa", "last4": "4242", "exp": "04/29"},
+        "city": "Echo Park, LA",
+        "attended": attended,
+        "going": going,
+        "friends": friends,
+        "following": following,
+    }
 
 
 def main():
@@ -439,8 +524,12 @@ def main():
     for s in shows:
         by_date[s["date"]] = by_date.get(s["date"], 0) + 1
 
+    profile = build_profile(random.Random(SEED + 7), shows)
+
     payload = {
         "generatedAt": date.today().isoformat(),
+        "profile": profile,
+        "artistImages": build_artist_images(),
         "note": "Fake data for the B-Scene demo. Venues are real LA rooms; artists, shows, prices and meetup spots are invented.",
         "dates": sorted(by_date),
         "counts": by_date,

@@ -705,10 +705,19 @@
     return name.toLowerCase().replace(/[^a-z0-9]+/g, '');
   }
 
+  function openArtistByName(name) {
+    const show =
+      DATA.shows.find((x) => x.artist === name && x.date >= state.date) ||
+      DATA.shows.find((x) => x.artist === name);
+    if (show) openArtist(show);
+  }
+
   function closeArtist() {
     const box = $('.demo-artist-overlay');
     if (box) box.remove();
-    if (!$('.demo-lightbox')) document.body.classList.remove('lightbox-open');
+    if (!$('.demo-lightbox') && !$('.demo-profile-overlay') && !$('.demo-checkout-overlay')) {
+      document.body.classList.remove('lightbox-open');
+    }
   }
 
   function openArtist(show) {
@@ -739,6 +748,7 @@
         type: 'button',
         onclick: () => {
           closeArtist();
+          closeProfile();
           if (s.date !== state.date) setDate(s.date);
           const target = state.shows.find((x) => x.id === s.id);
           if (target) openDetail(target);
@@ -1017,12 +1027,7 @@
     return el('button', {
       class: 'demo-artist-tile',
       type: 'button',
-      onclick: () => {
-        const next = DATA.shows
-          .filter((s) => s.artist === name && s.date >= state.date)
-          .sort((a, b) => a.date.localeCompare(b.date))[0];
-        if (next) goToShow(next);
-      },
+      onclick: () => openArtistByName(name),
     }, [
       artistAvatar(name, 'demo-avatar-xl'),
       el('span', { class: 'demo-artist-tile-name', text: name }),

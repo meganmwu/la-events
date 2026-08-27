@@ -1465,7 +1465,7 @@ body {
 .demo-artist-overlay {
   position: fixed;
   inset: 0;
-  z-index: 250;
+  z-index: 270; /* above the full-screen profile it can be opened from */
   background: var(--overlay);
   display: flex;
   align-items: center;

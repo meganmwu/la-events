@@ -469,51 +469,6 @@ function bindControls() {
   });
 }
 
-// ---------- theme switcher ----------
-// Palette experiment: each entry mirrors a theme block in styles.css.
-
-const THEMES = [
-  { id: 'fuchsia', name: 'Fuchsia (dark)', swatches: ['#0a0a0c', '#ff1053', '#a7d49b', '#623cea'] },
-  { id: 'aqua', name: 'Aqua (dark)', swatches: ['#0a0a0c', '#97ead2', '#fdcff3', '#a42cd6'] },
-  { id: 'light', name: 'Mint (light)', swatches: ['#ffffff', '#0d9668', '#9bedcb', '#7c2d2d'] },
-];
-
-function currentTheme() {
-  return document.documentElement.getAttribute('data-theme') || THEMES[0].id;
-}
-
-function applyTheme(id) {
-  document.documentElement.setAttribute('data-theme', id);
-  try {
-    localStorage.setItem('bscene-theme', id);
-  } catch (err) {
-    /* private browsing — theme just won't persist */
-  }
-  renderThemeSwitcher();
-}
-
-function renderThemeSwitcher() {
-  const box = $('#theme-options');
-  if (!box) return;
-  const active = currentTheme();
-  box.replaceChildren(
-    ...THEMES.map((theme) => {
-      const btn = el('button', {
-        class: 'theme-option',
-        type: 'button',
-        title: theme.name,
-        'aria-label': theme.name,
-        'aria-pressed': String(theme.id === active),
-        onclick: () => applyTheme(theme.id),
-      });
-      for (const color of theme.swatches) {
-        btn.append(el('span', { class: 'sw', style: `background:${color}` }));
-      }
-      return btn;
-    })
-  );
-}
-
 // ---------- hero sequencer grid ----------
 // Full-bleed grid of "sequencer" cells spelling the wordmark; a playhead
 // column sweeps left to right, pulsing the cells it crosses.
@@ -600,7 +555,6 @@ window.addEventListener('resize', () => {
 });
 
 async function init() {
-  renderThemeSwitcher();
   buildHero();
   bindControls();
   // Served over HTTP: always fetch fresh JSON (script-tag data can go stale in

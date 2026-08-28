@@ -807,20 +807,14 @@
 
   const SERVICE_FEE = 4.5;
 
-  const purchased = (() => {
-    try {
-      return new Set(JSON.parse(localStorage.getItem('bscene-purchases') || '[]'));
-    } catch (err) {
-      return new Set();
-    }
-  })();
+  // Session-only on purpose: a reload resets the account to its seeded state
+  // (one upcoming show), so the walkthrough starts the same way every time.
+  const purchased = new Set();
 
-  function savePurchases() {
-    try {
-      localStorage.setItem('bscene-purchases', JSON.stringify([...purchased]));
-    } catch (err) {
-      /* private browsing */
-    }
+  try {
+    localStorage.removeItem('bscene-purchases'); // clear buys saved by earlier builds
+  } catch (err) {
+    /* private browsing */
   }
 
   function orderRef() {
@@ -927,7 +921,6 @@
 
     function renderDone() {
       purchased.add(show.id);
-      savePurchases();
       refreshTicketRow(show);
 
       const close = el('button', { class: 'demo-artist-close', type: 'button', 'aria-label': 'Close', onclick: closeCheckout });

@@ -1443,11 +1443,15 @@
       if (btn) showExperience(btn.dataset.experience);
     });
 
-    let saved = 'fun';
-    try {
-      saved = localStorage.getItem('bscene-experience') || 'fun';
-    } catch (err) {
-      /* private browsing */
+    // With the tabs parked there is only one way in; honour a saved choice
+    // again as soon as they come back.
+    let saved = 'demo';
+    if (!tabs.classList.contains('hidden')) {
+      try {
+        saved = localStorage.getItem('bscene-experience') || 'fun';
+      } catch (err) {
+        /* private browsing */
+      }
     }
     showExperience(saved);
   }

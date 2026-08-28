@@ -688,9 +688,20 @@ body {
   position: sticky;
   top: 0;
   z-index: 60;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
   background: var(--bg);
   border-bottom: 1px solid var(--line);
-  padding: 8px 20px;
+  padding: 10px 20px;
+}
+
+.app-title {
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: 22px;
+  letter-spacing: -0.01em;
 }
 
 .experience-tabs {
@@ -1780,6 +1791,34 @@ body.lightbox-open { overflow: hidden; }
 }
 
 .demo-meetup-meta { font-size: 12.5px; color: var(--accent2); margin: 2px 0 8px; }
+
+@media (max-width: 640px) {
+  /* Artist name and follow button fight for room on a phone — reflow the
+     button onto its own line in both the popup and the show detail. */
+  .demo-artist-head {
+    flex-wrap: wrap;
+    padding-right: 44px;
+  }
+
+  .demo-artist-head .demo-follow {
+    flex-basis: 100%;
+    justify-content: center;
+    margin-top: 4px;
+  }
+
+  .demo-artist-headtext { flex-basis: 0; min-width: 120px; }
+
+  .demo-artist-row { flex-wrap: wrap; }
+
+  .demo-artist-row .demo-follow-sm {
+    flex-basis: 100%;
+    margin-left: 0;
+    justify-content: center;
+  }
+
+  .demo-detail-artist { font-size: 26px; }
+  .demo-artist-name-lg { font-size: 23px; }
+}
 
 @media (max-width: 860px) {
   .demo-split {

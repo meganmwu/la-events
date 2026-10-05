@@ -1,5 +1,5 @@
 {
- "scrapedAt": "2026-10-04T17:55:37+00:00",
+ "scrapedAt": "2026-10-05T21:23:18+00:00",
  "categories": {
   "music": "Music",
   "nightlife": "Nightlife & Parties",
@@ -7,808 +7,12 @@
   "film": "Film"
  },
  "counts": {
-  "ohmyrockness": 292,
-  "eventbrite": 70,
-  "lafunevents": 4,
-  "capucla": 33
+  "ohmyrockness": 294,
+  "eventbrite": 68,
+  "capucla": 33,
+  "lafunevents": 3
  },
  "events": [
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Circa Survive + PUP + Thursday + La Dispute + The Prize Fighter Inferno + Covet + Clarion + Elliott + Held. + Slow Mass",
-   "artists": [
-    "Circa Survive",
-    "PUP",
-    "Thursday",
-    "La Dispute",
-    "The Prize Fighter Inferno",
-    "Covet",
-    "Clarion",
-    "Elliott",
-    "Held.",
-    "Slow Mass"
-   ],
-   "url": "http://ohmyrockness.com/shows/476285-circa-survive-pup-thursday-la-dispute-the-prize-fighter-inferno-covet-clarion-elliott-held-slow-mass-the-observatory",
-   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fneverender-festival-single-day-104-santa-ana-california-10-04-2026%2Fevent%2F090064C8E765DE6B",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "13:00",
-   "venue": "The Observatory",
-   "address": "3503 S. Harbor Blvd., Santa Ana, CA 92704",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 1,
-   "shortDesc": "Indie / Alt show at The Observatory · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Sophia Galate",
-   "artists": [
-    "Sophia Galate"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/477779-sophia-galate-cielo-farms",
-   "ticketUrl": "https://dice.fm/event/ww9nmv-sophia-galat-friends-dj-sets-by-gg-gianni-4th-oct-cielo-farms-malibu-tickets",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "15:00",
-   "venue": "Cielo Farms",
-   "address": "31424 Mulholland Highway, Malibu, CA 90265",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 2,
-   "shortDesc": "Indie / Alt show at Cielo Farms · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Bush Tetras + Ikue Mori + Julianna Barwick + MITH + Adele Bertei + Adee Roberson + Anna Luisa Petrisko + The Maria Schneider Guitar Army + and more!",
-   "artists": [
-    "Bush Tetras",
-    "Ikue Mori",
-    "Julianna Barwick",
-    "MITH",
-    "Adele Bertei",
-    "Adee Roberson",
-    "Anna Luisa Petrisko",
-    "The Maria Schneider Guitar Army",
-    "and more!"
-   ],
-   "url": "http://ohmyrockness.com/shows/479092-bush-tetras-ikue-mori-julianna-barwick-mith-adele-bertei-adee-roberson-anna-luisa-petrisko-the-maria-schneider-guitar-army-and-more-the-getty",
-   "ticketUrl": "https://www.getty.edu/calendar/ever-present-moveable-feast-no-wave/",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "15:00",
-   "venue": "The Getty",
-   "address": "1200 Getty Center Drive, Los Angeles, CA 90049",
-   "isFree": true,
-   "priceText": "Free",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 3,
-   "shortDesc": "Indie / Alt show at The Getty · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "Sunday FunDay Party with Motley Inc. (Tribute to Motley Crue)",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/sunday-funday-party-with-motley-inc-tribute-to-motley-crue-tickets-1991423473216",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1991423473216",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186463362%2F543100370665%2F1%2Foriginal.20260609-030403?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.48&fp-y=0.375&s=b8b959af4a70e8d098fcd5cf84e66b7f",
-   "date": "2026-10-04",
-   "time": "15:00",
-   "venue": "The Lighthouse Cafe",
-   "address": "30 Pier Avenue, Hermosa Beach, CA 90254",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Party",
-   "genres": [],
-   "description": "Join us for a Sunday Day Party with Motley Inc.—good vibes, great music, and awesome company!",
-   "soldOut": false,
-   "id": 4,
-   "shortDesc": "Join us for a Sunday Day Party with Motley Inc.—good vibes, great music, and awesome company! — via Eventbrite"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "D.R.I. + Pentagram",
-   "artists": [
-    "D.R.I.",
-    "Pentagram"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/474652-d-r-i-pentagram-1720",
-   "ticketUrl": "https://dice.fm/event/avr3v2-dri-w-pentagram-4th-oct-1720-los-angeles-tickets",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "18:00",
-   "venue": "1720",
-   "address": "1720 E 16th St, Los Angeles, CA 90021",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "18+",
-   "soldOut": false,
-   "id": 5,
-   "shortDesc": "Indie / Alt show at 1720 · 18+ — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Tristen + Sharon Silva",
-   "artists": [
-    "Tristen",
-    "Sharon Silva"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/471019-tristen-sharon-silva-permanent-records-roadhouse",
-   "ticketUrl": "https://dice.fm/event/8e5dg5-tristen-4th-oct-permanent-records-roadhouse-los-angeles-tickets",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "18:00",
-   "venue": "Permanent Records Roadhouse",
-   "address": "1906 Cypress Ave, Los Angeles, CA 90065",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "21+",
-   "soldOut": false,
-   "id": 6,
-   "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Insane Clown Posse",
-   "artists": [
-    "Insane Clown Posse"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/473449-insane-clown-posse-riverside-municipal-auditorium",
-   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Finsane-clown-posse-riverside-california-10-04-2026%2Fevent%2F0B006486B0733BAB",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "18:00",
-   "venue": "Riverside Municipal Auditorium",
-   "address": "3485 Mission Inn Avenue, Riverside, CA 92501",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 7,
-   "shortDesc": "Indie / Alt show at Riverside Municipal Auditorium · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "SPY + Fentanyl + No Guard + Repeat Offender + Engine",
-   "artists": [
-    "SPY",
-    "Fentanyl",
-    "No Guard",
-    "Repeat Offender",
-    "Engine"
-   ],
-   "url": "http://ohmyrockness.com/shows/476966-spy-fentanyl-no-guard-repeat-offender-engine-the-paramount",
-   "ticketUrl": "https://dice.fm/event/q2q7pa-spy-fentanyl-no-guard-repeat-offender-engine-4th-oct-the-paramount-los-angeles-tickets",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "18:00",
-   "venue": "The Paramount",
-   "address": "2708 E Cesar E Chavez Ave. , Los Angeles, CA 90033",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 8,
-   "shortDesc": "Indie / Alt show at The Paramount · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "lafunevents",
-   "sourceLabel": "LA Fun Events",
-   "org": null,
-   "title": "Pasadena | San Gabriel Valley Speed Dating (Ages 28-40)",
-   "artists": [],
-   "url": "https://www.losangelesfunevents.com/event-details/pasadena-san-gabriel-valley-speed-dating-ages-28-40-9",
-   "ticketUrl": "https://www.losangelesfunevents.com/event-details/pasadena-san-gabriel-valley-speed-dating-ages-28-40-9",
-   "imageUrl": {
-    "@type": "ImageObject",
-    "url": "https://static.wixstatic.com/media/7ccd27_e079ed6b5a6d4f03a27410de732526af~mv2.jpg/v1/fill/w_1879,h_934,al_c,q_85/7ccd27_e079ed6b5a6d4f03a27410de732526af~mv2.jpg",
-    "width": "1879",
-    "height": "934"
-   },
-   "date": "2026-10-04",
-   "time": "18:00",
-   "venue": "Der Wolf",
-   "address": "72 N Fair Oaks Ave, Pasadena, CA 91103, USA",
-   "isFree": false,
-   "priceText": "$25.63",
-   "category": "nightlife",
-   "subcategory": "Speed Dating",
-   "genres": [],
-   "description": "Speed Dating is back! Join 60 singles at Der Wolf for the most efficient speed dating in Pasadena!",
-   "soldOut": false,
-   "id": 9,
-   "shortDesc": "Speed Dating is back! Join 60 singles at Der Wolf for the most efficient speed dating in Pasadena! — via LA Fun Events"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Chat Pile + Soul Glo + Virga",
-   "artists": [
-    "Chat Pile",
-    "Soul Glo",
-    "Virga"
-   ],
-   "url": "http://ohmyrockness.com/shows/473134-chat-pile-soul-glo-virga-the-belasco",
-   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fevent%2F090064C6073DA535",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "18:30",
-   "venue": "The Belasco",
-   "address": "1050 South Hill Street, Los Angeles, CA 90015",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Soul / Funk"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 10,
-   "shortDesc": "Soul / Funk show at The Belasco · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Charlie Burg + j solomon + Claire Brooks",
-   "artists": [
-    "Charlie Burg",
-    "j solomon",
-    "Claire Brooks"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/474789-charlie-burg-j-solomon-claire-brooks-lodge-room",
-   "ticketUrl": "https://www.lodgeroomhlp.com/shows/charlie-burg/",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "19:00",
-   "venue": "Lodge Room",
-   "address": "104 N. Ave 56, 2nd Floor, Los Angeles, CA 90042",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 11,
-   "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Earth To Cheska + Saticoy",
-   "artists": [
-    "Earth To Cheska",
-    "Saticoy"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/478358-earth-to-cheska-saticoy-oblivion",
-   "ticketUrl": "https://dice.fm/event/v3lpwl-earth-to-cheska-saticoy-4th-oct-oblivion-los-angeles-tickets",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "19:00",
-   "venue": "Oblivion ",
-   "address": "6118 N Figueroa St, Los Angeles, CA 90042",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 12,
-   "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Chad Gray + Butcher Babies + Devil's Cut",
-   "artists": [
-    "Chad Gray",
-    "Butcher Babies",
-    "Devil's Cut"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/473128-chad-gray-butcher-babies-devil-s-cut-the-bellwether",
-   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fchad-gray-30-years-of-madnesss-los-angeles-california-10-04-2026%2Fevent%2F090064C4CDC4102A",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "19:00",
-   "venue": "The Bellwether",
-   "address": "333 S. Boylston Street, Los Angeles, CA 90025",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 13,
-   "shortDesc": "Indie / Alt show at The Bellwether · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "So!YoON!",
-   "artists": [
-    "So!YoON!"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/477464-so-yoon-the-echo",
-   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fsoyoon-los-angeles-california-10-04-2026%2Fevent%2F0900650DE15DD6E0",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "19:00",
-   "venue": "The Echo",
-   "address": "1822 Sunset Blvd., Echo Park, CA 90026",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "",
-   "soldOut": false,
-   "id": 14,
-   "shortDesc": "Indie / Alt show at The Echo — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Sammy Rae & The Friends + Melt",
-   "artists": [
-    "Sammy Rae & The Friends",
-    "Melt"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/468158-sammy-rae-the-friends-melt-the-wiltern",
-   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fsammy-rae-the-friends-with-special-los-angeles-california-10-04-2026%2Fevent%2F09006474B939B579",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "19:00",
-   "venue": "The Wiltern",
-   "address": "3790 Wilshire Boulevard, Los Angeles, CA 90010",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 15,
-   "shortDesc": "Indie / Alt show at The Wiltern · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Steady Lean + Had Had + Tara Zorthian",
-   "artists": [
-    "Steady Lean",
-    "Had Had",
-    "Tara Zorthian"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/479292-steady-lean-had-had-tara-zorthian-scribble",
-   "ticketUrl": "https://dice.fm/event/wwk93g-steady-lean-had-had-tara-zorthian-4th-oct-scribble-los-angeles-tickets",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "19:30",
-   "venue": "Scribble",
-   "address": "5541 York Boulevard, Los Angeles,    90042",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 16,
-   "shortDesc": "Indie / Alt show at Scribble · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Wednesday 13 + Dead on a Sunday + Above Snakes",
-   "artists": [
-    "Wednesday 13",
-    "Dead on a Sunday",
-    "Above Snakes"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/470405-wednesday-13-dead-on-a-sunday-above-snakes-teragram-ballroom",
-   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fwednesday-13-los-angeles-california-10-04-2026%2Fevent%2F09006497A65FFAC4",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "19:30",
-   "venue": "Teragram Ballroom",
-   "address": "1234 West 7th Street, Los Angeles, CA 90017",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 17,
-   "shortDesc": "Indie / Alt show at Teragram Ballroom · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Rogê + The Sha La Das + Menahan Street Band",
-   "artists": [
-    "Rogê",
-    "The Sha La Das",
-    "Menahan Street Band"
-   ],
-   "url": "http://ohmyrockness.com/shows/471213-roge-the-sha-la-das-menahan-street-band-the-ford",
-   "ticketUrl": "https://www.theford.com/events/performances/4874/2026-10-04/diamond-west-showcase",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "19:30",
-   "venue": "The Ford",
-   "address": "2580 Cahuenga Blvd East, Hollywood, CA 90068",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 18,
-   "shortDesc": "Indie / Alt show at The Ford · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "eventbrite",
-   "sourceLabel": "Eventbrite",
-   "org": null,
-   "title": "An Evening with Joel and Wilson Savoy",
-   "artists": [],
-   "url": "https://www.eventbrite.com/e/an-evening-with-joel-and-wilson-savoy-tickets-1997426394114",
-   "ticketUrl": "https://www.eventbrite.com/checkout-external?eid=1997426394114",
-   "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190679331%2F1441651690953%2F1%2Foriginal.20260810-034302?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.535&fp-y=0.172&s=b55c99114674f922b731a7e694d3b76f",
-   "date": "2026-10-04",
-   "time": "19:30",
-   "venue": "Nichols Canyon Music",
-   "address": "2330 Nichols Canyon Rd, Los Angeles, CA 90046",
-   "isFree": false,
-   "priceText": "",
-   "category": "music",
-   "subcategory": "Concert",
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "Grammy winners and South Louisiana natives Wilson and Joel Savoy deliver a powerful, soulful take on south Louisiana roots music!",
-   "soldOut": false,
-   "id": 19,
-   "shortDesc": "Grammy winners and South Louisiana natives Wilson and Joel Savoy deliver a powerful, soulful take on south… — via Eventbrite"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Laundry Day + Illusion Hills + 10xTantrum",
-   "artists": [
-    "Laundry Day",
-    "Illusion Hills",
-    "10xTantrum"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/471624-laundry-day-illusion-hills-10xtantrum-fonda-theatre",
-   "ticketUrl": "https://www.axs.com/events/1446848/laundry-day-tickets",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "20:00",
-   "venue": "Fonda Theatre",
-   "address": "6126 Hollywood Boulevard, Los Angeles, CA 90028",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 20,
-   "shortDesc": "Indie / Alt show at Fonda Theatre · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "French Police + Social Order",
-   "artists": [
-    "French Police",
-    "Social Order"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/473448-french-police-social-order-house-of-blues-anaheim",
-   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Ffrench-police-anaheim-california-10-04-2026%2Fevent%2F090064BC9570DBD4",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "20:00",
-   "venue": "House Of Blues Anaheim",
-   "address": "1530 South Disneyland Drive, Anaheim, CA 92802",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 21,
-   "shortDesc": "Indie / Alt show at House Of Blues Anaheim · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Fear and Loathing in Las Vegas",
-   "artists": [
-    "Fear and Loathing in Las Vegas"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/477251-fear-and-loathing-in-las-vegas-the-glass-house",
-   "ticketUrl": "https://dice.fm/event/dkdqbv-fear-and-loathing-in-las-vegas-4th-oct-the-glass-house-pomona-tickets",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "20:00",
-   "venue": "The Glass House",
-   "address": "200 W Second Street, Pomona, CA 91766",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 22,
-   "shortDesc": "Indie / Alt show at The Glass House · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "IGORRR + Secret Chiefs 3 + Violent Magic Orchestra",
-   "artists": [
-    "IGORRR",
-    "Secret Chiefs 3",
-    "Violent Magic Orchestra"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/471872-igorrr-secret-chiefs-3-violent-magic-orchestra-the-novo",
-   "ticketUrl": "https://www.axs.com/events/1452496/igorrr-tickets?skin=goldenvoice&_gl=1*1k2r3ep*_gcl_au*MjA5NDIyOTQyMS4xNzc1NDkxNDYy",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "20:00",
-   "venue": "The Novo ",
-   "address": "800 West Olympic Blvd, Suite A335, Los Angeles, CA 90015",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Classical"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 23,
-   "shortDesc": "Classical show at The Novo  · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Division Miniscula",
-   "artists": [
-    "Division Miniscula"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/476379-division-miniscula-the-roxy",
-   "ticketUrl": "https://www.axs.com/events/1541582/division-minuscula-tickets",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "20:00",
-   "venue": "The Roxy",
-   "address": "9009 W Sunset Blvd, West Hollywood, CA 90069",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 24,
-   "shortDesc": "Indie / Alt show at The Roxy · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "So Vain + Sky Creature + LottoRPG",
-   "artists": [
-    "So Vain",
-    "Sky Creature",
-    "LottoRPG"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/479162-so-vain-sky-creature-lottorpg-the-smell",
-   "ticketUrl": "https://www.thesmell.org/eventtickets/p/sunday-october-4-2026",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "20:00",
-   "venue": "The Smell",
-   "address": "247 South Main Street, Los Angeles, CA 90012",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 25,
-   "shortDesc": "Indie / Alt show at The Smell · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Culture Wars",
-   "artists": [
-    "Culture Wars"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/479215-culture-wars-troubadour",
-   "ticketUrl": "https://www.eventim.us/event/tickets/702394",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "20:00",
-   "venue": "Troubadour",
-   "address": "9081 Santa Monica Blvd., West Hollywood, CA 90069",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 26,
-   "shortDesc": "Indie / Alt show at Troubadour · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Young Thug + Nav",
-   "artists": [
-    "Young Thug",
-    "Nav"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/475287-young-thug-nav-youtube-theater",
-   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fysl-records-young-thug-present-the-inglewood-california-10-04-2026%2Fevent%2F0A0064E8DBC9B8C9",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "20:00",
-   "venue": "YouTube Theater",
-   "address": "1050 S. Prairie Ave., Inglewood, CA 90301",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 27,
-   "shortDesc": "Indie / Alt show at YouTube Theater · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Dynasty Handbag",
-   "artists": [
-    "Dynasty Handbag"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/478959-dynasty-handbag-zebulon",
-   "ticketUrl": "https://dice.fm/event/3obg3l-weirdo-night-with-dynasty-handbag-4th-oct-zebulon-los-angeles-tickets",
-   "imageUrl": null,
-   "date": "2026-10-04",
-   "time": "20:00",
-   "venue": "Zebulon",
-   "address": "2478 N Fletcher Drive, Los Angeles, CA 90039",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "21+",
-   "soldOut": false,
-   "id": 28,
-   "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
-  },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
@@ -834,18 +38,20 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 29,
+   "id": 1,
    "shortDesc": "Indie / Alt show at Riverside Municipal Auditorium · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Hayley Williams",
+   "title": "Hayley Williams + Magdalena Bay + Rico Nasty",
    "artists": [
-    "Hayley Williams"
+    "Hayley Williams",
+    "Magdalena Bay",
+    "Rico Nasty"
    ],
-   "url": "http://ohmyrockness.com/shows/470229-hayley-williams-hollywood-bowl",
+   "url": "https://losangeles.ohmyrockness.com/shows/470229-hayley-williams-magdalena-bay-rico-nasty-hollywood-bowl",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fhayley-williams-hollywood-california-10-05-2026%2Fevent%2F0B006498BB4170B6",
    "imageUrl": null,
    "date": "2026-10-05",
@@ -861,7 +67,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 30,
+   "id": 2,
    "shortDesc": "Indie / Alt show at Hollywood Bowl · All Ages — via Oh My Rockness"
   },
   {
@@ -891,7 +97,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 31,
+   "id": 3,
    "shortDesc": "Indie / Alt show at House Of Blues Anaheim · All Ages — via Oh My Rockness"
   },
   {
@@ -922,7 +128,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 32,
+   "id": 4,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -952,38 +158,8 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 33,
+   "id": 5,
    "shortDesc": "Indie / Alt show at The Observatory · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Roxette + Taylor Dane + Nick Lowe + Los Straightjackets",
-   "artists": [
-    "Roxette",
-    "Taylor Dane",
-    "Nick Lowe",
-    "Los Straightjackets"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/472039-roxette-taylor-dane-nick-lowe-los-straightjackets-the-greek-theatre",
-   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fevent%2F090064B5F366772F",
-   "imageUrl": null,
-   "date": "2026-10-05",
-   "time": "18:30",
-   "venue": "The Greek Theatre",
-   "address": "2700 North Vermont, in Griffith Park, Los Angeles, CA 90027",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 34,
-   "shortDesc": "Indie / Alt show at The Greek Theatre · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
@@ -1012,18 +188,19 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 35,
+   "id": 6,
    "shortDesc": "Indie / Alt show at Brain Dead Studios · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Rum Jungle",
+   "title": "Rum Jungle + Trestles",
    "artists": [
-    "Rum Jungle"
+    "Rum Jungle",
+    "Trestles"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/470924-rum-jungle-echoplex",
+   "url": "https://losangeles.ohmyrockness.com/shows/470924-rum-jungle-trestles-echoplex",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Frum-jungle-los-angeles-california-10-05-2026%2Fevent%2F090064A4D2BF5023",
    "imageUrl": null,
    "date": "2026-10-05",
@@ -1039,7 +216,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 36,
+   "id": 7,
    "shortDesc": "Indie / Alt show at Echoplex · All Ages — via Oh My Rockness"
   },
   {
@@ -1067,20 +244,20 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 37,
+   "id": 8,
    "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Telescreens + AKA BK + Torture and the Desert Spiders",
+   "title": "Telescreens + AKA BK + Torture",
    "artists": [
     "Telescreens",
     "AKA BK",
-    "Torture and the Desert Spiders"
+    "Torture"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/473802-telescreens-aka-bk-torture-and-the-desert-spiders-the-echo",
+   "url": "https://losangeles.ohmyrockness.com/shows/473802-telescreens-aka-bk-torture-the-echo",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Ftelescreens-why-the-lights-flicker-north-los-angeles-california-10-05-2026%2Fevent%2F090064CBE11FFA88",
    "imageUrl": null,
    "date": "2026-10-05",
@@ -1096,7 +273,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 38,
+   "id": 9,
    "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
   },
   {
@@ -1123,7 +300,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 39,
+   "id": 10,
    "shortDesc": "Indie / Alt show at The Grammy Museum · All Ages — via Oh My Rockness"
   },
   {
@@ -1151,18 +328,19 @@
    ],
    "description": "",
    "soldOut": false,
-   "id": 40,
+   "id": 11,
    "shortDesc": "Indie / Alt show at The Observatory — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Jesse Welles",
+   "title": "Jesse Welles + Hudson Freeman",
    "artists": [
-    "Jesse Welles"
+    "Jesse Welles",
+    "Hudson Freeman"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/468360-jesse-welles-the-wiltern",
+   "url": "https://losangeles.ohmyrockness.com/shows/468360-jesse-welles-hudson-freeman-the-wiltern",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fevent%2F09006478FAADC487",
    "imageUrl": null,
    "date": "2026-10-05",
@@ -1178,7 +356,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 41,
+   "id": 12,
    "shortDesc": "Indie / Alt show at The Wiltern · All Ages — via Oh My Rockness"
   },
   {
@@ -1207,7 +385,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 42,
+   "id": 13,
    "shortDesc": "Indie / Alt show at Club Tee Gee · 21+ — via Oh My Rockness"
   },
   {
@@ -1234,18 +412,19 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 43,
+   "id": 14,
    "shortDesc": "Indie / Alt show at El Cid · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Bella Kay",
+   "title": "Bella Kay + Hailey Picardi",
    "artists": [
-    "Bella Kay"
+    "Bella Kay",
+    "Hailey Picardi"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/474970-bella-kay-el-rey-theatre",
+   "url": "https://losangeles.ohmyrockness.com/shows/474970-bella-kay-hailey-picardi-el-rey-theatre",
    "ticketUrl": "https://www.axs.com/events/1512046/bella-kay-tickets",
    "imageUrl": null,
    "date": "2026-10-05",
@@ -1261,7 +440,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 44,
+   "id": 15,
    "shortDesc": "Indie / Alt show at El Rey Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -1290,19 +469,20 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 45,
+   "id": 16,
    "shortDesc": "Indie / Alt show at Teragram Ballroom · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Seasick Steve",
+   "title": "Seasick Steve + Josh Okeefe",
    "artists": [
-    "Seasick Steve"
+    "Seasick Steve",
+    "Josh Okeefe"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/477613-seasick-steve-troubadour",
-   "ticketUrl": "https://troubadour.com/calendar/axs.com/events/1576459/seasick-steve-tickets",
+   "url": "https://losangeles.ohmyrockness.com/shows/477613-seasick-steve-josh-okeefe-troubadour",
+   "ticketUrl": "https://www.troubadour.com/events/detail/seasick-steve-1576459",
    "imageUrl": null,
    "date": "2026-10-05",
    "time": "20:00",
@@ -1317,7 +497,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 46,
+   "id": 17,
    "shortDesc": "Indie / Alt show at Troubadour · All Ages — via Oh My Rockness"
   },
   {
@@ -1344,18 +524,20 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 47,
+   "id": 18,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Hayley Williams",
+   "title": "Hayley Williams + Magdalena Bay + Rico Nasty",
    "artists": [
-    "Hayley Williams"
+    "Hayley Williams",
+    "Magdalena Bay",
+    "Rico Nasty"
    ],
-   "url": "http://ohmyrockness.com/shows/470503-hayley-williams-hollywood-bowl",
+   "url": "https://losangeles.ohmyrockness.com/shows/470503-hayley-williams-magdalena-bay-rico-nasty-hollywood-bowl",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fthe-hayley-williams-show-hollywood-california-10-06-2026%2Fevent%2F0B0064A1EBEF953D",
    "imageUrl": null,
    "date": "2026-10-06",
@@ -1371,7 +553,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 48,
+   "id": 19,
    "shortDesc": "Indie / Alt show at Hollywood Bowl · All Ages — via Oh My Rockness"
   },
   {
@@ -1400,7 +582,7 @@
    ],
    "description": "18+",
    "soldOut": false,
-   "id": 49,
+   "id": 20,
    "shortDesc": "Indie / Alt show at El Cid · 18+ — via Oh My Rockness"
   },
   {
@@ -1427,18 +609,19 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 50,
+   "id": 21,
    "shortDesc": "Indie / Alt show at Los Globos · 21+ — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Anna Graves",
+   "title": "Anna Graves + Sweet Nothin's",
    "artists": [
-    "Anna Graves"
+    "Anna Graves",
+    "Sweet Nothin's"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/473784-anna-graves-moroccan-lounge",
+   "url": "https://losangeles.ohmyrockness.com/shows/473784-anna-graves-sweet-nothin-s-moroccan-lounge",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fanna-graves-los-angeles-california-10-06-2026%2Fevent%2F090064C90584A168",
    "imageUrl": null,
    "date": "2026-10-06",
@@ -1454,7 +637,7 @@
    ],
    "description": "",
    "soldOut": false,
-   "id": 51,
+   "id": 22,
    "shortDesc": "Indie / Alt show at Moroccan Lounge — via Oh My Rockness"
   },
   {
@@ -1482,7 +665,7 @@
    ],
    "description": "",
    "soldOut": false,
-   "id": 52,
+   "id": 23,
    "shortDesc": "Indie / Alt show at Echoplex — via Oh My Rockness"
   },
   {
@@ -1512,7 +695,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 53,
+   "id": 24,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -1540,7 +723,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 54,
+   "id": 25,
    "shortDesc": "Indie / Alt show at Pappy & Harriet's · All Ages — via Oh My Rockness"
   },
   {
@@ -1569,7 +752,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 55,
+   "id": 26,
    "shortDesc": "Indie / Alt show at The Observatory · All Ages — via Oh My Rockness"
   },
   {
@@ -1596,7 +779,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 56,
+   "id": 27,
    "shortDesc": "Indie / Alt show at The Wiltern · All Ages — via Oh My Rockness"
   },
   {
@@ -1623,7 +806,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 57,
+   "id": 28,
    "shortDesc": "Indie / Alt show at Troubadour · All Ages — via Oh My Rockness"
   },
   {
@@ -1651,7 +834,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 58,
+   "id": 29,
    "shortDesc": "Indie / Alt show at Kia Forum · All Ages — via Oh My Rockness"
   },
   {
@@ -1678,7 +861,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 59,
+   "id": 30,
    "shortDesc": "Indie / Alt show at The Grammy Museum · All Ages — via Oh My Rockness"
   },
   {
@@ -1705,18 +888,19 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 60,
+   "id": 31,
    "shortDesc": "Indie / Alt show at 2220 Arts + Archives · 21+ — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Bella Kay",
+   "title": "Bella Kay + Hailey Picardi",
    "artists": [
-    "Bella Kay"
+    "Bella Kay",
+    "Hailey Picardi"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/474660-bella-kay-el-rey-theatre",
+   "url": "https://losangeles.ohmyrockness.com/shows/474660-bella-kay-hailey-picardi-el-rey-theatre",
    "ticketUrl": "https://www.axs.com/events/1509968/bella-kay-tickets",
    "imageUrl": null,
    "date": "2026-10-06",
@@ -1732,7 +916,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 61,
+   "id": 32,
    "shortDesc": "Indie / Alt show at El Rey Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -1760,18 +944,19 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 62,
+   "id": 33,
    "shortDesc": "Indie / Alt show at Fonda Theatre · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Jai'Len Josey",
+   "title": "Jai'Len Josey + Zyah Belle",
    "artists": [
-    "Jai'Len Josey"
+    "Jai'Len Josey",
+    "Zyah Belle"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/475521-jai-len-josey-the-echo",
+   "url": "https://losangeles.ohmyrockness.com/shows/475521-jai-len-josey-zyah-belle-the-echo",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fjailen-josey-serial-romantic-tour-los-angeles-california-10-06-2026%2Fevent%2F090064D1E8FB200E",
    "imageUrl": null,
    "date": "2026-10-06",
@@ -1787,18 +972,19 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 63,
+   "id": 34,
    "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "overtonight",
+   "title": "overtonight + Tommy Ragen",
    "artists": [
-    "overtonight"
+    "overtonight",
+    "Tommy Ragen"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/472691-overtonight-the-roxy",
+   "url": "https://losangeles.ohmyrockness.com/shows/472691-overtonight-tommy-ragen-the-roxy",
    "ticketUrl": "https://www.axs.com/events/1473335/overtonight-tickets",
    "imageUrl": null,
    "date": "2026-10-06",
@@ -1814,7 +1000,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 64,
+   "id": 35,
    "shortDesc": "Indie / Alt show at The Roxy · All Ages — via Oh My Rockness"
   },
   {
@@ -1843,7 +1029,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 65,
+   "id": 36,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -1871,7 +1057,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 66,
+   "id": 37,
    "shortDesc": "Indie / Alt show at 1720 · All Ages — via Oh My Rockness"
   },
   {
@@ -1900,18 +1086,19 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 67,
+   "id": 38,
    "shortDesc": "Indie / Alt show at The Wiltern · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "MT Jones",
+   "title": "MT Jones + Camille Trust",
    "artists": [
-    "MT Jones"
+    "MT Jones",
+    "Camille Trust"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/473496-mt-jones-moroccan-lounge",
+   "url": "https://losangeles.ohmyrockness.com/shows/473496-mt-jones-camille-trust-moroccan-lounge",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fmt-jones-los-angeles-california-10-07-2026%2Fevent%2F0900649C09256292",
    "imageUrl": null,
    "date": "2026-10-07",
@@ -1927,7 +1114,7 @@
    ],
    "description": "",
    "soldOut": false,
-   "id": 68,
+   "id": 39,
    "shortDesc": "Indie / Alt show at Moroccan Lounge — via Oh My Rockness"
   },
   {
@@ -1955,7 +1142,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 69,
+   "id": 40,
    "shortDesc": "Indie / Alt show at Brain Dead Studios · All Ages — via Oh My Rockness"
   },
   {
@@ -1982,18 +1169,20 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 70,
+   "id": 41,
    "shortDesc": "Indie / Alt show at Dolby Theatre · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Handsome Dick Manitoba",
+   "title": "Handsome Dick Manitoba + The Vom Pops + The Ruby Brat Band",
    "artists": [
-    "Handsome Dick Manitoba"
+    "Handsome Dick Manitoba",
+    "The Vom Pops",
+    "The Ruby Brat Band"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/479014-handsome-dick-manitoba-gold-diggers",
+   "url": "http://ohmyrockness.com/shows/479014-handsome-dick-manitoba-the-vom-pops-the-ruby-brat-band-gold-diggers",
    "ticketUrl": "https://dice.fm/event/k629gp-handsome-dick-manitoba-support-tba-7th-oct-gold-diggers-los-angeles-tickets",
    "imageUrl": null,
    "date": "2026-10-07",
@@ -2009,7 +1198,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 71,
+   "id": 42,
    "shortDesc": "Indie / Alt show at Gold-Diggers · 21+ — via Oh My Rockness"
   },
   {
@@ -2037,7 +1226,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 72,
+   "id": 43,
    "shortDesc": "Indie / Alt show at Hollywood Palladium · All Ages — via Oh My Rockness"
   },
   {
@@ -2064,18 +1253,19 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 73,
+   "id": 44,
    "shortDesc": "Indie / Alt show at House Of Blues Anaheim · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Nick Hakim",
+   "title": "Nick Hakim + Arima Ederra",
    "artists": [
-    "Nick Hakim"
+    "Nick Hakim",
+    "Arima Ederra"
    ],
-   "url": "http://ohmyrockness.com/shows/473345-nick-hakim-lodge-room",
+   "url": "http://ohmyrockness.com/shows/473345-nick-hakim-arima-ederra-lodge-room",
    "ticketUrl": "https://www.lodgeroomhlp.com/shows/nick-hakim/",
    "imageUrl": null,
    "date": "2026-10-07",
@@ -2091,7 +1281,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 74,
+   "id": 45,
    "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
   },
   {
@@ -2122,7 +1312,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 75,
+   "id": 46,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -2150,7 +1340,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 76,
+   "id": 47,
    "shortDesc": "Indie / Alt show at The Observatory · All Ages — via Oh My Rockness"
   },
   {
@@ -2173,7 +1363,7 @@
    "genres": [],
    "description": "Live out our collective Actor's Nightmare! Throw your name in the hat and take our stage every 1st Weds.",
    "soldOut": false,
-   "id": 77,
+   "id": 48,
    "shortDesc": "Live out our collective Actor's Nightmare! Throw your name in the hat and take our stage every 1st Weds. — via Eventbrite"
   },
   {
@@ -2201,7 +1391,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 78,
+   "id": 49,
    "shortDesc": "Indie / Alt show at Kia Forum · All Ages — via Oh My Rockness"
   },
   {
@@ -2228,18 +1418,20 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 79,
+   "id": 50,
    "shortDesc": "Indie / Alt show at 2220 Arts + Archives · 21+ — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "The Yeahtones",
+   "title": "The Yeahtones + Spiral + Intestinehead",
    "artists": [
-    "The Yeahtones"
+    "The Yeahtones",
+    "Spiral",
+    "Intestinehead"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/478843-the-yeahtones-el-cid",
+   "url": "https://losangeles.ohmyrockness.com/shows/478843-the-yeahtones-spiral-intestinehead-el-cid",
    "ticketUrl": "https://dice.fm/event/q2d8go-the-yeahtones-and-friends-7th-oct-el-cid-los-angeles-tickets",
    "imageUrl": null,
    "date": "2026-10-07",
@@ -2255,18 +1447,19 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 80,
+   "id": 51,
    "shortDesc": "Indie / Alt show at El Cid · 21+ — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "oskar med k",
+   "title": "oskar med k + Lilya Mandr",
    "artists": [
-    "oskar med k"
+    "oskar med k",
+    "Lilya Mandr"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/467916-oskar-med-k-fonda-theatre",
+   "url": "https://losangeles.ohmyrockness.com/shows/467916-oskar-med-k-lilya-mandr-fonda-theatre",
    "ticketUrl": "https://www.axs.com/events/1374163/oskar-med-k-tickets",
    "imageUrl": null,
    "date": "2026-10-07",
@@ -2282,7 +1475,7 @@
    ],
    "description": "18+",
    "soldOut": false,
-   "id": 81,
+   "id": 52,
    "shortDesc": "Indie / Alt show at Fonda Theatre · 18+ — via Oh My Rockness"
   },
   {
@@ -2310,7 +1503,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 82,
+   "id": 53,
    "shortDesc": "Indie / Alt show at Healing Force of the Universe · All Ages — via Oh My Rockness"
   },
   {
@@ -2339,7 +1532,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 83,
+   "id": 54,
    "shortDesc": "Indie / Alt show at The Airliner · 21+ — via Oh My Rockness"
   },
   {
@@ -2368,7 +1561,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 84,
+   "id": 55,
    "shortDesc": "Indie / Alt show at The Bellwether · All Ages — via Oh My Rockness"
   },
   {
@@ -2397,7 +1590,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 85,
+   "id": 56,
    "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
   },
   {
@@ -2424,35 +1617,8 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 86,
+   "id": 57,
    "shortDesc": "Indie / Alt show at The Novo  · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Paloma Morphy",
-   "artists": [
-    "Paloma Morphy"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/471139-paloma-morphy-the-roxy",
-   "ticketUrl": "https://www.axs.com/events/1438530/paloma-morphy-tickets",
-   "imageUrl": null,
-   "date": "2026-10-07",
-   "time": "20:00",
-   "venue": "The Roxy",
-   "address": "9009 W Sunset Blvd, West Hollywood, CA 90069",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 87,
-   "shortDesc": "Indie / Alt show at The Roxy · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
@@ -2479,7 +1645,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 88,
+   "id": 58,
    "shortDesc": "Indie / Alt show at The Venice West · 21+ — via Oh My Rockness"
   },
   {
@@ -2507,7 +1673,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 89,
+   "id": 59,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -2536,7 +1702,7 @@
    ],
    "description": "",
    "soldOut": false,
-   "id": 90,
+   "id": 60,
    "shortDesc": "Indie / Alt show at Echoplex — via Oh My Rockness"
   },
   {
@@ -2566,7 +1732,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 91,
+   "id": 61,
    "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
   },
   {
@@ -2594,7 +1760,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 92,
+   "id": 62,
    "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
   },
   {
@@ -2621,7 +1787,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 93,
+   "id": 63,
    "shortDesc": "Indie / Alt show at Moroccan Lounge · All Ages — via Oh My Rockness"
   },
   {
@@ -2648,7 +1814,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 94,
+   "id": 64,
    "shortDesc": "Indie / Alt show at Brain Dead Studios · All Ages — via Oh My Rockness"
   },
   {
@@ -2675,7 +1841,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 95,
+   "id": 65,
    "shortDesc": "Indie / Alt show at Gold-Diggers · 21+ — via Oh My Rockness"
   },
   {
@@ -2704,7 +1870,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 96,
+   "id": 66,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -2733,7 +1899,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 97,
+   "id": 67,
    "shortDesc": "Indie / Alt show at Scribble · All Ages — via Oh My Rockness"
   },
   {
@@ -2761,18 +1927,20 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 98,
+   "id": 68,
    "shortDesc": "Indie / Alt show at Teragram Ballroom · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Finnish Postcard",
+   "title": "Finnish Postcard + Stress Actual + Thomas Luminoso",
    "artists": [
-    "Finnish Postcard"
+    "Finnish Postcard",
+    "Stress Actual",
+    "Thomas Luminoso"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/478180-finnish-postcard-the-airliner",
+   "url": "https://losangeles.ohmyrockness.com/shows/478180-finnish-postcard-stress-actual-thomas-luminoso-the-airliner",
    "ticketUrl": "https://dice.fm/event/eon7gw-finnish-postcard-album-release-show-8th-oct-the-airliner-los-angeles-tickets",
    "imageUrl": null,
    "date": "2026-10-08",
@@ -2788,18 +1956,19 @@
    ],
    "description": "18+",
    "soldOut": false,
-   "id": 99,
+   "id": 69,
    "shortDesc": "Indie / Alt show at The Airliner · 18+ — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Stephen Dawes",
+   "title": "Stephen Dawes + Jojomber",
    "artists": [
-    "Stephen Dawes"
+    "Stephen Dawes",
+    "Jojomber"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/474814-stephen-dawes-the-echo",
+   "url": "https://losangeles.ohmyrockness.com/shows/474814-stephen-dawes-jojomber-the-echo",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fstephen-dawes-presents-the-skin-to-los-angeles-california-10-08-2026%2Fevent%2F090064E2F23FB5A5",
    "imageUrl": null,
    "date": "2026-10-08",
@@ -2815,7 +1984,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 100,
+   "id": 70,
    "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
   },
   {
@@ -2842,7 +2011,7 @@
    ],
    "description": "",
    "soldOut": false,
-   "id": 101,
+   "id": 71,
    "shortDesc": "Indie / Alt show at The Observatory — via Oh My Rockness"
   },
   {
@@ -2870,7 +2039,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 102,
+   "id": 72,
    "shortDesc": "Indie / Alt show at Troubadour · All Ages — via Oh My Rockness"
   },
   {
@@ -2893,7 +2062,7 @@
    "genres": [],
    "description": "JAM Comedy Presents: Nick Rochefort & Alex Schultz",
    "soldOut": false,
-   "id": 103,
+   "id": 73,
    "shortDesc": "JAM Comedy Presents: Nick Rochefort & Alex Schultz — via Eventbrite"
   },
   {
@@ -2922,7 +2091,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 104,
+   "id": 74,
    "shortDesc": "Indie / Alt show at Hollywood Bowl · All Ages — via Oh My Rockness"
   },
   {
@@ -2949,7 +2118,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 105,
+   "id": 75,
    "shortDesc": "Indie / Alt show at The Grammy Museum · All Ages — via Oh My Rockness"
   },
   {
@@ -2977,19 +2146,20 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 106,
+   "id": 76,
    "shortDesc": "Indie / Alt show at El Cid · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Last Dinosaurs",
+   "title": "Last Dinosaurs + Golf Alpha Bravo",
    "artists": [
-    "Last Dinosaurs"
+    "Last Dinosaurs",
+    "Golf Alpha Bravo"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/472764-last-dinosaurs-fox-theater-pomona",
-   "ticketUrl": "https://www.axs.com/artists/692813/last-dinosaurs-tickets",
+   "url": "https://losangeles.ohmyrockness.com/shows/472764-last-dinosaurs-golf-alpha-bravo-fox-theater-pomona",
+   "ticketUrl": "https://www.axs.com/events/1472048",
    "imageUrl": null,
    "date": "2026-10-08",
    "time": "20:00",
@@ -3004,7 +2174,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 107,
+   "id": 77,
    "shortDesc": "Indie / Alt show at Fox Theater Pomona · All Ages — via Oh My Rockness"
   },
   {
@@ -3032,7 +2202,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 108,
+   "id": 78,
    "shortDesc": "Indie / Alt show at Healing Force of the Universe · 21+ — via Oh My Rockness"
   },
   {
@@ -3059,7 +2229,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 109,
+   "id": 79,
    "shortDesc": "Indie / Alt show at Hollywood Forever · All Ages — via Oh My Rockness"
   },
   {
@@ -3086,7 +2256,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 110,
+   "id": 80,
    "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
   },
   {
@@ -3114,7 +2284,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 111,
+   "id": 81,
    "shortDesc": "Indie / Alt show at Pacific Electric · All Ages — via Oh My Rockness"
   },
   {
@@ -3142,7 +2312,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 112,
+   "id": 82,
    "shortDesc": "Indie / Alt show at Pappy & Harriet's · All Ages — via Oh My Rockness"
   },
   {
@@ -3170,7 +2340,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 113,
+   "id": 83,
    "shortDesc": "Indie / Alt show at The Bellwether · All Ages — via Oh My Rockness"
   },
   {
@@ -3197,7 +2367,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 114,
+   "id": 84,
    "shortDesc": "Indie / Alt show at The Ford · All Ages — via Oh My Rockness"
   },
   {
@@ -3224,7 +2394,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 115,
+   "id": 85,
    "shortDesc": "Indie / Alt show at The Observatory · All Ages — via Oh My Rockness"
   },
   {
@@ -3253,18 +2423,19 @@
    ],
    "description": "18+",
    "soldOut": false,
-   "id": 116,
+   "id": 86,
    "shortDesc": "Indie / Alt show at The Regent Theater · 18+ — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "lilyisthatyou",
+   "title": "lilyisthatyou + James the Seventh",
    "artists": [
-    "lilyisthatyou"
+    "lilyisthatyou",
+    "James the Seventh"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/470179-lilyisthatyou-the-roxy",
+   "url": "https://losangeles.ohmyrockness.com/shows/470179-lilyisthatyou-james-the-seventh-the-roxy",
    "ticketUrl": "https://www.axs.com/events/1425344/lilyisthatyou-tickets",
    "imageUrl": null,
    "date": "2026-10-08",
@@ -3280,7 +2451,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 117,
+   "id": 87,
    "shortDesc": "Indie / Alt show at The Roxy · All Ages — via Oh My Rockness"
   },
   {
@@ -3307,7 +2478,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 118,
+   "id": 88,
    "shortDesc": "Indie / Alt show at The Venice West · 21+ — via Oh My Rockness"
   },
   {
@@ -3334,35 +2505,8 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 119,
+   "id": 89,
    "shortDesc": "Indie / Alt show at The Wiltern · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Body/Head",
-   "artists": [
-    "Body/Head"
-   ],
-   "url": "http://ohmyrockness.com/shows/478277-body-head-zebulon",
-   "ticketUrl": "https://dice.fm/event/wwkqyx-bodyhead-8th-oct-zebulon-los-angeles-tickets",
-   "imageUrl": null,
-   "date": "2026-10-08",
-   "time": "20:00",
-   "venue": "Zebulon",
-   "address": "2478 N Fletcher Drive, Los Angeles, CA 90039",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "21+",
-   "soldOut": false,
-   "id": 120,
-   "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
@@ -3388,7 +2532,35 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 121,
+   "id": 90,
+   "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Body/Head + My Generation",
+   "artists": [
+    "Body/Head",
+    "My Generation"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/478277-body-head-my-generation-zebulon",
+   "ticketUrl": "https://dice.fm/event/wwkqyx-bodyhead-8th-oct-zebulon-los-angeles-tickets",
+   "imageUrl": null,
+   "date": "2026-10-08",
+   "time": "20:00",
+   "venue": "Zebulon",
+   "address": "2478 N Fletcher Drive, Los Angeles, CA 90039",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "21+",
+   "soldOut": false,
+   "id": 91,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -3413,18 +2585,19 @@
    ],
    "description": "A performance exploring the shared musical heritage of the Mediterranean.",
    "soldOut": false,
-   "id": 122,
+   "id": 92,
    "shortDesc": "A performance exploring the shared musical heritage of the Mediterranean. — via Eventbrite"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Adéla",
+   "title": "Adéla + Zoe Gitter",
    "artists": [
-    "Adéla"
+    "Adéla",
+    "Zoe Gitter"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/472028-adela-fonda-theatre",
+   "url": "https://losangeles.ohmyrockness.com/shows/472028-adela-zoe-gitter-fonda-theatre",
    "ticketUrl": "https://www.axs.com/events/1459436/adela-tickets",
    "imageUrl": null,
    "date": "2026-10-08",
@@ -3440,35 +2613,8 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 123,
+   "id": 93,
    "shortDesc": "Indie / Alt show at Fonda Theatre · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "friqtao",
-   "artists": [
-    "friqtao"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/467700-friqtao-blue-note-los-angeles",
-   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Ffriqtao-blue-note-los-angeles-tickets%2F14054224",
-   "imageUrl": null,
-   "date": "2026-10-08",
-   "time": "21:30",
-   "venue": "Blue Note Los Angeles",
-   "address": "6372 Sunset Blvd, Los Angeles, CA 90028",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 124,
-   "shortDesc": "Indie / Alt show at Blue Note Los Angeles · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
@@ -3494,7 +2640,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 125,
+   "id": 94,
    "shortDesc": "Indie / Alt show at Moroccan Lounge · All Ages — via Oh My Rockness"
   },
   {
@@ -3517,7 +2663,7 @@
    "genres": [],
    "description": "Scuffed Realtor: LIVE- with Nick Rochefort and Alex Schultz.Nick and Alex are bringing your favorite hub for viewer submitted house reviews,",
    "soldOut": false,
-   "id": 126,
+   "id": 95,
    "shortDesc": "Scuffed Realtor: LIVE- with Nick Rochefort and Alex Schultz.Nick and Alex are bringing your favorite hub for… — via Eventbrite"
   },
   {
@@ -3544,7 +2690,7 @@
    ],
    "description": "Landen Tusi brings modern country, rock & acoustic storytelling live at Mom Said Yes Pizza in Torrance. Standing room only — don't miss it!",
    "soldOut": false,
-   "id": 127,
+   "id": 96,
    "shortDesc": "Landen Tusi brings modern country, rock & acoustic storytelling live at Mom Said Yes Pizza in Torrance… — via Eventbrite"
   },
   {
@@ -3576,35 +2722,8 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 128,
+   "id": 97,
    "shortDesc": "Indie / Alt show at 1720 · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Shabaka",
-   "artists": [
-    "Shabaka"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/476241-shabaka-blue-note-los-angeles",
-   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fshabaka-blue-note-los-angeles-tickets%2F14265254",
-   "imageUrl": null,
-   "date": "2026-10-09",
-   "time": "17:00",
-   "venue": "Blue Note Los Angeles",
-   "address": "6372 Sunset Blvd, Los Angeles, CA 90028",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 129,
-   "shortDesc": "Indie / Alt show at Blue Note Los Angeles · All Ages — via Oh My Rockness"
   },
   {
    "source": "eventbrite",
@@ -3629,7 +2748,7 @@
    ],
    "description": "dublon returns to L.A.",
    "soldOut": false,
-   "id": 130,
+   "id": 98,
    "shortDesc": "dublon returns to L.A. — via Eventbrite"
   },
   {
@@ -3656,7 +2775,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 131,
+   "id": 99,
    "shortDesc": "Indie / Alt show at LACMA · All Ages — via Oh My Rockness"
   },
   {
@@ -3684,7 +2803,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 132,
+   "id": 100,
    "shortDesc": "Indie / Alt show at Riverside Municipal Auditorium · All Ages — via Oh My Rockness"
   },
   {
@@ -3711,18 +2830,19 @@
    ],
    "description": "",
    "soldOut": false,
-   "id": 133,
+   "id": 101,
    "shortDesc": "Indie / Alt show at El Cid — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "The Royston Club",
+   "title": "The Royston Club + White China",
    "artists": [
-    "The Royston Club"
+    "The Royston Club",
+    "White China"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/474459-the-royston-club-moroccan-lounge",
+   "url": "https://losangeles.ohmyrockness.com/shows/474459-the-royston-club-white-china-moroccan-lounge",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fthe-royston-club-los-angeles-california-10-09-2026%2Fevent%2F090064C9F97A8817%3Fbrand%3Dmoroccan%26came_from%3DCFC_Moroccan_web",
    "imageUrl": null,
    "date": "2026-10-09",
@@ -3738,7 +2858,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 134,
+   "id": 102,
    "shortDesc": "Indie / Alt show at Moroccan Lounge · All Ages — via Oh My Rockness"
   },
   {
@@ -3767,7 +2887,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 135,
+   "id": 103,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -3794,7 +2914,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 136,
+   "id": 104,
    "shortDesc": "Indie / Alt show at Hollywood Bowl · All Ages — via Oh My Rockness"
   },
   {
@@ -3821,7 +2941,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 137,
+   "id": 105,
    "shortDesc": "Indie / Alt show at Hollywood Palladium · All Ages — via Oh My Rockness"
   },
   {
@@ -3849,7 +2969,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 138,
+   "id": 106,
    "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
   },
   {
@@ -3878,35 +2998,8 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 139,
+   "id": 107,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Levi.SCT",
-   "artists": [
-    "Levi.SCT"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/463999-levi-sct-pico-union-project",
-   "ticketUrl": "https://dice.fm/event/yo6adr-levisct-live-in-los-angeles-9th-oct-pico-union-project-los-angeles-tickets",
-   "imageUrl": null,
-   "date": "2026-10-09",
-   "time": "19:00",
-   "venue": "Pico-Union Project",
-   "address": ", Los Angeles, CA 90015",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 140,
-   "shortDesc": "Indie / Alt show at Pico-Union Project · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
@@ -3933,7 +3026,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 141,
+   "id": 108,
    "shortDesc": "Indie / Alt show at Santa Barbara Bowl · All Ages — via Oh My Rockness"
   },
   {
@@ -3961,7 +3054,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 142,
+   "id": 109,
    "shortDesc": "Indie / Alt show at Teragram Ballroom · All Ages — via Oh My Rockness"
   },
   {
@@ -3991,18 +3084,19 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 143,
+   "id": 110,
    "shortDesc": "Indie / Alt show at The Glass House · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Tinlicker",
+   "title": "Tinlicker + Helsloot",
    "artists": [
-    "Tinlicker"
+    "Tinlicker",
+    "Helsloot"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/469864-tinlicker-the-wiltern",
+   "url": "https://losangeles.ohmyrockness.com/shows/469864-tinlicker-helsloot-the-wiltern",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Ftinlicker-north-america-2026-los-angeles-california-10-09-2026%2Fevent%2F09006490AB107C05",
    "imageUrl": null,
    "date": "2026-10-09",
@@ -4018,7 +3112,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 144,
+   "id": 111,
    "shortDesc": "Indie / Alt show at The Wiltern · All Ages — via Oh My Rockness"
   },
   {
@@ -4046,7 +3140,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 145,
+   "id": 112,
    "shortDesc": "Indie / Alt show at Troubadour · All Ages — via Oh My Rockness"
   },
   {
@@ -4075,7 +3169,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 146,
+   "id": 113,
    "shortDesc": "Experimental show at Kia Forum · All Ages — via Oh My Rockness"
   },
   {
@@ -4104,18 +3198,19 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 147,
+   "id": 114,
    "shortDesc": "Indie / Alt show at 2220 Arts + Archives · 21+ — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Arin Ray",
+   "title": "Arin Ray + Baby J",
    "artists": [
-    "Arin Ray"
+    "Arin Ray",
+    "Baby J"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/474245-arin-ray-echoplex",
+   "url": "https://losangeles.ohmyrockness.com/shows/474245-arin-ray-baby-j-echoplex",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Farin-ray-the-limbo-tour-los-angeles-california-10-09-2026%2Fevent%2F090064D2472D844E",
    "imageUrl": null,
    "date": "2026-10-09",
@@ -4131,7 +3226,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 148,
+   "id": 115,
    "shortDesc": "Indie / Alt show at Echoplex · All Ages — via Oh My Rockness"
   },
   {
@@ -4158,18 +3253,19 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 149,
+   "id": 116,
    "shortDesc": "Indie / Alt show at El Rey Theatre · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "The Living Tombstone",
+   "title": "The Living Tombstone + QBomb",
    "artists": [
-    "The Living Tombstone"
+    "The Living Tombstone",
+    "QBomb"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/466798-the-living-tombstone-fox-theater-pomona",
+   "url": "https://losangeles.ohmyrockness.com/shows/466798-the-living-tombstone-qbomb-fox-theater-pomona",
    "ticketUrl": "https://www.axs.com/events/1352818/the-living-tombstone-tickets",
    "imageUrl": null,
    "date": "2026-10-09",
@@ -4185,7 +3281,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 150,
+   "id": 117,
    "shortDesc": "Indie / Alt show at Fox Theater Pomona · All Ages — via Oh My Rockness"
   },
   {
@@ -4214,7 +3310,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 151,
+   "id": 118,
    "shortDesc": "Indie / Alt show at Honda Center · All Ages — via Oh My Rockness"
   },
   {
@@ -4243,7 +3339,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 152,
+   "id": 119,
    "shortDesc": "Indie / Alt show at Non Plus Ultra · All Ages — via Oh My Rockness"
   },
   {
@@ -4270,18 +3366,19 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 153,
+   "id": 120,
    "shortDesc": "Indie / Alt show at Pacific Electric · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Death Valley Girls",
+   "title": "Death Valley Girls + Cissi TV",
    "artists": [
-    "Death Valley Girls"
+    "Death Valley Girls",
+    "Cissi TV"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/477601-death-valley-girls-scribble",
+   "url": "https://losangeles.ohmyrockness.com/shows/477601-death-valley-girls-cissi-tv-scribble",
    "ticketUrl": "https://dice.fm/event/xe3dq3-death-valley-girls-9th-oct-scribble-los-angeles-tickets",
    "imageUrl": null,
    "date": "2026-10-09",
@@ -4297,7 +3394,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 154,
+   "id": 121,
    "shortDesc": "Indie / Alt show at Scribble · All Ages — via Oh My Rockness"
   },
   {
@@ -4325,7 +3422,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 155,
+   "id": 122,
    "shortDesc": "Indie / Alt show at Sid The Cat Auditorium · All Ages — via Oh My Rockness"
   },
   {
@@ -4353,7 +3450,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 156,
+   "id": 123,
    "shortDesc": "Indie / Alt show at The Bellwether · All Ages — via Oh My Rockness"
   },
   {
@@ -4381,7 +3478,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 157,
+   "id": 124,
    "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
   },
   {
@@ -4408,7 +3505,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 158,
+   "id": 125,
    "shortDesc": "Indie / Alt show at The Observatory · All Ages — via Oh My Rockness"
   },
   {
@@ -4437,7 +3534,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 159,
+   "id": 126,
    "shortDesc": "Indie / Alt show at The Roxy · All Ages — via Oh My Rockness"
   },
   {
@@ -4466,7 +3563,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 160,
+   "id": 127,
    "shortDesc": "Indie / Alt show at The Smell · All Ages — via Oh My Rockness"
   },
   {
@@ -4493,18 +3590,46 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 161,
+   "id": 128,
    "shortDesc": "Indie / Alt show at Pappy & Harriet's · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Adéla",
+   "title": "Shabaka",
    "artists": [
-    "Adéla"
+    "Shabaka"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/472341-adela-fonda-theatre",
+   "url": "https://losangeles.ohmyrockness.com/shows/476242-shabaka-blue-note-los-angeles",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fshabaka-blue-note-los-angeles-tickets%2F14265264",
+   "imageUrl": null,
+   "date": "2026-10-09",
+   "time": "21:00",
+   "venue": "Blue Note Los Angeles",
+   "address": "6372 Sunset Blvd, Los Angeles, CA 90028",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 129,
+   "shortDesc": "Indie / Alt show at Blue Note Los Angeles · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Adéla + Zoe Gitter",
+   "artists": [
+    "Adéla",
+    "Zoe Gitter"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/472341-adela-zoe-gitter-fonda-theatre",
    "ticketUrl": "https://www.axs.com/events/1460669/adela-tickets?skin=goldenvoice",
    "imageUrl": null,
    "date": "2026-10-09",
@@ -4520,7 +3645,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 162,
+   "id": 130,
    "shortDesc": "Indie / Alt show at Fonda Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -4549,20 +3674,23 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 163,
+   "id": 131,
    "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Seun Kuti & Egypt 80 + Kabaka Pyramid + Duain Richmond",
+   "title": "Seun Kuti & Egypt 80 + Kabaka Pyramid + Duain Richmond + Extra Ancestral + Francesca Harding (DJ) + Flea",
    "artists": [
     "Seun Kuti & Egypt 80",
     "Kabaka Pyramid",
-    "Duain Richmond"
+    "Duain Richmond",
+    "Extra Ancestral",
+    "Francesca Harding (DJ)",
+    "Flea"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/470236-seun-kuti-egypt-80-kabaka-pyramid-duain-richmond-the-regent-theater",
+   "url": "https://losangeles.ohmyrockness.com/shows/470236-seun-kuti-egypt-80-kabaka-pyramid-duain-richmond-extra-ancestral-francesca-harding-dj-flea-the-regent-theater",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fseun-kuti-egypt-80-my-life-los-angeles-california-10-09-2026%2Fevent%2F0900649601909AE1",
    "imageUrl": null,
    "date": "2026-10-09",
@@ -4578,7 +3706,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 164,
+   "id": 132,
    "shortDesc": "Indie / Alt show at The Regent Theater · All Ages — via Oh My Rockness"
   },
   {
@@ -4601,7 +3729,7 @@
    "genres": [],
    "description": "Hosting Open Mic at high end club where multimillion dollar home sit & always packed creates booking possibilities 4 clubs & private parties",
    "soldOut": false,
-   "id": 165,
+   "id": 133,
    "shortDesc": "Hosting Open Mic at high end club where multimillion dollar home sit & always packed creates booking… — via Eventbrite"
   },
   {
@@ -4629,7 +3757,7 @@
    ],
    "description": "",
    "soldOut": false,
-   "id": 166,
+   "id": 134,
    "shortDesc": "Indie / Alt show at Moroccan Lounge — via Oh My Rockness"
   },
   {
@@ -4663,7 +3791,7 @@
    ],
    "description": "18+",
    "soldOut": false,
-   "id": 167,
+   "id": 135,
    "shortDesc": "Indie / Alt show at Empire Polo Club · 18+ — via Oh My Rockness"
   },
   {
@@ -4688,7 +3816,7 @@
    ],
    "description": "Chill out with smooth tunes and good vibes at this not-to-be-missed event!",
    "soldOut": false,
-   "id": 168,
+   "id": 136,
    "shortDesc": "Chill out with smooth tunes and good vibes at this not-to-be-missed event! — via Eventbrite"
   },
   {
@@ -4711,7 +3839,7 @@
    "genres": [],
    "description": "Tropical Fest: Pershing Square, en el centro de Los Ángeles con Elvis Crespo, Oscar D'Leon, Zacarias Ferreira y más, el Sábado 10 de Octubre",
    "soldOut": false,
-   "id": 169,
+   "id": 137,
    "shortDesc": "Tropical Fest: Pershing Square, en el centro de Los Ángeles con Elvis Crespo, Oscar D'Leon, Zacarias Ferreira… — via Eventbrite"
   },
   {
@@ -4742,7 +3870,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 170,
+   "id": 138,
    "shortDesc": "Indie / Alt show at 1720 · All Ages — via Oh My Rockness"
   },
   {
@@ -4772,7 +3900,7 @@
    ],
    "description": "",
    "soldOut": false,
-   "id": 171,
+   "id": 139,
    "shortDesc": "Indie / Alt show at Echoplex — via Oh My Rockness"
   },
   {
@@ -4801,7 +3929,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 172,
+   "id": 140,
    "shortDesc": "Indie / Alt show at Hollywood Palladium · All Ages — via Oh My Rockness"
   },
   {
@@ -4831,7 +3959,7 @@
    ],
    "description": "",
    "soldOut": false,
-   "id": 173,
+   "id": 141,
    "shortDesc": "Indie / Alt show at LAX — via Oh My Rockness"
   },
   {
@@ -4842,7 +3970,7 @@
    "artists": [
     "Christina Hendricks (DJ)"
    ],
-   "url": "http://ohmyrockness.com/shows/479988-christina-hendricks-dj-sid-the-cat-auditorium",
+   "url": "https://losangeles.ohmyrockness.com/shows/479988-christina-hendricks-dj-sid-the-cat-auditorium",
    "ticketUrl": "https://dice.fm/event/g5v9ep-dj-christina-hendricks-10th-oct-sid-the-cat-auditorium-south-pasadena-tickets",
    "imageUrl": null,
    "date": "2026-10-10",
@@ -4858,7 +3986,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 174,
+   "id": 142,
    "shortDesc": "Indie / Alt show at Sid The Cat Auditorium · All Ages — via Oh My Rockness"
   },
   {
@@ -4887,7 +4015,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 175,
+   "id": 143,
    "shortDesc": "Indie / Alt show at Teragram Ballroom · All Ages — via Oh My Rockness"
   },
   {
@@ -4913,18 +4041,19 @@
    ],
    "description": "Dance the night away with Colombian Latin Soul, salsa dancers, margaritas, churros, and live Latin music at One Colorado.",
    "soldOut": false,
-   "id": 176,
+   "id": 144,
    "shortDesc": "Dance the night away with Colombian Latin Soul, salsa dancers, margaritas, churros, and live Latin music at… — via Eventbrite"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Rachel Bochner",
+   "title": "Rachel Bochner + Eva Rose",
    "artists": [
-    "Rachel Bochner"
+    "Rachel Bochner",
+    "Eva Rose"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/474460-rachel-bochner-moroccan-lounge",
+   "url": "https://losangeles.ohmyrockness.com/shows/474460-rachel-bochner-eva-rose-moroccan-lounge",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Frachel-bochner-the-sorry-if-its-los-angeles-california-10-10-2026%2Fevent%2F090064D2E1B9E92A%3Fbrand%3Dmoroccan%26came_from%3DCFC_Moroccan_web",
    "imageUrl": null,
    "date": "2026-10-10",
@@ -4940,7 +4069,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 177,
+   "id": 145,
    "shortDesc": "Indie / Alt show at Moroccan Lounge · All Ages — via Oh My Rockness"
   },
   {
@@ -4968,18 +4097,20 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 178,
+   "id": 146,
    "shortDesc": "Indie / Alt show at Crypto.com Arena · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Y La Bamba",
+   "title": "Y La Bamba + Vanessa Zamora + Emma Platais",
    "artists": [
-    "Y La Bamba"
+    "Y La Bamba",
+    "Vanessa Zamora",
+    "Emma Platais"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/477640-y-la-bamba-lodge-room",
+   "url": "https://losangeles.ohmyrockness.com/shows/477640-y-la-bamba-vanessa-zamora-emma-platais-lodge-room",
    "ticketUrl": "https://www.lodgeroomhlp.com/shows/y-la-bamba-ojos-de-sol-10th-anniversary-tour/",
    "imageUrl": null,
    "date": "2026-10-10",
@@ -4995,7 +4126,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 179,
+   "id": 147,
    "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
   },
   {
@@ -5023,7 +4154,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 180,
+   "id": 148,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -5050,7 +4181,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 181,
+   "id": 149,
    "shortDesc": "Indie / Alt show at The Glass House · All Ages — via Oh My Rockness"
   },
   {
@@ -5077,7 +4208,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 182,
+   "id": 150,
    "shortDesc": "Indie / Alt show at The Observatory · All Ages — via Oh My Rockness"
   },
   {
@@ -5106,7 +4237,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 183,
+   "id": 151,
    "shortDesc": "Indie / Alt show at The Regent Theater · All Ages — via Oh My Rockness"
   },
   {
@@ -5136,7 +4267,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 184,
+   "id": 152,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -5161,7 +4292,7 @@
    ],
    "description": "Get your season pass and attend all events of the LLS Orchestra from October 2026 to April 2027",
    "soldOut": false,
-   "id": 185,
+   "id": 153,
    "shortDesc": "Get your season pass and attend all events of the LLS Orchestra from October 2026 to April 2027 — via Eventbrite"
   },
   {
@@ -5186,7 +4317,7 @@
    ],
    "description": "Dive into the magic of Scheherazade and Schumann with stories told through enchanting live music!",
    "soldOut": false,
-   "id": 186,
+   "id": 154,
    "shortDesc": "Dive into the magic of Scheherazade and Schumann with stories told through enchanting live music! — via Eventbrite"
   },
   {
@@ -5209,7 +4340,7 @@
    "genres": [],
    "description": "Marcus B Ent, Inc Presents the LA Caribbean Comedy Series live at Santa Monica Playhouse!",
    "soldOut": false,
-   "id": 187,
+   "id": 155,
    "shortDesc": "Marcus B Ent, Inc Presents the LA Caribbean Comedy Series live at Santa Monica Playhouse! — via Eventbrite"
   },
   {
@@ -5237,7 +4368,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 188,
+   "id": 156,
    "shortDesc": "Indie / Alt show at Hollywood Bowl · All Ages — via Oh My Rockness"
   },
   {
@@ -5267,7 +4398,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 189,
+   "id": 157,
    "shortDesc": "Indie / Alt show at The Bellwether · All Ages — via Oh My Rockness"
   },
   {
@@ -5290,7 +4421,7 @@
    "genres": [],
    "description": "Improv comedy based on your terrible month featuring some of the best comedians in Los Angeles",
    "soldOut": false,
-   "id": 190,
+   "id": 158,
    "shortDesc": "Improv comedy based on your terrible month featuring some of the best comedians in Los Angeles — via Eventbrite"
   },
   {
@@ -5315,7 +4446,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 191,
+   "id": 159,
    "shortDesc": "Live performance at Royce Hall — via CAP UCLA"
   },
   {
@@ -5342,18 +4473,20 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 192,
+   "id": 160,
    "shortDesc": "Indie / Alt show at Aviator Nation Dreamland · 21+ — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Evening Elephants",
+   "title": "Evening Elephants + The Braymores + Jade Street",
    "artists": [
-    "Evening Elephants"
+    "Evening Elephants",
+    "The Braymores",
+    "Jade Street"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/472693-evening-elephants-el-rey-theatre",
+   "url": "https://losangeles.ohmyrockness.com/shows/472693-evening-elephants-the-braymores-jade-street-el-rey-theatre",
    "ticketUrl": "https://www.axs.com/events/1468123/evening-elephants-tickets",
    "imageUrl": null,
    "date": "2026-10-10",
@@ -5369,7 +4502,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 193,
+   "id": 161,
    "shortDesc": "Indie / Alt show at El Rey Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -5398,7 +4531,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 194,
+   "id": 162,
    "shortDesc": "Indie / Alt show at Kia Forum · All Ages — via Oh My Rockness"
   },
   {
@@ -5425,18 +4558,19 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 195,
+   "id": 163,
    "shortDesc": "Indie / Alt show at Shrine Expo Hall · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Bit Brigade",
+   "title": "Bit Brigade + Slowly Crushed",
    "artists": [
-    "Bit Brigade"
+    "Bit Brigade",
+    "Slowly Crushed"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/475519-bit-brigade-the-echo",
+   "url": "https://losangeles.ohmyrockness.com/shows/475519-bit-brigade-slowly-crushed-the-echo",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fbit-brigade-performs-mega-man-ii-los-angeles-california-10-10-2026%2Fevent%2F090064E8BC809BE6",
    "imageUrl": null,
    "date": "2026-10-10",
@@ -5452,7 +4586,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 196,
+   "id": 164,
    "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
   },
   {
@@ -5486,7 +4620,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 197,
+   "id": 165,
    "shortDesc": "Indie / Alt show at The Ford · All Ages — via Oh My Rockness"
   },
   {
@@ -5516,18 +4650,19 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 198,
+   "id": 166,
    "shortDesc": "Indie / Alt show at The Novo  · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Raaginder",
+   "title": "Raaginder + Sudi",
    "artists": [
-    "Raaginder"
+    "Raaginder",
+    "Sudi"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/475819-raaginder-the-paramount",
+   "url": "https://losangeles.ohmyrockness.com/shows/475930-raaginder-sudi-the-paramount",
    "ticketUrl": "https://www.axs.com/events/1528374/raaginder-tickets",
    "imageUrl": null,
    "date": "2026-10-10",
@@ -5543,18 +4678,19 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 199,
+   "id": 167,
    "shortDesc": "Indie / Alt show at The Paramount · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Devon Gilfillian",
+   "title": "Devon Gilfillian + Snacktime",
    "artists": [
-    "Devon Gilfillian"
+    "Devon Gilfillian",
+    "Snacktime"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/471140-devon-gilfillian-the-roxy",
+   "url": "https://losangeles.ohmyrockness.com/shows/471140-devon-gilfillian-snacktime-the-roxy",
    "ticketUrl": "https://www.axs.com/events/1441085/devon-gilfillian-tickets",
    "imageUrl": null,
    "date": "2026-10-10",
@@ -5570,7 +4706,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 200,
+   "id": 168,
    "shortDesc": "Indie / Alt show at The Roxy · All Ages — via Oh My Rockness"
   },
   {
@@ -5600,7 +4736,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 201,
+   "id": 169,
    "shortDesc": "Indie / Alt show at The Venice West · 21+ — via Oh My Rockness"
   },
   {
@@ -5628,7 +4764,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 202,
+   "id": 170,
    "shortDesc": "Indie / Alt show at Troubadour · All Ages — via Oh My Rockness"
   },
   {
@@ -5655,7 +4791,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 203,
+   "id": 171,
    "shortDesc": "Indie / Alt show at Blue Note Los Angeles · All Ages — via Oh My Rockness"
   },
   {
@@ -5682,7 +4818,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 204,
+   "id": 172,
    "shortDesc": "Indie / Alt show at Fonda Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -5710,18 +4846,19 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 205,
+   "id": 173,
    "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "ilykimchi",
+   "title": "ilykimchi + Angel Money",
    "artists": [
-    "ilykimchi"
+    "ilykimchi",
+    "Angel Money"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/477240-ilykimchi-moroccan-lounge",
+   "url": "https://losangeles.ohmyrockness.com/shows/477240-ilykimchi-angel-money-moroccan-lounge",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fpretty-but-wicked-presents-ilykimchi-los-angeles-california-10-10-2026%2Fevent%2F0900650AD465A407",
    "imageUrl": null,
    "date": "2026-10-10",
@@ -5737,7 +4874,7 @@
    ],
    "description": "",
    "soldOut": false,
-   "id": 206,
+   "id": 174,
    "shortDesc": "Indie / Alt show at Moroccan Lounge — via Oh My Rockness"
   },
   {
@@ -5770,7 +4907,7 @@
    ],
    "description": "18+",
    "soldOut": false,
-   "id": 207,
+   "id": 175,
    "shortDesc": "Indie / Alt show at Empire Polo Club · 18+ — via Oh My Rockness"
   },
   {
@@ -5800,7 +4937,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 208,
+   "id": 176,
    "shortDesc": "Indie / Alt show at Alex's Bar · 21+ — via Oh My Rockness"
   },
   {
@@ -5833,7 +4970,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 209,
+   "id": 177,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -5861,19 +4998,20 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 210,
+   "id": 178,
    "shortDesc": "Indie / Alt show at Pappy & Harriet's · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Cooper Kenward",
+   "title": "Cooper Kenward + Nora Kenny",
    "artists": [
-    "Cooper Kenward"
+    "Cooper Kenward",
+    "Nora Kenny"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/478263-cooper-kenward-permanent-records-roadhouse",
-   "ticketUrl": "http://roadhouse.permanentrecordsla.com/",
+   "url": "https://losangeles.ohmyrockness.com/shows/478263-cooper-kenward-nora-kenny-permanent-records-roadhouse",
+   "ticketUrl": "https://app.opendate.io/e/cooper-kenward-october-11-2026-746949",
    "imageUrl": null,
    "date": "2026-10-11",
    "time": "18:00",
@@ -5888,7 +5026,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 211,
+   "id": 179,
    "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
   },
   {
@@ -5901,7 +5039,7 @@
     "Fleshwater",
     "Prostitute"
    ],
-   "url": "http://ohmyrockness.com/shows/470076-loathe-fleshwater-prostitute-hollywood-palladium",
+   "url": "https://losangeles.ohmyrockness.com/shows/470076-loathe-fleshwater-prostitute-hollywood-palladium",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Floathe-a-stranger-to-you-hollywood-california-10-11-2026%2Fevent%2F090064987F5E5CAE",
    "imageUrl": null,
    "date": "2026-10-11",
@@ -5917,18 +5055,19 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 212,
+   "id": 180,
    "shortDesc": "Indie / Alt show at Hollywood Palladium · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Dalek",
+   "title": "Dalek + Snakes of Russia",
    "artists": [
-    "Dalek"
+    "Dalek",
+    "Snakes of Russia"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/477951-dalek-moroccan-lounge",
+   "url": "https://losangeles.ohmyrockness.com/shows/477951-dalek-snakes-of-russia-moroccan-lounge",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fdalek-los-angeles-california-10-11-2026%2Fevent%2F0900650ADA6BAC5D",
    "imageUrl": null,
    "date": "2026-10-11",
@@ -5944,18 +5083,19 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 213,
+   "id": 181,
    "shortDesc": "Indie / Alt show at Moroccan Lounge · 21+ — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Sons of Legion",
+   "title": "Sons of Legion + Kenny Sharp",
    "artists": [
-    "Sons of Legion"
+    "Sons of Legion",
+    "Kenny Sharp"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/474166-sons-of-legion-the-wiltern",
+   "url": "https://losangeles.ohmyrockness.com/shows/474166-sons-of-legion-kenny-sharp-the-wiltern",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fevent%2F090064D2EA96F313",
    "imageUrl": null,
    "date": "2026-10-11",
@@ -5971,7 +5111,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 214,
+   "id": 182,
    "shortDesc": "Indie / Alt show at The Wiltern · All Ages — via Oh My Rockness"
   },
   {
@@ -5999,7 +5139,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 215,
+   "id": 183,
    "shortDesc": "Indie / Alt show at Aviator Nation Dreamland · All Ages — via Oh My Rockness"
   },
   {
@@ -6026,7 +5166,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 216,
+   "id": 184,
    "shortDesc": "Indie / Alt show at Echoplex · All Ages — via Oh My Rockness"
   },
   {
@@ -6055,7 +5195,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 217,
+   "id": 185,
    "shortDesc": "Indie / Alt show at Riverside Municipal Auditorium · All Ages — via Oh My Rockness"
   },
   {
@@ -6084,7 +5224,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 218,
+   "id": 186,
    "shortDesc": "Indie / Alt show at The Glass House · All Ages — via Oh My Rockness"
   },
   {
@@ -6111,7 +5251,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 219,
+   "id": 187,
    "shortDesc": "Indie / Alt show at The Observatory · All Ages — via Oh My Rockness"
   },
   {
@@ -6139,7 +5279,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 220,
+   "id": 188,
    "shortDesc": "Indie / Alt show at Hollywood Bowl · All Ages — via Oh My Rockness"
   },
   {
@@ -6167,7 +5307,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 221,
+   "id": 189,
    "shortDesc": "Indie / Alt show at Scribble · All Ages — via Oh My Rockness"
   },
   {
@@ -6194,7 +5334,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 222,
+   "id": 190,
    "shortDesc": "Indie / Alt show at The Ford · All Ages — via Oh My Rockness"
   },
   {
@@ -6221,7 +5361,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 223,
+   "id": 191,
    "shortDesc": "Indie / Alt show at Fonda Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -6250,7 +5390,7 @@
    ],
    "description": "",
    "soldOut": false,
-   "id": 224,
+   "id": 192,
    "shortDesc": "Indie / Alt show at Non Plus Ultra — via Oh My Rockness"
   },
   {
@@ -6277,7 +5417,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 225,
+   "id": 193,
    "shortDesc": "Indie / Alt show at Pacific Electric · All Ages — via Oh My Rockness"
   },
   {
@@ -6305,18 +5445,20 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 226,
+   "id": 194,
    "shortDesc": "Indie / Alt show at The Bellwether · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "Palace",
+   "title": "Palace + Rollo Doherty + Rory Andrew",
    "artists": [
-    "Palace"
+    "Palace",
+    "Rollo Doherty",
+    "Rory Andrew"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/469947-palace-the-greek-theatre",
+   "url": "https://losangeles.ohmyrockness.com/shows/469947-palace-rollo-doherty-rory-andrew-the-greek-theatre",
    "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fevent%2F090064943F8E8F86",
    "imageUrl": null,
    "date": "2026-10-11",
@@ -6332,7 +5474,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 227,
+   "id": 195,
    "shortDesc": "Indie / Alt show at The Greek Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -6359,7 +5501,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 228,
+   "id": 196,
    "shortDesc": "Indie / Alt show at The Observatory · All Ages — via Oh My Rockness"
   },
   {
@@ -6387,18 +5529,20 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 229,
+   "id": 197,
    "shortDesc": "Indie / Alt show at The Regent Theater · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
    "sourceLabel": "Oh My Rockness",
    "org": null,
-   "title": "LØLØ",
+   "title": "LØLØ + Mylie Taylor + Sydney Sherrill",
    "artists": [
-    "LØLØ"
+    "LØLØ",
+    "Mylie Taylor",
+    "Sydney Sherrill"
    ],
-   "url": "https://losangeles.ohmyrockness.com/shows/471598-lolo-the-roxy",
+   "url": "https://losangeles.ohmyrockness.com/shows/471598-lolo-mylie-taylor-sydney-sherrill-the-roxy",
    "ticketUrl": "https://www.axs.com/events/1445911/lolo-tickets",
    "imageUrl": null,
    "date": "2026-10-11",
@@ -6414,7 +5558,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 230,
+   "id": 198,
    "shortDesc": "Indie / Alt show at The Roxy · All Ages — via Oh My Rockness"
   },
   {
@@ -6441,7 +5585,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 231,
+   "id": 199,
    "shortDesc": "Indie / Alt show at Blue Note Los Angeles · All Ages — via Oh My Rockness"
   },
   {
@@ -6470,7 +5614,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 232,
+   "id": 200,
    "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
   },
   {
@@ -6497,7 +5641,7 @@
    ],
    "description": "",
    "soldOut": false,
-   "id": 233,
+   "id": 201,
    "shortDesc": "Indie / Alt show at Moroccan Lounge — via Oh My Rockness"
   },
   {
@@ -6522,7 +5666,7 @@
    ],
    "description": "Experience an evening of music + mindfulness as MindTravel brings its signature live-piano concert back to Santa Monica in October!",
    "soldOut": false,
-   "id": 234,
+   "id": 202,
    "shortDesc": "Experience an evening of music + mindfulness as MindTravel brings its signature live-piano concert back to… — via Eventbrite"
   },
   {
@@ -6549,7 +5693,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 235,
+   "id": 203,
    "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
   },
   {
@@ -6577,7 +5721,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 236,
+   "id": 204,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -6604,7 +5748,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 237,
+   "id": 205,
    "shortDesc": "Indie / Alt show at Pappy & Harriet's · All Ages — via Oh My Rockness"
   },
   {
@@ -6631,7 +5775,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 238,
+   "id": 206,
    "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
   },
   {
@@ -6658,7 +5802,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 239,
+   "id": 207,
    "shortDesc": "Indie / Alt show at The Novo  · All Ages — via Oh My Rockness"
   },
   {
@@ -6685,7 +5829,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 240,
+   "id": 208,
    "shortDesc": "Indie / Alt show at The Wiltern · All Ages — via Oh My Rockness"
   },
   {
@@ -6713,7 +5857,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 241,
+   "id": 209,
    "shortDesc": "Indie / Alt show at Troubadour · All Ages — via Oh My Rockness"
   },
   {
@@ -6740,7 +5884,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 242,
+   "id": 210,
    "shortDesc": "Indie / Alt show at The Ford · All Ages — via Oh My Rockness"
   },
   {
@@ -6767,7 +5911,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 243,
+   "id": 211,
    "shortDesc": "Indie / Alt show at The Grammy Museum · All Ages — via Oh My Rockness"
   },
   {
@@ -6794,7 +5938,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 244,
+   "id": 212,
    "shortDesc": "Indie / Alt show at Dolby Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -6821,7 +5965,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 245,
+   "id": 213,
    "shortDesc": "Indie / Alt show at Fonda Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -6848,7 +5992,7 @@
    ],
    "description": "",
    "soldOut": false,
-   "id": 246,
+   "id": 214,
    "shortDesc": "Indie / Alt show at The Observatory — via Oh My Rockness"
   },
   {
@@ -6877,7 +6021,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 247,
+   "id": 215,
    "shortDesc": "Indie / Alt show at The Regent Theater · All Ages — via Oh My Rockness"
   },
   {
@@ -6905,7 +6049,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 248,
+   "id": 216,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -6932,7 +6076,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 249,
+   "id": 217,
    "shortDesc": "Indie / Alt show at Blue Note Los Angeles · All Ages — via Oh My Rockness"
   },
   {
@@ -6960,7 +6104,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 250,
+   "id": 218,
    "shortDesc": "Indie / Alt show at Echoplex · All Ages — via Oh My Rockness"
   },
   {
@@ -6987,7 +6131,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 251,
+   "id": 219,
    "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
   },
   {
@@ -7016,7 +6160,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 252,
+   "id": 220,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -7045,7 +6189,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 253,
+   "id": 221,
    "shortDesc": "Indie / Alt show at The Greek Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -7072,7 +6216,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 254,
+   "id": 222,
    "shortDesc": "Indie / Alt show at The Grammy Museum · All Ages — via Oh My Rockness"
   },
   {
@@ -7099,7 +6243,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 255,
+   "id": 223,
    "shortDesc": "Indie / Alt show at Dolby Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -7127,7 +6271,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 256,
+   "id": 224,
    "shortDesc": "Indie / Alt show at Fonda Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -7154,7 +6298,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 257,
+   "id": 225,
    "shortDesc": "Indie / Alt show at Orpheum Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -7181,7 +6325,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 258,
+   "id": 226,
    "shortDesc": "Indie / Alt show at The Paramount · All Ages — via Oh My Rockness"
   },
   {
@@ -7208,7 +6352,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 259,
+   "id": 227,
    "shortDesc": "Indie / Alt show at The Roxy · All Ages — via Oh My Rockness"
   },
   {
@@ -7235,7 +6379,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 260,
+   "id": 228,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
@@ -7262,7 +6406,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 261,
+   "id": 229,
    "shortDesc": "Indie / Alt show at El Rey Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -7290,35 +6434,8 @@
    ],
    "description": "",
    "soldOut": false,
-   "id": 262,
+   "id": 230,
    "shortDesc": "Indie / Alt show at Moroccan Lounge — via Oh My Rockness"
-  },
-  {
-   "source": "ohmyrockness",
-   "sourceLabel": "Oh My Rockness",
-   "org": null,
-   "title": "Big Daddy Kane",
-   "artists": [
-    "Big Daddy Kane"
-   ],
-   "url": "https://losangeles.ohmyrockness.com/shows/477086-big-daddy-kane-blue-note-los-angeles",
-   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fbig-daddy-kane-blue-note-los-angeles-tickets%2F15009883",
-   "imageUrl": null,
-   "date": "2026-10-14",
-   "time": "19:00",
-   "venue": "Blue Note Los Angeles",
-   "address": "6372 Sunset Blvd, Los Angeles, CA 90028",
-   "isFree": null,
-   "priceText": "",
-   "category": "music",
-   "subcategory": null,
-   "genres": [
-    "Indie / Alt"
-   ],
-   "description": "All Ages",
-   "soldOut": false,
-   "id": 263,
-   "shortDesc": "Indie / Alt show at Blue Note Los Angeles · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
@@ -7344,7 +6461,7 @@
    ],
    "description": "",
    "soldOut": false,
-   "id": 264,
+   "id": 231,
    "shortDesc": "Indie / Alt show at Cafe Trieste — via Oh My Rockness"
   },
   {
@@ -7371,7 +6488,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 265,
+   "id": 232,
    "shortDesc": "Indie / Alt show at Echoplex · All Ages — via Oh My Rockness"
   },
   {
@@ -7398,7 +6515,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 266,
+   "id": 233,
    "shortDesc": "Indie / Alt show at Gold-Diggers · 21+ — via Oh My Rockness"
   },
   {
@@ -7427,7 +6544,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 267,
+   "id": 234,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -7454,7 +6571,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 268,
+   "id": 235,
    "shortDesc": "Indie / Alt show at The Belasco · All Ages — via Oh My Rockness"
   },
   {
@@ -7481,7 +6598,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 269,
+   "id": 236,
    "shortDesc": "Indie / Alt show at The Bellwether · All Ages — via Oh My Rockness"
   },
   {
@@ -7510,7 +6627,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 270,
+   "id": 237,
    "shortDesc": "Indie / Alt show at The Greek Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -7538,7 +6655,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 271,
+   "id": 238,
    "shortDesc": "Indie / Alt show at The Observatory · All Ages — via Oh My Rockness"
   },
   {
@@ -7567,7 +6684,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 272,
+   "id": 239,
    "shortDesc": "Indie / Alt show at Ventura County Fairgrounds · All Ages — via Oh My Rockness"
   },
   {
@@ -7590,7 +6707,7 @@
    "genres": [],
    "description": "Join Rep Club for a discussion on 'It's Only Dancing' by NYT bestselling author Jasmine Guillory and moderator Rebekah Weatherspoon",
    "soldOut": false,
-   "id": 273,
+   "id": 240,
    "shortDesc": "Join Rep Club for a discussion on 'It's Only Dancing' by NYT bestselling author Jasmine Guillory and… — via Eventbrite"
   },
   {
@@ -7613,7 +6730,7 @@
    "genres": [],
    "description": "Come jam with local talent and show off your skills at a chill open mic night hosted by Altadena Musicians!",
    "soldOut": false,
-   "id": 274,
+   "id": 241,
    "shortDesc": "Come jam with local talent and show off your skills at a chill open mic night hosted by Altadena Musicians! — via Eventbrite"
   },
   {
@@ -7642,7 +6759,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 275,
+   "id": 242,
    "shortDesc": "Indie / Alt show at The Glass House · All Ages — via Oh My Rockness"
   },
   {
@@ -7667,7 +6784,7 @@
    ],
    "description": "Hopeful, reflective music for solo piano.",
    "soldOut": false,
-   "id": 276,
+   "id": 243,
    "shortDesc": "Hopeful, reflective music for solo piano. — via Eventbrite"
   },
   {
@@ -7695,7 +6812,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 277,
+   "id": 244,
    "shortDesc": "Indie / Alt show at Fonda Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -7723,7 +6840,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 278,
+   "id": 245,
    "shortDesc": "Indie / Alt show at Pacific Electric · All Ages — via Oh My Rockness"
   },
   {
@@ -7750,7 +6867,7 @@
    ],
    "description": "18+",
    "soldOut": false,
-   "id": 279,
+   "id": 246,
    "shortDesc": "Indie / Alt show at Shrine Expo Hall · 18+ — via Oh My Rockness"
   },
   {
@@ -7778,7 +6895,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 280,
+   "id": 247,
    "shortDesc": "Indie / Alt show at Sid The Cat Auditorium · All Ages — via Oh My Rockness"
   },
   {
@@ -7806,7 +6923,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 281,
+   "id": 248,
    "shortDesc": "Indie / Alt show at The Roxy · All Ages — via Oh My Rockness"
   },
   {
@@ -7833,7 +6950,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 282,
+   "id": 249,
    "shortDesc": "Indie / Alt show at The Venice West · 21+ — via Oh My Rockness"
   },
   {
@@ -7861,8 +6978,35 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 283,
+   "id": 250,
    "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Big Daddy Kane",
+   "artists": [
+    "Big Daddy Kane"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/477087-big-daddy-kane-blue-note-los-angeles",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fbig-daddy-kane-blue-note-los-angeles-tickets%2F15009913",
+   "imageUrl": null,
+   "date": "2026-10-14",
+   "time": "21:00",
+   "venue": "Blue Note Los Angeles",
+   "address": "6372 Sunset Blvd, Los Angeles, CA 90028",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 251,
+   "shortDesc": "Indie / Alt show at Blue Note Los Angeles · All Ages — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
@@ -7889,7 +7033,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 284,
+   "id": 252,
    "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
   },
   {
@@ -7916,8 +7060,36 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 285,
+   "id": 253,
    "shortDesc": "Indie / Alt show at Moroccan Lounge · 21+ — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Josh Jacobson + and friends",
+   "artists": [
+    "Josh Jacobson",
+    "and friends"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/480051-josh-jacobson-and-friends-gold-diggers",
+   "ticketUrl": "https://dice.fm/event/wwnaer-josh-jacobson-friends-x-gold-diggers-residency-14th-oct-gold-diggers-los-angeles-tickets",
+   "imageUrl": null,
+   "date": "2026-10-14",
+   "time": "22:30",
+   "venue": "Gold-Diggers",
+   "address": "5632 Santa Monica Blvd, Los Angeles, CA 90038",
+   "isFree": true,
+   "priceText": "Free",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "21+",
+   "soldOut": false,
+   "id": 254,
+   "shortDesc": "Indie / Alt show at Gold-Diggers · 21+ — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
@@ -7944,7 +7116,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 286,
+   "id": 255,
    "shortDesc": "Indie / Alt show at Hollywood Forever · All Ages — via Oh My Rockness"
   },
   {
@@ -7971,7 +7143,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 287,
+   "id": 256,
    "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
   },
   {
@@ -7998,7 +7170,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 288,
+   "id": 257,
    "shortDesc": "Indie / Alt show at Moroccan Lounge · 21+ — via Oh My Rockness"
   },
   {
@@ -8021,7 +7193,7 @@
    "genres": [],
    "description": "Poems, stories, historical texts, speeches, essays, quotes, songs, music & more!",
    "soldOut": false,
-   "id": 289,
+   "id": 258,
    "shortDesc": "Poems, stories, historical texts, speeches, essays, quotes, songs, music & more! — via Eventbrite"
   },
   {
@@ -8049,7 +7221,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 290,
+   "id": 259,
    "shortDesc": "Indie / Alt show at House Of Blues Anaheim · All Ages — via Oh My Rockness"
   },
   {
@@ -8078,7 +7250,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 291,
+   "id": 260,
    "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
   },
   {
@@ -8107,7 +7279,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 292,
+   "id": 261,
    "shortDesc": "Indie / Alt show at Oblivion  · All Ages — via Oh My Rockness"
   },
   {
@@ -8134,7 +7306,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 293,
+   "id": 262,
    "shortDesc": "Indie / Alt show at Teragram Ballroom · All Ages — via Oh My Rockness"
   },
   {
@@ -8161,7 +7333,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 294,
+   "id": 263,
    "shortDesc": "Indie / Alt show at The Belasco · All Ages — via Oh My Rockness"
   },
   {
@@ -8188,7 +7360,7 @@
    ],
    "description": "",
    "soldOut": false,
-   "id": 295,
+   "id": 264,
    "shortDesc": "Indie / Alt show at The Echo — via Oh My Rockness"
   },
   {
@@ -8216,8 +7388,62 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 296,
+   "id": 265,
    "shortDesc": "Indie / Alt show at The Peppermint Club · 21+ — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "LP",
+   "artists": [
+    "LP"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/470343-lp-the-wiltern",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fevent%2F0900649BF3D23318",
+   "imageUrl": null,
+   "date": "2026-10-15",
+   "time": "19:00",
+   "venue": "The Wiltern",
+   "address": "3790 Wilshire Boulevard, Los Angeles, CA 90010",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 266,
+   "shortDesc": "Indie / Alt show at The Wiltern · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Asha Banks",
+   "artists": [
+    "Asha Banks"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474292-asha-banks-troubadour",
+   "ticketUrl": "https://www.axs.com/artists/1121281/asha-banks-tickets",
+   "imageUrl": null,
+   "date": "2026-10-15",
+   "time": "19:00",
+   "venue": "Troubadour",
+   "address": "9081 Santa Monica Blvd., West Hollywood, CA 90069",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 267,
+   "shortDesc": "Indie / Alt show at Troubadour · All Ages — via Oh My Rockness"
   },
   {
    "source": "eventbrite",
@@ -8239,7 +7465,7 @@
    "genres": [],
    "description": "Watch Arcadia Stage's Theatre Performances and Stagecraft's Technical Presentations from the DTASC Fall Festival",
    "soldOut": false,
-   "id": 297,
+   "id": 268,
    "shortDesc": "Watch Arcadia Stage's Theatre Performances and Stagecraft's Technical Presentations from the DTASC Fall… — via Eventbrite"
   },
   {
@@ -8270,7 +7496,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 298,
+   "id": 269,
    "shortDesc": "Indie / Alt show at Aviator Nation Dreamland · 21+ — via Oh My Rockness"
   },
   {
@@ -8297,7 +7523,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 299,
+   "id": 270,
    "shortDesc": "Indie / Alt show at Hollywood Bowl · All Ages — via Oh My Rockness"
   },
   {
@@ -8324,7 +7550,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 300,
+   "id": 271,
    "shortDesc": "Indie / Alt show at Orpheum Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -8351,7 +7577,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 301,
+   "id": 272,
    "shortDesc": "Indie / Alt show at The Grammy Museum · All Ages — via Oh My Rockness"
   },
   {
@@ -8378,7 +7604,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 302,
+   "id": 273,
    "shortDesc": "Indie / Alt show at The Observatory · All Ages — via Oh My Rockness"
   },
   {
@@ -8405,7 +7631,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 303,
+   "id": 274,
    "shortDesc": "Indie / Alt show at El Rey Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -8432,7 +7658,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 304,
+   "id": 275,
    "shortDesc": "Indie / Alt show at Fonda Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -8460,7 +7686,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 305,
+   "id": 276,
    "shortDesc": "Indie / Alt show at Healing Force of the Universe · 21+ — via Oh My Rockness"
   },
   {
@@ -8487,7 +7713,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 306,
+   "id": 277,
    "shortDesc": "Indie / Alt show at Hollywood Palladium · All Ages — via Oh My Rockness"
   },
   {
@@ -8517,7 +7743,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 307,
+   "id": 278,
    "shortDesc": "Indie / Alt show at Non Plus Ultra · All Ages — via Oh My Rockness"
   },
   {
@@ -8544,7 +7770,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 308,
+   "id": 279,
    "shortDesc": "Indie / Alt show at Pacific Electric · All Ages — via Oh My Rockness"
   },
   {
@@ -8572,7 +7798,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 309,
+   "id": 280,
    "shortDesc": "Indie / Alt show at The Bellwether · All Ages — via Oh My Rockness"
   },
   {
@@ -8600,7 +7826,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 310,
+   "id": 281,
    "shortDesc": "Indie / Alt show at The Glass House · All Ages — via Oh My Rockness"
   },
   {
@@ -8628,7 +7854,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 311,
+   "id": 282,
    "shortDesc": "Indie / Alt show at The Greek Theatre · All Ages — via Oh My Rockness"
   },
   {
@@ -8655,7 +7881,7 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 312,
+   "id": 283,
    "shortDesc": "Indie / Alt show at The Novo  · All Ages — via Oh My Rockness"
   },
   {
@@ -8685,8 +7911,62 @@
    ],
    "description": "All Ages",
    "soldOut": false,
-   "id": 313,
+   "id": 284,
    "shortDesc": "Indie / Alt show at The Regent Theater · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Romance Planet",
+   "artists": [
+    "Romance Planet"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474205-romance-planet-the-roxy",
+   "ticketUrl": "https://www.axs.com/events/1489915/romance-planet-tickets",
+   "imageUrl": null,
+   "date": "2026-10-15",
+   "time": "20:00",
+   "venue": "The Roxy",
+   "address": "9009 W Sunset Blvd, West Hollywood, CA 90069",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 285,
+   "shortDesc": "Indie / Alt show at The Roxy · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Flower Face",
+   "artists": [
+    "Flower Face"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/470595-flower-face-zebulon",
+   "ticketUrl": "https://dice.fm/event/rydnr5-flower-face-15th-oct-zebulon-los-angeles-tickets",
+   "imageUrl": null,
+   "date": "2026-10-15",
+   "time": "20:00",
+   "venue": "Zebulon",
+   "address": "2478 N Fletcher Drive, Los Angeles, CA 90039",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "21+",
+   "soldOut": false,
+   "id": 286,
+   "shortDesc": "Indie / Alt show at Zebulon · 21+ — via Oh My Rockness"
   },
   {
    "source": "ohmyrockness",
@@ -8713,7 +7993,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 314,
+   "id": 287,
    "shortDesc": "Indie / Alt show at 2220 Arts + Archives · 21+ — via Oh My Rockness"
   },
   {
@@ -8740,7 +8020,7 @@
    ],
    "description": "21+",
    "soldOut": false,
-   "id": 315,
+   "id": 288,
    "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
   },
   {
@@ -8767,8 +8047,35 @@
    ],
    "description": "",
    "soldOut": false,
-   "id": 316,
+   "id": 289,
    "shortDesc": "Indie / Alt show at Moroccan Lounge — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Boy Harsher (signing)",
+   "artists": [
+    "Boy Harsher (signing)"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/479779-boy-harsher-signing-amoeba-music-hollywood",
+   "ticketUrl": "https://www.amoeba.com/live-shows/upcoming/detail-3170/",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "13:30",
+   "venue": "Amoeba Music- Hollywood",
+   "address": "6200 Hollywood Boulevard, Los Angeles, CA 90028",
+   "isFree": true,
+   "priceText": "Free",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 290,
+   "shortDesc": "Indie / Alt show at Amoeba Music- Hollywood · All Ages — via Oh My Rockness"
   },
   {
    "source": "eventbrite",
@@ -8792,8 +8099,351 @@
    ],
    "description": "Get ready to vibe out at Up Next Music Fest, live and loud at the iconic Viper Room!",
    "soldOut": false,
-   "id": 317,
+   "id": 291,
    "shortDesc": "Get ready to vibe out at Up Next Music Fest, live and loud at the iconic Viper Room! — via Eventbrite"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Geese + Bill Orcutt",
+   "artists": [
+    "Geese",
+    "Bill Orcutt"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/469931-geese-bill-orcutt-hollywood-forever",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fgeese-getting-killed-hollywood-forever-tickets%2F14871323%3Fpl%3DHF",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "18:00",
+   "venue": "Hollywood Forever",
+   "address": "6000 Santa Monica Blvd, Los Angeles, CA 90028",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 292,
+   "shortDesc": "Indie / Alt show at Hollywood Forever · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Automatic + Los Retros + N8NoFace + Josh Da Costa + Angela Munoz + Sudan Archives",
+   "artists": [
+    "Automatic",
+    "Los Retros",
+    "N8NoFace",
+    "Josh Da Costa",
+    "Angela Munoz",
+    "Sudan Archives"
+   ],
+   "url": "http://ohmyrockness.com/shows/474200-automatic-los-retros-n8noface-josh-da-costa-angela-munoz-sudan-archives-lodge-room",
+   "ticketUrl": "https://www.lodgeroomhlp.com/shows/stonesthrow30/",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "18:00",
+   "venue": "Lodge Room",
+   "address": "104 N. Ave 56, 2nd Floor, Los Angeles, CA 90042",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 293,
+   "shortDesc": "Indie / Alt show at Lodge Room · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Dossey + Jesse Detor + Carmela + Flesh For Fantasy",
+   "artists": [
+    "Dossey",
+    "Jesse Detor",
+    "Carmela",
+    "Flesh For Fantasy"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/476819-dossey-jesse-detor-carmela-flesh-for-fantasy-permanent-records-roadhouse",
+   "ticketUrl": "https://app.opendate.io/e/dossey-jesse-detor-carmela-flesh-fantasy-october-16-2026-731460",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "18:00",
+   "venue": "Permanent Records Roadhouse",
+   "address": "1906 Cypress Ave, Los Angeles, CA 90065",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "21+",
+   "soldOut": false,
+   "id": 294,
+   "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Nice As Fuck (mrbs of Rilo Kiley, Au Revoir Simone, The Like) + DJ Alix Brown",
+   "artists": [
+    "Nice As Fuck (mrbs of Rilo Kiley, Au Revoir Simone, The Like)",
+    "DJ Alix Brown"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/478745-nice-as-fuck-mrbs-of-rilo-kiley-au-revoir-simone-the-like-dj-alix-brown-sid-the-cat-auditorium",
+   "ticketUrl": "https://dice.fm/event/wwka7g-nice-as-fk-early-show-16th-oct-sid-the-cat-auditorium-south-pasadena-tickets",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "18:00",
+   "venue": "Sid The Cat Auditorium",
+   "address": "1022 El Centro Street, South Pasadena, CA 91030",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 295,
+   "shortDesc": "Indie / Alt show at Sid The Cat Auditorium · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Spacemoth + Cissi TV",
+   "artists": [
+    "Spacemoth",
+    "Cissi TV"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/477949-spacemoth-cissi-tv-moroccan-lounge",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fkcrw-presents-spacemoth-los-angeles-california-10-16-2026%2Fevent%2F09006506B473A280",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "18:30",
+   "venue": "Moroccan Lounge",
+   "address": "901 E 1st Street, Los Angeles, CA 90012",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "21+",
+   "soldOut": false,
+   "id": 296,
+   "shortDesc": "Indie / Alt show at Moroccan Lounge · 21+ — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Willy Tea Taylor + Matt Axton + Big Harp",
+   "artists": [
+    "Willy Tea Taylor",
+    "Matt Axton",
+    "Big Harp"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/475103-willy-tea-taylor-matt-axton-big-harp-gold-diggers",
+   "ticketUrl": "https://dice.fm/event/bb22gg-willy-tea-taylor-the-fellership-matt-axton-badmoon-big-harp-16th-oct-gold-diggers-los-angeles-tickets",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "19:00",
+   "venue": "Gold-Diggers",
+   "address": "5632 Santa Monica Blvd, Los Angeles, CA 90038",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "21+",
+   "soldOut": false,
+   "id": 297,
+   "shortDesc": "Indie / Alt show at Gold-Diggers · 21+ — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Boy Harsher + True Blue + Kassie Krut",
+   "artists": [
+    "Boy Harsher",
+    "True Blue",
+    "Kassie Krut"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/473121-boy-harsher-true-blue-kassie-krut-hollywood-palladium",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fboy-harsher-hollywood-california-10-16-2026%2Fevent%2F090064C325F30F8A",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "19:00",
+   "venue": "Hollywood Palladium",
+   "address": "6215 Sunset Blvd, Hollywood, CA 90028",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 298,
+   "shortDesc": "Indie / Alt show at Hollywood Palladium · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Skiptrace + Glyss + loophole + Blyth3",
+   "artists": [
+    "Skiptrace",
+    "Glyss",
+    "loophole",
+    "Blyth3"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/478994-skiptrace-glyss-loophole-blyth3-non-plus-ultra",
+   "ticketUrl": "https://consumer.pxf.io/09VKzJ?subID1=la&u=https://www.eventbrite.com/e/skiptrace-glyss-loophole-blyth3-dj-2x2-b2b-dayzofvinyl-tickets-2001026634530?aff=ebdsoporgprofile",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "19:00",
+   "venue": "Non Plus Ultra",
+   "address": ", ,    ",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 299,
+   "shortDesc": "Indie / Alt show at Non Plus Ultra · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "The Beths",
+   "artists": [
+    "The Beths"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474945-the-beths-pappy-harriet-s",
+   "ticketUrl": "https://wl.seetickets.us/event/the-beths-by-request-tour/697467?afflky=pappyandharriets",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "19:00",
+   "venue": "Pappy & Harriet's",
+   "address": "53688 Pioneertown Road, Pioneertown, CA 92268",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 300,
+   "shortDesc": "Indie / Alt show at Pappy & Harriet's · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Lewis OfMan",
+   "artists": [
+    "Lewis OfMan"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/471985-lewis-ofman-teragram-ballroom",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Flewis-ofman-los-angeles-california-10-16-2026%2Fevent%2F090064AE4A252F6B",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "19:00",
+   "venue": "Teragram Ballroom",
+   "address": "1234 West 7th Street, Los Angeles, CA 90017",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 301,
+   "shortDesc": "Indie / Alt show at Teragram Ballroom · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Dinosaur Jr. + Stef Chura",
+   "artists": [
+    "Dinosaur Jr.",
+    "Stef Chura"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474570-dinosaur-jr-stef-chura-the-bellwether",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fevent%2F090064D9F0893261%3Fcamefrom%3DCFC_THEBELLWETHER_web%26brand%3Dthebellwether",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "19:00",
+   "venue": "The Bellwether",
+   "address": "333 S. Boylston Street, Los Angeles, CA 90025",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 302,
+   "shortDesc": "Indie / Alt show at The Bellwether · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "The Aquabats",
+   "artists": [
+    "The Aquabats"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/475250-the-aquabats-the-glass-house",
+   "ticketUrl": "https://dice.fm/event/eoxbx6-the-aquabats-trick-or-treat-to-the-beat-16th-oct-the-glass-house-pomona-tickets",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "19:00",
+   "venue": "The Glass House",
+   "address": "200 W Second Street, Pomona, CA 91766",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 303,
+   "shortDesc": "Indie / Alt show at The Glass House · All Ages — via Oh My Rockness"
   },
   {
    "source": "lafunevents",
@@ -8820,8 +8470,63 @@
    "genres": [],
    "description": "Join Local Singles for the Biggest Singles Party in North Hollywood!",
    "soldOut": false,
-   "id": 318,
+   "id": 304,
    "shortDesc": "Join Local Singles for the Biggest Singles Party in North Hollywood! — via LA Fun Events"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Miley",
+   "artists": [
+    "Miley"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/478274-miley-hollywood-bowl",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fmiley-bass-persuades-live-at-the-hollywood-california-10-16-2026%2Fevent%2F0B00651CAD82598A",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "19:30",
+   "venue": "Hollywood Bowl",
+   "address": "2301 North Highland Ave., Los Angeles, CA 90078",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 305,
+   "shortDesc": "Indie / Alt show at Hollywood Bowl · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Moselle + Candi Carpenter",
+   "artists": [
+    "Moselle",
+    "Candi Carpenter"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/477109-moselle-candi-carpenter-scribble",
+   "ticketUrl": "https://dice.fm/event/yod3bx-moselle-candi-carpenter-16th-oct-scribble-los-angeles-tickets",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "19:30",
+   "venue": "Scribble",
+   "address": "5541 York Boulevard, Los Angeles,    90042",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 306,
+   "shortDesc": "Indie / Alt show at Scribble · All Ages — via Oh My Rockness"
   },
   {
    "source": "capucla",
@@ -8845,8 +8550,252 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 319,
+   "id": 307,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Marisa Anderson",
+   "artists": [
+    "Marisa Anderson"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/474513-marisa-anderson-2220-arts-archives",
+   "ticketUrl": "https://dice.fm/event/k6le39-marisa-anderson-the-anthology-of-unamerican-folk-music-16th-oct-2220-arts-archives-los-angeles-tickets",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "20:00",
+   "venue": "2220 Arts + Archives",
+   "address": "2220 Beverly Boulevard, Los Angeles, CA 90057",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "21+",
+   "soldOut": false,
+   "id": 308,
+   "shortDesc": "Indie / Alt show at 2220 Arts + Archives · 21+ — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Tinzo + Jojo",
+   "artists": [
+    "Tinzo + Jojo"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/473095-tinzo-jojo-don-quixote",
+   "ticketUrl": "https://www.axs.com/events/1461498/tinzo-jojo-tickets",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "20:00",
+   "venue": "Don Quixote",
+   "address": "2811 E Olympic Blvd, Los Angeles, CA 90023",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 309,
+   "shortDesc": "Indie / Alt show at Don Quixote · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Akeem Ali",
+   "artists": [
+    "Akeem Ali"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/475532-akeem-ali-echoplex",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fakeem-ali-the-texture-tour-los-angeles-california-10-16-2026%2Fevent%2F0900647A0F0A5656",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "20:00",
+   "venue": "Echoplex",
+   "address": "1154 Glendale Blvd, Los Angeles, CA 90026",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 310,
+   "shortDesc": "Indie / Alt show at Echoplex · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Kelsey Lu",
+   "artists": [
+    "Kelsey Lu"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/473063-kelsey-lu-el-rey-theatre",
+   "ticketUrl": "https://www.axs.com/events/1477935/kelsey-lu-tickets",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "20:00",
+   "venue": "El Rey Theatre",
+   "address": "5515 Wilshire Blvd., Los Angeles, CA 90036",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 311,
+   "shortDesc": "Indie / Alt show at El Rey Theatre · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "MICO",
+   "artists": [
+    "MICO"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/471893-mico-fonda-theatre",
+   "ticketUrl": "https://www.axs.com/events/1450886/mico-tickets",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "20:00",
+   "venue": "Fonda Theatre",
+   "address": "6126 Hollywood Boulevard, Los Angeles, CA 90028",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 312,
+   "shortDesc": "Indie / Alt show at Fonda Theatre · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Miami Horror + Alice Ivy",
+   "artists": [
+    "Miami Horror",
+    "Alice Ivy"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/473527-miami-horror-alice-ivy-pacific-electric",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fmiami-horror-los-angeles-california-10-16-2026%2Fevent%2F090064C9C27C17B1",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "20:00",
+   "venue": "Pacific Electric",
+   "address": "1729 Naud Street, Los Angeles, CA 90012",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 313,
+   "shortDesc": "Indie / Alt show at Pacific Electric · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "The Vigodas (ft. Conan O'Brien)",
+   "artists": [
+    "The Vigodas (ft. Conan O'Brien)"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/479159-the-vigodas-ft-conan-o-brien-pappy-harriet-s",
+   "ticketUrl": "https://wl.seetickets.us/event/conan-obrien-and-the-vigodas/704352?afflky=pappyandharriets",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "20:00",
+   "venue": "Pappy & Harriet's",
+   "address": "53688 Pioneertown Road, Pioneertown, CA 92268",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 314,
+   "shortDesc": "Indie / Alt show at Pappy & Harriet's · All Ages — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Prospa",
+   "artists": [
+    "Prospa"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/473068-prospa-shrine-expo-hall",
+   "ticketUrl": "https://www.axs.com/events/1303213/prospa-present-prophecy-tickets",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "20:00",
+   "venue": "Shrine Expo Hall",
+   "address": "655 W Jefferson Blvd., Los Angeles, CA 90007",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "18+",
+   "soldOut": false,
+   "id": 315,
+   "shortDesc": "Indie / Alt show at Shrine Expo Hall · 18+ — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Syd Taylor",
+   "artists": [
+    "Syd Taylor"
+   ],
+   "url": "http://ohmyrockness.com/shows/475518-syd-taylor-the-echo",
+   "ticketUrl": "https://ticketmaster.evyy.net/c/255026/264167/4272?subId1=la&u=https%3A%2F%2Fwww.ticketmaster.com%2Fsyd-taylor-los-angeles-california-10-16-2026%2Fevent%2F0900647A1FC37E24",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "20:00",
+   "venue": "The Echo",
+   "address": "1822 Sunset Blvd., Echo Park, CA 90026",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "All Ages",
+   "soldOut": false,
+   "id": 316,
+   "shortDesc": "Indie / Alt show at The Echo · All Ages — via Oh My Rockness"
   },
   {
    "source": "eventbrite",
@@ -8868,8 +8817,64 @@
    "genres": [],
    "description": "We’re excited to welcome Catina DeLuna & Otmaro Ruiz to Motivo for the October edition of the Creative Music Series.",
    "soldOut": false,
-   "id": 320,
+   "id": 317,
    "shortDesc": "We’re excited to welcome Catina DeLuna & Otmaro Ruiz to Motivo for the October edition of the Creative Music… — via Eventbrite"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Whipped Cream",
+   "artists": [
+    "Whipped Cream"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/472719-whipped-cream-los-globos",
+   "ticketUrl": "https://dice.fm/event/bboqrm-bl-presents-whipped-cream-at-double-cross-la-16th-oct-los-globos-los-angeles-tickets",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "21:00",
+   "venue": "Los Globos",
+   "address": "3040 W Sunset Boulevard, Los Angeles, CA 90029",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "18+",
+   "soldOut": false,
+   "id": 318,
+   "shortDesc": "Indie / Alt show at Los Globos · 18+ — via Oh My Rockness"
+  },
+  {
+   "source": "ohmyrockness",
+   "sourceLabel": "Oh My Rockness",
+   "org": null,
+   "title": "Cruise Control + Candle + The Century",
+   "artists": [
+    "Cruise Control",
+    "Candle",
+    "The Century"
+   ],
+   "url": "https://losangeles.ohmyrockness.com/shows/478264-cruise-control-candle-the-century-permanent-records-roadhouse",
+   "ticketUrl": "https://app.opendate.io/e/cruise-control-candle-the-century-october-16-2026-745667",
+   "imageUrl": null,
+   "date": "2026-10-16",
+   "time": "21:00",
+   "venue": "Permanent Records Roadhouse",
+   "address": "1906 Cypress Ave, Los Angeles, CA 90065",
+   "isFree": null,
+   "priceText": "",
+   "category": "music",
+   "subcategory": null,
+   "genres": [
+    "Indie / Alt"
+   ],
+   "description": "21+",
+   "soldOut": false,
+   "id": 319,
+   "shortDesc": "Indie / Alt show at Permanent Records Roadhouse · 21+ — via Oh My Rockness"
   },
   {
    "source": "eventbrite",
@@ -8891,7 +8896,7 @@
    "genres": [],
    "description": "Dive into the architecture of Paul R. Williams with an interactive drawing workshop.",
    "soldOut": false,
-   "id": 321,
+   "id": 320,
    "shortDesc": "Dive into the architecture of Paul R. Williams with an interactive drawing workshop. — via Eventbrite"
   },
   {
@@ -8914,7 +8919,7 @@
    "genres": [],
    "description": "Storybook Theatre celebrates its 43rd year of entertaining children with this magical production.",
    "soldOut": false,
-   "id": 322,
+   "id": 321,
    "shortDesc": "Storybook Theatre celebrates its 43rd year of entertaining children with this magical production. — via Eventbrite"
   },
   {
@@ -8940,7 +8945,7 @@
    ],
    "description": "Join us on the Visionarium Rooftop for an unforgettable evening of live music with Noz Toka!",
    "soldOut": false,
-   "id": 323,
+   "id": 322,
    "shortDesc": "Join us on the Visionarium Rooftop for an unforgettable evening of live music with Noz Toka! — via Eventbrite"
   },
   {
@@ -8965,7 +8970,7 @@
    ],
    "description": "Bino Rideaux celebrates the release of his new album PROLIFIC with a special live performance at Catwalk Club LA on Friday, August 14.",
    "soldOut": false,
-   "id": 324,
+   "id": 323,
    "shortDesc": "Bino Rideaux celebrates the release of his new album PROLIFIC with a special live performance at Catwalk Club… — via Eventbrite"
   },
   {
@@ -8992,7 +8997,7 @@
    ],
    "description": "South Bay party band Shabingus brings high-energy 90s & 2000s rock, punk, and grunge covers to Mom Said Yes Pizza in Torrance.",
    "soldOut": false,
-   "id": 325,
+   "id": 324,
    "shortDesc": "South Bay party band Shabingus brings high-energy 90s & 2000s rock, punk, and grunge covers to Mom Said Yes… — via Eventbrite"
   },
   {
@@ -9015,7 +9020,7 @@
    "genres": [],
    "description": "RiverOaks Annual Chorus",
    "soldOut": false,
-   "id": 326,
+   "id": 325,
    "shortDesc": "RiverOaks Annual Chorus — via Eventbrite"
   },
   {
@@ -9038,7 +9043,7 @@
    "genres": [],
    "description": "Anton Lirnik brings his new stand-up show to LA—one unforgettable night of hilarious stories, sharp humor, and nonstop laughs!",
    "soldOut": false,
-   "id": 327,
+   "id": 326,
    "shortDesc": "Anton Lirnik brings his new stand-up show to LA—one unforgettable night of hilarious stories, sharp humor… — via Eventbrite"
   },
   {
@@ -9061,7 +9066,7 @@
    "genres": [],
    "description": "Writers Bloc presents Eric Idle and \"Weird Al\" Yankovic in conversation and in concert! Not to be missed.",
    "soldOut": false,
-   "id": 328,
+   "id": 327,
    "shortDesc": "Writers Bloc presents Eric Idle and \"Weird Al\" Yankovic in conversation and in concert! Not to be missed. — via Eventbrite"
   },
   {
@@ -9086,7 +9091,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 329,
+   "id": 328,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -9109,7 +9114,7 @@
    "genres": [],
    "description": "Soulful live music from Brent George at Mom Said Yes Pizza in Torrance. Great vibes, NY-style pizza & craft cocktails. Standing room only.",
    "soldOut": false,
-   "id": 330,
+   "id": 329,
    "shortDesc": "Soulful live music from Brent George at Mom Said Yes Pizza in Torrance. Great vibes, NY-style pizza & craft… — via Eventbrite"
   },
   {
@@ -9134,7 +9139,7 @@
    ],
    "description": "I Love Funk Festival in Downtown Los Angeles at Pershing Square on Saturday, October 24th!",
    "soldOut": false,
-   "id": 331,
+   "id": 330,
    "shortDesc": "I Love Funk Festival in Downtown Los Angeles at Pershing Square on Saturday, October 24th! — via Eventbrite"
   },
   {
@@ -9157,7 +9162,7 @@
    "genres": [],
    "description": "An evening celebrating and remembering the world's best-selling album of all time, benefiting the Heal Los Angeles Foundation.",
    "soldOut": false,
-   "id": 332,
+   "id": 331,
    "shortDesc": "An evening celebrating and remembering the world's best-selling album of all time, benefiting the Heal Los… — via Eventbrite"
   },
   {
@@ -9180,7 +9185,7 @@
    "genres": [],
    "description": "Witness the battle! Cheer for the Performers in 5 Categories. Socialize with Dancers. Feel the energy. Hit the floor & Dance the Night Away!",
    "soldOut": false,
-   "id": 333,
+   "id": 332,
    "shortDesc": "Witness the battle! Cheer for the Performers in 5 Categories. Socialize with Dancers. Feel the energy. Hit… — via Eventbrite"
   },
   {
@@ -9205,7 +9210,7 @@
    ],
    "description": "APAC Presents: Sheng-Ching Hsu performs live violin works. Free with RSVP, optional donation, plus appetizers and beverages.",
    "soldOut": false,
-   "id": 334,
+   "id": 333,
    "shortDesc": "APAC Presents: Sheng-Ching Hsu performs live violin works. Free with RSVP, optional donation, plus appetizers… — via Eventbrite"
   },
   {
@@ -9231,7 +9236,7 @@
    ],
    "description": "Join us on the Visionarium Rooftop as Alberto Dal Pino & Deb Ryder return for another unforgettable evening of live music!",
    "soldOut": false,
-   "id": 335,
+   "id": 334,
    "shortDesc": "Join us on the Visionarium Rooftop as Alberto Dal Pino & Deb Ryder return for another unforgettable evening… — via Eventbrite"
   },
   {
@@ -9254,7 +9259,7 @@
    "genres": [],
    "description": "Seasons of Hope: Celebrating 250 Year of Religions Freedom Stake Interfaith Choir Concert",
    "soldOut": false,
-   "id": 336,
+   "id": 335,
    "shortDesc": "Seasons of Hope: Celebrating 250 Year of Religions Freedom Stake Interfaith Choir Concert — via Eventbrite"
   },
   {
@@ -9279,7 +9284,7 @@
    ],
    "description": "Get your spook on with killer tunes, a wild costume showdown, and a chance to win a sweet guitar raffle!",
    "soldOut": false,
-   "id": 337,
+   "id": 336,
    "shortDesc": "Get your spook on with killer tunes, a wild costume showdown, and a chance to win a sweet guitar raffle! — via Eventbrite"
   },
   {
@@ -9305,7 +9310,7 @@
    ],
    "description": "HALLOWEEN SKA FEST. 7+ BANDS. 2 STAGES. OUTDOOR MARKET + HAUNTED HOUSE. 18+",
    "soldOut": false,
-   "id": 338,
+   "id": 337,
    "shortDesc": "HALLOWEEN SKA FEST. 7+ BANDS. 2 STAGES. OUTDOOR MARKET + HAUNTED HOUSE. 18+ — via Eventbrite"
   },
   {
@@ -9330,7 +9335,7 @@
    ],
    "description": "Join us for an unforgettable evening of the iconic film music of the legendary composer Ennio Morricone.",
    "soldOut": false,
-   "id": 339,
+   "id": 338,
    "shortDesc": "Join us for an unforgettable evening of the iconic film music of the legendary composer Ennio Morricone. — via Eventbrite"
   },
   {
@@ -9355,7 +9360,7 @@
    "genres": [],
    "description": "Screening",
    "soldOut": false,
-   "id": 340,
+   "id": 339,
    "shortDesc": "Screening at The Nimoy — via CAP UCLA"
   },
   {
@@ -9378,7 +9383,7 @@
    "genres": [],
    "description": "Nuthin But Funny is a Monthly Saturday afternoon Comedy Show Comedy Meets Day Party! Line Up DONNIVIN JORDAN , BRANDON WILEY,. CHRIS SNEED",
    "soldOut": false,
-   "id": 341,
+   "id": 340,
    "shortDesc": "Nuthin But Funny is a Monthly Saturday afternoon Comedy Show Comedy Meets Day Party! Line Up DONNIVIN JORDAN… — via Eventbrite"
   },
   {
@@ -9401,7 +9406,7 @@
    "genres": [],
    "description": "Slanguage Poetry Show {HALLOWEEN COSTUME OPEN MIC EDITION}. Come check out great poetry & fun energy! You can perform or enjoy the night.",
    "soldOut": false,
-   "id": 342,
+   "id": 341,
    "shortDesc": "Slanguage Poetry Show {HALLOWEEN COSTUME OPEN MIC EDITION}. Come check out great poetry & fun energy! You can… — via Eventbrite"
   },
   {
@@ -9426,7 +9431,7 @@
    ],
    "description": "Join Us Saturday October 31st For LA's Biggest And Most Thrilling Halloween Costume Party!",
    "soldOut": false,
-   "id": 343,
+   "id": 342,
    "shortDesc": "Join Us Saturday October 31st For LA's Biggest And Most Thrilling Halloween Costume Party! — via Eventbrite"
   },
   {
@@ -9449,7 +9454,7 @@
    "genres": [],
    "description": "Join us for a Halloween Edition tribute to Michael Jackson, by the talented REMJ - it's gonna be a day to remember! 21 and over.",
    "soldOut": false,
-   "id": 344,
+   "id": 343,
    "shortDesc": "Join us for a Halloween Edition tribute to Michael Jackson, by the talented REMJ - it's gonna be a day to… — via Eventbrite"
   },
   {
@@ -9472,7 +9477,7 @@
    "genres": [],
    "description": "Baroque Meets Romantic Classics will feature Respighi and Brahms and cellist Maksim Velichkin performs Vivaldi and J. S. Bach.",
    "soldOut": false,
-   "id": 345,
+   "id": 344,
    "shortDesc": "Baroque Meets Romantic Classics will feature Respighi and Brahms and cellist Maksim Velichkin performs… — via Eventbrite"
   },
   {
@@ -9495,7 +9500,7 @@
    "genres": [],
    "description": "Get ready to watch the ballroom dance industry's elite professional dancers at the LA Dance Festival!",
    "soldOut": false,
-   "id": 346,
+   "id": 345,
    "shortDesc": "Get ready to watch the ballroom dance industry's elite professional dancers at the LA Dance Festival! — via Eventbrite"
   },
   {
@@ -9523,7 +9528,7 @@
    "genres": [],
    "description": "This is the singles night the South Bay has been waiting for.\n\n🎟️ Grab your ticket before the crowd gets packed.",
    "soldOut": false,
-   "id": 347,
+   "id": 346,
    "shortDesc": "This is the singles night the South Bay has been waiting for. 🎟️ Grab your ticket before the crowd gets… — via LA Fun Events"
   },
   {
@@ -9546,7 +9551,7 @@
    "genres": [],
    "description": "Join us for an enchanting evening of orchestral masterpieces with our acclaimed ensemble.",
    "soldOut": false,
-   "id": 348,
+   "id": 347,
    "shortDesc": "Join us for an enchanting evening of orchestral masterpieces with our acclaimed ensemble. — via Eventbrite"
   },
   {
@@ -9571,7 +9576,7 @@
    ],
    "description": "An engaging performance that invites you to listen with deeper attention to some of classical music's powerful melodies.",
    "soldOut": false,
-   "id": 349,
+   "id": 348,
    "shortDesc": "An engaging performance that invites you to listen with deeper attention to some of classical music's… — via Eventbrite"
   },
   {
@@ -9596,7 +9601,7 @@
    ],
    "description": "Mixmag LAB is recording live in L.A. with Sam Divine",
    "soldOut": false,
-   "id": 350,
+   "id": 349,
    "shortDesc": "Mixmag LAB is recording live in L.A. with Sam Divine — via Eventbrite"
   },
   {
@@ -9624,7 +9629,7 @@
    "genres": [],
    "description": "🕵️‍♀️💘 Can you solve the mystery before someone steals your heart? 🔎🍻",
    "soldOut": false,
-   "id": 351,
+   "id": 350,
    "shortDesc": "🕵️‍♀️💘 Can you solve the mystery before someone steals your heart? 🔎🍻 — via LA Fun Events"
   },
   {
@@ -9647,7 +9652,7 @@
    "genres": [],
    "description": "by Frederico García Lorca. Translated by Lillian Groag.",
    "soldOut": false,
-   "id": 352,
+   "id": 351,
    "shortDesc": "by Frederico García Lorca. Translated by Lillian Groag. — via Eventbrite"
   },
   {
@@ -9674,7 +9679,7 @@
    ],
    "description": "Live performance",
    "soldOut": false,
-   "id": 353,
+   "id": 352,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -9699,7 +9704,7 @@
    "genres": [],
    "description": "K–12 programs",
    "soldOut": false,
-   "id": 354,
+   "id": 353,
    "shortDesc": "K–12 programs at Royce Hall — via CAP UCLA"
   },
   {
@@ -9724,7 +9729,7 @@
    ],
    "description": "The Music Department Presents: Bridge Orchestra",
    "soldOut": false,
-   "id": 355,
+   "id": 354,
    "shortDesc": "The Music Department Presents: Bridge Orchestra — via Eventbrite"
   },
   {
@@ -9749,7 +9754,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 356,
+   "id": 355,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -9772,7 +9777,7 @@
    "genres": [],
    "description": "Jean & Alex Live in Concert!",
    "soldOut": false,
-   "id": 357,
+   "id": 356,
    "shortDesc": "Jean & Alex Live in Concert! — via Eventbrite"
   },
   {
@@ -9795,7 +9800,7 @@
    "genres": [],
    "description": "The Experimentals are back again with an evening of improvised comedy!",
    "soldOut": false,
-   "id": 358,
+   "id": 357,
    "shortDesc": "The Experimentals are back again with an evening of improvised comedy! — via Eventbrite"
   },
   {
@@ -9820,7 +9825,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 359,
+   "id": 358,
    "shortDesc": "Live performance at Royce Hall — via CAP UCLA"
   },
   {
@@ -9845,7 +9850,7 @@
    ],
    "description": "The band OURS returns to celebrate the 25th anniversary of “Distorted Lullabies” with their fans! Released on vinyl for the very first time!",
    "soldOut": false,
-   "id": 360,
+   "id": 359,
    "shortDesc": "The band OURS returns to celebrate the 25th anniversary of “Distorted Lullabies” with their fans! Released on… — via Eventbrite"
   },
   {
@@ -9870,7 +9875,7 @@
    ],
    "description": "Get ready for a night of unforgettable tunes and dreamy classical music by LA Dream Orchestra and Daniel Suk, conductor",
    "soldOut": false,
-   "id": 361,
+   "id": 360,
    "shortDesc": "Get ready for a night of unforgettable tunes and dreamy classical music by LA Dream Orchestra and Daniel Suk… — via Eventbrite"
   },
   {
@@ -9897,7 +9902,7 @@
    ],
    "description": "Live performance",
    "soldOut": false,
-   "id": 362,
+   "id": 361,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -9922,7 +9927,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 363,
+   "id": 362,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -9947,7 +9952,7 @@
    ],
    "description": "Maestro Adel Eskander brings you the most prolific singers and musicians for an unforgettable night of music from Egypt and beyond.",
    "soldOut": false,
-   "id": 364,
+   "id": 363,
    "shortDesc": "Maestro Adel Eskander brings you the most prolific singers and musicians for an unforgettable night of music… — via Eventbrite"
   },
   {
@@ -9970,7 +9975,7 @@
    "genres": [],
    "description": "Celebrate the season with Winterfest, a festive evening of theatre featuring two holiday-themed one-act plays.",
    "soldOut": false,
-   "id": 365,
+   "id": 364,
    "shortDesc": "Celebrate the season with Winterfest, a festive evening of theatre featuring two holiday-themed one-act plays. — via Eventbrite"
   },
   {
@@ -9995,7 +10000,7 @@
    "genres": [],
    "description": "Screening",
    "soldOut": false,
-   "id": 366,
+   "id": 365,
    "shortDesc": "Screening at The Nimoy — via CAP UCLA"
   },
   {
@@ -10020,7 +10025,7 @@
    ],
    "description": "Join us for a festive afternoon of holiday tunes and patriotic vibes as we celebrate Christmas Joy and America 250!",
    "soldOut": false,
-   "id": 367,
+   "id": 366,
    "shortDesc": "Join us for a festive afternoon of holiday tunes and patriotic vibes as we celebrate Christmas Joy and… — via Eventbrite"
   },
   {
@@ -10045,7 +10050,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 368,
+   "id": 367,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -10068,7 +10073,7 @@
    "genres": [],
    "description": "APAC Presents: The New Randy Van Horne Singers – Holiday Concert Free Sing-A-Long, Optional Donation, Appetizers and Beverages",
    "soldOut": false,
-   "id": 369,
+   "id": 368,
    "shortDesc": "APAC Presents: The New Randy Van Horne Singers – Holiday Concert Free Sing-A-Long, Optional Donation… — via Eventbrite"
   },
   {
@@ -10093,7 +10098,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 370,
+   "id": 369,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -10118,7 +10123,7 @@
    "genres": [],
    "description": "K–12 programs",
    "soldOut": false,
-   "id": 371,
+   "id": 370,
    "shortDesc": "K–12 programs at The Nimoy — via CAP UCLA"
   },
   {
@@ -10141,7 +10146,7 @@
    "genres": [],
    "description": "In honor of Rev. Dr. Martin Luther King Jr.",
    "soldOut": false,
-   "id": 372,
+   "id": 371,
    "shortDesc": "In honor of Rev. Dr. Martin Luther King Jr. — via Eventbrite"
   },
   {
@@ -10166,7 +10171,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 373,
+   "id": 372,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -10191,7 +10196,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 374,
+   "id": 373,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -10214,7 +10219,7 @@
    "genres": [],
    "description": "Showcasing the talents of students in beginning, intermediate, and advanced theatre. Enjoy a night of intimate theatre of songs and scenes.",
    "soldOut": false,
-   "id": 375,
+   "id": 374,
    "shortDesc": "Showcasing the talents of students in beginning, intermediate, and advanced theatre. Enjoy a night of… — via Eventbrite"
   },
   {
@@ -10237,7 +10242,7 @@
    "genres": [],
    "description": "Join us for an enchanting evening of orchestral and operatic masterpieces with our acclaimed ensemble and guest soloists.",
    "soldOut": false,
-   "id": 376,
+   "id": 375,
    "shortDesc": "Join us for an enchanting evening of orchestral and operatic masterpieces with our acclaimed ensemble and… — via Eventbrite"
   },
   {
@@ -10262,7 +10267,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 377,
+   "id": 376,
    "shortDesc": "Live performance at Freud Playhouse — via CAP UCLA"
   },
   {
@@ -10287,7 +10292,7 @@
    "genres": [],
    "description": "K–12 programs",
    "soldOut": false,
-   "id": 378,
+   "id": 377,
    "shortDesc": "K–12 programs at Freud Playhouse — via CAP UCLA"
   },
   {
@@ -10310,7 +10315,7 @@
    "genres": [],
    "description": "A playful father-and-son performance celebrating the absurd, the useless, and the poetic pleasures of everyday life through humor and word.",
    "soldOut": false,
-   "id": 379,
+   "id": 378,
    "shortDesc": "A playful father-and-son performance celebrating the absurd, the useless, and the poetic pleasures of… — via Eventbrite"
   },
   {
@@ -10335,7 +10340,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 380,
+   "id": 379,
    "shortDesc": "Live performance at Freud Playhouse — via CAP UCLA"
   },
   {
@@ -10360,7 +10365,7 @@
    "genres": [],
    "description": "K–12 programs",
    "soldOut": false,
-   "id": 381,
+   "id": 380,
    "shortDesc": "K–12 programs at The Nimoy — via CAP UCLA"
   },
   {
@@ -10385,7 +10390,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 382,
+   "id": 381,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -10410,7 +10415,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 383,
+   "id": 382,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -10435,7 +10440,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 384,
+   "id": 383,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -10460,7 +10465,7 @@
    ],
    "description": "Internationally acclaimed pianist Nadejda Vlaeva brings her Fire, Fate and Forgotten Worlds Concert to the stage in NoHo",
    "soldOut": false,
-   "id": 385,
+   "id": 384,
    "shortDesc": "Internationally acclaimed pianist Nadejda Vlaeva brings her Fire, Fate and Forgotten Worlds Concert to the… — via Eventbrite"
   },
   {
@@ -10485,7 +10490,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 386,
+   "id": 385,
    "shortDesc": "Live performance at Royce Hall — via CAP UCLA"
   },
   {
@@ -10510,7 +10515,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 387,
+   "id": 386,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -10535,7 +10540,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 388,
+   "id": 387,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -10560,7 +10565,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 389,
+   "id": 388,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -10585,7 +10590,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 390,
+   "id": 389,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -10610,7 +10615,7 @@
    "genres": [],
    "description": "K–12 programs",
    "soldOut": false,
-   "id": 391,
+   "id": 390,
    "shortDesc": "K–12 programs — via CAP UCLA"
   },
   {
@@ -10635,7 +10640,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 392,
+   "id": 391,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -10660,7 +10665,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 393,
+   "id": 392,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -10683,7 +10688,7 @@
    "genres": [],
    "description": "Cinema’s symphonic power takes center stage, from Korngold’s luminous Violin Concerto to iconic Hollywood scores.",
    "soldOut": false,
-   "id": 394,
+   "id": 393,
    "shortDesc": "Cinema’s symphonic power takes center stage, from Korngold’s luminous Violin Concerto to iconic Hollywood… — via Eventbrite"
   },
   {
@@ -10708,7 +10713,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 395,
+   "id": 394,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -10733,7 +10738,7 @@
    "genres": [],
    "description": "Live performance",
    "soldOut": false,
-   "id": 396,
+   "id": 395,
    "shortDesc": "Live performance at The Nimoy — via CAP UCLA"
   },
   {
@@ -10756,7 +10761,7 @@
    "genres": [],
    "description": "Pack a picnic with friends/family and enjoy an enchanting evening of orchestral music under the stars at Bellflower Caruthers Park!",
    "soldOut": false,
-   "id": 397,
+   "id": 396,
    "shortDesc": "Pack a picnic with friends/family and enjoy an enchanting evening of orchestral music under the stars at… — via Eventbrite"
   },
   {
@@ -10779,7 +10784,7 @@
    "genres": [],
    "description": "Experience an elegant evening of dinner, live performances, prestigious awards, networking, and unforgettable memories.",
    "soldOut": false,
-   "id": 398,
+   "id": 397,
    "shortDesc": "Experience an elegant evening of dinner, live performances, prestigious awards, networking, and unforgettable… — via Eventbrite"
   },
   {
@@ -10802,7 +10807,7 @@
    "genres": [],
    "description": "Open Your Mic is an all inclusive artistic showcase for poets, spoken word artists, singers, rappers, comedians, dancers and more.",
    "soldOut": false,
-   "id": 399,
+   "id": 398,
    "shortDesc": "Open Your Mic is an all inclusive artistic showcase for poets, spoken word artists, singers, rappers… — via Eventbrite"
   }
  ]
